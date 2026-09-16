@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cart-sim"
+version = "0.1.0"
+description = "Reference sequence checks and exploratory CD19 CAR-T simulation"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["cart_sim", "constructs"]
+
+[tool.setuptools.package-dir]
+cart_sim = "simulator/cart_sim"
+constructs = "constructs"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+exclude = [".private"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.ruff.lint.per-file-ignores]
+"simulator/*.py" = ["E402"]
+"simulator/diagnostics/*.py" = ["E402"]
