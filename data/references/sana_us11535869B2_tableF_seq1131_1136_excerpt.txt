@@ -1,0 +1,202 @@
+Raw Table F markdown rows for SEQ ID NO 1131-1136 (US11535869B2). Retrieved 2026-09-16 from cached Google Patents scrape.
+
+ain, and CD3ζ signaling domain.
+
+In some embodiments, the polycistronic vector comprises an expression cassette that contains a nucleotide sequence encoding a CD19 CAR as set forth in SEQ ID NO: 1131, 1133, or 1135, or is at least 80% identical (e.g., at least 80%, at least 85%, at least 90%, at least 95%, at least 96%, at least 97%, at least 98%, at least 99%, or 100% identical) to the nucleotide sequence set forth in SEQ ID NO: 1131, 1133, or 1135. The encoded CD19 CAR has a corresponding amino acid sequence set forth in SEQ ID NO: 1132, 1134, or 1136, respectively, or is at least 80% identical (e.g., at least 80%, at least 85%, at least 90%, at least 95%, at least 96%, at least 97%, at least 98%, at least 99%, or 100% identical) to the amino acid sequence set forth in of SEQ ID NO: 1132, 1134, or 1136, respectively.
+
+| TABLE F |
+| --- |
+|  |
+| Exemplary sequences of CD19 CARs |
+
+|     |     |     |
+| --- | --- | --- |
+| SEQ ID NO: | Sequence | Description |
+|  |
+| 1216 | atggccttaccagtgaccgccttgctcctgccgctggcctt- | Exemplary CD19 |
+|  | gctgctccac- | CAR nucleotide |
+|  | gccgccaggccggacatccagatgacacagactacatc | sequence |
+|  | ctccctgtctgcctctctgggagacagagtcaccatcagtt- |  |
+|  | gcagggcaagtcaggacatt- |  |
+|  | agtaaatatttaaattggtatcagcagaaaccagatggaa |  |
+|  | ctgttaaactcctgatctaccatacatcaagattacactcag- |  |
+|  | gagtcccatcaaggttcag- |  |
+|  | tggcagtgggtctggaacagattattctctcaccattagcaa |  |
+|  | cctggagcaagaagatattgccacttactttt- |  |
+|  | gccaacagggtaatacgcttccgtacac- |  |
+|  | gttcggaggggggaccaagctggagatcacaggctcca |  |
+|  | cctctggatccggcaagcccg- |  |
+|  | gatctggcgagggatccaccaagggcgaggtgaaactg- |  |
+|  | cag- |  |
+|  | gagtcaggacctggcctggtggcgccctcacagagcctgt |  |
+|  | ccgtcacatgcactgtctcaggggtctcattacccgac- |  |
+|  | tatggtgtaagctggat- |  |
+|  | tcgccagcctccacgaaagggtctggagtggctgggagt |  |
+|  | aatatggggtagtgaaaccacatacta- |  |
+|  | taattcagctctcaaatccagactgac- |  |
+|  | catcatcaaggacaactccaagagccaagttttcttaaaa |  |
+|  | atgaacagtctg- |  |
+|  | caaactgatgacacagccatttactactgtgccaaacattat |  |
+|  | tactacggtggtagctatgctatggac- |  |
+|  | tactggggccaaggaacctcagtcac- |  |
+|  | cgtctcctcaaccacgacgccagcgccgcgaccaccaa |  |
+|  | caccggcgcccaccatcgcgtcg- |  |
+|  | cagcccctgtccctgcgcccagaggcgtgccggccagcg |  |
+|  | gcggggggcgcagtgcacacgagggggctg- |  |
+|  | gacttcgcctgtga- |  |
+|  | tatctacatctgggcgcccttggccgggacttgtggggtcctt |  |
+|  | ctcctgtcactggttatcaccctttactgcaaacgggg- |  |
+|  | cagaaagaaactcctgtata- |  |
+|  | tattcaaacaaccatttatgagaccagtacaaactactcaa |  |
+|  | gaggaagatggctgtagctgccgatttccagaagaa- |  |
+|  | gaagaaggaggatgtgaactgagag- |  |
+|  | tgaagttcagcaggagcgcagacgcccccgcgtaccag |  |
+|  | cagggccagaaccagctctataacgagctcaatctag- |  |
+|  | gacgaagagaggagtacgatgtttt- |  |
+|  | ggacaagagacgtggccgggaccctgagatgggggga |  |
+|  | aagccgagaaggaagaaccctcaggaaggcctg- |  |
+|  | tacaatgaactgcagaaagataa- |  |
+|  | gatggcggaggcctacagtgagattgggatgaaaggcg |  |
+|  | agcgccggaggggcaaggggcacgatggcctttac- |  |
+|  | cagggtctcagtacagccac- |  |
+|  | caaggacacctacgacgcccttcacatgcaggccctgcc |  |
+|  | ccctcgc |  |
+|  |
+| 1217 | MAL- | Exemplary CD19 |
+|  | PVTALLLPLALLLHAARPDIQMTQTTSSLS | CAR amino acid |
+|  | ASLGDRVTISCRASQDISKY- | sequence |
+|  | LNWYQQKPDGTVKLLI- |  |
+|  | YHTSRLHSGVPSRFSGSGSGTDYS- |  |
+|  | LTISNLEQEDIATYFCQQGNTLPYTFGGGT |  |
+|  | KLEITGSTSGSGKPGSGEGSTKGEV- |  |
+|  | KLQESGPGLVAP- |  |
+|  | SQSLSVTCTVSGVSLPDY- |  |
+|  | GVSWIRQPPRKGLEWLGVIWGSETTYYN |  |
+|  | SALKSRLTIIKDNSKSQVFLKMNSLQTDD- |  |
+|  | TAIYYCAKHYYYGGSYAMDYWGQGTSVT |  |
+|  | VSSTTTPAPRPPTPAPTI- |  |
+|  | ASQPLSLRPEACRPAAGGAVHTRGLD- |  |
+|  | FACDIYIWAPLAG- |  |
+|  | TCGVLLLSLVITLYCKRGRKKLLYIFKQPFM |  |
+|  | RPVQTTQEEDGCSCRFPEEEE- |  |
+|  | GGCELRVKFSRSADAPA- |  |
+|  | YQQGQNQLYNELNLGR- |  |
+|  | REEYDVLDKRRGRDPEMGGKPRRKNPQ |  |
+|  | EGLYNEL- |  |
+|  | QKDKMAEAYSEIGMKGERRRGKGH- |  |
+|  | DGLYQGLSTATKDTYDALHMQALPPR |  |
+|  |
+| 1231 | DIQMTQTTSSLSASLGDRVTIS- | Exemplary CD19 |
+|  | CRASQDISKYLNWYQQKPDGTVKLLI- | CAR amino acid |
+|  | YHTSRLHSGVPSRFSGSGSGTDYSLTISN | sequence (no |
+|  | LEQEDIATYFCQQGN- | signal sequence) |
+|  | TLPYTFGGGTKLEIT- |  |
+|  | GSTSGSGKPGSGEGSTKGEV- |  |
+|  | KLQESGPGLVAP- |  |
+|  | SQSLSVTCTVSGVSLPDYGVSWIRQPPRK |  |
+|  | GLEWLGVIWGSETTYYNSALKSRLTIIK- |  |
+|  | DNSKSQVFLKMNSLQTDD- |  |
+|  | TAIYYCAKHYYYGGSYAMDYWGQGTSVT |  |
+|  | VSSTTTPAPRPPTPAPTI- |  |
+|  | ASQPLSLRPEACRPAAGGAVHTRGLD- |  |
+|  | FACDIYIWAPLAG- |  |
+|  | TCGVLLLSLVITLYCKRGRKKLLYIFKQPFM |  |
+|  | RPVQTTQEEDGCSCRFPEEEE- |  |
+|  | GGCELRVKFSRSADAPA- |  |
+|  | YQQGQNQLYNELNLGR- |  |
+|  | REEYDVLDKRRGRDPEMGGKPRRKNPQ |  |
+|  | EGLYNEL- |  |
+|  | QKDKMAEAYSEIGMKGERRRGKGH- |  |
+|  | DGLYQGLSTATKDTYDALHMQALPPR |  |
+|  |
+| 1131 | atggccttaccagtgaccgccttgctcctgccgctggcctt- | Tisagenlecleucel |
+|  | gctgctccac- | CD19 CAR |
+|  | gccgccaggccggacatccagatgacacagactacatc | nucleotide |
+|  | ctccctgtctgcctctctgggagacagagtcaccatcagtt- | sequence |
+|  | gcagggcaagtcaggacatt- |  |
+|  | agtaaatatttaaattggtatcagcagaaaccagatggaa |  |
+|  | ctgttaaactcctgatctaccatacatcaagattacactcag- |  |
+|  | gagtcccatcaaggttcag- |  |
+|  | tggcagtgggtctggaacagattattctctcaccattagcaa |  |
+|  | cctggagcaagaagatattgccacttactttt- |  |
+|  | gccaacagggtaatacgcttccgtacac- |  |
+|  | gttcggaggggggaccaagctggagatcacaggtggcg |  |
+|  | gtggctcgggcggtggtgggtcgggtggcggcg- |  |
+|  | gatctgaggtgaaactgcaggagtcag- |  |
+|  | gacctggcctggtggcgccctcacagagcctgtccgtcac |  |
+|  | atgcactgtctcaggggtctcattacccgactatggtgtaa- |  |
+|  | gctggattcgccagcctccac- |  |
+|  | gaaagggtctggagtggctgggagtaatatggggtagtga |  |
+|  | aaccacatactataattcagctctcaaatccagactgac- |  |
+|  | catcatcaaggacaactccaa- |  |
+|  | gagccaagttttcttaaaaatgaacagtctgcaaactgatg |  |
+|  | acacagccatttactactgtgccaaacattattactac- |  |
+|  | ggtggtagctatgctatggac- |  |
+|  | tactggggccaaggaacctcagtcaccgtctcctcaacca |  |
+|  | cgacgccagcgccgcgaccaccaacac- |  |
+|  | cggcgcccaccatcgcgtcg- |  |
+|  | cagcccctgtccctgcgcccagaggcgtgccggccagcg |  |
+|  | gcggggggcgcagtgcacacgagggggctg- |  |
+|  | gacttcgcctgtga- |  |
+|  | tatctacatctgggcgcccttggccgggacttgtggggtcctt |  |
+|  | ctcctgtcactggttatcaccctttactgcaaacgggg- |  |
+|  | cagaaagaaactcctgtata- |  |
+|  | tattcaaacaaccatttatgagaccagtacaaactactcaa |  |
+|  | gaggaagatggctgtagctgccgatttccagaagaa- |  |
+|  | gaagaaggaggatgtgaactgagag- |  |
+|  | tgaagttcagcaggagcgcagacgcccccgcgtacaag |  |
+|  | cagggccagaaccagctctataacgagctcaatctag- |  |
+|  | gacgaagagaggagtacgatgtttt- |  |
+|  | ggacaagagacgtggccgggaccctgagatgggggga |  |
+|  | aagccgagaaggaagaaccctcaggaaggcctg- |  |
+|  | tacaatgaactgcagaaagataa- |  |
+|  | gatggcggaggcctacagtgagattgggatgaaaggcg |  |
+|  | agcgccggaggggcaaggggcacgatggcctttac- |  |
+|  | cagggtctcagtacagccac- |  |
+|  | caaggacacctacgacgcccttcacatgcaggccctgcc |  |
+|  | ccctcgc |  |
+|  |
+| 1132 | MAL- | Tisagenlecleucel |
+|  | PVTALLLPLALLLHAARPDIQMTQTTSSLS | CD19 CAR |
+|  | ASLGDRVTISCRASQDISKY- | amino acid |
+|  | LNWYQQKPDGTVKLLI- | sequence |
+|  | YHTSRLHSGVPSRFSGSGSGTDYS- |  |
+|  | LTISNLEQEDIATYFCQQGNTLPYTFGGGT |  |
+|  | KLEITGGGGSGGGGSGGGGSEV- |  |
+|  | KLQESGPGLVAP- |  |
+|  | SQSLSVTCTVSGVSLPDYGVSWIRQP- |  |
+|  | PRKGLEWLGVIWGSETTYYNSALKSRLTII |  |
+|  | KDNSKSQVFLKMNSLQTDD- |  |
+|  | TAIYYCAKHYYYGGSYAMDYWGQGTSVT |  |
+|  | VSSTTTPAPRPPTPAPTI- |  |
+|  | ASQPLSLRPEACRPAAGGAVHTRGLD- |  |
+|  | FACDIYIWAPLAG- |  |
+|  | TCGVLLLSLVITLYCKRGRKKLLYIFKQPFM |  |
+|  | RPVQTTQEEDGCSCRFPEEEE- |  |
+|  | GGCELRVKFSRSADAPA- |  |
+|  | YKQGQNQLYNELNLGR- |  |
+|  | REEYDVLDKRRGRDPEMGGKPRRKNPQ |  |
+|  | EGLYNEL- |  |
+|  | QKDKMAEAYSEIGMKGERRRGKGH- |  |
+|  | DGLYQGLSTATKDTYDALHMQALPPR |  |
+|  |
+| 1133 | atgctgctgctggtgac- | Lisocabtagene |
+|  | cagcctgctgctgtgcgagctgccccaccccgcctttctgct | maraleucel |
+|  | gatccccgacatccagatgacccagaccac- | CD19 CAR |
+|  | ctccagcctgagcgccagcctgggcgac- | nucleotide |
+|  | cgggtgaccatcagctgccgggccagccaggacatcag | sequence |
+|  | caagtacctgaactggtatcagcagaagcccgacgg- |  |
+|  | caccgtcaagctgctgatctac- |  |
+|  | cacaccagccggctgcacagcggcgtgcccagccggttt |  |
+|  | agcggcagcggctccggcaccgactacagcctgac- |  |
+|  | catctccaacctggaacaggaaga- |  |
+|  | tatcg ccacctacttttgccagcagggcaacacactgccct |  |
+|  | acacctttggcggcggaacaaagctggaaatcaccgg- |  |
+|  | cagcacctccggcagcggcaa- |  |
+|  | gcctggcagcggcgagggcagcaccaagggcgaggtg |  |
+|  | aagctgcaggaaa- |  |
+|  | gcggccctggcctggtggcccccagccagagcctgagcg |  |
+|  | tgacctgcaccgtgagcggcgtgagcctgcccgactac- |  |
+|  | ggcgtgagctggatccgg- |  |
+|  | cagccccccaggaagggcctggaatggctgggcgtgatc |  |
+|  | tggggcagcgagaccacctactacaacagcgccctgaa- |  |

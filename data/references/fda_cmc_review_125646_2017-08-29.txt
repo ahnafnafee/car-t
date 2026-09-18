@@ -1,0 +1,2980 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BLA 125646 
+ 
+tisagenlecleucel  
+ 
+ 
+Novartis Pharmaceuticals Corporation 
+ 
+ 
+Reviewers   
+Xiaobin Victor Lu, Ph.D 
+Andrew Byrnes, Ph.D. 
+Kimberly Schultz, Ph.D. 
+Elena Gubina, Ph.D 
+Thomas Finn, Ph.D. 
+ 
+BC Reviewer  
+Denise Gavin, Ph.D. 
+Gene Therapies Branch 
+Division of Cellular and Gene Therapies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+2
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+CMC Review  
+ 
+1.  
+BLA#:  STN 125646 
+ 
+2.  
+REVIEW DATE: August 29, 2017 
+ 
+3.  
+PRIMARY REVIEW TEAM: 
+Medical Officer: Maura O’Leary, MD, and Donna Przepiorka, MD, PhD 
+Pharm/Tox: Ying Huang, PhD 
+Product Quality Team: Xiaobin (Victor) Lu, PhD, Andrew Byrnes, PhD, Kimberly Schultz, 
+PhD, Elena Gubina, PhD, and Tom Finn, PhD 
+Facilities: Randa Melhem, PhD, Joan Johnson, MS,  
+Statistics: Xue (Mary) Lin, PhD 
+Labeling: Dana Jones, PharmD 
+RPM: Erica Giordano   
+ 
+4.  
+COMMUNICATIONS WITH APPLICANT:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Communication/Document 
+Date 
+Teleconference/batch analysis data in electronic format 
+2/24/2017 
+Teleconference/CMC discussion with the applicant to clarify 
+established conditions 
+3/2/2017 
+Teleconference /discuss the CMC section of the AC meeting 
+5/3/2017 
+Teleconference/Mycoplasma Testing at 
+ 
+5/31/2017 
+Teleconference/ FMO control/ lot release specification/ Plans for 
+OOS lots/VCN/appearance test/   
+7/6/2017 
+Teleconference/
+ deviation GMP2491: storage of sterility 
+samples at 
+. 
+07/17/2017 
+ 
+5.  
+SUBMISSION(S) REVIEWED:  
+Submission  
+Date Received 
+Review Completed (Yes/No) 
+Original submission 
+2/2/2017 
+Yes  
+Amendment #6 
+3/14/2017 
+Yes  
+Amendment #8 
+3/15/2017 
+Yes 
+Amendment #12 
+4/3/2017 
+Yes 
+Amendment #14 
+4/7/2017 
+Yes 
+Amendment #15 
+4/14/2017 
+Yes 
+Amendment #18 
+4/27/2017 
+Yes 
+Amendment #20 
+5/1/2017 
+Yes 
+Amendment #23 
+5/5/2017 
+Yes 
+Amendment #24 
+5/10/2017 
+Yes 
+Amendment #25 
+5/11/2017 
+Yes 
+Amendment #26 
+5/12/2017 
+Yes 
+Amendment #30 
+5/30/2017 
+Yes 
+Amendment #31 
+6/6/2017 
+Yes 
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+3
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Amendment #32 
+6/16/2017 
+Yes 
+Amendment #34 
+6/21/2017 
+Yes 
+Amendment #36 
+6/21/2017 
+Yes 
+Amendment #39 
+7/7/2017 
+Yes 
+Amendment #42 
+7/11/2017 
+Yes 
+Amendment #44 
+7/18/2017 
+Yes 
+Amendment #45 
+7/25/2017 
+Yes 
+Amendment #46 
+7/25/2017 
+Yes 
+Amendment #48 
+8/2/2017 
+Yes 
+Amendment #50 
+8/4/2017 
+Yes 
+Amendment #51 
+8/10/2017 
+Yes 
+Amendment #52 
+8/11/2017 
+Yes 
+Amendment#55 
+8/23/2017 
+Yes 
+Amendment#56 
+8/25/2017 
+Yes 
+Amendment#57  
+8/28/2017  
+Yes  
+Amendment#61 
+8/28/2017 
+Yes 
+ 
+6.  
+DRUG PRODUCT NAME/CODE/TYPE:  
+a. Proprietary Name: KYMRIAH  
+b. Trade Name: KYMRIAH 
+ 
+c. Non-Proprietary/USAN: tisagenlecleucel  
+d. CAS name:  Not established 
+e. Common name: Chimeric antigen receptor (CAR) T cells against CD19 (CAR-19)  
+f. INN Name: tisagenlecleucel 
+g. Compendial Name: Not established 
+h. OBP systematic name: N/A 
+i. 
+Other Names: CTL019 
+j. 
+FDA UNII number: Q6C9WHR03O 
+ 
+7.  
+PHARMACOLOGICAL CATEGORY: CD19-directed genetically modified autologous T cell 
+immunotherapy  
+8.  
+DOSAGE FORM: Cell suspension 
+9.  
+STRENGTH/POTENCY: Up to 2.5 x 108 CAR positive viable T cells  
+10.  
+ROUTE OF ADMINISTRATION: Intravenous infusion 
+11.  
+INSPECTIONAL ACTIVITIES: PLI inspections completed 5/25/2017 
+14.   
+CONSULTS REQUESTED: N/A  
+16. 
+PRECEDENTS: First-in-class 
+17. 
+ADMINISTRATIVE 
+ 
+
+ 
+ 
+4
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+A. Signature Block 
+ 
+Name and Title 
+Signature and Date 
+Reviewed by 
+ 
+Xiaobin Victor Lu, Ph.D., CQA 
+Chair, Review Committee  
+Biologist, OTAT, CBER  
+ 
+Andrew Byrnes, Ph.D.  
+Supervisory Microbiologist, OTAT, CBER 
+ 
+Kimberly LW Schultz, Ph.D. 
+Biologist, OTAT, CBER 
+ 
+ 
+Elena Gubina, Ph.D. 
+Biologist, OTAT, CBER 
+ 
+Thomas Finn, Ph.D. 
+Microbiologist, OTAT, CBER 
+ 
+ 
+Branch Concurrence 
+ 
+Denise Gavin, Ph.D. 
+Branch Chief, Gene Therapy Branch.  
+OTAT, CBER 
+ 
+Division Sign-off 
+ 
+Steven Oh, Ph.D., Acting Deputy Director, 
+Division of Cellular and Gene Therapies, OTAT, 
+CBER 
+ 
+ 
+Raj Puri, M.D., Ph.D., Director, Division of 
+Cellular and Gene Therapies, OTAT, CBER 
+ 
+ 
+
+ 
+ 
+5
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+SUMMARY OF QUALITY ASSESSMENTS 
+ 
+I. Primary Reviewer Summary Recommendation 
+ 
+This biological license application (BLA) provides an adequate description of the manufacturing 
+process and characterization of the new drug product, tisagenlecleucel. The CMC review team has 
+concluded that the manufacturing process, along with associated test methods and control measures, 
+is capable of yielding a product with consistent quality characteristics. This information, along with 
+post-marketing commitment (PMC) from Novartis Pharmaceuticals Corporation (for additional 
+validation study for mycoplasma test method performed by 
+ for the vector 
+, 
+will satisfy the CMC requirements for biological product licensure per the provisions of section 
+351(a) of the Public Health Service (PHS) Act controlling the manufacture and sale of biological 
+products. 
+ 
+II. List of Deficiencies To Be Communicated 
+ 
+All CMC related deficiencies identified during the BLA review or during the pre-license 
+inspections have been fully addressed by Novartis Pharmaceuticals Corporation and its 
+subcontractors. There are no outstanding CMC deficiencies with one CMC postmarket commitment 
+(PMC) for the revalidation of the PCR based mycoplasma test method used for the vector 
+ 
+lot release. 
+ 
+III. Review of Common Technical Document-Quality overall summary Module 2   
+ 
+The common technical document- Quality overall summary was reviewed. This section contains an 
+overview of all aspects of the Module 3: Quality including the eCTD structure. Specific CMC issues were 
+addressed within each section under Module 3 throughout this review memorandum.  
+ 
+IV.  Environmental Assessment or Claim of Categorical Exclusion   
+ 
+The applicant is claiming a categorical exclusion under 21 CFR 25.31 (c) from the need to prepare an 
+environmental assessment. The applicant provided the following justifications: (1) the application does 
+not significantly alter the concentration or distribution of the substance, its metabolites, or degradation 
+products in the environment; (2) the cells have stringent nutritional requirements for survival and 
+replication and are not viable in the environment, and are degraded into naturally occurring substances; 
+(3) T cells are terminally differentiated cells unable to proliferate or survive outside of the human body 
+unless they are in highly controlled, tissue culture conditions; (4) potential for release of the lentiviral 
+construct in the environment can also be considered negligible due to the low probability of free viral 
+particle carry over in the final drug product; and (5) no extraordinary circumstances exist, which may 
+significantly affect the quality of the human environment and would thus require the preparation of at 
+least an Environmental Assessment. 
+ 
+Reviewer comment: The applicant’s justifications and the rationale for claiming categorical 
+exclusion under 21CFR 25.31 (c) from the need to prepare an environmental assessment are acceptable. 
+ 
+V. Primary Container Labeling Review  
+ 
+In the original BLA submission, the primary container label lacked patient specific information, 
+expiration date and did not comply with 21CFR 610.62(a) and (b). In response to FDA information 
+requests (on 3/13/2017, 8/4/2017, 8/16/2017), the applicant submitted amendments #18 (4/27/2017), #52 
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+6
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+(8/11/2017), and #56 (8/24/2017). In amendment #58 (8/28/2017), the applicant submitted the final 
+revised primary container label as shown below. 
+ 
+Figure 1 Primary container label 
+ 
+ 
+Review comment: The final revised primary container label is in compliance with 21CFR 610.62(a) 
+and (b) and contains the necessary product and patient specific information including proper name, trade 
+name, ranges of cell dose and volume of tisagenlecleucel in the 
+ infusion bag, patient identifier 
+information, expiration date. The applicant clarified that there will be only one bag for each batch of 
+tisagenlecleucel shipped to an infusion center. The revised primary container label is acceptable. 
+ 
+There is no secondary carton label for tisagenlecleucel. The cryopreserved tisagenlecleucel infusion 
+bag is stored in a 
+ in a vapor phase liquid nitrogen freezer. For shipping from the 
+manufacturing facility to an infusion center, tisagenlecleucel within the 
+ is transferred from the 
+freezer to a dry shipper charged with liquid nitrogen. Refer to section 3.2.S.2.2.4 “Filling, Storage, and 
+Transportation” in this review for details of the secondary shipping packaging. 
+ 
+VI.  Review of Common Technical Document-Quality Module 3.2  
+ 
+ Figure 1
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+7
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+TABLE OF CONTENTS 
+S. DRUG SUBSTANCE 
+, CTL019 (murine) HIV-1 vector] ...................................... 12 
+3.2.S.1.2 Structure ....................................................................................................................................... 12 
+3.2.S.1.3 General Properties ....................................................................................................................... 14 
+3.2.S.2 Manufacture .................................................................................................................................... 14 
+3.2.S.2.1 Manufacturer(s) ........................................................................................................................... 14 
+3.2.S.2.2 Description of Manufacturing Process and Process Controls ...................................................... 15 
+3.2.S.2.2.1 Batch and Scale Definition ....................................................................................................... 15 
+3.2.S.2.2.2 Cell Culture and Harvest........................................................................................................... 15 
+3.2.S.2.2.3 Purification and Modification Reactions .................................................................................. 16 
+3.2.S.2.2.4 Filling, Storage, and Transportation ......................................................................................... 17 
+3.2.S.2.3 Control of Materials ..................................................................................................................... 18 
+3.2.S.2.3.2 Control of Source and Starting Materials of Biological Origin ................................................ 19 
+3.2.S.2.3.3 Source, History, and Generation of the Cell Substrate ............................................................. 20 
+3.2.S.2.3.3 Cell Banking System, Characterization, and Testing ............................................................... 21 
+3.2.S.2.4 Controls of Critical Steps and Intermediates ............................................................................... 22 
+3.2.S.2.5 Process Validation and/or Evaluation .......................................................................................... 23 
+3.2.S.2.6 Manufacturing Process Development .......................................................................................... 27 
+3.2.S.3 Characterization .............................................................................................................................. 28 
+3.2.S.3.1 Elucidation of Structure and Other Characteristics ..................................................................... 28 
+3.2.S.3.2 Impurities ..................................................................................................................................... 30 
+3.2.S.4 Control of Drug Substance ............................................................................................................. 31 
+3.2.S.4.1 and 3.2.S.4.5 Specification and Justification of Specification ..................................................... 31 
+3.2.S.4.2 Analytical Procedures .................................................................................................................. 35 
+3.2.S.4.3 Validation of Analytical Procedures ............................................................................................ 38 
+3.2.S.4.4 Batch Analyses ............................................................................................................................ 58 
+3.2.S.5 
+ Reference Standards or Materials .............................................................................................. 58 
+3.2.S.6 Container Closure System .............................................................................................................. 59 
+3.2.S.7 Stability ........................................................................................................................................... 60 
+3.2.S.7.1 Stability Summary and Conclusions ............................................................................................ 60 
+3.2.S.7.2 Post-Approval Stability Protocol and Stability Commitment ...................................................... 60 
+3.2.S.7.3 Stability Data ............................................................................................................................... 60 
+3.2.S. DRUG SUBSTANCE (Novartis Pharmaceuticals Corporation, tisagenlecleucel)........................... 60 
+3.2.S.1.2 Structure ....................................................................................................................................... 60 
+3.2.S.1.3 General Properties ....................................................................................................................... 60 
+3.2.S.2 Manufacture .................................................................................................................................... 61 
+3.2.S.2.1 Manufacturer(s) ........................................................................................................................... 61 
+3.2.S.2.2 Description of Manufacturing Process and Process Controls ...................................................... 61 
+3.2.S.2.2.1 Batch and Scale Definition ....................................................................................................... 61 
+3.2.S.2.2.2 Cell Culture and Harvest........................................................................................................... 61 
+3.2.S.2.2.3 Purification and Modification Reactions .................................................................................. 65 
+3.2.S.2.2.4 Filling, Storage, and Transportation ......................................................................................... 65 
+3.2.S.2.3 Control of Materials ..................................................................................................................... 66 
+3.2.S.2.3.2 Control of Source and Starting Materials of Biological Origin ................................................ 66 
+3.2.S.2.3.3 Source, History, and Generation of the Cell Substrate ............................................................. 67 
+3.2.S.2.3.3 Cell Banking System, Characterization, and Testing: not applicable ....................................... 69 
+3.2.S.2.4 Controls of Critical Steps and Intermediates ............................................................................... 69 
+3.2.S.2.5 Process Validation and/or Evaluation .......................................................................................... 75 
+3.2.S.2.6 Manufacturing Process Development .......................................................................................... 91 
+3.2.S.3.1 Elucidation of Structure and Other Characteristics ..................................................................... 93 
+3.2.S.3.2 Impurities ..................................................................................................................................... 95 
+(b) (4)
+
+ 
+ 
+8
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+3.2.S.4 Control of Drug Substance ........................................................................................................... 101 
+3.2.S.4.1 and 3.2.S.4.5 Specification and Justification of Specification ................................................... 101 
+3.2.S.4.4 Batch Analyses .......................................................................................................................... 101 
+3.2.S.4.2 and 3.2.S.4.3 Analytical Procedures and Validation of Analytical Procedures ......................... 101 
+3.2.S.5 
+ Reference Standards or Materials ............................................................................................ 101 
+3.2.S.6 Container Closure System ............................................................................................................ 101 
+3.2.S.7 Stability ......................................................................................................................................... 101 
+3.2.S.7.1 Stability Summary and Conclusions .......................................................................................... 101 
+3.2.S.7.2 Post-Approval Stability Protocol and Stability Commitment .................................................... 101 
+3.2.S.7.3 Stability Data ............................................................................................................................. 101 
+3.2. 
+P DRUG PRODUCT (Novartis Pharmaceuticals Corporation, tisagenlecleucel) ........................ 101 
+3.2.P.1 Description and Composition of the Drug Product ....................................................................... 101 
+3.2.P.2 Pharmaceutical Development ....................................................................................................... 102 
+3.2.P.2.1 Components of the Drug Product .............................................................................................. 102 
+3.2.P.2.3 Manufacturing Process Development ........................................................................................ 103 
+3.2.P.2.4 Container Closure System ......................................................................................................... 103 
+3.2.P.2.5 Microbiological Attributes ......................................................................................................... 104 
+3.2.P.2.6 Compatibility ............................................................................................................................. 105 
+3.2.P.3 Manufacture .................................................................................................................................. 108 
+3.2.P.3.1 Manufacturer(s) ......................................................................................................................... 108 
+3.2.P.3.2 Batch Formula ........................................................................................................................... 108 
+3.2.P.3.3 Description of Manufacturing Process and Process Controls .................................................... 109 
+3.2.P.3.4 Controls of Critical Steps and Intermediates ............................................................................. 109 
+3.2.P.3.5 Process Validation and/or Evaluation ........................................................................................ 109 
+3.2.P.4 Control of Excipients (noncompendial Cryoserv®) ..................................................................... 109 
+3.2.P.4.1 Specifications ............................................................................................................................. 109 
+3.2.P.4.2 , 3.2.P.4.3 Analytical Procedures and Validation of Analytical Procedures and 3.2.P.4.4 
+Justification of Specifications ................................................................................................................... 109 
+3.2.P.4 Control of Excipients (Compendial) ............................................................................................. 110 
+3.2.P.4.1 Specifications ............................................................................................................................. 110 
+3.2.P.4.6 Novel Excipient ......................................................................................................................... 111 
+3.2.P.5 Control of Drug Product ............................................................................................................... 111 
+3.2.P.5.1 and 3.2.P.5.6 Specification(s) and Justification of Specification(s) .......................................... 111 
+Specification(s) ......................................................................................................................................... 111 
+3.2.P.5.2 and 3.2.P.5.3 Analytical Procedures and Validation of Analytical Procedures ......................... 119 
+3.2.P.5.4 Batch Analyses .......................................................................................................................... 137 
+3.2.P.5.5 Characterization of Impurities ................................................................................................... 143 
+3.2.P.6 Reference Standards or Materials ................................................................................................. 143 
+3.2.P.7 Container Closure System ............................................................................................................ 143 
+3.2.P.8 Stability ......................................................................................................................................... 144 
+3.2.P.8.1 Stability Summary and Conclusion ........................................................................................... 144 
+3.2.P.8.2 Post-Approval Stability Commitment ....................................................................................... 145 
+3.2.P.8.3 Stability Data ............................................................................................................................. 146 
+3.2.A Appendices Table of Contents ........................................................................................................ 148 
+3.2.A.1 Facilities and Equipment .............................................................................................................. 148 
+3.2.A.2 Adventitious Agents Safety Evaluation ....................................................................................... 148 
+3.2.A.3 Novel Excipients .......................................................................................................................... 149 
+3.2.R Regional Information (U.S.A.) ........................................................................................................ 149 
+3.2.R.1 Executed Batch Records ............................................................................................................... 149 
+3.2.R.2 Method Validation Package ......................................................................................................... 151 
+3.2.R.3 Comparability Protocols ............................................................................................................... 151 
+
+ 
+ 
+9
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+LIST OF FIGURES 
+Figure 1 Primary container label ................................................................................................................... 6 
+Figure 2  Structure of the CAR protein ....................................................................................................... 13 
+Figure 3 CTL019 (murine) HIV-1 vector genome diagram ........................................................................ 13 
+Figure 4 Packaging plasmid structure ......................................................................................................... 14 
+Figure 5  Primary CTL-019 vector vial label .............................................................................................. 18 
+Figure 6  Secondary container (box) label for CTL-019 vector .................................................................. 18 
+Figure 7  Relationship between vector batch and T cell transduction rate ................................................. 30 
+Figure 8 Starting Viable WBC Number for 
+ ..................................................................................... 78 
+Figure 9 Static Culture Viable WBC Seeding Number .............................................................................. 78 
+Figure 10 Starting Viable WBC for PS ....................................................................................................... 79 
+Figure 11 Low Dose (1.00x107 Cell/Ml) Viability And Cell Count after Thaw and Infusion ................. 105 
+Figure 12 High Dose (1.00x108 Cell/Ml) Viability and Cell Count after Thaw and Infusion .................. 106 
+Figure 13 Amount of IFN-Gamma (Pg/mL and Pg/Transduced Cell) for Low and High Dose after Thaw 
+and after Infusion ...................................................................................................................................... 107 
+Figure 14 
+ ....................................................................... 123 
+Figure 15  Separation of Signal to Noise for CAR Staining ..................................................................... 126 
+Figure 16 Separation of Signal to Noise for CD19 Staining ..................................................................... 127 
+Figure 17 Comparison of Flow Cytometry Scatter Plots for %CAR+ Determination of Developmental 
+Batch 
+ .................................................................................................................................. 129 
+Figure 18 Flow Cytometry Scatter Plots for Low Transduction Batch
+ ................................. 129 
+Figure 19 CRS Grade in Relation to Product Potency or Transduction Rate ........................................... 139 
+Figure 20 Clinical Outcome and Duration of Response as A Function of Product Transduction Frequency
+ .................................................................................................................................................................. 140 
+Figure 21 Clinical Outcome and Duration of Response as A Function of Product Potency .................... 140 
+Figure 22 CRS Grade in Relation to Product Concentration and Administered Dose ............................. 141 
+Figure 23 Clinical Outcome and Duration of Response Across the Administered Dose Range .............. 141 
+Figure 24 Variability of Selected Product Attributes before and after CPP Implementation ................... 142 
+Figure 25 Relationship of Vector Copy Number/Total Cells to Transduction Frequency by Flow 
+Cytometry ................................................................................................................................................. 142 
+Figure 26 Vector Copy Number/Transduced Cell .................................................................................... 143 
+Figure 27 
+ Cryopreservation Bags Used as Primary Packaging ........... 144 
+ 
+LIST OF TABLES 
+Table 1  Release testing of 
+ MCB CTL2003#1062I .................................................................. 21 
+Table 2  Release testing of 
+ WCB 1390.01 ............................................................................... 21 
+Table 3  Release testing of End of Production Cell Bank TRPT16-016 ..................................................... 22 
+Table 4  Vector substance upstream manufacturing, critical IPC acceptance criteria ................................ 22 
+Table 5  Vector substance downstream manufacturing, critical IPC acceptance criteria ........................... 22 
+Table 6  Vector product manufacturing, critical IPC acceptance criteria ................................................... 23 
+Table 7  Acceptance criteria for CTL019 (murine) HIV-1 Vector Substance ............................................ 31 
+Table 8  Acceptance criteria for CTL019 (murine) HIV-1 Vector Product ................................................ 31 
+Table 9 Validation of CTL019 Vector Identity by 
+ ..................................................................... 40 
+Table 10 Samples used in validation of CTL019 vector RCL and RCLCC assay ...................................... 43 
+Table 11 Validation of CTL019 vector RCL and RCLCC assays .............................................................. 43 
+Table 12 Validation of
+ Used for CTL019 Vector RCL and RCLCC Assays ............................... 45 
+Table 13 Validation of CTL019 Vector Total Residual DNA Assay ......................................................... 47 
+Table 14 Validation of CTL019 Vector Total Protein Assay ..................................................................... 48 
+Table 15 Validation of CTL019 Vector 
+ Assay .......................................................... 49 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+10
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Table 16 Validation of CTL019 Vector Residual 
+ Assay ................................................................... 50 
+Table 17 Validation of CTL019 Vector Residual Plasmid DNA assay: 
+ ........................................... 50 
+Table 18 Validation of CTL019 Vector Residual Host Cell DNA Assay: 18S rRNA ............................... 51 
+Table 19 Validation of CTL019 Vector RNA Copy Number Assay: ......................................................... 52 
+Table 20 Validation of CTL019 Vector p24 Antigen 
+: .................................................................... 53 
+Table 21 Validation of CTL019 Vector TU on 
+ Cells: ............................................................... 54 
+Table 22 Validation of CTL019 Vector MOI Determination Assay: ......................................................... 56 
+Table 23 Validation of CTL019 Vector Potency Assay: ............................................................................ 57 
+Table 24 Analytical Control Materials (other than VRC) ........................................................................... 58 
+Table 25 Vector Product 
+ Acceptance Criteria ........................................................................... 59 
+Table 26 Vector product stopper acceptance criteria .................................................................................. 59 
+Table 27 Vector product flip tear-up seal acceptance criteria ..................................................................... 59 
+Table 28 In-Process Controls ...................................................................................................................... 70 
+Table 29 Critical Process Parameters .......................................................................................................... 71 
+Table 30 Justification of Changes In Acceptable Ranges of CPPs for Commercial Production ................ 76 
+Table 31 PPQ Studies Summary ................................................................................................................. 80 
+Table 32 Processing Times for tisagenlecleucel ......................................................................................... 82 
+Table 33 Composition of Tisagenlecleucel Cell Suspension for Infusion ................................................ 102 
+Table 34 Recovery And Effective Dosing For Low Dose ........................................................................ 107 
+Table 35 Recovery And Effective Dosing For High Dose ....................................................................... 107 
+Table 36 Batch Formula for Tisagenlecleucel .......................................................................................... 108 
+Table 37 Revised Analytical Methods and Specifications for Release ..................................................... 111 
+Table 38 Primers and probes used in qPCR to determine vector copy number ........................................ 120 
+Table 39 Validation of tisagenlecleucel VCN Assay ................................................................................ 120 
+Table 40 Staining Panel for Phenotyping of WBC by Flow Cytometry ................................................... 122 
+Table 41 Validation of Phenotyping of WBC By Flow Cytometry .......................................................... 125 
+Table 42 Range for Cell Types Detected by Phenotyping of WBC by Flow Cytometry ......................... 127 
+Table 43 Comparison of Flow Cytometry Stains Used in B2202 and Proposed In the BLA ................... 127 
+Table 44 Comparison of %T-Cell Determination ..................................................................................... 128 
+Table 45 Comparison of %CAR+ Determination ..................................................................................... 128 
+Table 46 Validation of tisagenlecleucel 
+ Assay .......................................... 130 
+Table 47 Validation of tisagenlecleucel 
+ Assay: ............................................. 131 
+Table 48 Comparability Data for 
+ ............................................................ 132 
+Table 49 Specificity Data for 
+............................................................ 132 
+Table 50 Samples Used for Validation of Residual Bead Determination ................................................. 133 
+Table 51 Validation of tisagenlecleucel Assay for Determination of Residual Beads by Microscopy .... 133 
+Table 52 Samples Used for Validation of IFN-γ Release Potency Assay ................................................ 134 
+Table 53 Validation of tisagenlecleucel IFN- γ Release Potency Assay .................................................. 135 
+Table 54 Primers and Probes used for Determination of VSV-G DNA by qPCR .................................... 136 
+Table 55 Calculations in LIMS for Determination of VSV-G DNA by qPCR ......................................... 136 
+Table 56 Validation of Determination of VSV-G DNA in tisagenlecleucel by qPCR ............................. 137 
+Table 57 Analysis of Select Lot Release Data from 
+ tisagenlecleucel Lots .......................................... 138 
+Table 58 B2202 Lot Disposition ............................................................................................................... 138 
+Table 59 tisagenlecleucel Proposed Storage Conditions and Shelf Life for Long-Term Storage Condition
+ .................................................................................................................................................................. 145 
+Table 60 tisagenlecleucel Proposed In-Use Period ................................................................................... 145 
+Table 61 Stability Tests and Acceptance Criteria ..................................................................................... 146 
+Table 62  Summary of Executed Batch Records Provided for B2202 ...................................................... 149 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+11
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+EXECUTIVE SUMMARY 
+ 
+Tisagenlecleucel is composed of autologous T cells that are genetically modified with a lentiviral 
+vector (CTL019 (murine) HIV-1) encoding a chimeric antigen receptor (CAR) that specifically 
+recognizes the CD19 protein present on CD19+ B lineage tumor cells as well as normal B cells. 
+Tisagenlecleucel is a rationally designed immunotherapy, and the presumed mechanism of action is 
+understood. Briefly, T cell activation begins with scFv binding to CD19 which physically brings the CAR 
+T cells to the CD19+ tumor cells. The interaction of the CAR and CD19 results in formation of immune 
+synapses, similar to the natural T cell activation pathways. Formation of immune synapses triggers a 
+cascade of T cell signaling that leads to T cell activation. Upon activation, T cells produce cytokines for 
+autocrine and paracrine signaling.  The T cells may also produce perforin and granzymes to initiate direct 
+cytolytic tumor cell killing. Activation of the CAR T cells also promotes the cell expansion and 
+differentiation.    
+Tisagenlecleucel is manufactured at the Novartis Gene Therapy Manufacturing Facility located in 
+Morris Plains, New Jersey, USA. The manufacturing process starts with the receipt of an autologous 
+leukapheresis product from national or international apheresis centers that have been certified or qualified 
+by Novartis. Depending upon the cellular composition of the received leukapheresis product, it is 
+enriched for T cells with two alternative manufacturing pathways. The enriched T cells are pre-stimulated 
+with CD3/CD28 antibody-conjugated beads and then transduced with the CTL019 (murine) HIV-1 
+vector. The CAR-expressing autologous T cells are then expanded in culture for up to 
+ to reach 
+sufficient number of transduced T cells. The cells are washed to remove impurities (including the 
+CD3/CD28 antibody conjugated beads) and formulated with infusion media for cryopreservation in a 
+vapor-phase liquid nitrogen freezer. After successful quality control testing by the Novartis quality 
+control (QC) unit, the final product is released by the Novartis quality assurance (QA) unit. Upon request 
+from the clinical center, the released tisagenlecleucel is shipped in a vapor phase liquid nitrogen dry 
+shipper (Dewar) to the clinical infusion center by a qualified courier. The chain-of-identity (COI) of the 
+entire process from leukapheresis to infusion and throughout all manufacturing steps is strictly controlled 
+by a computer based system termed 
+ to ensure the product’s identity and product traceability. 
+The tisagenlecleucel manufacturing process was validated, including two alternative T cell 
+enrichment pathways. The validation acceptance criteria include meeting the predefined critical process 
+parameters (CPPs), in-process control (IPC) tests and lot release tests. 
+ batches 
+ batches with 
+patient cells and  batches with healthy donor cells) were manufactured using the commercial 
+manufacturing process and commercial batch product records. Deviations during the manufacturing 
+process validation were investigated and closed. The results of the process validation (i.e., process 
+performance qualifications) met the predefined validation acceptance criteria.  
+As part of the process validation, a continued process verification (CPV) protocol was established to 
+monitor the process by trending manufacturing data, deviations, out-of-specification batches and other 
+unexpected manufacturing quality incidents. A media fill study was also conducted to ensure the process 
+is able to maintain aseptic conditions throughout the manufacturing procedures. The 
+ system 
+was also validated to support product traceability from leukapheresis to infusion. Shipping and receiving 
+of leukapheresis materials and the final cell product were validated for shipments between the 
+apheresis/infusion centers and the Novartis Morris Plains manufacturing facility.  
+The analytical test methods for tisagenlecleucel lot release were validated for their intended purposes. 
+All analytical test methods have been validated for sensitivity, specificity, and reproducibility. For 
+quantitative test methods, additional parameters such as linearity, precision, accuracy and robustness were 
+also validated. Appropriate release specifications for tisagenlecleucel were set after analysis of test results 
+from batches that were manufactured at the Novartis Morris Plains manufacturing facility for study 
+CCTL019B2202.  
+The manufacturing process for the vector used for tisagenlecleucel production can be divided into two 
+stages: vector substance and vector product. The vector substance is manufactured by 
+ 
+ located in 
+. Vector substance manufacturing begins with
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+12
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+ 
+ 
+ 
+.  
+The vector product is manufactured at 
+, in a controlled 
+environment under cGMP conditions. Vector product is manufactured by 
+, 
+followed by
+ 
+. The vector 
+biological potency test is performed by Novartis. 
+The manufacturing processes for vector substance and vector product have been validated to be 
+sufficiently robust to produce the commercial supply of vector. Analytical test methods have been 
+validated. There is one test that was not completely validated: the mycoplasma test performed by 
+. The applicant and the FDA reached an agreement 
+that an additional validation study will be completed for this mycoplasma test as a post market 
+commitment (PMC).     
+All three manufacturing facilities (Morris Plains New Jersey, USA, 
+ 
+ have been inspected during the 
+BLA review. Form 483 observations regarding process validation and other facility related matters were 
+issued at the conclusion of the each pre-license inspection. The applicant addressed all issues in the 483 
+satisfactorily.  
+Therefore, tisagenlecleucel manufacturing processes at the Novartis Gene Therapy Manufacturing 
+Facility in Morris Plains New Jersey USA, 
+ are considered validated 
+for this BLA. The overall manufacturing process and controls have been shown to consistently produce 
+pure and potent tisagenlecleucel batches.  
+ 
+Recommended Action:  Approval 
+ 
+DESCRIPTION OF DRUG SUBSTANCE AND DRUG PRODUCT 
+ 
+S. DRUG SUBSTANCE [
+, CTL019 (murine) HIV-1 vector]     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+87  Pages determined to be not relesable: (b)(4)
+
+ 
+ 
+101
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+3.2. P DRUG PRODUCT (Novartis Pharmaceuticals Corporation, tisagenlecleucel) 
+ 
+3.2.P.1 Description and Composition of the Drug Product  
+ 
+Tisagenlecleucel is formulated as a single-dose cell suspension for infusion. The cell suspension 
+contains several excipients stock solution: PlasmaLyte A for Injection, Dextrose and Sodium Chloride for 
+Injection, Human Serum Albumin, Dextran 40 in Dextrose for Injection and Cryoserv® solution 
+(containing DMSO as cryopreservation agent). The tisagenlecleucel final formulation contains 7.5% 
+DMSO. 
+(b) (4)
+
+ 
+ 
+102
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Tisagenlecleucel final product is cryopreserved in 
+ freezing bags. Bags of two 
+sizes can be used:
+ for volumes of 10 - 30mL and 
+ for volumes of 30 - 
+ of cell 
+suspension. 
+Tisagenlecleucel final product is a colorless to slightly yellow suspension. The composition is shown 
+below. 
+ 
+Table 33 Composition of Tisagenlecleucel Cell Suspension for Infusion 
+Ingredients 
+Target Dose 
+Function 
+tisagenlecleucel cells 
+• For patients ≤ 50kg: 0.2 to 5.0 x 106 
+transduced viable T cells/kg 
+• For patients > 50kg: 0.1 to 2.5 x 108 
+transduced viable T cells 
+Active ingredient 
+Excipients 
+Concentration of excipients stock solution 
+ 
+Plasma-Lyte A Injection 
+ 
+31.25% (v/v) 
+Dextrose and Sodium 
+Chloride Injection 
+31.25% (v/v) 
+Albumin (Human) 
+20% (v/v) 
+Dextran 40 in Dextrose 
+Injection 
+10% (v/v) 
+Cryoserv® DMSO 
+7.5% (v/v) 
+ 
+3.2.P.2 Pharmaceutical Development  
+ 
+3.2.P.2.1 Components of the Drug Product 
+ 
+3.2.P.2.1.1 Drug Substance 
+ 
+Refer to the section on manufacturing process development in [3.2.S.2.6 Cells]. Compatibility of the 
+tisagenlecleucel with the excipients has been established during clinical development and is supported by 
+the stability studies described in [3.2.P.8.1 Cells]. 
+ 
+3.2.P.2.1.2 Excipients 
+ 
+All excipients listed in table 32 above except Cryoserv® (DMSO) are either licensed drugs or USP 
+compliant biological solutions for injection. (DMSO) has been used in FDA-licensed HPC, cord blood 
+products to levels of up to 10%.The excipients provide the necessary stabilizing effect during 
+cryopreservation, buffering capacity and tonicity of the formulation upon thaw.  
+ 
+3.2.P.2.2 Drug Product 
+ 
+3.2.P.2.2.1 Formulation Development 
+ 
+Two studies were conducted to assess the robustness of the tisagenlecleucel final formulation and to 
+assess the suitability of the chosen excipients. The studies evaluated the impact of varying the 
+concentration or selective removal of excipients on tisagenlecleucel viability and functionality. 
+In the first study, the concentration of individual excipient in the formulation was varied in a 
+ to 
+accommodate potential handling differences during formulation preparation. Data were collected from 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+103
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+formulations used with either healthy donor or patient starting material. All tested formulations showed 
+comparable cell cryopreservation and recovery as measured by cell viability, potency and count results. 
+This result supports the robustness of the tisagenlecleucel final formulation intended for commercial 
+applications. 
+In the second study, the removal of each of the single excipients or the removal of combinations of 
+excipients was investigated on transduced cells from healthy donors. Some excipients (DMSO, D5 ½ NS 
+and HSA) were shown to have a major impact on the evaluated parameters (viability, recovery and cell 
+count, CAR expression and IFN-γ release). Therefore each of the components has its relevance in the 
+final formulation. The study confirms the suitability of the tisagenlecleucel formulation. 
+3.2.P.2.2.2 Overages  
+ 
+Not Applicable 
+ 
+3.2.P.2.2.3 Physicochemical and Biological Properties  
+ 
+Refer to sections 3.2.S.1.3 and 3.2.S.3.1 in this BLA review. 
+ 
+3.2.P.2.3 Manufacturing Process Development 
+ 
+Refer to the section related to DS process development in section 3.2.S.2.6 of this BLA review. 
+ 
+3.2.P.2.4 Container Closure System  
+ 
+The primary packaging for the DP is 
+ bag, 50 mL 
+ or 250 mL 
+. The 
+ or 250 mL 
+ freezing bag contains two sealed spike ports 
+and one tube with two female luers. The 
+ bag is provided sterile by the supplier and 
+100% tested for leaks. 
+Extractables and Leachables Data Provided By the Material Vendors 
+ bag is 510 (k) cleared. The 
+ bag was tested for resistance to 
+ at 
+ for up to 
+.  
+ 
+Extractables And Leachables From Disposable Materials Used In tisagenlecleucel Manufacturing Process 
+At Novartis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+104
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+Dose reproducibility 
+There are losses of cells during infusion. The losses were likely due to the low volume of cells to be 
+administered (10 mL and 30 mL for the low and high dose respectively) compared to high dead volumes 
+in the long infusion lines. Thus it is recommended to rinse the infusion line with normal saline solution 
+after the tisagenlecleucel infusion to ensure the full administration of the dose as described in the section 
+2.2 of the prescribing information for KYMRIAH. 
+ 
+3.2.P.2.5 Microbiological Attributes 
+ 
+The cell 
+ bags are sterile 
+ by the vendor). 
+ has been 
+validated by the vendor for all components of the 
+ bag. Products were sterilized at 
+ 
+ or more, put through an accelerated aging study, then evaluated for change or degradation. While 
+there was some minor discoloration of 
+ luer components, there was no change in physical properties. 
+The company performing sterilization is 
+ inspected by FDA and EU authorities and the 
+ 
+ cycle is also 
+ qualified according to 
+. 
+ 
+Integrity Test Performed By 
+  
+Integrity testing is part of the validation studies submitted in the 510(k) filing.  
+ 
+Integrity Test Performed By Novartis 
+A container closure integrity test (CCIT) study was conducted for the 
+ bags simulating in 
+terms of sealing during storage and until the time of use of its content. The 
+ test was 
+selected as read out of the CCIT assay because 
+Surrogate material used consists of the tisagenlecleucel formulation medium 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+105
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.P.2.6 Compatibility 
+ 
+Compatibility Studies Performed by the Vendor 
+The 
+ bag was tested for biocompatibility. The data were a part of the 510(k) 
+clearance process. The table below reports a summary of the biological testing performed on the 
+ bag. 
+ 
+Compatibility Studies Performed by Novartis 
+Compatibility of the 
+ Bag (bag size range tested: 50 m L - 250 mL) and of different 
+infusion sets for DP administration was tested in a study performed a two target dose levels: a low and a 
+high dose corresponding to 1x108 (1x107 cells/mL) and 3x109 (1x108 
+cells/mL) total cells respectively. 
+Compatibility studies were performed using 
+ 
+ were used in the study. 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+2  Pages determined to be not relesable: (b)(4)
+
+ 
+ 
+108
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+ 
+ 
+ 
+ 
+ 
+The Applicant’s Conclusion 
+ 
+Compatibility of tisagenlecleucel with the infusion bags with different infusion sets intended to 
+be used in the US, EU or Japan was evaluated by viable cell recovery prior to and after the infusion 
+process by different analytical methods (cell count, phenotype, potency) and effective dosing. The results 
+show that infusion bags with infusion sets are compatible with tisagenlecleucel. 
+ 
+Reviewer comment: The applicant conclusion was acceptable. 
+ 
+3.2.P.3 Manufacture   
+ 
+3.2.P.3.1 Manufacturer(s) 
+ 
+Refer to section 3.2.S.2.1 in this BLA review. 
+ 
+3.2.P.3.2 Batch Formula 
+ 
+Table 36 Batch Formula for Tisagenlecleucel  
+Ingredients 
+Target dose 
+Function 
+Reference to standards 
+tisagenlecleucel cells1 
+For patients ≤ 50 kg: 0.2 to 
+5 x 106 transduced viable 
+T cells/kg 
+For patient > 50kg: 0.1 to 
+2.5 x 108 transduced viable 
+T cells 
+Active ingredient 
+Novartis internal 
+Excipients 
+Concentration of 
+excipients stock solution 
+ 
+ 
+Plasma-Lyte A injection 
+ 
+31.25% (V/V) 
+ 
+ 
+Dextrose2 and sodium 
+chloride3 injection 
+31.25% (V/V) 
+ 
+ 
+ 
+Albumin (human)4 
+20% (V/V) 
+ 
+ 
+ 
+Dextran 405 in Dextrose 
+injection 
+10% (V/V) 
+  
+ 
+Cyroserv DMSO6 
+7.5% (V/V)  
+ 
+Novartis internal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+109
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+3.2.P.3.3 Description of Manufacturing Process and Process Controls 
+ 
+Refer to section3.2.S.2.2 in this BLA review. 
+ 
+3.2.P.3.4 Controls of Critical Steps and Intermediates 
+ 
+Refer to section 3.2.S.2.4 in this BLA review. 
+ 
+3.2.P.3.5 Process Validation and/or Evaluation 
+ 
+Refer to section 3.2.S.2.5 in this BLA review. 
+ 
+3.2.P.4 Control of Excipients (noncompendial Cryoserv®) 
+ 
+3.2.P.4.1 Specifications  
+ 
+Cryoserv® (≥99.0% Dimethyl Sulfoxide solution) is an excipient that is not included in a major 
+pharmacopoeia as an injectable solution.  Therefore, Cryoserv® must be fully qualified prior to use.   
+Cryoserv® is tested by Novartis according to process requirements and meets the requirements for 
+injectable solutions including compendial methods for particulates, sterility and endotoxin.  
+ 
+Reviewer comment: The information in the original submission was inadequate for a full review, 
+therefore the FDA requested more information on 4/24/2017 and was received in amendment 23 received 
+on 5/5/2017.  With the provided information, the qualification of Cryoserv is appropriate and adequate 
+for use in the tisagenlecleucel product. Refer to next section for qualification testing for Cryoserv®. 
+  
+3.2.P.4.2 , 3.2.P.4.3 Analytical Procedures and Validation of Analytical Procedures and 3.2.P.4.4 
+Justification of Specifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(b) (4)
+(b) (4)
+
+ 
+ 
+110
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.P.4 Control of Excipients
+ 
+ 
+3.2.P.4.1 Specifications  
+ 
+The following excipients of the drug product formulation comply with the quality requirements of 
+the listed compendial monographs: 
+ 
+Plasma-Lyte A 
+ 
+Plasma-Lyte A 
+ complies with the quality requirements of 
+. In 
+addition, a visual examination of primary and secondary packaging and a specific identity test is routinely 
+performed by Novartis. The chemical components of Plasma-Lyte A are tested for identity according to 
+ 
+ 
+Dextrose and Sodium Chloride Injection 
+Dextrose and Sodium Chloride Injection, 
+ complies with the quality requirements of the 
+ monograph as verified on the vendor Certificate of Analysis. In addition, a visual examination of 
+primary and secondary packaging and a specific identity test is routinely performed by Novartis.  The 
+chemical components are tested for identity according to 
+. 
+ 
+Dextran 40 in Dextrose Injection 
+Dextran 40 in Dextrose Injection complies with the quality requirements of the 
+ 
+ Additionally, extra specifications are performed by Novartis.  The chemical components are 
+tested for identity according to 
+ 
+ 
+The 
+ identity methods for Plasma-Lyte A Injection, Dextrose in Sodium Chloride 
+Injection and Dextran 40 in Dextrose Injection are not validated but verified to demonstrate the specificity 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+111
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+and can be used for the intended purpose, under actual conditions for use and users have the appropriate 
+experience, knowledge, and training to understand and perform the compendial procedures as written. 
+Vendor’s CoAs are provided. 
+ 
+3.2.P.4.5 Excipients of Human or Animal Origin  
+Albumin (Human) 
+ 
+Albumin (Human) contains Sodium N-Acetyltryptophanate and Sodium caprylate and is a 
+pharmaceutical grade product complying with the quality requirements of the applicable 
+ 
+monographs. Additionally, extra specifications are performed by Novartis. as provided in below. 
+Appearance test by visual examination: Visual examination of the product to verify it is the 
+marketed product. Evaluate the appearance of the secondary packaging (carton). Evaluate the integrity of 
+the primary packaging (container) and container label. Acceptance criteria: Results comply with the 
+requirements in the test procedure. 
+Identity by 
+ analysis: 
+ analysis to detect HSA protein with respect to 
+reference material.  Acceptance criteria: positive for HSA compared to reference material.  Pass on 
+vendor certificate of analysis. The Human Serum Albumin identity test by 
+ is validated for 
+system suitability, repeatability and specificity. Vendor’s CoA is provided.  
+ 
+3.2.P.4.6 Novel Excipient 
+ 
+There are no novel excipients used in the manufacture of tisagenlecleucel. 
+ 
+3.2.P.5 Control of Drug Product 
+ 
+3.2.P.5.1 and 3.2.P.5.6 Specification(s) and Justification of Specification(s)  
+ 
+Specification(s) 
+The specifications are set based on the process capability, the results from release and stability 
+testing of clinical batches during development, corresponding clinical data, and statistical evaluation. The 
+original lot release specifications submitted in the original BLA have been updated based on the 
+discussion between the FDA and the applicant and documented in amendment #46 of the BLA, the 
+applicant agreed to the FDA recommendation for narrowing the specifications for percentage of viable T 
+cells from 
+ and for lowering the upper limit for CAR transgene 
+ 
+ (CMC-OTAT IR 21 July 2017). The acceptance criteria for release of IFN-γ in response to 
+CD19-expressing target cells to the value proposed during the BLA filing of 
+ IFN-γ/transduced 
+cell remains unchanged at 
+/transduced cell. The applicant provided updated specifications for 
+tisagenlecleucel final product lot release as shown below. 
+ 
+Table 37 Revised Analytical Methods and Specifications for Release 
+Test  
+Requirements for commercial use 
+Sample used for testing 
+Appearance  
+Colorless to slightly yellow 
+Formulated product 
+ 
+Identity by CAR q-
+PCR 
+Positive  
+Post-harvest1  
+Percentage of viable T 
+cells 
+ 
+Final product 
+  
+Determination of 
+transduction 
+efficiency by CAR-q-
+PCR 
+ 
+ 
+Cell viability 
+ 
+Final product 
+ 
+Determination of 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) 
+(b) (4)
+(b) 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+112
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+residual beads by 
+microscopy 
+Percentage of viable 
+CD19+ B cells 
+ 
+Final product 
+ 
+Total cell count4 
+Report cells/mL 
+Final product 
+ 
+Number of viable cells 
+(calculated) 
+ 
+ 
+Final product 
+ 
+ 
+ 
+ 
+ 
+Dose (calculated) 
+• 0.2 to 5.0 × 106 transduced viable 
+T cells/kg body weight (≤50 kg) 
+• 0.1 to 2.5 ×108 transduced viable 
+T cells (> 50 kg) 
+Final product (after thaw)2 
+Calculation formula: (%CAR 
+expression x Viable cell concentration x 
+Volume per dose)/100 (per patients (≤ 
+50 kg this number is divided per Kg 
+body weight) 
+Determination of 
+CAR expression by 
+flow cytometry 
+ 
+Final product 
+ 
+Release of IFNγ in 
+response to CD19-
+expressing target cells 
+• 
+ 
+ 
+Final product 
+ 
+Bacterial Endotoxins 
+ 
+Final product 
+ 
+Sterility 
+Negative 
+Formulated product 
+ 
+Mycoplasma 
+Negative 
+ 
+Determination of 
+VSV-G DNA by 
+quantitative PCR 
+(qPCR) 
+ 
+ 
+1Post-harvest samples are taken before the addition of cryopreservation media, to avoid potential interference of 
+ present in the final 
+formulation. 
+2Final product (after thawing) sample tests are performed on an aliquot of the final formulation of the cellular product, collected just prior to 
+filling the drug product bag, stored in the vapor phase of liquid nitrogen (≤ -120 C), and thawed at the time of analysis. 
+3 Testing for residual beads is performed using a sample collected 
+ prior to dose formulation, to allow for accurate measurement of 
+residual beads present per 
+ 
+, without being impacted by the range of concentrations of cells per mL at which final dose may be 
+formulated. 
+4 No specification is set for Total cell count since it is not a critical quality attribute; result from Total cell count is used to calculate Number of 
+viable cells, essential for the Dose calculation. 
+5 Pre-harvest samples are taken from the cell culture supernatant at the end of cell culture just prior to harvest processing steps and final 
+formulation, to provide maximal opportunity to detect any contaminating mycoplasma present in the manufacturing process. 
+ 
+Justification of Specifications 
+A total of 
+ batches were manufactured under study CCTL019B2202
+ batches manufactured for 
+clinical development that were used for the analysis to justify how the commercial specifications have 
+been set. All 
+ batches were manufactured by Novartis Morris Plains for use in clinical study 
+CCTL019B2202.  
+ 
+The release specifications were based on product batches shown to be safe during clinical use. Of the 
+batches excluded from the specification setting analysis,
+batches were not released for clinical use due 
+to out-of-specification testing results. In addition, manufactured batches meeting product release 
+specifications but not infused (due to changes in patient health status) were also excluded from the 
+analysis due to lack of supportive clinical outcome data.  
+To model tisagenlecleucel release data, two different distributional fits were required. The first, a 
+Beta distribution, was employed in cases where the data were bounded (e.g. viability with limits of 0% 
+and 100% and could describe non-normal distributions). The second, an exponential distribution, was 
+employed in cases where the data grew or decayed exponentially.  
+(b) (4)
+(b) (4)
+(b) 
+(b) 
+(b) (4)
+(b) 
+(b) 
+(b) 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4
+
+ 
+ 
+113
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+In order to choose the best model that would fit the data, a best visual fit of the data was performed 
+as well as Diagnostic Plots as a measure of the goodness-of-fit (here represented by the log-likelihood of 
+the data). The lower the log-likelihood is, the better the curve fit and, as a result, the better the model. 
+Once a model was chosen that sufficiently explained the variability in the pALL data set, the upper 
+(at the 
+ percentile) and/or lower limits (at the 
+ percentile) of the data were determined 
+and reported. 
+In instances where the specification was supported by the estimated limits of the statistical analysis, 
+this was mentioned. In the instances where the chosen specification was not supported by the estimated 
+limits of the statistical analysis, justification of the specification source was provided. 
+ 
+Appearance 
+Appearance testing is performed on the final formulated product sample collected prior to filling 
+drug product bag (prior to cryopreservation). 
+• 
+Color 
+Appearance testing for final product color provides an evaluation of consistency of final formulation. 
+Final product color has been identified as a potential indicator of significant erythrocyte content in the 
+drug product, leading to final product color ranging from 
+. Visual evaluation of drug 
+product formulation is performed in comparison to the color reference solutions as described in 
+ 
+. 
+The acceptance criteria to release are set to “Colorless to slightly yellow”. 
+Evaluation of Novartis manufactured product showed consistent color across all but one of the batches 
+evaluated. 
+ batches tested met the current specification of “colorless to slightly yellow.” One batch 
+ did not meet the current specification, with color evaluated as 
+ This out of 
+specification batch was found to exhibit persistence of patient erythrocytes during manufacture of the 
+batch. Because autologous erythrocytes are not considered a safety risk, the batch was released under 
+exception, and clinical efficacy was observed at the patient’s 
+ evaluation. Subsequent 
+manufacturing process optimizations have been implemented that are expected to prevent further 
+occurrence of erythrocyte persistence. 
+• 
+Opacity 
+Appearance testing of drug product opacity provides user evaluation of final formulation consistency. 
+The product contains a cell suspension and is consequently expected to show cell density dependent 
+degree of opacity. The appearance test for opacity is deemed unnecessary considering that this attribute is 
+only able to confirm the presence of a cellular suspension which is tightly controlled by the 
+manufacturing process. Absence of the cellular suspension identified by inspection for opacity would be 
+identified by a number of other assays used for product release testing (and would result in OOS test 
+results), including measurement of cell viability, % T cells, total viable cell count, determination of CAR 
+expression by flow cytometry, and others. Because the appearance assessment for opacity does not 
+measure a quality attribute that is not already captured by other release assays, the assessment for opacity 
+is deemed unnecessary and will be omitted from the commercial specifications. 
+ 
+Review comment: The applicant’s reason to omit opacity as an appearance test is reasonable. 
+However, lots with cell clumps and other foreign matters should not be released based on visual 
+inspection. An IR was sent to the applicant on June 26, 2017 requesting the inclusion of cell clump visual 
+inspection to the lot release testing. The applicant responded on June 30, 2017 indicating that the in-
+process visual inspection of any foreign matter after formulation but before cryopreservation will be 
+performed. The applicant also indicated that they will continue inspecting each filled bag of each CT019 
+batch for visible particles and cell clumps. In the highly unlikely event where cell particles or clumps are 
+observed in a filled bag, the operator will photograph the observation, contact management, and a 
+deviation report will be initiated. The concerned filled bag disposition will be determined upon 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+114
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+completion of the investigation. This response is acceptable if the instruction for visual inspection of cell 
+clumps will be included in the batch record, SOPs or work procedures. FDA also proposed to add cell 
+clump inspection in the section of preparation for infusion of the Highlights of Prescribing Information. 
+This information was sent to the applicant on 7/14/2017. In amendment #52 received on 8/11/2017, the 
+applicant accepted the inclusion of the visual examination for cell clumps. 
+ 
+Identity 
+Identity testing is performed using a sample collected 
+of the final cell culture during 
+manufacture, just prior to dose formulation. This 
+ sample is considered representative of the 
+final cellular product, but avoids potential interference of 
+ present in the final formulation with the 
+qPCR reaction. The harvested cells are pelleted and cryopreserved until DNA extraction and analysis. 
+Identity is confirmed via testing for the presence of the CAR19 transgene by a quantitative PCR 
+method. The same q-PCR method is used for determining average transgene copy number per cell. 
+The acceptance criterion for release is set to “Positive”. All 
+ batches evaluated were positive for 
+transgene presence.  
+ 
+Percentage of Viable T Cells 
+Evaluation of T cells by flow cytometry is performed on an aliquot of the final formulation of the 
+cellular product, collected just prior to filling the drug product bag. The aliquot is cryopreserved along 
+with the drug product bag, stored in the vapor phase of liquid nitrogen (≤ -120°C), and thawed at the time 
+of analysis, providing a test sample that will accurately reflect the percentage of T cells present in the 
+formulated drug product following cryopreservation and thaw. 
+Flow cytometry is the industry standard method for evaluation of T cells, which are most commonly 
+measured via the surface expression markers CD45 and CD3. T cell purity of tisagenlecleucel is tested by 
+flow cytometry for % viable CD3+CD45+ cells, of the total viable WBCs. As the CTL019 product is 
+comprised of T cells, this assay is providing information on the cellular purity of the intended cell type in 
+the product.  
+The acceptance criterion for release is set to 
+ viable T cells”. The %T cells data was 
+modeled with a Beta distribution fit 
+. The Beta distribution fit was the model that most 
+comprehensively covered the available data of the statistical models available. Based on the 
+ 
+percentile for the data, the lower control limit was estimated to be
+ The lowest value detected was 
+ which resulted in clinical efficacy based on 
+ response. Based on 
+manufacturing history and statistical evaluation, it is proposed to set the commercial acceptance limit for 
+percentage of viable T cells to 
+ 
+ 
+Transduction Efficiency by CAR qPCR 
+ 
+Transduction efficiency is measured by qPCR.  The test sample is collected from
+ of the 
+final cell culture period during manufacture, just prior to dose formulation. This 
+ sample is 
+considered representative of the final cellular product, but avoids potential interference of DMSO present 
+in the final formulation with the qPCR reaction. The results are calculated as the average number of 
+transgene copies/cell. The acceptance criterion for release is set to 
+ transgene copies/cell”. 
+The pALL CAR copies by qPCR data were modeled with a Beta distribution fit (
+ 
+curve). This model most closely models the data but it cannot account for all of the variability seen in the 
+pALL dataset. Based on the 
+ percentile for the data, the lower control limit is estimated to be 
+. The lowest pALL value for release product observed was 
+. In addition, 
+based on the 
+ percentile for the data, the upper control limit is estimated to be 
+, 
+while the maximum pALL value for release product was 
+. An acceptance range for 
+acceptance was set to be 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+115
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Cell Viability 
+Cell viability testing is performed on an aliquot of the final formulation of the cellular product that is 
+cryopreserved and thawed prior to testing. Viability of the product is essential for activity. Demonstration 
+of drug product cellular viability serves as an additional measure of purity providing information on the 
+presence of dead cells in the product, and non-viable cells are considered an impurity. 
+Cell viability was measured by 
+ exclusion or by 
+ using the 
+ during manufacture for clinical development. Cell viability will be measured 
+using 
+ for commercial manufacture. The acceptance criterion for release is set to 
+ 
+viable cells”. 
+The pALL cell viability data was modeled with a Beta distribution fit (
+). 
+Based on the 
+ percentile for the data, the lower control limit is estimated to be
+ The 
+lowest pALL value observed was 
+. A lower limit for acceptance was set to be 
+ 
+ 
+Determination of Residual Beads by Microscopy 
+Testing for residual beads is performed using a sample collected 
+ of the final cell culture 
+period during manufacture, immediately following 
+ to dose formulation. This 
+ sample is considered representative of the final cellular product, and allows for accurate 
+measurement of residual beads present per 
+ 
+ 
+ without being impacted by the range of 
+concentrations of cells per mL at which final dose may be formulated. 
+CD3/CD28-coated Dynabeads™ used during manufacture. The most sensitive and reliable method 
+for evaluating presence of beads within drug product involves evaluation of an aliquot of drug product by 
+microscopy. Residual beads are visually observed and counted per 
+ 
+ 
+. The acceptance criterion 
+for release is set to 
+ 
+ 
+The pALL residual bead count data was most closely modeled with an exponential fit/decay. The 
+model sufficiently explains the data set variability. Based on the 
+ percentile for the model, the 
+upper control limit was estimated to be 
+ 
+ 
+. The highest pALL residual bead count 
+data was 
+ 
+. 
+Statistical evaluation of data from release testing, and preclinical toxicology assessment, were taken 
+into consideration for the setting of specification. In an intravenous safety study in rats at a dose of 
+ 
+ 
+, no beads were detected in any tissues at day 
+ post –mortem and no toxicity observed. 
+Worst case scenario for pediatric patients 
+ 
+ 
+ and for adult patients 
+ 
+ 
+ were applied and resulted in a maximal bead dose of 
+ 
+ 
+ respectively. Based on the statistical evaluation of Novartis manufactured product data, the 
+acceptance criterion was tightened to 
+ 
+cells to ensure the consistency of the 
+manufacturing process. This limit is well below the NOAEL in animals and therefore a sufficient safety 
+margin is established.  
+ 
+Percentage of Viable CD19+ B cells 
+Test of B cells is performed on an aliquot of the final formulation of the cellular product, collected 
+just prior to filling the drug product bag. The aliquot is cryopreserved along with the drug product bag, 
+stored in the vapor phase of liquid nitrogen (≤ -120°C), and thawed at the time of analysis, providing a 
+test sample that will accurately reflect the percentage of B cells present in the formulated drug product 
+following cryopreservation and thaw. 
+Measurement by flow cytometry is the industry standard assay for evaluation of B cells. The B cells 
+are identified by their expression of CD45 and CD19. The acceptance criterion for release is set to 
+ 
+. 
+B cell impurities are tested by flow cytometry for % viable CD19+CD45+ cells, of the total viable 
+WBCs. Within the sensitivity of the assay, no CD19+ B cells were observed for any of the 
+ batches 
+tested.  
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+116
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Number of Viable Cells 
+Total viable cells in the formulated dose is calculated based on bag fill volume and cell count and 
+viability measurements obtained using an aliquot of the final product after thawing of the cryopreserved 
+sample. Because dose is formulated based on number of transduced T cells, the total number of cells 
+(transduced and non-transduced) present within a dose can vary significantly depending on the relative 
+percentage of transduced T cells present in the drug product. Thus, evaluation of total viable cells present 
+in drug product represents an important component to evaluating product identity. Total viable cells are 
+measured by automated count using the 
+. The acceptance criterion for release is 
+set to 
+ 
+ total viable cells; report cells/mL”. 
+The pALL cell viability data was modeled with an exponential distribution fit/decay. The model 
+sufficiently explains the data set variability. Based on the 
+ percentile for the model, the upper 
+control limit was estimated to be 
+ 
+ cells. The highest pALL viable cell count was 
+ 
+ cells. 
+The acceptance criterion was set using the data from release testing and considering historical safety data. 
+Maximum total viable cell number was originally based on historical safety data from Penn. 
+Based on the statistical evaluation of Novartis manufactured product data, Novartis decided to maintain 
+the specification for Number of Viable Cells at 
+ 
+ total viable cells. 
+ 
+Dose 
+ 
+Based on the clinical development release criteria for earlier pALL trials at University of 
+Pennsylvania, lack of correlation to clinical outcomes and lowest dose 0.17 × 106 cells/kg that resulted in 
+clinical response, the dose specification was set to a range of 0.2 to 5.0 × 106 transduced viable T cells/kg 
+(≤50 kg patients) and 0.1 to 2.5 × 108 transduced viable T cells (>50 kg patients). 
+ 
+Determination Of CAR Expression By Flow Cytometry (Potency) 
+Evaluation of CAR expression by flow cytometry is performed on an aliquot of the final formulation 
+of the cellular product that is cryopreserved and thawed prior to analysis. Determination of CAR 
+expression by flow cytometry demonstrates discrete expression of the CAR protein on the surface of cells 
+within final product. Additionally it provides the percentage of cells in final product expressing the CAR 
+protein, which is essential for determining dose. The detection of CAR protein by flow cytometry is 
+performed using an anti-idiotypic antibody, conjugated to 
+ 
+ recognizing the tisagenlecleucel CAR receptor. The acceptance criterion for release is set to 
+ 
+ positive”. 
+The pALL CAR expression data were modeled with a Beta distribution fit. Based on the 
+ 
+percentile for the data, the lower control limit is estimated to be 
+. The lowest pALL value observed 
+for the 
+ batches was 
+. A lower limit for acceptance was set to be 
+ for release. 
+The acceptance criterion was set based on statistical evaluation of data from release testing and 
+evaluation against clinical outcome. To date, no correlation between the percentage of CAR expressing 
+cells and clinical efficacy has been observed. Transduced cells expand in vivo, resulting in an immune 
+response sufficient to allow clearing of the tumor cells, irrespective of the infused percentage of 
+transduced cells. The absolute minimal percentage of transduced cells required to achieve clinical 
+response remains to be defined. Additionally, dose formulation is based on total number of transduced 
+viable T cells; thus the total number of transduced T cells is controlled by the dose. Although the 
+statistical evaluation of batch release testing supports a lower limit of 
+, it is noted that recent process 
+improvements during 
+ cell enrichment resulted in more consistent transduction efficiencies; thus, 
+specification for Determination of CAR Expression by Flow Cytometry is set as 
+ positive. 
+ 
+Reviewer comment: An FMO control was introduced for suitability control into this test method. 
+Refer to section 3.2.P. 5.2 of this BLA review for details. 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+117
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+IFN-γ Release in Response to CD19-Expressing Target Cells 
+The IFNγ release assay is performed using an aliquot of the final formulation of the cellular product 
+that is cryopreserved and thawed prior to analysis as described previously. The IFNγ release assay detects 
+the responsiveness of tisagenlecleucel cells to CD19-specific stimulation by measuring release of the 
+cytokine IFNγ in cell culture supernatant. In order to control for the CD19-specific response, a negative 
+control consisting of mesothelin (Meso)-expressing cells, which are negative for CD19, was used for co-
+culture with the tisagenlecleucel cells. The levels of IFNγ in supernatant from the cultures with 
+tisagenlecleucel and Meso-expressing cells should be relatively low (=”background”). In comparison, the 
+levels for the CD19-specific stimulation of the tisagenlecleucel cells should be higher than the negative 
+control. 
+The acceptance criterion for release is set to 
+ induction (of OD value in 
+ on 
+supernatant from cells stimulated with CD19-expressing cells over background); and 
+ IFNγ per 
+transduced cell”. 
+ 
+The pALL release of IFNγ pg per transduced cell was modeled with a Beta distribution fit. Based on 
+the 
+ percentile for the data, the lower control limit is estimated to be 
+ 
+cell. The lowest pALL value observed for this product was 
+ transduced cell. In addition, the 
+upper control limit is estimated to be 
+ transduced cell, while the maximum pALL value for 
+release product was 
+ transduced cell. 
+Specification was set based on statistical evaluation of data from release testing and evaluation 
+against clinical outcome. No clear correlation between IFNγ release and clinical efficacy has been 
+observed. Because of the wide range of IFNγ assay measurements observed for batches resulting in 
+clinical efficacy, the proposed dual specification is intended to demonstrate both sufficient induction of 
+antigen (CD19)-specific IFNγ release, as well as a minimum absolute amount of IFNγ released per 
+transduced cell in response to antigen stimulation. Specification for  
+IFNγ release is set as 
+ IFNγ per transduced cell. 
+Although there was no relationship of IFNγ release in response to CD19 expressing target cells to the 
+main safety measure CRS grade, the upper limit is set to ensure consistency of manufacturing. 
+ 
+Bacterial Endotoxins 
+Endotoxin testing is performed using an aliquot of the final formulation of the cellular product, 
+collected just prior to filling the drug product bag. The aliquot is cryopreserved along with the drug 
+product bag, stored in the vapor phase of liquid nitrogen (≤ -120°C), and thawed at the time of analysis, 
+providing a test sample that accurately reflects the formulated drug product following cryopreservation 
+and thaw.  
+Endotoxin is detected per 
+ using the 
+ 
+. The principle of the method is based on the 
+ 
+ by the reaction of endotoxins with the 
+ reagent. Proposed specification for release is set to 
+ 
+. 
+The endotoxin limit concentration is based on a maximum human dose as defined in the scope of the 
+analytical acceptance criteria and the maximum acceptable level, which ensures that a patient would not 
+receive more than 
+ of body mass and hour as required by 
+ is 
+met. The proposed limit is considering a maximum dose volume of 
+ and minimum body weight of 
+ for pediatric ALL. Within MP manufactured batches, endotoxin was detected in only 
+ batches, 
+, reported at 
+, respectively. All other batches 
+tested <LOQ. 
+ 
+Sterility 
+Sterility testing is performed using an aliquot of the final formulation of the cellular product, 
+collected just prior to filling the drug product bag. The sterility test is initiated immediately following 
+collection of this sample (without cryopreservation and thaw) to maximize the potential detection of any 
+microbial contaminants, as sensitivity might be diminished post-cryopreservation and thaw. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+) 4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+118
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Sterility testing is performed on samples from the final formulation bulk. After sampling for sterility, 
+the product is only transferred to the infusion bag by making use of a closed system therefore no 
+contamination can take place during fill and finish after sterility sampling. The 
+ is used 
+for sterility test. The assay allows a valid read out in a shorter timeframe than the classical sterility test, 
+while maintaining the sensitivity. The acceptance criterion for release is set to “Negative”. The sterility 
+test was also reviewed by DBSQC and found acceptable. Refer to the review memorandum from Ms. 
+Simleen Kaur from DBSQC for details. 
+ 
+Mycoplasma 
+Mycoplasma testing is performed using a sample of the cell culture 
+ taken at 
+ 
+ processing steps and final formulation. It is considered the most 
+appropriate sampling point to maximize the chance of detection.  
+ Mycoplasma detection assay was selected to be the assay in order to test product for 
+mycoplasma contamination in the tisagenlecleucel manufacturing process. The 
+ 
+ was adapted using the 
+. Proposed 
+specification for release is set to “Negative”. 
+ 
+ This assay was reviewed by Ms. Simleen Kaur of DBSCQ.  
+ 
+Review comment: During the PLI at the Novartis Morris Plains NJ facility, two issues were noted 
+with the validation of the 
+ assay used to test for mycoplasma contamination in the cell culture.  
+1) The mycoplasma test was not performed on the proper sample. Generally, mycoplasma testing is 
+performed on the cells and supernatant to increase assay sensitivity, Novartis performed the test on 
+ sample only. We discussed this issue with Novartis.  Novartis provided a discussion about the 
+risks and literature references related to how most mycoplasma species will be in the 
+ 
+ following the longer term cell culture that is used to make tisagenlecleucel. 
+Novartis also discussed how given the biology of mycoplasma, they felt that the cells, which for some lots 
+can be limited, should be used to make the final product. OTAT CMC reviewers (Xiaobin Victor Lu and 
+Denise Gavin) discussed this issue with DBSQC reviewer (Simleen Kaur). FDA agreed that the risk was 
+low and that the sample may consist of 
+ only, when procured late in the manufacturing 
+process for tisagenlecleucel. Novartis agreed to provide all supporting data, literature and the risk 
+assessment to the BLA. Literature was provided to FDA inspectors. Review of the supporting documents, 
+we agreed that the test is suitable for tisagenlecleucel mycoplasma testing. 
+2) The assay was not validated in the proper matrix, i.e. the assay was validated by the vendor and 
+verified by Novartis, but the comparability between the 
+ method 
+ and the 
+ 
+ was not performed. When the vendor validated the test it was not in the CAR-T 
+cell matrix, but media. We discussed these issues with the firm staff who outlined the validation process at 
+the vendor and on-site using their product (matrix effect not observed). They described how they looked 
+at over 
+ of mycoplasma, and showed data demonstrating that the method is 
+ more sensitive 
+than the 
+ method. After further discussion with CBER/DBSCQ reviewer (Ms. Simleen Kaur) and the 
+Novartis SMEs, the FDA agreed that the validation was sufficient. Refer to Refer to the review 
+memorandum from Ms. Simleen Kaur from DBSQC for details. 
+ 
+Presence of VSV-G DNA 
+VSV-G testing is performed using a sample collected 
+ of the final cell culture period 
+during manufacture, just prior to dose formulation. This 
+ sample is considered representative 
+of the final cellular product, but avoids potential interference of DMSO present in the final formulation 
+with the qPCR reaction. 
+To evaluate the likelihood of RCL in final product, a 
+ qPCR assay for residual plasmid is 
+used. The assay specifically detects the glycoprotein of the Vesicular Stomatitis Virus (VSV-G) sequence 
+in genomic DNA using primers and a probe that hybridize to VSV-G sequences. The acceptance criterion 
+for release is set to 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+119
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+Detection of VSV-G DNA is used as marker for RCL, therefore the acceptance criterion is no 
+detection of RCL. The limit is based on the LOQ of the qPCR assay and remains unchanged from the 
+Penn limit. RCL testing using amplification in indicator cells is performed as part of the LV vector release 
+testing. 
+ 
+3.2.P.5.2 and 3.2.P.5.3 Analytical Procedures and Validation of Analytical Procedures  
+ 
+Summary for 3.2.P.5.2 Analytical Procedures: 
+Each of the assays used for lot release testing were described generally.  The FDA requested 
+detailed SOPs for each assay on 02/24/2017 and they were entered into the BLA eCTD section 1.11.1 in 
+amendment 6.  The review of analytical procedures includes all of these documents, including 
+information provided only in the SOPs.  The proposed analytical procedures included 3 assays with little 
+or no experience during the clinical trial; cell concentration and viability by 
+, Mycoplasma 
+by qPCR, and Phenotyping of White Blood Cell (WBC) Subsets and CAR expression by flow cytometry.  
+Comparability data was requested on 3/23/2017 with a response received in amendment 14.  Reviewer 
+comment: All analytical procedures are acceptable. 
+ 
+Summary for 3.2.P.5.3 Validation of Analytical Procedures: 
+Reviewer comment: Overall the predetermined acceptance criteria were met and the validations 
+are adequate.  However, the scope of the validations was not rigorous and generally did not assess 
+different lots of reagents or different characteristics of the final product (e.g., various transduction 
+efficiencies).  All validation reports were acceptable.  All validation tables in this review were generated 
+by the FDA from the assay validation reports. 
+ 
+The analytical procedures and validation of the analytical procedures for testing sterility, 
+mycoplasma, and endotoxin were reviewed by Simleen Kaur in DBSQC.   
+ 
+Appearance: 
+Procedure: Performed on final formulation of DP, just prior to filling the bag. According to SOP 
+AM10041C.  In brief, 
+ of DP sample is dispensed into a 
+ and compared to 
+ reference solutions according to 
+ using a 
+ for the 
+ source. Specification 
+allows range of color, colorless to slightly yellow, corresponding to references 
+ Color 
+reference solutions: 
+, catalog #87576 
+ ampules of solutions 
+ 
+Validation: None.  The applicant states that it follows 
+ 
+ 
+Reviewer comment: SOP still includes turbidity assessment. However this analysis was removed from 
+testing of the final product because it was uninformative. The product is always turbid due to the inherent 
+nature of a cell suspension product. This is acceptable. 
+ 
+Determination of Transduction Efficiency by CAR Quantitative PCR (qPCR): 
+Procedure: 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+2 Pages determined to be not relesable: (b)(4)
+
+ 
+ 
+122
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+should be minimized.  On the other hand, it if the 
+ differ in the quality of DNA that is isolated, this 
+could impact the qPCR assay.  The validation is acceptable. 
+ 
+Phenotyping of White Blood Cell (WBC) Subsets and CAR expression by Flow Cytometry 
+This assay is critical for lot release as it is the dose determining assay.  This assay is not the same as what 
+was used during the clinical study. The terminal stains for % CAR+ and % T-cells are the same between 
+the two procedures, however the staining of higher-order stains (e.g., live-dead, CD45) differ between the 
+two assays.  Additionally, this assay is used to test for residual B-cells in the tisagenlecleucel product.  
+Residual B-cells have added risk as evidenced by the SAE reported at UPenn where a reoccurring 
+leukemia resulted from expansion of a transduced B-cell.  There is an extended review of the procedures 
+as it is critical for dose determination.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+
+20 Pages determined to be not relesable: (b)(4)
+
+ 
+ 
+143
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+ 
+ 
+3.2.P.5.5 Characterization of Impurities 
+ 
+Product-related impurities, process-related impurities and contaminants, are discussed in section 
+[3.2.S.3.2 Cells] of this BLA review.  
+ 
+3.2.P.6 Reference Standards or Materials  
+ 
+Due to wide variability of autologous cells, invasive procedure to collect the cells and limited 
+quantity, no reference material is available at present. 
+ 
+3.2.P.7 Container Closure System  
+ 
+Primary Packaging 
+ freezing bags supplied by 
+ is used as a container for 
+tisagenlecleucel storage and infusion. The vendor is qualified according to the Novartis vendor 
+qualification process. Bags of two sizes are used: 
+ for volumes of 10 – 30 mL of cell suspension and 
+ for volumes of 30 – 50 mL.  
+The containers are made from 
+ and have two 
+hermetically sealed spike ports and one 
+ inlet tube sealed on the bag on one end and separated on the 
+other end with a Y-connector into 
+ tubes, each ended with a female luer-lock 
+cap. The fluid path is sterile and non-pyrogenic. The container closure system is commonly used for 
+packaging and storage of commercial pharmaceutical products in the vapor phase of liquid nitrogen, 
+meets FDA regulation and is certified according to 
+ 
+Freezing Bags are 510K cleared with the number 
+, sterilized bags as 
+supplied by 
+ are used within the stated expiry date and not 
+ by Novartis.  
+ 
+Specifications, Test Procedures and Batch Analysis Data 
+Each component of the container closure system is purchased against a specification and 
+representative Certificate of Analysis (CoA). The specification and the CoA define attributes that may 
+affect material quality or usability. Each delivery is accepted, and visually inspected by Novartis on the 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+144
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Certificate of Analysis/Conformity provided by the container closure manufacturer. Compliance and 
+supplier specification are verified against the supplier CoA. 
+ 
+ 
+The figure below (Figure 27) shows a representative example of an 
+ 
+ bags used for primary packaging. 
+ 
+Figure 27 
+ Cryopreservation Bags Used as Primary Packaging 
+ 
+A 
+ 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+In the USA, the 
+ Freezing Bags are 510K cleared with the number 
+. In Europe, the 
+ Freezing Bags are available as CE marked medical 
+devices (CE number 
+ and in Canada are approved with the approval reference number 
+ 
+ 
+Specifications, Test Procedures and Batch Analysis Data  
+Certificate of Analysis (CoA) is provided. The specification and the CoA define attributes that 
+may affect material quality or usability. Each delivery is accepted, and visually inspected by Novartis 
+Quality Unit. The Certificate of Analysis/Conformity provided by the container closure manufacturer. 
+Compliance and supplier specification are verified. tisagenlecleucel primary container is controlled by 
+Novartis according to tests and predefined specifications as part of the Novartis raw material qualification 
+plan.   
+ 
+3.2.P.8 Stability  
+3.2.P.8.1 Stability Summary and Conclusion  
+ 
+Stability study analysis, summaries, and conclusions are presented to support: 
+• 
+9 months shelf life for tisagenlecleucel stored at the long term storage condition (≤ -120°C in 
+vapor phase liquid nitrogen, VPLN2) 
+• 
+30 minutes in-use period for tisagenlecleucel at room temperature 
+• 
+Equivalency between tisagenlecleucel packaged in 
+ freezing bags 
+ 
+Novartis proposes the following shelf life and storage conditions under which the product is 
+considered to be stable when packaged and stored as described: 
+ 
+ 
+Figure 27 (b)(4)
+Cryopreservation bags 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+145
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Table 59 tisagenlecleucel Proposed Storage Conditions and Shelf Life for Long-Term Storage 
+Condition 
+Primary packaging 
+Storage requirements 
+Shelf life 
+ 
+Vapor phase liquid nitrogen 
+(VPLN2: ≤ -120 ᵒC) 
+9 months 
+ 
+Table 60 tisagenlecleucel Proposed In-Use Period 
+Primary packaging 
+Storage requirements 
+In-use Period 
+Labeling Recommendation 
+ 
+ 
+ 
+ 
+Room temperature (RT, 
+20-25ºC) 
+30 minutes 
+The time from when the product is thawed to 
+completion of the infusion should not exceed 
+30 minutes at room temperature (RT, 20-
+25ºC) to maintain maximum product viability, 
+including any interruption during the infusion. 
+ 
+Applicant’s Conclusions 
+Study DSR5135 provides evidence that the tisagenlecleucel final product is stable at the long 
+term storage condition (≤ -120°C, VPLN2) for all parameters evaluated for at least 9 months. The study 
+has determined tisagenlecleucel final product shelf life of 9 months at the long term storage (≤ -120°C, 
+VPLN2). 
+Study DSR5135_1 provides evidence that the long term storage (≤ -120°C, VPLN2) is an 
+appropriate storage condition for tisagenlecleucel final product manufactured with pediatric ALL patient 
+leukapheresis material. The data from the clinical batches confirm the 9 month shelf life at ≤ -120°C 
+(VPLN2). Comparison of the final time point data, t≥ 6m, from the clinical batches with healthy donor 
+final product batches, the data indicate that there is no change in final product stability at ≤ -120°C 
+(VPLN2).  
+Study DSR51354 provides evidence that tisagenlecleucel final product packaged into
+ 
+ freezing bags 
+ were equivalent for 
+ containers types when 
+stored at the long term storage condition (≤ -120°C, VPLN2). Furthermore, for 
+ freezing bags 
+ 
+ over time there are no significant differences for at least 
+ at the long term storage 
+condition (≤ -120°C, VPLN2). 
+ 
+Collectively, the available stability data support the 9 months expiry date from the time of 
+cryopreservation of the formulated final product. 
+Study DSR5135_3 provides support for the intended post-thaw in-use period at the infusion 
+centers. For post-thawed tisagenlecleucel final product, the proposed in-use time period at 
+ 
+at 20 - 25°C is 30 minutes. 
+ 
+Reviewer comment: based on the stability data provided in section 3.2.P.8.3 Stability Data in this review, 
+the applicant’s conclusions are acceptable. 
+ 
+3.2.P.8.2 Post-Approval Stability Commitment 
+ 
+ 
+Novartis does not intend to perform annual stability studies post approval but will evaluate 
+process changes for the potential impact on stability. Changes with the potential to impact stability will be 
+assessed. 
+ 
+Reviewer comment: The applicant’s plan is acceptable. 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+146
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+3.2.P.8.3 Stability Data 
+ 
+4 studies were performed to support the proposed shelf life at the long term storage condition at ≤ -
+120ᵒC (VPLN2) and the in-use period after thaw of the cryopreserved product. The predefined acceptance 
+criteria are shown in Table 61. 
+ 
+Table 61 Stability Tests and Acceptance Criteria 
+Test method 
+Criteria 1 
+Appearance  
+Appearance by visual inspection 
+Colorless to slightly yellow, slightly opaque to 
+opaque cell suspension 
+Purity 
+Percentage of viable T cells 
+ 
+Cell viability 
+ 
+Quantity 
+Total cell count (concentration) 
+Report cells/mL 
+Number of viable cells 
+Report total viable cells 
+Potency 
+Determination of CAR expression by Flow 
+cytometry 
+ 
+Release of IFN-γ in response to CD19 expressing 
+target cells 
+ 
+ 
+ 
+Report pg/transduced cell 
+Safety  
+Sterility by 
+ culture (rapid assay) 
+Negative  
+Other test 
+Cytotoxicity 2 
+For characterization only 
+1 In addition to the listed criteria, the study was evaluated for t≥ 6m final time point data to be within 3x intermediate precision from t= 0 data 
+2 Cytotoxicity is an additional potency assay used for characterization. 
+ 
+1. DSR5135: Stability Study At The Long Term Storage Condition, Using Final Product Batches 
+Manufactured From Healthy Donor Leukapheresis Material.  
+ 
+ healthy donor batches 
+ were analyzed 
+for long term storage at ≤ -120ᵒC (VPLN2) with the test interval of at t= 0, 6 months for 
+ bag and 
+at t= 1.5, 3, 4.5, 6, 9 months 
+. Appearance test was performed at t=0 and 9 months. Sterility 
+test was performed at t=0, 6 months 
+ and 9 months 
+. Percentage of viable T cells, 
+Cell viability, Total cell count Report cells/mL, CAR expression by flow cytometry, and Release of 
+IFN-γ in response to CD19-expressing target cells were tested for all intervals. 
+ 
+Summary results: All tests were within the lot release specification. No downward trend was 
+noted. 
+ 
+ 
+2. DSR5135 1: Stability Study At The Long Term Storage Condition Using Final Product Batches 
+Manufactured From Patient Leukapheresis Material.  
+ 
+ patient batches 
+ were analyzed for long term storage 
+at ≤ -120ᵒC (VPLN2) with the test interval of at t= 0, 8, 
+. Percentage of viable T cells, 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+147
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Cell viability, total cell count (cells/mL), CAR expression by flow cytometry, release of IFN-γ in 
+response to CD19-expressing target cells and cytotoxicity tests were performed for all intervals. 
+ 
+Summary results: All tests were within the lot release specification. No downward trend was 
+noted. 
+ 
+3. DSR5135 3: In-Use Stability Study, Using Final Product Batches Manufactured From Healthy Donor 
+Leukapheresis Material.  
+ 
+3 full scale batches, manufactured from healthy donor leukapheresis material using the 
+ 
+ pathway, were evaluated. The final product batches were formulated, packaged into the
+ 
+ bags, cryopreserved and stored at ≤ -120°C (VPLN2). The bags were thawed and the 
+final product was sampled per time point directly from the 
+ bags stored at the different 
+temperature conditions post-thaw 
+. 
+ 
+Summary results: Tests were within the lot release specification within 1 hour of thawing at either 
+. No downward trend was noted. However, beyond 
+, test 
+results start to drop. At 
+, the test sample started to show significant drops in cell viability within 1 
+hour. 
+ 
+4. DSR5135 4: Stability Study To Determine Equivalency Between Tisagenlecleucel Packaged In 
+ And Final Product Bags, Using Final Product Batches Manufactured From Healthy Donor 
+Leukapheresis Material.  
+ 
+Final formulated tisagenlecleucel samples are packaged into cryovials and cryopreserved along 
+with the tisagenlecleucel final product bags for product release testing: cell viability, percentage of 
+viable T cells, percentage of viable B cells, total cell count, number of viable cells and dose, CAR 
+expression, release of IFN-γ and endotoxin. 
+Study was conducted to support equivalency between final product packaged in 
+ 
+cryovials and 
+ freezing bags under long term storage conditions (VPLN2; ≤ -
+120°C) over a 
+ time period. 
+ full scale batches manufactured from 
+ healthy donor leukapheresis material using the
+ 
+ pathway were used for this study. The final product batches were formulated, packaged into 
+ bags and 
+, cryopreserved and stored at ≤ -
+120°C (VPLN2).  
+ 
+Summary results: Tests were within the lot release specification at all intervals tested up to 
+ 
+. No downward trend was noted. All stability indicating parameters were close between the 
+samples from 
+ bags and 
+ when cryopreserved 
+and stored at ≤ -120°C (VPLN2). 
+ 
+Summary of the Overall Stability Results 
+• 
+Percentage of viable cells derived from patient cells was stable for 9 months in 
+ for 9 
+months in 
+ when stored at ≤ -120ºC. 
+• 
+Percentage of viable cells derived from healthy donor was stable for 12 months in 
+ and in 
+ when stored at ≤ -120ºC. 
+• 
+Viable cell concentration and recovery derived from healthy donor were stable for 6 months in Cryo-
+Bags and for 9 months in 
+ when stored at ≤ -120ºC. 
+• 
+There were no significant change trends in viable cell concentration and recovery derived from 
+healthy donor were stable for 6 months in Cryo-Bags and for 9 months in 
+ when stored at ≤ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+148
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+-120ºC.There were no significant change trends in percentage of transduction in viable cells derived 
+from healthy donor were stable for 6 months in Cryo-Bags and for 9 months in 
+  when 
+stored at ≤ -120ºC. 
+• 
+There were no significant change trends in INF-γ in viable cells derived from healthy donor were 
+stable for 6 months in Cryo-Bags and for 9 months in 
+  when stored at ≤ -120ºC. 
+• 
+There were no significant change trends in percentage of transduction in viable cells derived from 
+healthy donor were stable for 9 months when stored at ≤ -120ºC. 
+• 
+There was no significant change trend in INF-γ in viable cells derived from patient cells for 9 months 
+when stored at ≤ -120ºC 
+• 
+The data analysis provides support for the intended post-thaw in-use period at the infusion centers. 
+For post thawed tisagenlecleucel final product, the proposed in-use time period is 30 minutes at 20 - 
+25°C 
+ temperature is not recommended for the in-use period. 
+ 
+Reviewer comment: The stability data and conclusions are acceptable. 
+ 
+3.2.A Appendices Table of Contents 
+ 
+3.2.A.1 Facilities and Equipment 
+ 
+ 
+Refer to DMPQ review memorandum. 
+ 
+3.2.A.2 Adventitious Agents Safety Evaluation  
+ 
+The potential risks derived from adventitious agents and microbial contamination of tisagenlecleucel 
+addressed through the following plan.   
+• 
+Control of raw materials and the tisagenlecleucel vector 
+o Control of animal and human derived raw materials entering the manufacturing process 
+through certificates of origin and suitability. For human derived materials such as human 
+serum, viral inactivation steps in the manufacturing process of these materials are performed. 
+o Production of tisagenlecleucel vector using 
+ cells, which are not known to express 
+endogenous viruses 
+o Additional controls through filtration of raw materials (media) performed prior to use in 
+manufacturing. 
+o Control of the tisagenlecleucel vector through testing for adventitious viral agents 
+o Testing for relevant human viruses as part of the patient eligibility assessment 
+• 
+Process and environmental controls 
+o Control of the tisagenlecleucel drug product manufacturing process (antibiotics free) through 
+use of closed systems. Where there are open steps, the process is performed under 
+environmentally controlled conditions 
+o Environmental controls 
+o Cleaning and decontamination of work surfaces and equipment 
+o Aseptic verification, simulating all process steps and interventions is conducted to verify that 
+the process is capable of maintaining sterility; 
+o Control of the tisagenlecleucel 
+• 
+Microbial contaminants testing as part of drug product release testing: 
+o Bacterial endotoxin 
+o Sterility 
+o Mycoplasma 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+149
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+• 
+Raw materials of human or biological origin used for product manufacture as well as the 
+tisagenlecleucel LV and patient donor cells are qualified and in compliance with current 
+guidelines for TSE transmission. 
+• 
+Raw materials of human or biological origin used for product manufacture as well as the 
+tisagenlecleucel LV are tested for the presence of adventitious viral agents according to ICH Q5A 
+and for bovine viruses according with the 9CFR53 dispositions. Materials of recombinant origin 
+are produced with animal-free reagent processes. 
+• 
+tisagenlecleucel LV is designed as a SIN, replication-defective 3rd-generation, VSV-G 
+pseudotyped lentiviral vector that includes a number of key additional safety features including 
+codon-optimized Gag/Pol such that the likelihood of RCL generation either during vector 
+production or in the host target cells is minimized. This is confirmed by the negative results 
+consistently obtained the CLT019 LV batches produced to date, and in tisagenlecleucel batches 
+and in plasma sample of treated patients. 
+• 
+Raw materials produced through hybridoma technology have been tested for the presence of VLP 
+as well as for the presence of adventitious Murine leukemia virus-like retroviruses and its 
+production process has been validated for the viral clearance ability. Removal /inactivation 
+factors validated for MLV are deemed to provide effective safety margins so that the introduction 
+of VLP or infectious particles in the tisagenlecleucel manufacture is unlikely. 
+• 
+Extensive viral testing on 
+ cell banks, CTL019 LV batches and the careful selection of 
+the raw materials used are considered sufficient to ensure the viral safety of the product. 
+ 
+The applicant concluded that the infusion of the tisagenlecleucel product presents an overall low risk 
+of patient infection from adventitious agents from contaminated reagents in the process or from 
+endogenous viruses. 
+ 
+Reviewer comment: The applicant’s conclusion is acceptable. 
+ 
+3.2.A.3 Novel Excipients 
+ 
+ 
+There are no novel excipients used in tisagenlecleucel manufacturing and formulation. 
+ 
+3.2.R Regional Information (U.S.A.) 
+ 
+3.2.R.1 Executed Batch Records 
+ (b) (4)
+(b) (4)
+
+ 
+ 
+150
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reviewer comment: the version of the batch record that was submitted as a clean batch record is 
+the current FRM-7061151, version 1.  This is not the same batch record form that was used for either 
+executed batch record supplied.  The clean batch record has a QA approval date of 12/16/2016.  It is not 
+clear how many batches have been manufactured under this new system.  This was followed up during the 
+inspection of the Morris Plains manufacturing site by Drs. Gavin and Lu. FDA noted that there are two 
+versions of batch records (clinical and commercial) although the manufacturing process is identical. The 
+commercial batch record contains more time limits and tighter CPPs for certain unit operations and 
+fewer sampling points for exploratory product characterization tests. The batch records are also 
+distinguished by color. The commercial batch records are acceptable. 
+ 
+Batch Records Clean: 
+- 
+FRM-7061151, Version 1.0 
+- 
+Batch records are used in conjunction with WP-7004671: Commercial 
+ Work 
+Procedure for Cell and Gene Therapies (eCTD 1.11.1 submitted in amendment 6: 03/14/2017) 
+o WP-7004671 is a new document and Novartis has listed a QA approval date of 
+03/01/2017  
+ 
+Reviewer comment:  The alignment of the batch record and the work procedure is not clear. The 
+WP and batch records follow the same general flow; however the line items do not align.  The batch 
+records have headings in grey that say “task XX - refer to related work procedure WP-7004671” that 
+reference heading names, but do not direct the operator to where in the WP to find the task (no page or 
+heading numbers).  This may be due to the fact that the WP was not yet approved at the time of batch 
+record approval.  This was followed up during the inspection of the Morris Plains manufacturing site by 
+Drs. Gavin and Lu. During the PLI, FDA observed that an operator and a verifier followed the SOP and 
+the Work Procedure on the computer monitor during the unit operation. No issues were identified. 
+ 
+ All steps have performed by and verified by sign off 
+- 
+Clear instructions for error signs on instruments 
+- 
+Historical ranges of time for some steps is stated 
+- 
+Documentation of work station pre- & post cleaning 
+- 
+Color coding is used  
+o Red: historical norms, approx. times, temp ranges, operator monitoring, optional steps 
+depending on situation 
+o Blue: Perform, check,  
+o Brown: record/verify information in LIMS is usually denoted in brown, some 
+calculations, reagent/equipment choice based on calculation 
+- 
+Indication of which equipment to use based on product (e.g., pg 42 70 mL CS kit for <109 TNC, 
+225mL CS5 kit for ≥109 TNC) 
+- 
+Page 48 item 53: Record the Hematocrit % from the Leukapheresis: NOTE: if ≥30% stop and call 
+area management 
+ 
+(b) (4)
+(b) (4)
+
+ 
+ 
+151
+BLA #: 125646/0                  
+ 
+USAN name: tisagenlecleucel 
+Reviewer comment: This in-process control was likely added a result of OOS appearance due to 
+“pink color” during IND.  This will increase control of the process and likelihood that the product will 
+meet lot release specifications. 
+ 
+In response to 483 observations raised during inspection of the tisagenlecleucel manufacturing facility 
+in Morris Plains, NJ, a revised unexecuted batch record was submitted in amendment 32.  The unexecuted 
+batch record, FRM-7061152 v3, references WP-7004671.  
+ 
+3.2.R.2 Method Validation Package 
+ 
+According to 21 CFR 610.2(a), Novartis may be required to provide samples of tisagenlecleucel 
+batches for the CBER lot release program. However, the FDA has determined that tisagenlecleucel will 
+not be evaluated for batch release. The method validation reports have been submitted and batch samples 
+will be submitted only upon request.  
+ 
+3.2.R.3 Comparability Protocols 
+ 
+No formal product comparability protocols have been submitted. Manufacturing changes at the 
+Novartis Gene Therapy Manufacturing Facility in Morris Plains New Jersey will be addressed through 
+BLA supplements.  
+ 
+ 

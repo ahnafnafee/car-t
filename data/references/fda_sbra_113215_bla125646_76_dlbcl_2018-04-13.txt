@@ -1,0 +1,698 @@
+Summary Basis for Regulatory Action Template
+
+Date: April 13, 2018
+
+From: Roger Kurlander, M.D., Chair of the Review Committee
+
+BLA/ STN#: 125646/76
+
+Applicant Name: Novartis Pharmaceuticals Corporation
+
+Date of Submission: October 30, 2018
+
+Goal Date: May 1, 2018
+
+Proprietary Name: KYMRIAHTM
+
+Established Name: tisagenlecleucel
+
+Indication: for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or
+more lines of systemic therapy including diffuse large B-cell lymphoma (DLBCL) not otherwise
+specified, high grade B-cell lymphoma, and DLBCL arising from follicular lymphoma.
+
+Limitations of Use: KYMRIAH is not indicated for treatment of patients with primary central
+nervous system lymphoma
+
+Recommended Action: Regular approval
+
+Review Office(s) Signatory Authority(ies): Tejashri Purohit-Sheth, M.D, Director, Division of
+Clinical Evaluation and Pharmacology/Toxicology/Office of Tissues and Advanced Therapies
+       □ I concur with the summary review.
+       □ I concur with the summary review and include a separate review to add further
+       analysis.
+       □ I do not concur with the summary review and include a separate review.
+
+Office of Compliance and Biologics Quality Signatory Authority: Mary A. Malarkey Director,
+Office of Compliance and Biologics Quality
+       □ I concur with the summary review.
+       □ I concur with the summary review and include a separate review to add further
+       analysis.
+       □ I do not concur with the summary review and include a separate review.
+The table below indicates the material reviewed when developing the SBRA.
+
+Document title                               Reviewer name, Document date
+CMC Review(s)                                   Not applicable
+• CMC (product office)
+• Facilities review (OCBQ/DMPQ)
+• Establishment Inspection Report
+    (OCBQ/DMPQ)
+Clinical Review(s)                               Roger Kurlander, MD (OTAT/DCEPT)
+• Clinical (product office)                      Aviva Krauss, MD (OCE)
+• Postmarketing safety epidemiological           Bindu George, MD (OTAT/DCEPT)
+    review (OBE/DE)                              Jaspal Ahluwalia, MD (OBE/DE)
+• BIMO                                           Marc Theoret, MD (OCE)
+                                                 Tejashri Purohit-Sheth, MD (OTAT/DCEPT)
+
+Statistical Review(s)                            Zhenzhen Xu, PhD (OBE/DB)
+• Clinical data
+• Non-clinical data
+Pharmacology/Toxicology Review(s)                Not applicable
+• Toxicology (product office)
+• Developmental toxicology (product
+    office)
+• Animal pharmacology
+Clinical Pharmacology Review(s)                  Xiaofei Wang, PhD (OTAT/DCEPT)
+Labeling Review(s)                               Dana Jones (OCBQ/DCM)
+• APLB (OCBQ/APLB)
+Other Review(s)                                  Not applicable
+• additional reviews not captured in above
+    categories
+• consult reviews
+
+
+
+
+                                                                                       2
+   1. Introduction
+
+KYMRIAH was initially approved on August 30, 2017 for the treatment of patients up to 25
+years of age with B-cell precursor acute lymphoblastic leukemia (ALL).
+
+On October 27, 2017 Novartis Pharmaceuticals Corporation submitted a Biological License
+Application Supplement (sBLA), STN 125646/76, requesting approval of tisagenlecleucel
+(KYMRIAH), a CD19-directed genetically modified autologous T cell immunotherapy, for the
+treatment of adult patients with relapsed or refractory large B-cell Lymphoma after two or more
+lines of systemic therapy including diffuse large B-cell lymphoma (DLBCL) not otherwise
+specified, high-grade B-cell lymphoma, and DLBCL arising from follicular lymphoma. The
+indication includes a Limitation of Use indicating that KYMRIAH is not indicated for patients
+with primary central nervous system lymphoma.
+
+KYMRIAH is comprised of genetically modified autologous T cells reprogrammed using a
+lentiviral vector to target cells that express CD19, a surface antigen expressed on B cells and
+many tumors derived from B cells. The KYMRIAH chimeric antigen receptor (CAR) protein
+responsible for reprogramming contains a murine anti-CD19 single chain antibody fragment
+(scFv) linked to the signaling domains CD3-ζ and 4-1BB which play critical roles in KYMRIAH
+T cell activation, persistence in vivo, and anti-tumor activity.
+
+This document summarizes the basis for approval of KYMRIAH for this new indication.
+CCTL019C2201 (C2201), a single arm, phase 2, multicenter, open-label trial was the data source
+used to assess the efficacy and safety of KYMRIAH for treatment of DLBCL. The
+recommendation for approval was based on the complete response rate and duration of response
+demonstrated in this study.
+
+The review team recommends regular approval of KYMRIAH for this indication. The major
+risks of KYMRIAH include cytokine release syndrome (CRS), neurologic toxicity, infection,
+febrile neutropenia, and prolonged cytopenias. Based on the severity of CRS and neurotoxicity
+which can be life threatening or fatal, the review team recommends implementation of a Risk
+Evaluation Mitigation Strategy (REMS) with Elements To Assure Safe Use (ETASU) for the
+management of these toxicities. The review committee also recommends as a postmarketing
+requirement (PMR), a 15-year postmarketing observational study to monitor long-term toxicities
+of KYMRIAH and the potential risk of secondary malignancies linked to the use of a lentiviral
+vector for genetic modification.
+
+   2. Background
+
+Disease Background
+DLBCL, which comprises 25-30% of non-Hodgkin lymphomas (NHLs), typically presents with
+rapid enlargement of lymphoid tissue at one or more sites. It is an aggressive disease, and
+without effective treatment survival is measured in months. Standard multiagent,
+chemoimmunotherapy can induce a complete response (CR) in about half of newly diagnosed
+patients, and in most cases these remissions are durable. The standard of care for patients who
+relapse or are refractory to first-line chemoimmunotherapy has been treatment with one of
+
+
+                                                                                                  3
+several intense salvage chemotherapy regimens. If disease responds to this therapy, patients may
+undergo potentially curative autologous stem cell transplantation (ASCT). This second line
+therapy cures a subset of patients, but those who are refractory to primary therapy, relapse less
+than a year after ASCT, or who relapse after 2 or more lines of therapy have a poor prognosis
+with a median overall survival rate of 6-7 months despite additional chemotherapy. As discussed
+below, the recent approval of another CAR T cell-based treatment has improved the outlook for
+those with relapsed, refractory (r/r) disease.
+
+Available Therapies
+On October 18, 2017, axicabtagene ciloeucel (YESCARTA), an CD19-directed, genetically-
+modified, autologous T cell immunotherapy produced by Kite Pharma, Inc., was approved by the
+FDA for treatment of adult patients with relapsed or refractory large B-cell lymphoma after two
+or more lines of systemic therapy including diffuse large B-cell lymphoma (DLBCL) not
+otherwise specified, primary mediastinal large B-cell lymphoma, high grade B-cell lymphoma,
+and DLBCL arising from follicular lymphoma. In its registration trial, YESCARTA produced a
+72% overall response rate (ORR) with 51% complete responses (CR). The median duration of
+response for CR was not yet reached after a median follow-up of 7.9 months. This response rate
+was superior to the anticipated outcome for standard of care therapy cited above; however,
+significant toxicity was noted. Cytokine release syndrome (CRS), a syndrome characterized by
+fever/chills, hypotension, tachycardia, and hypoxia, and neurotoxicity characterized by
+encephalopathy, headache, tremor, dizziness, or other neurologic complaints, was observed in
+94% and 87% of patients respectively with a 4% incidence of death from toxicity. In addition, as
+a consequence of its anti-CD19 activity, YESCARTA induced normal B-cell aplasia in most
+treated patients.
+
+KYMRIAH, like YESCARTA, is a CD19-directed genetically-modified autologous T cell
+product designed to kill CD19-positive B-cells including tumor cells, but the two products differ
+in several respects. The YESCARTA construct uses a retroviral vector to transduce T cells and
+the intracellular domain of CD28 to co-stimulate T cells, while KYMRIAH uses a lentiviral
+vector and the intracellular domain from 4.1-BB for the same purposes. There are other, more
+subtle, structural differences between the two products, as well as substantial differences in the
+proprietary methods used for generation and expansion of CAR T cells ex vivo.
+
+Regulatory History and Considerations
+
+Date                  Milestone and Comments
+               Regulatory activity of KYMRIAH for treatment of DLBCL
+04/12/2017            Breakthrough Therapy Designation for DLBCL
+08/04/2017            Pre-sBLA meeting for DLBCL indication.
+08/29/2017            Orphan Designation for DLBCL.
+10/30/2017            sBLA 125646/76 submission for DLBCL
+11/21/2017            sBLA 125646/80 – submission for changes in manufacture
+11/22/2017            sBLA 125646/76 – 30-day safety and efficacy update received
+02/28/2018            sBLA 125646/76 – 120-day safety update received
+
+
+
+
+                                                                                                 4
+Negotiations between FDA and applicant concerning duration of response required to
+establish efficacy of KYMRIAH in DLBCL
+At the pre-sBLA meeting of August 4, 2017, the sponsor proposed to assess efficacy based on an
+interim analysis of 81 patients using a data cut-off date of March 8, 2017. Using this timetable,
+the applicant would be able to submit complete 3-month response and follow-up data for all 81
+patients, but only 46 would have completed 6 months of follow-up. The FDA clinical reviewers
+indicated this duration of follow-up would not be sufficient to demonstrate durable benefit for
+responders. After several telecommunication interchanges, the applicant proposed on August 23,
+2017 (Amendment 16130/967) to supplement their initial submission with a 30-day efficacy and
+safety update (with a data cut-off date of September 6, 2017) and a final 120-day safety update
+for a total of 92 patients. This timetable would provide 9 month assessments for all observed
+responders and more extensive safety data. This amendment also included additional
+modifications in the organization of the datasets as requested by the FDA and clarifications
+concerning the adjudication rules. The FDA indicated agreement with this proposal in a
+telecommunication on October 12, 2017.
+
+   3. CHEMISTRY MANUFACTURING AND CONTROLS (CMC)
+
+a)       Product Quality
+KYMRIAH CMC was reviewed and approved in the initial BLA submission, 125646/0. The
+product used in these clinical studies under Protocol C2201 conforms with the product used in
+the initial submission. Consequently, module 3 (Quality) was not included in Amendment 76,
+and no facility review/inspections are required.
+
+The applicant has also proposed significant changes in KYMRIAH CMC in a Prior Approval
+Supplement (PAS) 125646/80, submitted on November 21, 2017. This document is currently
+under review. No changes in KYMRIAH manufacturing for use in the treatment of DLBCL will
+be implemented until after supplement 80 approval.
+
+b)     CBER Lot Release (only applicable for BLAs)
+Not applicable. No changes in lot release criteria were requested to this supplement.
+
+c)   Facilities review/inspection
+No GMP facilities inspections were conducted for this application.
+
+d)     Environmental Assessment
+The BLA requests categorical exclusion from an Environmental Assessment under 21 CFR
+25.31(c).
+
+e)     Product Comparability
+Not applicable.
+
+   4. NONCLINICAL PHARMACOLOGY/TOXICOLOGY
+
+No new nonclinical pharmacology/toxicology information was included in this supplement.
+
+
+
+                                                                                                5
+   5. CLINICAL PHARMACOLOGY
+
+KYMRIAH is prepared by transduction of normal autologous T cells with a lentiviral vector
+encoding a chimeric antigen receptor (CAR) composed of a murine single chain antibody
+variable fragment (scFv) specific for CD19, linked to intracellular signaling domains from 4-
+1BB (CD137) and CD3-zeta. The former enhances the expansion and persistence of KYMRIAH
+cells while the latter initiates T-cell activation and antitumor activity. Anti-tumor activity,
+cellular proliferation, and persistence are all triggered by CAR binding to CD19 positive target
+cells.
+
+KYMRIAH expands rapidly following infusion into adult r/r DLBCL patients. Median time to
+peak levels in these studies was around 9-days post-infusion followed by a bi-exponential
+decline. Transduced cells persisted up to 18 months (the longest follow-up time available) in the
+peripheral blood and approximately 9 months in the bone marrow of treated patients. No
+significant relationship was identified between intrinsic factors (age, gender, race, body weight,
+disease stage and burden of disease) or extrinsic factors (prior ASCT status, number of prior
+lines of therapy and KYMRIAH exposure (Cmax and AUC(0-28d))). Within the limitations
+imposed by small sample size and high inter-subject variability, no dose-exposure, dose-
+response, or exposure-efficacy relationships were apparent. Time to reach peak levels of
+KYMRIAH were similar between responding and non-responding subjects.
+
+Higher levels of KYMRIAH exposure and expansion rate were associated with higher CRS
+grade. Subjects with Grade 3 or higher CRS had significantly higher KYMRIAH exposure
+(Cmax and AUC(0-28d)) compared to subjects with Grade 2 or lower CRS. In contrast,
+KYMRIAH exposure in subjects with Grade 3 or higher versus Grade 2 or lower neurological
+events were comparable. Evaluation of B cell aplasia was complicated by the frequent use of
+rituximab in prior lymphoma management. Consequently, B cell aplasia was noted in 80% of
+patients before CTL019 treatment. The continued absence of B cells 1 year post treatment in half
+of the treated patients (in the presumed absence of additional rituximab) strongly supports a role
+for KYMRIAH in prolonging B cell aplasia. Replication-competent lentiviruses (RCL) were not
+detected.
+
+Tocilizumab and corticosteroids used in management of CRS and neurologic events did not
+prevent continued KYMRIAH proliferation, but more subtle impacts of these agents on
+expansion cannot be ruled out in this uncontrolled trial format.
+
+A Pharmacometrics Consultation performed by Chao Liu, PhD (CDER/OCP) reached similar
+conclusions.
+
+   6. CLINICAL/STATISTICAL/PHARMACOVIGILANCE
+
+         a) Clinical Program
+Study CTL019C2201 forms the basis for the review team’s recommendation of regular approval
+of KYMRIAH for the treatment of adult patients with relapsed or refractory large B-cell
+lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma
+(DLBCL) not otherwise specified, high-grade B-cell lymphoma, and DLBCL arising from
+
+
+                                                                                                 6
+follicular lymphoma. KYMRIAH is not indicated for the treatment of patients with primary
+central nervous system lymphoma.
+
+Study Description
+Study CTL019C2201 was a single-arm, open-label, phase 2 multicenter study for adult patients
+with relapsed or refractory DLBCL after ≥2 prior lines of chemotherapy including rituximab and
+an anthracycline, and who either had previously been treated with, were ineligible for, or did not
+consent to autologous hematopoietic stem cell transplantation (AHSCT). Bridging chemotherapy
+was permitted at investigator discretion to support patients with progressive disease while
+awaiting product manufacture. Patients were treated with an intravenous infusion of 1-5 x 108
+viable KYMRIAH cells after lymphodepletion with cyclophosphamide/fludarabine or
+bendamustine if the blood white blood cell count was ≥ 1x106 cells/µl. The primary endpoint
+was the objective response rate (ORR) to KYMRIAH defined as the sum of the percent complete
+responses and partial responses (% CR + %PR) at the time of best overall response (BOR).
+Responses were assessed by an independent review committee (IRC) based on the Lugano
+Classification (2014). The durability of response, a critical secondary endpoint, was assessed
+from time of initial response to time of relapse or last observation.
+
+Clinical Efficacy Assessment
+Of the 160 subjects enrolled, 49 were withdrawn before receiving KYMRIAH because of
+manufacturing failure (11), patient death (16), physician decision (16), adverse events (3) or
+other criteria (3). The applicant identified a cohort of 92 patients treated with KYMRIAH
+manufactured at the Morris Plains (MP) New Jersey facility as the efficacy analysis set. Ninety
+percent of these patients received bridging chemotherapy to suppress lymphoma growth while
+awaiting KYMRIAH manufacture.
+
+On review, the FDA judged 23 of these patients as inevaluable for efficacy analysis because
+documentation of continued measurable disease between completion of bridging chemotherapy
+and KYMRIAH infusion were not available. In 8 cases, presumably because of a clinical
+response to bridging chemotherapy, the patients’ previously measurable PET-positive disease
+was no longer detectable at baseline studies before KYMRIAH treatment. Thirteen others did not
+have valid baseline CT and PET imaging studies after completion of bridging chemotherapy
+available. Both groups were excluded because the reviewers adjudged that without
+documentation of continued measurable disease after bridging chemotherapy is completed, the
+independent contribution of KYMRIAH to clinical response cannot be determined. One
+additional patient was excluded because of initial misclassification of a neuroendocrine
+malignancy as DLBCL. Consequently, the efficacy analysis was based on the results in a cohort
+of 68 evaluable patients.
+
+The median time from leukapheresis to product infusion for this group was 113 days (range 47 to
+106 days), and the median dose was 3.4 x 108 transduced KYMRIAH cells. Seventy eight
+percent of patients had de novo DLBCL, and the remainder developed DLBCL by
+transformation from Follicular Lymphoma. Ten patients (15% of the group) had confirmed
+double- or triple-hit lymphoma. The median age was 56 years with 21% ≥ 65; the median
+number of prior therapies was 3; 44% had previously had a AHSCT; and 56% were refractory to
+their last line of therapy.
+
+
+                                                                                                  7
+Primary Efficacy Endpoint
+The ORR in the evaluable efficacy set was 50% with 95% confidence intervals (CI, 95%) of
+37.6% and 62.4%. The CR rate was 32.4% with 95% CI of 21.5% and 44.8% (see the table
+below).
+
+
+                 Primary Endpoint: Overall Response Rate
+           Best Overall Response     Evaluable Efficacy Set
+                                              N=68
+                                                  % (N)
+                     CR                         32.4% (22)
+                     PR                         17.7% (12)
+                     SD                         17.7% (12)
+                     PD                         23.5% (16)
+                    UNK                          8.8% (6)
+
+                 ORR (CI)                   50.0% (37.6, 62.4)
+                  CR (CI)                   32.4% (21.5, 44.8)
+        Source: FDA clinical reviewer
+        CR, complete remission; PR, partial remission; CI, 95% Confidence Intervals.
+
+Secondary Endpoint
+The duration of response in the evaluable efficacy set of patients is summarized below.
+
+            Duration of Response for KYMRIAH responders
+            Overall DOR for responders (months)                      N= 34
+            median                                                    NEa
+            (95% CI)                                              (5.1, NE)b
+            Range                                                0.03 – 11.3+
+            Median Follow-up for DOR (95% CI)                  9.4 (7.9, 10.8)b
+            DOR if BOR is CR                                         N=22
+           median                                                     NE
+           (95% CI)                                               (10.0, NE)
+            Range                                                 1.5 – 11.3+
+            Median Follow-up for DOR (95% CI)                   8.4 (7.4, 10.5)
+            DOR if BOR is PR                                     I.      N=12
+            median                                                    3.4
+            (95% CI)                                               (1.0, NE)
+            Range                                                0.03 -11.3+
+            Median Follow-up for DOR (95% CI                   11.1 (1.7, 11.3)
+          DOR, duration of response; a Not estimable; b Kaplan-Meier estimate
+
+Median DOR for the overall group and for CRs was not reached after median follow-ups of 9.4
+and 8.4 months respectively. By comparison patients with PR had only a 3.3-month median
+
+                                                                                              8
+duration of response. Though the duration of follow-up is limited, this data demonstrates
+KYMRIAH can produce durable responses, particularly in patients who achieve a CR.
+
+Efficacy Review Issues
+    1) Yescarta, another CD19-directed CAR T cell product, has already received regular
+       approval for a similar clinical indication. The endpoints of CR and durability of CR are
+       considered clinical benefit endpoints, hence KYMRIAH was reviewed for regular
+       approval.
+
+   2) The applicant initially proposed earlier submission of this efficacy supplement based on
+      less extended follow-up, but as described in greater detail in the Regulatory History in
+      section 2, after discussions with the FDA, the applicant delayed submission until ≥ 6-
+      month follow-up was available for all responders and could be provided to the FDA
+      within 30 days after supplement submission.
+
+   3) As noted in the clinical efficacy assessment section above, 23 patients were excluded
+      from efficacy assessment because the timing or therapeutic efficacy of bridging
+      chemotherapy interfered with the documentation of baseline measurable disease after
+      bridging chemotherapy needed to assess the independent contribution of KYMRIAH to
+      patient’s overall response. This methodologic decision was necessary for evaluation in a
+      registrational single arm trial, but it does not imply any judgment concerning the benefits
+      or risks of using bridging chemotherapy in association with KYMRIAH in the treatment
+      of DLBCL. Clarification of this issue may require additional controlled prospective
+      studies.
+
+Bioresearch Monitoring
+Bioresearch Monitoring inspections were issued for three domestic clinical study sites that
+participated in the conduct of Study CCTL019C2201. The inspections did not reveal substantive
+problems that impact the data submitted in this BLA.
+
+Post Marketing Requirements (PMR) and Post Marketing Commitments
+
+Risk Evaluation Mitigation Strategies (REMS)
+Seventy eight of 106 (74%) subjects treated with KYMRIAH experienced CRS, and 23 of 78
+(29%) of the subjects had CRS of Grade 3 or higher. CRS results in a constellation of
+inflammatory symptoms ranging from a flu-like syndrome to severe multi-organ system failure
+and death. Specifically, Grade 3/4 CRS required treatment in ICU settings. Treatment of CRS
+was based on a complex grading system and treatment algorithm requiring supportive care,
+tocilizumab and corticosteroids. Of the 78 subjects with CRS, 16 (21%) required 1-2 doses of
+tocilizumab and 12 (15%) received corticosteroid. Three patient deaths, at least in part, were
+attributed to CRS. In addition, 58% (62 of 106) of subjects experienced neurotoxicity (defined as
+events within the neurologic or psychiatric SOC, or gait disturbance). Eighteen percent were
+grade≥ 3. There no deaths attributable to neurotoxicity. Monitoring for neurotoxicity required
+frequent neurological evaluations. Treatment focused on ensuring an open airway, availability of
+seizure prophylaxis, and systemic corticosteroid treatment.
+
+
+
+                                                                                                  9
+To ensure that the benefits of KYMRIAH outweigh the risks of cytokine release syndrome
+(CRS) and neurotoxicity, it was determined that a REMS that includes elements to assure safe
+use (ETASU) is necessary.
+Two Elements to Assure Safe Use (ETASU) are required to mitigate the known risks of CRS and
+neurotoxicity, as follows:
+    • Pharmacies, practitioners, or health care settings that dispense the drug must be specially
+       certified and must have immediate access to tocilizumab. Site-certification will also entail
+       providing patients with information on CRS and neurotoxicity and informing them of the
+       importance of staying within 2 hours of the hospital for at least 3 to 4 weeks after
+       receiving treatment.
+    • Those who prescribe, dispense or administer KYMRIAH must be trained about the
+       management of CRS and neurotoxicity.
+
+The REMS ETASU requires Novartis to ensure:
+   • Pharmacies, practitioners and health care settings dispensing KYMRIAH are certified
+      through a live training program and knowledge assessment.
+   • Sites report all cases of CRS and neurotoxicity
+   • Sites have a minimum of two doses of tocilizumab available on site
+   • Processes and procedures are followed for the KYMRIAH REMS program.
+   • REMS assessments are sent to the Agency at 6 months, 12 months, and annually
+      thereafter.
+
+Materials provided as part of the REMS included:
+   • KYMRIAH REMS Program Live Training for Hospitals
+   • KYMRIAH REMS Program Knowledge Assessment
+   • KYMRIAH REMS Program Hospital Enrollment Form
+   • KYMRIAH REMS Program Website
+   • KYMRIAH REMS Program Patient/Caregiver Wallet Card
+
+Since the original approval for KYMRIAH included this REMS for childhood B-ALL, a major
+modification will be completed by the sponsor to include all pertinent training information for
+the DLBCL indication.
+
+Post Marketing Requirements (PMR) Study
+The use of retroviral and lentiviral vectors in the genetic modification of human cells exposes
+patients to potential long-term risks such as prolonged persistence of transduced T cells, the
+formation of oncogenic replication-competent lentiviruses through recombination of lentiviral
+elements with endogenous retroviruses, and the development of secondary malignancies
+triggered by insertion of transduced lentivirus into the genome of normal cells. In view of these
+potential risks, long-term monitoring of safety for patients treated for the DLBCL indication
+necessitates a post-marketing requirement (PMR). The applicant previously proposed Study
+CCTL019B2401 (B2401) a multicenter, prospective, observational, non-interventional, safety
+study as a post-marketing required study for 15 years in at least 1000 ALL patients who receive
+KYMRIAH. This protocol will be amended to include 1500 DLBCL patients who received
+KYMRIAH. Patients will be enrolled over a 5-year period with enrollment of each subject to
+begin within 3 months of KYMRIAH infusion. Patients will receive clinical evaluation and
+
+                                                                                                10
+follow-up as per standard of care for patients with relapsed/refractory aggressive B-cell non-
+Hodgkin lymphoma. The primary endpoint will be evaluation for secondary malignancy which
+will include if possible, tissue acquisition by the Applicant for analysis of possible lentiviral
+mediated oncogenic events. Secondary endpoints will be adverse events of CRS and neurologic
+toxicities and disease outcomes (survival). The time table for data collection starts upon
+commercialization and ends December 31, 2037. Safety reports will be submitted periodically in
+accordance with local regulatory requirements for the duration of the study. and the Final report
+of study results is December 31, 2038.
+
+            b) Pediatrics
+Not applicable. There are no pediatric data in the intended population and the application does
+not trigger Pediatric Research Equity Act (PREA), as KYMRIAH has orphan designation for this
+indication.
+
+           c) Other Special Populations
+None
+
+   7. SAFETY
+
+The primary safety population for C2201 consisted of 106 patients who received KYMRIAH, 93
+whom received product manufactured in the US and an additional 13 who received KYMRIAH
+manufactured in (b) (4) (Cohort A). All subjects experienced at least one adverse event
+following KYMRIAH infusion, and 95 (90%) experienced at least one Grade 3 or greater event.
+Serious adverse events (SAEs) were observed in 67 (63%) patients. Adverse events of special
+interest (AESI) included cytokine release syndrome (CRS), neuropsychiatric toxicities, febrile
+neutropenia, cytopenias lasting greater than 28 days, infections and hypogammaglobulinemia.
+CRS was assessed based on the Penn Grading Scale (PGS-CRS) which included clinical signs
+and symptoms and supportive care interventions in the context of supportive cytokine levels. The
+following table summarizes the incidence of all grade and grade >3 AESI.
+
+Adverse Events of Special Interest post-KYMRIAH Infusion, C2201 (N=106)
+                                              All Grades                        Grade >3
+                                                 n (%)                            n (%)
+CRS                                            78 (74%)                         24 (23%)
+Neuropsychiatric toxicities                    62 (58%)                         19 (18%)
+Infections                                     54 (51%)                         33 (31%)
+Hematopoietic cytopenia beyond day 2                                            56 (52%)
+                                                  n/a
+                            Neutropenia                                         26 (25%)
+                     Thrombocytopenia                                           41 (39%)
+Febrile neutropenia                            18 (17%)                         18 (17%)
+Hypogammaglobulinemia                          14 (13%)                          3 (3%)
+Source: FDA reviewer
+
+Overall, 46 patient deaths were reported from the time of informed consent to the data cut-off for
+the 30-day safety update report 09/06/2017). Three deaths (3%) occurred within 30 days of the
+KYMRIAH infusion, and 13 deaths (12%) occurred within 60 days of the infusion. The majority
+
+                                                                                                11
+of deaths (35; 33%) were due to progressive disease. Seven deaths (6.6%) were assessed to be at
+least possibly related to KYMRIAH therapy, including 4 cases where distinguishing between
+CRS/tumor flare versus progressive disease as the root cause of death was not possible. All 3
+patients who died within 30 days of infusion had CRS in the setting of stable to progressive
+underlying disease. One patient died in the setting of a fatal infection, and 2 had fatal
+hemorrhages, one of which was in the setting of persistent thrombocytopenia 105 days from the
+infusion.
+
+The median time to onset of CRS was 3 days, and, except for one case on day 51, all cases
+occurred on days 1 through 9 post-infusion. Median time to CRS resolution was 6 days (range 1-
+30). CRS required intensive support measures including new hospitalizations (8% of patients),
+extended hospital stays (41%), including ICU admissions (25%), intubations (8%), use of
+vasopressors (12%) and dialysis (5%). Sixteen patients (15%) received at least 1 dose of
+tocilizumab, and 15 patients (14%) received at least one dose of steroids.
+
+The median time to onset of neuropsychiatric toxicity was 5 days (range 1-359); only 16 events
+in 12 patients occurred beyond 90-days post-infusion. Fifty patients (47%) experienced both
+CRS and neuropsychiatric toxicities. Median time to resolution was 14 days (range 1-365), with
+84% resolving within 90 days. The most common (>10%) events in this category included
+headache (21%), encephalopathy (16%), pain (15%) and dizziness (13%); other notable events
+included visual impairment (7%), tremor (7%), delirium (5%), speech disorders (3%) and
+seizures (3%).
+
+Hypogammaglobulinemia resulted from loss of normal B-cells, an on-target effect of successful
+KYMRIAH treatment. Patients need to be maintained on supplemental treatment with
+intravenous gamma globulin (IVIG).
+
+Grade 3 or greater non-hematologic laboratory abnormalities occurring in at least 10% of
+patients included hypophosphatemia (24%), hypocalcemia (13%), hypokalemia (12%) and
+hyponatremia (11%).
+
+KYMRIAH is a genetically modified product that has the potential for integration of the
+lentiviral vector (insertional mutagenesis), clonal outgrowth, or neoplastic transformation of
+transduced host cells.
+
+Post-infusion, non-laboratory adverse events that occurred in at least 10% of patients in the
+safety population on C2201, or in at least 5% of patients at Grade 3 or greater, are outlined in the
+table below.
+
+Common (>10% overall, or >5% Grade 3 or greater) non-laboratory AEs post- Infusion,
+C2201
+PTa                              All grades                Grade > 3
+Cytokine release syndrome        78 (74%)                  24 (23%)
+Pyrexia                          36 (34%)                   6 (6%)
+Diarrhoea                        33 (31%)                   1 (1%)
+Nausea                           29 (27%)                   1 (1%)
+
+                                                                                                  12
+Hypotension                               28 (26%)                      9 (8%)
+Fatigue                                   27 (26%)                      7 7%)
+                                          24 (23%)                      3 (3%)
+Headache                                  22 (21%)                         -
+Cough                                     20 (19%)
+Dyspnoea                                  19 (18%)             6 (6%)
+Acute kidney injury                       18 (17%)             6 (6%)
+Febrile neutropenia                       18 (17%)            18 (17%)
+Constipation                              17 (16%)             1 (1%)
+Encephalopathy                            17 (16%)            12 (11%)
+Pain                                      16 (15%)             3 (3%)
+Chills                                    14 (13%)                -
+Hypogammaglobulinaemia                    14 (13%)             3 (3%)
+Tachycardia                               14 (13%)             3 (3%)
+Decreased appetite                        13 (12%)             4 (4%)
+Dizziness                                 13 (12%)             2 (2%)
+Upper respiratory tract                   13 (12%)             2 (2%)
+infectionb
+Weight decreased                     13 (12%)                  3 (3%)
+Arthralgia                           11 (10%)                     -
+                        a                     b
+Source: FDA reviewer; Includes grouped terms; HLGT “infections, pathogens
+unspecified”
+
+Immunogenicity
+Because the CD19-specific chimeric antigen receptor (CD19-CAR) is a foreign protein that
+contains murine sequences, infusion of KYMRIAH could induce humoral and cellular responses
+against this moiety. Humoral antibody responses against CD19-CAR were detectable in most
+individuals even before KYMRIAH treatment, but only 7 subjects demonstrated an increased
+anti-mCAR19 response following KYMRIAH treatment. T cell responses against mCD19
+  (b) (4) were also common pretreatment and did not fluctuate over time. Within the
+limitations imposed by small patient population size and high variability in sample levels,
+humoral and cellular immunogenicity did not significantly impact CTL019 expansion and
+efficacy.
+
+   8. ADVISORY COMMITTEE MEETING
+
+No advisory committee meeting was held for this supplement because: a) KYMRIAH has
+already been approved for another indication and it displays a similar safety profile in the current
+trial, b) the trial endpoints are not novel and are acceptable in the proposed patient population,
+and c) the application did not raise significant public health questions on the role of the biologic
+in the diagnosis, cure, mitigation, treatment, or prevention of a disease.
+
+   9. OTHER RELEVANT REGULATORY ISSUES
+
+None
+
+
+                                                                                                  13
+   10. LABELING
+
+   •   The APLB found the prescribing information (PI) and container labels to be acceptable
+       from a promotional and comprehension perspective.
+   •   The review committee negotiated revisions to the PI with the Applicant which included:
+       o Warnings and Precautions: Section 5 was modified providing more detailed
+          information about incidence of major adverse events within the trial, especially CRS
+          and neurotoxicity.
+       o Adverse Reactions: Section 6, Tables 2, 3, 5, and 6 were modified providing more
+          detailed information about overall incidence of adverse reactions in trials using
+          KYMRIAH.
+       o Clinical Studies: Section 14.2 r/r DLBCL Clarification was provided about frequency
+          of inpatient and outpatient administration of KYMRIAH. After exclusion of 24
+          patients who were inevaluable for assessment of objective response with KYMRIAH
+          therapy, efficacy analysis presented in Section 14.2 of labeling included the subset of
+          68 patients with measurable disease at baseline assessment as described in section
+          6.1.10.
+
+   11. RECOMMENDATIONS AND RISK/ BENEFIT ASSESSMENT
+
+            a) Recommended Regulatory Action
+Based on the magnitude and durability of the treatment effect demonstrated in Study
+CCTL019C2201, the clinical review team recommends regular approval (21 CFR 601.4) of
+KYMRIAH for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or
+more lines of systemic therapy including diffuse large B-cell lymphoma (DLBCL) not otherwise
+specified, high grade B-cell lymphoma, and DLBCL arising from follicular lymphoma.
+KYMRIAH is not indicated for treatment of patients with primary central nervous system (CNS)
+lymphoma.
+
+            b) Risk/ Benefit Assessment
+The efficacy of KYMRIAH was established based on the complete remission (CR) rate and
+duration of response. In a population of 68 patients with relapsed or refractory disease, the
+objective response rate was 50% with a CR rate of 32%, and the median duration of response for
+responders has not yet been reached after a median follow-up of 9.4 months. This response rate
+exceeds that previously reported for standard chemo-immunotherapy.
+
+The risks of KYMRIAH can be linked to its mechanism of action, which involves the activation
+of T cells targeted to kill CD19+ cells. Cytokine release syndrome and neurotoxicity presumably
+linked to T cell activation-products occurred in 65% and 79% of patients respectively, and both
+complications can be life-threatening or fatal. Hypogammaglobulinemia resulting from CAR T
+cell attack on normal CD19+ B cells may persist for months requiring monitoring and
+replacement therapy. A potential risk of clonal mutagenesis or secondary malignancy associated
+with the use of a lentiviral vector cannot be excluded.
+
+In view of the grave prognosis of relapsed/refractory large B-cell lymphoma after treatment with
+conventional chemo-immunotherapy, the review team concludes that the BLA efficacy and
+
+
+                                                                                               14
+safety data indicate a favorable risk/benefit profile. The review team recommends regular
+approval of KYMRIAH at the dose of 0.6-6 x 108 transduced CAR-positive viable T cells. A
+postmarketing requirement (PMR) study to assess long-term toxicities of KYMRIAH will be
+conducted.
+
+Following review of the BLA clinical and safety data, the review team recommends issuing a
+regular approval (21 CFR 601.4 (a)) for KYMRIAH, implementing a REMS program, and
+requiring a long-term follow-up program as a PMR. The Prescribing Information (PI) will
+include a boxed warning for CRS and neurologic toxicity and a REMS with ETASU to ensure
+that the product’s benefits outweigh the risks.
+
+            c) Recommendation for Postmarketing Activities
+The applicant previously established a long-term follow-up study B2401, as a PMR upon initial
+approval of KYMRIAH for treatment of patients with relapsed, refractory childhood ALL. This
+observational study was established to assess short-term toxicity, document adverse events, and
+monitor long-term for the development of secondary malignancies.
+Since the lentiviral vector used to produce KYMRIAH could potentially contribute in the
+generation of replication-competent retroviruses or initiate insertional mutagenesis, the applicant
+has agreed to obtain and test tissue from second malignancies whenever possible to test whether
+genetic elements of KYMRIAH contributed to oncogenesis. To detect uncommon events, B2401
+plans to enroll 1,000 ALL patients over 5 years and follow each patient for 15 years. Since
+similar concerns also arise concerning the impact of KYMRIAH on patients with DLBCL, the
+agency requires the applicant to amend the protocol to also enroll at least 1500 patients in this
+long-term study as well.
+
+
+At the time of initial approval, CBER Office of Biostatistics and Epidemiology and CDER
+Division of Risk Management also determined that a Risk Evaluation and Mitigation Strategy
+(REMS) was indicated to ensure that the benefits of KYMRIAH outweigh the risks of Cytokine
+Release Syndrome (CRS) and neurotoxicity for patients with childhood ALL. This REMS
+included 2 Elements to Assure Safe Use (ETASU) i.e. site certification and restriction of use to
+certain health care settings for patients receiving KYMRIAH for childhood ALL. The agency
+now requests the applicant to modify the REMS/ETASU plan to enforce similar
+pharmacovigilance in the treatment of patients with DLBCL.
+
+
+
+
+                                                                                                 15
+

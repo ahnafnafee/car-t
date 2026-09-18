@@ -1,0 +1,773 @@
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+HEALTH AND MEDICINE                                                                                                                          Copyright © 2022
+                                                                                                                                             The Authors, some
+Single-cell antigen-specific landscape of CAR T infusion                                                                                     rights reserved;
+                                                                                                                                             exclusive licensee
+product identifies determinants of CD19-positive                                                                                             American Association
+                                                                                                                                             for the Advancement
+relapse in patients with ALL                                                                                                                 of Science. No claim to
+                                                                                                                                             original U.S. Government
+                                                                                                                                             Works. Distributed
+Zhiliang Bai1†, Steven Woodhouse2†, Ziran Zhao3,4,5,6, Rahul Arya7,8, Kiya Govek2,                                                           under a Creative
+Dongjoo Kim1, Stefan Lundh4, Alev Baysoy1, Hongxing Sun3, Yanxiang Deng1, Yang Xiao1,                                                        Commons Attribution
+David M. Barrett7,8, Regina M. Myers7, Stephan A. Grupp7,8, Carl H. June3,4,5, Rong Fan1,9,10*‡,                                             NonCommercial
+Pablo G. Camara2*‡, J. Joseph Melenhorst3,4,5,6*‡                                                                                            License 4.0 (CC BY-NC).
+
+
+A notable number of acute lymphoblastic leukemia (ALL) patients develop CD19-positive relapse within 1 year
+after receiving chimeric antigen receptor (CAR) T cell therapy. It remains unclear if the long-term response is asso-
+ciated with the characteristics of CAR T cells in infusion products, hindering the identification of biomarkers to
+predict therapeutic outcomes. Here, we present 101,326 single-cell transcriptomes and surface protein landscape
+from the infusion products of 12 ALL patients. We observed substantial heterogeneity in the antigen-specific acti-
+vation states, among which a deficiency of T helper 2 function was associated with CD19-positive relapse compared
+with durable responders (remission, >54 months). Proteomic data revealed that the frequency of early memory T cells,
+rather than activation or coinhibitory signatures, could distinguish the relapse. These findings were corroborated
+by independent functional profiling of 49 patients, and an integrative model was developed to predict the response.
+Our data unveil the molecular mechanisms that may inform strategies to boost specific T cell function to maintain
+long-term remission.
+
+
+
+INTRODUCTION                                                                             which is affected by several CAR T product characteristics such as
+Children with chemotherapy-resistant and/or refractory (r/r) acute                       CAR construct design (16, 17) and early memory T cell abundance
+lymphoblastic leukemia (ALL) have dismal prognosis (1, 2). Emerging                      (18–20). By characterizing the phenotype of premanufacture start-
+as a potential immunotherapeutic approach, autologous chimeric                           ing T cells, an elevated frequency of CD27+CD45RO−CD8+ T cells
+antigen receptor (CAR) T cellular therapy targeting the B cell sur-                      (21), a higher percentage of naïve and early memory T cell compo-
+face protein CD19 (CART19) has produced remarkable outcomes                              sition (22), and a decreased frequency of LAG-3+/TNF-lo CD8+
+in the treatment of B cell malignancies (3–7). Multicenter clinical                      T cells were found to be associated with sustained remission (23).
+trials have demonstrated that 70 to 90% of patients with B-ALL                           In addition, impaired death receptor signaling in tumor cells (24),
+achieve complete remission after receiving CART19 products (6–9),                        high pretreatment disease burden (8), and the detection of minimal
+providing a potentially curative option for these patients. However,                     residual disease (MRD) in the bone marrow by next-generation se-
+the remissions in a notable fraction of subjects are short-lived, and                    quencing (25) also contributed to observed therapeutic failure and
+30 to 60% of treated patients relapse within 1 year (8–11), let alone                    reduced remission duration.
+~20% of ALL patients and over half of patients with large B cell                             However, the molecular mechanisms that underlie the acquired
+lymphoma (LBCL) or chronic lymphocytic leukemia (CLL) fail to                            resistance to the CAR T cell treatment are still unclear. Although
+enter initial remission after CART19 infusion (12–15).                                   antigen loss could explain a majority of CD19-negative disease re-
+    These disparities in therapeutic efficacy have evoked the efforts                    lapse after receiving CART19 therapy (26–28), the mechanisms of
+to interrogate the molecular determinants of long-term remission.                        CD19-positive relapse remain elusive. We hypothesized that the
+It has been well accepted that robust in vivo CAR T cell engraftment                     functional capacity of CAR T cells in the infusion product could be
+and expansion is a prerequisite for inducing antitumor efficacy (6, 16),                 an essential factor determining long-term therapeutic response. By
+1
+                                                                                         combining single-cell RNA sequencing (scRNA-seq) and cellular
+ Department of Biomedical Engineering, Yale University, New Haven, CT 06520, USA.
+2
+ Department of Genetics and Institute for Biomedical Informatics, University of
+                                                                                         indexing of transcriptomes and epitopes by sequencing (CITE-seq)
+Pennsylvania, Philadelphia, PA 19104, USA. 3Department of Pathology and Laboratory       (29), we have investigated the single-cell activation landscape of
+Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia,         CAR T infusion products from 12 pediatric r/r ALL patients upon
+PA 19104, USA. 4Center for Cellular Immunotherapies, Perelman School of Medicine,        CAR-specific stimulation or T cell receptor (TCR)–mediated acti-
+University of Pennsylvania, Philadelphia, PA 19104, USA. 5Parker Institute for Cancer
+Immunotherapy at University of Pennsylvania, Philadelphia, PA 19104, USA. 6Lerner        vation, in comparison with unstimulated controls. We find that CD19-­
+Research Institute, Cleveland Clinic, Cleveland, OH 44106, USA. 7Division of Oncology,   positive relapsed patients (n = 5) have a deficit of CAR T cells capable
+Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA. 8Department of         of inducing a T helper type 2 (TH2) functional response and of main­
+Pediatrics, Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA. 9Yale
+Stem Cell Center and Yale Cancer Center, Yale School of Medicine, New Haven,
+                                                                                         taining stem cell–like memory and central memory states compared
+CT 06520, USA. 10Human and Translational Immunology, Yale School of Medicine,            with very durable responders (n = 5), whereas the expression levels
+New Haven, CT 06520, USA.                                                                of activation- or coinhibitory-related proteomic markers are com-
+*Corresponding author. Email: rong.fan@yale.edu (R.F.); pcamara@pennmedicine.            parable between two groups. We have performed an independent
+upenn.edu (P.G.C.); melenhj@ccf.org (J.J.M.)
+†These authors contributed equally to this work.                                         functional validation of these findings in two cohorts comprising
+‡These authors jointly directed this work.                                               49 patients by means of flow cytometry and a multiplexed secretomic
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                      1 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+assay (30). In addition, we have incorporated the identified bio-         A global transcriptomic landscape of single CAR T cell
+markers into a predictive index using a binomial logistic regression.     activation states
+These results provide new insights into the molecular characteris-        In total, we profiled the transcriptome of 101,326 cells from CAR T
+tics that underlie CD19-positive relapse via single-cell multiomics       infusion products, of which 97,981 cells were analyzed after quality
+profiling of CAR T activation states and computational dissection         control and filtering. Integrating and clustering the scRNA-seq data
+of functional modules and biological pathways associated with clin-       across all patients and conditions identified 11 subpopulations with
+ical outcomes.                                                            distinct transcriptomic signatures, which were visualized using Uni-
+                                                                          form Manifold Approximation and Projection (UMAP) (Fig. 1B).
+                                                                          As expected, stimulated cells separated from their unstimulated or
+RESULTS                                                                   control counterparts in this representation and MSLN-3T3 cocul-
+Single-cell multiomics profiling of CD19 CAR T infusion                   tured cells overlapped with unstimulated cells (Fig. 1C), indicating
+products from ALL patients                                                experimental consistency and a minimal impact of antigen-negative
+The infusion products of 12 pediatric and young adult patients            costimulatory ligand-expressing mouse APCs. To exclude the pos-
+(median age, 11.15 years; range, 4.9 to 21.5 years) from a phase 1/2A     sibility of xenogeneic stimulation by the NIH3T3 cells, we con-
+CART19 clinical trial of r/r B-ALL at the Children’s Hospital of          firmed that the expression of genes associated with major immune
+Philadelphia were analyzed (table S1) (6). Patients were divided into     functions in each individual patient was significantly higher in
+two groups based on their initial response to the CAR T therapy:          CD19-3T3 cocultures as compared with control MSLN-3T3 cocul-
+10 patients (responders) had a complete remission defined by mor-         tures (fig. S2). Ingenuity Pathway Analysis (IPA) (32) was performed
+phologic assessment of the bone marrow as M1 (<5% leukemic blasts),       to explore the biological themes associated with the differentially
+whereas the remaining 2 patients did not show an objective re-            expressed genes (DEGs) of each subpopulation, and we found that
+sponse to the therapy [nonresponders (NR)]. The responders were           CAR T cells were highly heterogeneous in terms of their basic cell
+then subdivided into those who had a very durable complete remis-         programs, cell cycle regulations, metabolic activities, T cell activa-
+sion (CR; >54 months, n = 5) and those who had a CD19-positive            tion spectra, and effector functions that resulted upon CAR-specific
+relapse during the course of the trial (RL; n = 5; median relapse-free    activation (fig. S3).
+remission duration = 9.6 months).                                             Differential expression analysis between each subpopulation
+    We sought to assess whether the intrinsic molecular characteristics   and the three clusters enriched for unstimulated cells (clusters 0, 1,
+of the infusion products could be predictive of clinical outcomes,        and 5) revealed that subpopulations associated with stimulated cells
+reasoning that differences in T cell states and subtype proportions       (clusters 2, 3, 4, 6, 7, and 9) had significant (q < 0.05) up-regulation
+may determine both initial and long-term responses. Since the study       of CSF2 [colony-stimulating factor 2; granulocyte-macrophage
+of CAR T cells at baseline might not suffice to gain insights into the    colony-stimulating factor (GM-CSF)], IFNG [interferon- (IFN-)],
+dynamics of early responses upon CAR engagement, we developed             and GZMB (granzyme B) and down-regulation of CCL5 (C-C motif
+a stimulation method to emulate CAR-specific activation, for ex-          chemokine 5), CD52, LTB (lymphotoxin ), and STMN1, suggest-
+ample, by B-ALL leukemic cells. To that end, CAR T cells in infu-         ing that CAR T cells in these subpopulations are active functional
+sion products were analyzed upon CAR-specific stimulation with            effectors (fig. S4A). Two C-C motif chemokines, CCL3 [macrophage
+human CD19-expressing antigen-presenting cells (APCs) and com-            inflammatory protein-1 (MIP-1)] and CCL4 (MIP-1), and
+pared them to three additional conditions: TCR-mediated stimula-          two C motif chemokines, XCL1 and XCL2, were also up-regulated
+tion, nontarget APC stimulation, and unstimulated controls (Fig. 1A).     in five of these clusters. In addition, cells cocultured with CD19-3T3
+We engineered an NIH3T3 mouse cell line to stably express the             APCs separated from anti-CD3/CD28–stimulated cells in the UMAP
+human proteins CD19, CD86, and 4-1BB ligand (CD19-3T3 cells)              representation (Fig. 1C), suggesting differences in the gene expres-
+(fig. S1A), and a control cell line expressing human mesothelin in-       sion programs induced by TCR- and CAR-mediated T cell activa-
+stead of CD19 (MSLN-3T3 cells) (fig. S1B). The infusion product of        tion. Consistent with this observation, we found a deficit of IL13
+each patient was cocultured with the engineered cell lines for 6 hours    and IL2 expression in subpopulations enriched for TCR-stimulated
+at a 1:1 ratio. In addition to these experiments, we stimulated the       cells (clusters 3, 6, and 7), among other differences (fig. S4B).
+same infusion batches using anti-CD3/CD28–coated beads for the
+same duration to examine the TCR-mediated activation states.              The CAR T cell activation states and their association
+    We performed scRNA-seq of the CAR T infusion products of              with initial treatment responses
+the 12 patients under these four experimental conditions using a          The presence of lentiviral vector elements in the CAR construct
+microwell-based approach (31). CITE-seq was adapted to this plat-         allowed us to differentiate the expression of the CAR from that of
+form to concurrently profile 14 surface proteins through sequenc-         homologous endogenous TCR and costimulatory elements (fig. S5A).
+ing of antibody-derived DNA tags (ADTs), including T cell markers         On the basis of the fraction of cells with detected CAR construct
+(CD4 and CD8), differentiation and subtype markers (CD45RO,               expression among active cells in the stimulated samples, it was esti-
+CD45RA, CCR7, and CD62L), activation markers (HLA-DR, CD69,               mated that the sensitivity to detect the expression of the CAR con-
+CD38, and 4-1BB), and coinhibitory markers (PD-1, CTLA-4, LAG-3,          struct in the scRNA-seq data was 47%. Using this estimate, we inferred
+and TIGIT). In our coculture experiments, CD19-3T3 cells formed           that 30% [90% confidence interval (CI): 21 to 41%] of the T cells in
+strong immune synapses with CAR T cells to induce CAR-specific            the infusion products were CAR+ (fig. S5B), of which 57 to 68% and
+activation. To separate the transcriptome of CAR T cells and APCs,        34 to 53% (90% CI) were CD4+ and CD8+, respectively (fig. S5C), in
+we mapped the sequencing reads to the concatenation of the CAR            agreement with previous reports of CAR transduction efficiency (6, 33).
+construct, human, and mouse reference genomes and classified each             On the basis of these results, our analysis was restricted to only
+read based on the genome it best aligned to.                              CAR+ cells in the infusion products and each experimental condition
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                     2 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+
+
+
+Fig. 1. A functional landscape and activation states of CD19 CAR T preinfusion products from patients with ALL. (A) Schematic of experimental design. MSLN,
+mesothelin. (B) Uniform Manifold Approximation and Projection (UMAP) plot of 97,981 single CAR T cells collected from 12 patients. Eleven clusters are identified through
+unsupervised clustering. (C) UMAP distribution of all profiled cells separated by stimulation conditions. (D) Clustering and differential expression analysis of single CAR
+T cells revealed three major populations, characterized respectively by high expression levels of HMGB2, LTB, and CSF2. The distribution of the three marker genes and the
+cell cycle expression pattern of four experimental conditions were shown. (E) Quantification of fully active CSF2+ cell proportion in three response groups at the
+four conditions. Upon stimulation with CD19-3T3 cells or anti-CD3/CD28 beads, a large population of cells express high level of CSF2 and other cytokines, including IFNG,
+IL2, IL13, CCL3/CCL4, and XCL1/XCL2. The P values were calculated with Mann-Whitney test.
+
+
+
+was examined separately. Clustering and differential expression                        populations across all experimental conditions, although their size
+analysis of cells at baseline revealed two major populations of CAR                    was smaller upon CAR or TCR stimulation. In addition, in the ex-
+T cells, characterized respectively by high expression levels of HMGB2                 periments involving CAR or TCR stimulation, our analysis revealed
+(high mobility box group 2) and LTB (Fig. 1D and table S2). The                        a large population of cells with high expression of CSF2 (Fig. 1D)
+population of HMGB2-expressing CAR T cells was marked by high                          and other cytokines, including IFNG, IL2, IL13, CCL3 and CCL4,
+expression of cell cycle genes (table S2), consistent with these cells                 and XCL1 and XCL2 (table S2). Thus, upon stimulation with CD19-
+being actively proliferating. In contrast, the population of LTB-­                     3T3 cells or anti-CD3/CD28 beads, the proportion of CSF2+ CAR
+expressing cells consisted mostly of cells in the G1 phase of the cell                 T cells significantly increased for all patients [mean fold change
+cycle (Fig. 1D) and had expression of CCL5 (table S2). The same                        (MFC) = 22.2 and 20.7 for CAR and TCR stimulation, respectively;
+analysis in the single-cell data from CAR- or TCR-stimulated con-                      Fig. 1E]. This increase was not observed upon coculture with
+ditions revealed the presence of the same HMGB2+ and LTB+ cell                         MSLN-3T3 control cells, consistent with CSF2 expression being
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                             3 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+induced by the CAR or TCR activation. On the basis of these results,                 donor CAR T cells that we identified in a previous study (34). Our
+CSF2+ CAR T cells were identified as CAR T cells in a functionally                   analysis also identified a module consisting of LTB, CCL5, IL16, IL32,
+active state.                                                                        and other cytokine genes related to the LTB-expressing cell subpop-
+   We hypothesized that the number of functionally active CAR                        ulation described above. In addition, we considered a literature-­
+T cells upon stimulation might be related to disparities in the                      derived expression module for terminally differentiated CD8 T cells
+clinical responses. We compared the proportion of CSF2+ cells                        (35), which was characterized by the expression of the transcriptional
+between the clinical response groups defined above. However, there                   repressor ZEB2. After removing cells that did not belong to these
+was no significant difference in the abundance of CSF2 + cells                       modules, we generated UMAP representations to delineate the dis-
+between the three groups of patients (Fig. 1E), although we did                      tribution of each functional module, in which cells were located
+observe a significant anticorrelation between the duration of the re-                according to their inferred cytokine module activities (Fig. 2B). Ex-
+sponse to the therapy and the proportion of HMGB2+ CAR T cells                       pectedly, MSLN cocultured control cells separated in the UMAP rep-
+upon stimulation with CD19-3T3 cells (Spearman’s r = − 0.65,                         resentation and showed high expression of the LTB module (Fig. 2C).
+P = 0.02).                                                                               In the landscape of major responsive states, CAR+ cells from CR,
+                                                                                     RL, and NR patients were localized in the representation (Fig. 2D),
+Failure to sustain a long-term response to the therapy is                            suggesting a distinct cytokine module expression profile for these
+associated with a deficit of TH2 function in antigen-specific                        cells. Notably, the type 2 (TH2) module was found to be enriched in
+CAR T activation                                                                     a region containing mostly cells from CR patients (Fig. 2E), im-
+We next investigated the functional heterogeneity of the CAR T cell                  plying that TH2 function might be indispensable for maintaining
+activation states upon stimulation with CD19-3T3 cells. We per-                      a long-term remission in CAR T therapy. A quantitative comparison
+formed an unsupervised analysis to identify modules of coexpressed                   be­tween the landscape of CD19-3T3–stimulated CAR T cells identi-
+cytokines. This analysis identified multiple functional cytokine                     fied a significant depletion of CAR+ cells expressing the type 2 cyto-
+coexpression modules, including two type 1–like cytokine modules                     kine module in RL patients compared to CR patients (MFC = 4.14;
+comprising an array of type 1 response genes like IFNG and IL2, a                    Mann-­Whitney test, P = 0.05) (Fig. 2F), whereas other functional modules
+type 2 cytokine module consisting of IL4, IL5, IL9, IL13, and IL31,                  remained comparable between the two response groups (fig. S6). These
+and a module consisting of beta chemokines like CCL3, CCL4, and                      data prompted us to perform more detailed investigations of the
+related factors (Fig. 2A). These modules were highly consistent with                 differences between the activation states of CAR T cells from CR and
+the global landscape of single-cell transcriptional states of healthy                RL patients.
+
+
+
+
+Fig. 2. Coexpressed cytokine module analysis of CD19-specific stimulated CAR T cells identified functional heterogeneities and a deficit of TH2 function in
+CD19-positive relapsed patients. (A) Coexpressed cytokine modules identified in CD19-specific stimulated CAR+ cells through unsupervised analysis. Genes are ordered
+by hierarchical clustering. Multiple functional cytokine coexpression modules, including two type 1–like, a type 2, and two chemokine modules, were identified. (B) Ex-
+pression distribution of the identified modules on the UMAP. (C) Integrated cytokine module representation UMAP split by experimental conditions. (D) Localization of
+cells from each response group on the integrated UMAP. (E) Distribution of type 2 (TH2) module. (F) Comparison of type 2 (TH2) module–expressed CSF2+CAR+ active
+cell proportion between very durable remission patients (CR) and CD19+ relapsed patients (RL). The P values were calculated with Mann-Whitney test.
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                         4 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+Functional immune programs in activated CAR+ cells do not                                and IL13, in CR patients (Fig. 3A), consistently with our previous
+distinguish CD19-positive relapse from CR subjects, except                               module analysis. Other immune pathways like TH1 cytokine pro-
+for TH2-related pathways, genes, and upstream regulators                                 duction, TH differentiation, and ICOS-ICOSL signaling were com-
+To identify the characteristics of functional CAR T cell states asso-                    parable between the two response groups (Fig. 3B). In line with
+ciated with clinical responses, we performed differential expression                     these findings, a network analysis of canonical pathways, upstream
+analyses between the CAR+ cells from CR and RL patients at the                           regulators, and biological functions regulated by the DEGs showed
+unstimulated basal level or upon CAR stimulation. The analysis of                        that CD28, ICOS, interleukin-3 (IL-3), and IL-25 were collectively
+baseline CAR T cells only revealed the up-regulation of eukaryotic                       operative in promoting the activation of the TH2 pathway in CAR
+initiation factor 2 (EIF2) signaling in the CR group (fig. S7), which                    T cells from CR patients (Fig. 3C). To explore the cascade of up-
+might represent active protein synthesis and translation initiation in                   stream regulators and assist the interpretation of the observed gene
+these cells (36). Comparing CAR T cells between CR and RL patients                       expression differences, we also performed IPA upstream analysis.
+upon antigen-specific stimulation showed the up-regulation of genes                      The transcription regulator FOXP3 and the cytokines IL27, IFNG,
+associated with TH2-related cytokine production, such as IL4, IL5,                       and IL10 were particularly active in cells from RL patients. By contrast,
+
+
+
+
+Fig. 3. TH2 function–related pathways, genes, and upstream regulators are collectively down-regulated in activated CAR T cells from patients with CD19-positive
+relapse. (A) Volcano plot of DEGs between CAR+ cells from CR and RL patients. (B) Corresponding canonical pathways regulated by the highly differential genes identified
+in (A). Pathway terms are ranked by –log10 (P value). The side listed gene names represent symbolic molecular marker related to the pathway. A statistical quantity, called
+z score, is computed and used to characterize the activation level.Z score reflects the predicted activation level (z < 0, inhibited; z > 0, activated; z ≥ 2 or z ≤ − 2 can be
+considered significant). (C) Graphical network of canonical pathways, upstream regulators, and biological functions regulated by DEGs identified in (A). (D) Predicted
+activation of upstream regulators, including complex, cytokine, transcription regulator, and transmembrane receptor, in CR or RL patients. (E) Dot plot of TH2-related gene
+expression of each patient in CR and RL groups. The size of circle represents the proportion of single cells expressing the gene, and the color shade indicates the normal-
+ized expression level. (F) Average expression level of genes IL13, IL5, IL4, and GATA3 across all single cells in each patient and their comparison between CR and RL groups.
+Each scatter point represents the average expression value of all single cells of specific patient. The P values were calculated with Mann-Whitney test. Scatter plots show
+means ± SEM.
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                                 5 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+GATA3, a master transcription factor mediating the activation of                             activated CAR+ cells from CR and RL samples identified eight tran-
+TH2 signature genes, and several genes involved in T cell activation,                        scriptionally distinct subpopulations (Fig. 4A). The top three genes
+including NFKB1, NFATC2, TNF, CD28, and CD69, were up-regulated                              differentiating each cluster indicated that CAR T cells in cluster 4
+in CR patients (Fig. 3D). To ensure that the above observations                              mainly functioned as TH2 helpers (Fig. 4B and fig. S8), and cells in
+were not biased by any single subject, we assessed the expression of                         clusters 2 and 3 had vigorous expression of cytokine and chemokine
+IL13, IL5, IL4, and GATA3 in each of the CR and RL patients. The                             genes, including IL2/3, IFNG, CSF2, XCL1/2, and CCL3/4 (Fig. 4D).
+results of this analysis showed ubiquity of expression enrichment                            The cell proportion of cluster 4 was significantly elevated in CR pa-
+of the four genes in CR patients compared with relapsed subjects                             tients, and no fraction difference was observed for the combination
+(Fig. 3, E and F).                                                                           of clusters 2 and 3 (Fig. 4C), suggesting that the lack of TH2 func-
+   We next asked whether the proportion of cells with specific func-                         tion, rather than TH1 response, could induce CD19-positive relapse.
+tional signatures affect the sustainability of CAR T therapy. Clustering                     Consistently, the comparison of canonical pathway activities between
+
+
+
+
+Fig. 4. Single-cell transcriptomic clustering of CAR T cells identifies comparable functional immune profiles between CR and RL patients, except for TH2 function.
+(A) UMAP reclustering of CAR+ cells from CR and RL patients and the top three dominant genes defining each cluster. (B) Expression of IL4, IL5, and IL13 in each identified
+cluster. (C) Comparison of cell proportion in particular cluster between CR and RL patients. The P values were calculated with Mann-Whitney test. ns., not significant.
+Scatter plots show means ± SEM. (D) Distribution feature plot of functional genes on the UMAP. (E) Canonical signaling pathway comparison between all the identified
+clusters. DEGs of each cluster are used to identify the biological pathways. A statistical quantity, called z score, is computed and used to characterize the activation level.Z score
+reflects the predicted activation level (z < 0, inhibited; z > 0, activated; z ≥ 2 or z ≤ − 2 can be considered significant). (F) Single-cell expression level violin plot of all key
+immunologically relevant cytokine genes from CAR+ cells in each patient.
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                                        6 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+clusters did not detect differences in other major immune programs                    CR counterparts, whereas other major immune programs remain
+(Fig. 4E). To further verify these CAR+ cell functional profiles at the               comparable.
+transcriptional level, we looked at the single-cell gene expression
+levels of key immunologically relevant molecules across major                         Independent functionality assessment in an expanded
+categories, including effector, regulatory, stimulatory, inflammatory,                cohort confirms the deficiency of TH2 function in
+and chemoattractive functions (Fig. 4F). No apparent differences                      CD19-positive relapse patients
+were found when comparing CR individuals with RL, with the ex-                        To further validate and refine our findings, we expanded our study
+ception of IL4 and IL13. Together, these results show that upon                       to 49 B-ALL patients enrolled in two anti-CD19 CAR T cell therapy
+antigen-specific stimulation of CAR T infusion products, the TH2-­                    trials (Fig. 5A). Twenty-six patients had robust CR response with
+related genes, upstream regulators, and pathways are collectively                     median relapse-free remission duration of 33.7 months, and the
+down-regulated in RL patients as compared with their long-term                        other 23 patients developed CD19-positive relapse at a median time
+
+
+
+
+Fig. 5. Independent functional evaluation in expanded cohorts validates the deficiency of TH2 function in RL patients. (A) Schematic of validation experimental
+design. (B) Comparison of CAR+ CAR T cell frequency, CD4:CD8 ratio, and CD154+ CAR T cell frequency between CR and RL patients. (C) Comparison of CAR+TH2+ CAR
+T cell frequency between CR and RL patients. Left, combined CD4+ and CD8+; middle, CD4+; right, CD8+. TH2 measures the combined frequency of IL-4+, IL-5+, and IL-13+
+cells. (D) Frequency comparison of each TH2-related cytokine+ CAR T cells between CR and RL patients. (E) Correlation between TH2+ CAR T cell frequency and the
+relapse-free duration to the therapy. Bar plots show the days to relapse of each RL patient. Line and dot plots show the frequency of CAR+TH2+ cell of each RL patient.
+(F) Frequency comparison of major TH1-related cytokine+ CAR T cells between CR and RL patients. (G) Comparison of the TH2 functional strength index (FSI) between CR
+and RL groups, which was measured by multiplexed secretomic assay using Isoplexis devices. FSI denotes to the frequency of cells secreting specific cytokine multiplied
+by the average signal intensity of this cytokine. (H) PSI comparison of IL-4, IL-5, and IL-13 between CR and RL groups. All the P values were calculated with Mann-Whitney
+test. Scatter plots show means ± SEM. ****P < 0.0001.
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                            7 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+point of 9.3 months (table S3). We performed an independent eval-          TSCM and TCM cells was still significantly associated with the re-
+uation on the preinfusion CAR T cells of these patients using intra-       lapsed subjects (Fig. 6, C and D). There was no difference in the
+cellular flow cytometry and a multiplexed secretomic assay at              frequency of TEM CAR T cells, yet a higher proportion of cells in
+separate research centers. In the flow cytometry dataset, fully active     the RL group differentiated into a TEF state compared with the CR
+CAR+ IFN-+ T cells were gated for downstream analysis (fig. S9).          group. The expression of the memory-related surface marker CCR7
+Comparing the frequencies of IFN-+, IL-2+, CD154+, and TNF+ cells         explained the disparities of CAR T differentiation state composition
+between MSLN-3T3 and CD19-3T3 or anti-CD3/CD28 bead coculture              between long-term responders and relapsed patients, both at base-
+conditions provided further confirmation of the absence of xeno-           line and upon CAR stimulation (Fig. 6E). Our flow cytometry anal-
+geneic stimulation from the NIH3T3 mouse cells (figs. S10 and S11).        ysis in the expanded cohort confirmed a significant increase of the
+    Quantification of the CAR transduction efficiency, CD4+/CD8+           TCM and a decrease of the TEF cell proportion in CR patients as
+ratio, and activation level in the CAR T cells did not reveal any sig-     compared with RL patients, thereby providing further validation of
+nificant differences between CR and RL patients (Fig. 5B). By con-         our findings (Fig. 6F).
+trast, the combined proportions of IL-4+, IL-5+, and IL-13+ CAR                We also evaluated the surface protein markers of T cell activa-
+T cells (TH2+) were significantly higher in the CR group compared          tion and coinhibition in activated CAR+ cells across patient groups.
+with RL patients, with consistent discrimination observed in CD4+          Of the four major activation markers in the panel, a higher propor-
+or CD8+ subpopulation (Fig. 5C). The analysis of each individual           tion of cells from NR patients had a relatively low expression of
+TH2-related cytokine also showed clear differences between CR and          CD69, CD38, and HLA-DR, whereas the expression levels were not
+RL groups, except for IL-13+ cells, which were not significantly           significantly different between the CR and RL groups (Fig. 6G and
+enriched in any of the two groups (Fig. 5D). We did not observe a          fig. S15, A and B). Likewise, the genes coding for these activation
+significant correlation between the duration of the effective responses    markers were expressed at similar levels (fig. S15, C and D). A sim-
+in RL patients and their proportion of CAR+TH2+ cells (Fig. 5E).           ilar analysis of T cell coinhibitory signatures associated with damp-
+For example, patient CHP959-152 had the longest relapse-free du-           ened proliferation and effector functions (PD-1, CTLA-4, LAG-3,
+ration in our RL cohort, whereas the TH2+CAR+ frequency of this            TIGIT, and their corresponding genes) did not reveal any significant
+patient ranked behind most of the other RL patients. We also com-          differences between CR and RL patients (Fig. 6H and fig. S16). In
+pared the frequencies of CAR+ cells expressing TH1-related cytokines,      summary, our phenotypic analysis indicates that CD19-positive
+chemokines, or cytotoxic enzymes (Fig. 5F and fig. S12). In this           relapse is associated with deficiencies in the capacity of CAR T cells
+case, we did not find any significant difference between CR and RL         to maintain early memory states.
+patients, in agreement with our previous analysis of coexpressed
+cytokine gene modules.                                                     An integrative model establishes the predictive power of the
+    To robustly characterize the role of TH2 functionality in main-        combined TH2 functionality strength and early memory potential
+taining long-term CR, we conducted a multiplexed secretomic assay on       Given the various biomarkers that we have identified in the prein-
+the infusion products of 22 patients (CHP959 trial) upon CD19-3T3          fusion CAR T products, we asked whether we could integrate them
+stimulation. We used the functional strength index (FSI) to describe       into a single predictive model of clinical response to the therapy. To
+the specific functionality profile of CAR T cells, which was defined       evaluate if the combination of some of these biomarkers into a single
+as the frequency of cells secreting a cytokine multiplied by the aver-     predictive index could be a viable strategy, we aggregated three of
+age signal intensity of the cytokine. We found a significantly higher      the major biomarkers, consisting of the TH2 expression level, the
+TH2 FSI in CR patients as compared with RL patients (Fig. 5G). The         TH2 expression frequency, and the memory-to-effector ratio [defined
+average intensity of TH2 cytokines alone was also able to discriminate     as the ratio of (TSCM + TCM)/(TEM + TEF)], into a single index. The
+CR from RL patients, whereas no significant difference was found           values of the index were strongly associated with the clinical response
+in the secretion frequency (fig. S13). In addition, the predictive power   in the initial cohort (Fig. 7A), suggesting that these markers could
+of the IL-5 FSI was greater than that of the combined TH2 FSI (Fig. 5H).   be efficiently combined to predict durable responses. However, the
+Together, these data demonstrate a general and robust association          small size of the initial cohort does not allow us to use regression
+between TH2 function deficiency and CD19-positive relapse.                 and cross-validation to rigorously optimize and test this approach.
+                                                                           Thus, we devised a similar index that was exclusively based on flow
+Phenotypic proteomic profiling reveals that early memory                   cytometry inputs so that we could train and test it in the larger val-
+states, rather than activation spectra or coinhibitory                     idation cohort of patients. Three biomarkers, including CAR+TH2+
+signatures, could predict CD19-positive relapse                            frequency, TCM frequency, and the (TEM + TEF) frequency, were in-
+Given the role of cellular stemness and memory formation of CAR            tegrated into a logistic regression model using the clinical response
+T cells in mediating the efficacy and persistence of the therapy, we       (CR or RL) as the response variable. We assessed the discriminative
+investigated the composition of naïve (TN), stem cell–like memory          power of this model to predict the clinical responses by stratified
+(TSCM), central memory (TCM), effector memory (TEM), and effector          fivefold cross-validation in the extended cohort of patients profiled
+(TEF) subsets in the infusion products from the three clinical response    with flow cytometry. Overall, the trained model successfully dis-
+groups based on CD62L, CCR7, CD45RA, and CD45RO cellular                   criminated CR and RL patients based on the integrated index [re-
+protein expression from our CITE-seq data (fig. S14) (37). For un-         ceiver operator characteristic area under the curve (ROC AUC) =
+stimulated baseline CAR T cells, we found significantly higher pro-        0.87 ± 0.14], achieving a sensitivity of ~70% to predict long-term
+portions of TSCM and TCM and a lower proportion of TEM cells in the        remission with a false-positive rate of <5% (Fig. 7B). These results
+five CR patients (Fig. 6, A and B). We also observed that most of the      demonstrate the viability of this approach to predict the long-term
+CAR T cells derived from NR patients developed late memory sig-            remission or CD19-positive relapse of patients treated with CAR T
+natures (Fig. 6A). Upon CAR stimulation, the lower abundance of            therapy based on our key findings.
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                     8 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+
+
+
+Fig. 6. Phenotypic proteomic profile reveals the dampened capacity of maintaining early memory T cell states in CAR T cells from relapsed patients. (A) Differential
+state composition of unstimulated baseline CAR T cells in each patient based on the expression of CD62L, CCR7, CD45RA, and CD45RO from CITE-seq data. TN, naïve; TSCM,
+stem cell–like memory; TCM, central memory; TEM, effector memory; TEF, effector T cells. The x axis represents responsive state and patient ID. (B) Proportion comparison
+of unstimulated CAR T cell phenotypic subsets between CR and RL groups. (C) Differential state composition of CD19-specific activated CAR+ cells in each patient.
+(D) Proportion comparison of activated CAR+ cell phenotypic subsets between CR and RL groups. (E) Feature plot of cellular protein CCR7 expression in unstimulated or
+activated CAR T cells, split by responsive groups. (F) Frequency of CAR+ cells with different differential states in the expanded validation cohort. (G) Single-cell expression
+distribution of the T cell activation–related surface protein markers of each group. (H) Single-cell expression distribution of coinhibitory surface protein markers of each
+group. All P values were calculated with Mann-Whitney test. Scatter plots show means ± SEM.
+
+
+
+TCR-mediated bead stimulation of infusion products fails                                 that was uniquely observed upon TCR-mediated simulation (Fig. 8A).
+to capture clinical responses                                                            Nevertheless, the number of cells expressing this module was ex-
+The findings described in previous sections show that the landscape                      tremely low (Fig. 8C). We also observed a type 1 module in correla-
+of CART19 activation states upon CAR-mediated ex vivo stimula-                           tion with the expression of the apoptosis antigen ligand FASLG,
+tion is associated with the clinical response to the therapy. To assess                  possibly reflecting substantial activation-induced cell death upon
+whether stimulation via anti-CD3/CD28 beads was sufficient to un-                        bead stimulation. However, contrary to what we observed in the
+cover the determinants of response, we used the same computational                       case of CAR-mediated stimulation, we did not find any significant
+approach to search for differences in the gene expression programs                       difference among CR, RL, and NR patients in the proportion of cells
+associated with the CAR T cells of CR, RL, and NR patients upon                          expressing each cytokine coexpression module upon TCR-mediated
+TCR-mediated stimulation (Fig. 8, A and B). This analysis revealed                       stimulation (Fig. 8D), suggesting that this stimulation mechanism
+that, overall, the cytokine coexpression modules were consistent                         was incapable of uncovering the biology of CAR T cells that underlies
+with those identified in CD19-stimulated CAR T cells, except for a                       differences in clinical responses. Consistently, we did not observe any
+TH17-like module consisting of IL17F, IL17A, IL22, IL26, and CCL20                       difference on the gene expression levels of major cytokines across
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                                 9 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+
+
+
+Fig. 7. Integrated model analysis demonstrates that the combination of TH2 strength and early memory potential is predictive of patient response durability.
+(A) Response predictive index of each patient in the initial discovery cohort (n = 10) and the comparison between CR and RL groups. The index combines TH2 gene expres-
+sion level, TH2 gene expression frequency, and early memory cell proportion. (B) ROC curve for response prediction based on an integrative biomarker consisting of
+CAR+TH2+ frequency, TCM frequency, and the (TEM + TEF) frequency in the validation cohort (n = 49). A binomial logistic regression was used to fit the model with CR or RL
+as the response variable, and a stratified fivefold cross-validation was implemented to compute the ROC and AUC. P value was calculated with Mann-Whitney test.
+
+
+the three response groups (fig. S17). When examining the cytometry                        We conducted single-cell transcriptional profiling of CD19-­
+data in our larger validation cohort, we still observed a significant                 targeting 4-1BB/CD3 signaling CAR T cells in infusion products of
+higher frequency of CAR+TH2+ population in bead-stimulated CAR                        B-ALL patients upon stimulation with human CD19-expressing
+T cells in the CR group, although the frequency of individual TH2-­                   APCs and observed significant intrinsic functional heterogeneity.
+related cytokine did not show any statistically significant difference                Through unbiased analyses of distinct coexpressed cytokine modules
+(fig. S18). Last, to check whether CD19-3T3 and anti-CD3/CD28                         on a fully activated CAR T subset marked by high CSF2 expression,
+beads activate distinct pathways, we performed IPA analysis and                       we identified two type 1–like cytokine modules comprising an array
+found an overall similarity between the two conditions, although the                  of TH1 response genes including IFNG and IL2; a type 2 cytokine
+activation or inhibition level and cell number of specific pathways                   module consisting of IL4, IL5, IL9, and IL13; and a module consisting
+differed substantially (fig. S19).                                                    of beta chemokines like CCL3 and CCL4. A partially activated sub-
+                                                                                      set marked by the expression of LTB and other cytokines like CCL5,
+                                                                                      IL16, and IL32 was also found, which constituted the dominant fea-
+DISCUSSION                                                                            ture for MSLN cocultured CAR T cells. Single-cell multiplexed
+CART19 cell therapy is highly effective in pediatric and adult patients               cytokine profiling was previously used to characterize healthy donor
+with B-ALL, with 90% patients responding initially to the therapy                     4-1BB/CD3 signaling CART19 cells stimulated with CD19-coated
+(6). Despite this high response rate, relapse occurs in nearly 50% of                 beads and showed highly heterogeneous functional states (39). The
+patients, among which a large fraction is CD19 positive (8–10, 25).                   most polyfunctional subset produces GM-CSF, the protein encoded
+Owing to the costly and lengthy process to manufacture and admin-                     by CSF2, type 1 cytokine IFN-, type 2 cytokine IL-13, and beta
+ister CAR T therapy in a patient-specific fashion, predictive bio-                    chemokines like MIP-1 and MIP-1, encoded by CCL3 and CCL4
+markers are urgently needed to better weigh the cost and value of                     genes, respectively, in both CD4 and CD8 CAR T cells, which is in
+treatment and specific strategies are expected to ameliorate CAR                      general agreement with what we observed in this study.
+T products to effectively extend the remission durability. Significant                    Comparing the coexpressed cytokine expression profile of CD19-­
+efforts have been made toward identifying patient characteristics,                    positive relapsed patients with that of durable responders, we found
+including tumor burden and immune status, to correlate with effi-                     that CAR T cells from RL patients had a significant deficit of TH2
+cacy and/or toxicities of CAR T therapy (7, 38). Early expansion of                   module expression. Differential gene expression analyses identified
+peripheral blood CAR T cells in vivo has been associated with favor-                  that all major genes encoding TH2 functions, including IL13, IL5,
+able therapeutic outcome (7, 11), but it is not able to predict the                   IL4, and the upstream regulator GATA3, were up-regulated in long-
+response or relapse before infusion. Furthermore, to date, the                        term CR patients compared with RL patients. In contrast, these
+mechanisms inducing CD19-positive relapse remain an open question.                    analyses did not identify differences in the expression of TH1 or beta
+Since the dose of CAR T cells approved as a standard of care for                      chemokine response–related genes, suggesting the need for both
+B cell malignancies can vary up to 10-fold and the sustained remis-                   type 1 and type 2 functions to achieve a sustained long-term remission.
+sion is largely independent of dosage in long-term follow-up studies                  To systematically validate these predictive biomarkers, we assessed
+(6), the composition of the infusion product appears to be more                       a larger retrospective cohort of patients (n = 49) with flow cytometry,
+critical than the quantity of CAR-transduced T cells. Thus, it is                     and our results confirmed a significant increase of CAR+TH2+ fre-
+crucial to understand if the characteristics of infused CAR T cells                   quency in CR patients as compared with RL patients. In addition,
+contribute to the CD19-positive relapse and therapeutic failure.                      we evaluated the TH2 functionality strength in 22 patients using a
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                           10 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+
+
+
+Fig. 8. TCR-mediated anti-CD3/CD28 beads stimulation of CAR T cells fails to predict clinical responses. (A) Coexpressed cytokine modules identified in TCR-mediated
+stimulation. Genes are ordered by hierarchical clustering. (B) An integrated cytokine module representation UMAP. Cells are colored by responsive states, and UMAPs are
+split by experimental conditions. (C) The distribution of the identified modules on the UMAP. (D) Quantification of identified modules among CR, NR, and RL patients. The
+P values were calculated with Mann-Whitney test.
+
+
+
+multiplexed secretomic assay and found consistent results, further                    to therapeutic outcome. By using our CITE-seq surface proteomic
+enhancing the significance of our observations. These findings suggest                data, we identified T cell differentiation subsets and found that
+a potential strategy to improve the therapeutic outcome by reengi-                    CAR T cells from relapsed patients had significantly lower propor-
+neering the infusion product with augmented type 2 signaling or by                    tion of TSCM and TCM early memory states under both unstimulated
+boosting TH2 functions after infusion.                                                baseline and CD19-specific activated conditions. This finding was
+   Recently, Deng et al. (20) performed scRNA-seq of autologous                       further confirmed in our expanded validation cohort. Combining the
+axi-cel anti-CD19 CAR T cell infusion products from 24 patients                       memory states with the TH2 level, an integrative regression model
+with LBCL. Their data revealed threefold higher frequencies of CD8                    demonstrated a sensitivity of ~70% in predicting long-term responses
+T cells expressing memory signatures in patients who achieved a                       and a false-positive rate of <5%. We expect that further prospective
+complete response than patients with partial response or progressive                  investigations in different stage/multicenter cohorts will provide
+disease. Moreover, CD8 T cell exhaustion was associated with a                        larger training datasets to refine this predictive model.
+poor molecular response, suggesting that both T cell memory status                        We observed that neither unstimulated nor TCR-stimulated
+and immune function capacity in infusion products can contribute                      CAR T cell characteristics were significantly associated with therapeutic
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                          11 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+outcomes, but only CAR-specific signaling and cytokine responses          who enrolled in a pilot study of the tocilizumab optimization timing
+elicited by antigen-specific stimulation could predict CR, RL, and        for CART19-associated cytokine release syndrome (ClinicalTrials.gov,
+NR, indicating the necessity to characterize infusion products via        number NCT02906371). Written informed consent for participation
+CAR activation to develop more informative and accurate predictive        was obtained from patients or their guardians according to the
+biomarkers. In this regard, one of the limitations of our study is the    Declaration of Helsinki. All laboratory operations were under prin-
+use of an artificial system based on CD19-expressing murine APCs.         ciples of International Conference on Harmonization Guidelines for
+While this experimental setting reduces the consumption of precious       Good Clinical Practice with established standard operating proce-
+patient-derived autologous B cells and facilitates the bioinformatic      dures and protocols for sample receipt, processing, freezing, and
+separation of human CAR T cells and murine APC cells, our model           analysis. All ethical regulations were strictly followed.
+only captures the reactivity to the human CD19 and does not reca-
+pitulate other aspects of the immune synapse.                             T cell isolation, vector production, and generation
+    An outstanding question is whether the observed functional            of CTL019 cells
+heterogeneity and the activation modules of CAR T cells in the in-        Autologous peripheral blood mononuclear cells were collected by
+fusion product can be solely attributed to the characteristics of the     standard leukapheresis. T cells were enriched by mononuclear cell
+patient immune cells to start with or can be improved through             elutriation and then washed and activated with anti-CD3/CD28–
+optimization of the manufacturing process by analyzing apheresis          coated paramagnetic beads. A lentiviral vector containing a previ-
+products in comparison with the corresponding infusion products.          ously described CD19-specific CAR with 4-1BB/CD3 transgene
+In-depth analysis of proteomic (surface epitopes and cytokines),          was constructed and produced (33), which was then used to trans-
+transcriptional (mRNAs), genomic (i.e., integration sites), and epi­      duce the cells during activation and was washed out 3 days after the
+genomic (chromatin state) landscapes of single CAR T cells through-       culture initiation (42). A rocking platform device (WAVE Bioreactor
+out the manufacturing process may further unveil the mechanisms           System) was used to expand cells for 8 to 12 days, and the beads
+of their functional changes with time and inform new strategies to        were then magnetically removed. CTL019 cells were harvested and
+improve manufacturing or control the quality of autologously trans-       cryopreserved in infusible medium. The final product release criteria
+ferred CAR T cells for individual patients. Recently, Wang et al. (40)    are listed as follows (6): cell viability ≥ 70%, CD3+ cells ≥ 80%,
+reported on a method for joint profiling of chromatin accessibility       residual paramagnetic anti-CD3/CD28–coated paramagnetic beads
+and integration sites of CAR T cells at the population and single-cell    ≤ 100 per 3 × 106 cells, endotoxin ≤ 3.5 EU/ml, mycoplasma nega-
+level, which may address the question whether CAR T integration           tive, bacterial and fungal cultures negative, residual bovine serum
+at certain genomic regions can rewire the regulatory landscape of         albumin ≤ 1 g/ml, vesicular stomatitis virus-G (VSV-G) DNA as a sur-
+T cells, but it is yet to be applied to patient-derived CAR T cells in    rogate marker for replication-­competent lentivirus ≤ 50 copies per mi-
+correlation with clinical outcomes. Last, the clonal expansion in vivo    crogram of DNA, transduction efficiency by flow cytometry ≥ 2%,
+after infusion constantly alters the heterogeneity of circulating CAR     and transduction efficiency by vector DNA sequence = 0.02 to 4
+T cells in patients (41), and a finite number of clones are the major     copies per cell.
+effector cells inducing therapeutic remission and long-term surveil-
+lance to completely eliminate tumor cells. However, it remains to be      Generation of human CD19 and mesothelin NIH3T3 cells
+revealed how the immune function landscape correlates with clonal         NIH3T3 mouse fibroblasts were originally obtained from the
+evolution and the persistence in patients throughout the treatment        American Type Culture Collection and cultured in Dulbecco’s
+and the long-term remission.                                              modified Eagle’s medium (Gibco) with glutamate and supplemented
+    In summary, our single-cell multiomics profiling of preinfusion       with 10% fetal bovine serum (FBS; Gibco) in a humidified incubator
+CAR T products provides valuable insights for understanding the           (37°C in an atmosphere of 5% CO2). The cells were transduced with
+mechanistic determinants of long-term durable CAR T cell therapy.         a lentiviral vector encoding human CD19 (CD19-3T3), and a nega-
+We developed a systematic in vitro model to characterize CAR T            tive control was NIH3T3 cells expressing mesothelin (MSLN-3T3).
+functionalities upon CD19-specific activation and correlated them         Cells were sorted on FACSAria (BD) to reach a >99% purity after
+with clinical response. We identified that TH2 deficiency and over-       transgene introduction. Mycoplasma and authentication were
+differentiation to effector phenotype were significantly associated       routinely performed before and after molecular engineering.
+with CD19-positive relapse, which was confirmed through indepen­dent
+evaluation in a larger cohort using different assays in a separate re-    In vitro coculture assay
+search center. Our data thus illuminate potential strategies to improve   CTL019 cells were thawed and cultured in OpTmizer T-Cell Expan-
+the response duration to CAR T therapy by precisely strengthen­ing        sion Basal Medium supplemented with OpTmizer T-Cell Expansion
+specific CAR T functionality and restoring early memory phenotype.        Supplement and GlutaMAX Supplement (Gibco) in the humidified
+                                                                          incubator on day 1 for overnight rest. On day 2, dead cells were
+                                                                          removed using the EasySep Dead Cell Removal Kit (STEMCELL
+MATERIALS AND METHODS                                                     Technologies) as per the manufacturer’s instructions, and a certain
+Patient samples                                                           number of cells were counted using a hemocytometer before cocul-
+Samples were acquired from patients with relapsed/refractory B-ALL        ture assays. For the stimulation with CD19-3T3 cells or MSLN-3T3
+who enrolled in pilot clinical trials designed to assess the safety and   cells (target cells), 1 × 106 CTL019 cells were mixed with the same
+feasibility of CD19-dericted CAR (CTL019) T cell therapy, which           number of target cells in 2 ml of medium; for the stimulation with
+was conducted at the Children’s Hospital of Philadelphia and the          anti-CD3/CD28 beads, 1 × 106 CTL019 cells were mixed with 3 ×
+University of Pennsylvania (ClinicalTrials.gov, number NCT01626495).      106 beads in 1 ml of medium; for the evaluation of unstimulated
+Besides, other patients in the expanded validation cohort were those      condition, 1 × 106 cells were prepared. All the suspensions were
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                   12 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+cultured in RPMI 1460 medium (Gibco) containing 10% FBS in a            Briefly, the device consisted of a microwell array layer and a mi-
+tissue culture–treated 48-well plate (Fisher Scientific) for 6 hours    crofluidic channel layer, both of which were made by casting
+in the incubator. After coculture, the anti-CD3/CD28 beads were         polydimethylsiloxane (PDMS) over the SU8 master wafers followed
+removed by passage over a magnetic field.                               by degassing and curing at 80°C for 6 to 8 hours. After curing,
+                                                                        PDMS was peeled off, and the two layers were cut to proper sizes
+Intracellular cytokine detection assay                                  and then plasma-bonded to assemble onto a glass slide. Before cell
+The cocultured cells were washed twice in phosphate-buffered saline     loading, the device was pressurized to remove air bubbles inside the
+(PBS) (Life Technologies) and stained for 20 min at room tempera-       microwells using a manually operated syringe with outlet closed,
+ture (RT) with LIVE/DEAD Blue detection reagent (Thermo Fisher          and then primed for 1 hour at RT with 1% bovine serum albumin
+Scientific) diluted 1:800 in PBS. Cells were washed two times in        (Sigma-Aldrich) in PBS. A total of 100 l of cell suspension with a
+fluorescence-activated cell sorting (FACS) staining buffer and then     density of 5 × 105 cells/ml was pipetted on the inlet reservoir and
+stained for surface molecules for 20 min at RT. Cells were fixed        withdrawn into the device. Next, barcoded beads, lysis buffer, and
+using the Cytofix/Cytoperm Kit (BD Biosciences) for 20 min at RT        fluorinated oil were loaded sequentially to seal microwells. After
+protected from light. Cells were washed twice with 1× Perm/Wash         cell and bead loading, the device was placed in a petri dish and
+buffer and then stained for CAR19 (ACROBiosystems) and intra-           exposed to three cycles of freeze and thaw, each of which included
+cellular cytokines with antibodies in Perm/Wash buffer. Staining was    freezing at −80°C freezer or dry ice for 5 min followed by thawing at
+done for 20 min at RT in the dark. Cells were washed twice more         RT for 5 min. To capture mRNA onto beads, the device was then
+with Perm/Wash buffer and resuspended in FACS staining buffer.          incubated for 1 hour inside an aluminum foil–covered wet chamber.
+Samples were run on Cytek Aurora, and analysis was performed            After incubation, the beads were retrieved by 6× saline sodium citrate
+using FlowJo.                                                           (SSC) buffer flushing. Last, collected beads were washed twice with
+                                                                        6× SSC buffer and then proceeded to the reverse transcription step.
+Multiplexed secretomic assay
+After stimulation with CD19-3T3 cells, the activated CTL019 cells       scRNA-seq library preparation and sequencing
+were collected, washed, and stained with CAR19 (ACROBiosystems)         Library preparations were performed as described in the DropSeq
+antibody in FACS buffer, followed by magnetic labeling and separation   protocol (version 3.1) (44). Briefly, the captured mRNA was reverse-­
+using magnetic-activated cell sorting (MACS) columns (Miltenyi          transcribed using Maxima H Minus reverse transcriptase (Thermo
+Biotec). Approximately 30,000 CAR+ cells were then stained with         Fisher Scientific) with a custom template switching oligo. Then, the
+membrane stain (included in the IsoPlexis Kit) before being loaded      beads coated with complementary DNA (cDNA) were treated using
+onto the IsoCode chip (IsoPlexis) consisting of 12,000 chambers         exonuclease I (New England Biolabs) for 1 hour at 37°C with rota-
+prepatterned with an array of 32 cytokine capture antibodies. The       tion to chew away any unbound mRNA capture probes. The cDNA
+chip was further incubated in the IsoLight machine for 16 hours at      was then amplified using a 13-cycle polymerase chain reaction (PCR)
+37°C with 5% CO2 supplement. A cocktail of detection antibodies         whole-transcriptome amplification. At this step, 0.4 l of “additive”
+was used to detect the secreted cytokines followed by the fluorescent   primers was added to cDNA PCR to increase the yield of ADT (cDNA
+labeling. The fluorescent signals were analyzed by the IsoSpeak soft-   derived from the TotalSeq antibodies) products. After the amplifi-
+ware to calculate the numbers of specific cytokine-secreting cells      cation, ADT-derived cDNAs (180 base pairs) and mRNA-derived
+and the intensity level of each cytokine. The raw data of TH2-related   cDNAs were separated using SPRIselect (Beckman Coulter) beads
+cytokines, including IL-4, IL-5, and IL-13, were extracted for the      at 0.6 ratio. After a standard Nextera tagmentation, PCRs (Nextera
+downstream analyses.                                                    XT, Illumina), and another round of 0.6× purification using AMPure
+                                                                        XP beads (Beckman Coulter), the mRNA library was ready to be
+Cell staining with DNA-barcoded antibodies for CITE-seq                 sequenced. For ADT-derived cDNAs, 2× SPRI purifications and
+After 6-hour coculture, for each condition, cells were resuspended      then an eight-cycle PCR were performed to amplify ADT sequenc-
+in 100 l of cell staining buffer (BioLegend) added with 5 l of        ing library, followed by another round of 1.6× SPRI purification as
+Human TruStain FcX Fc Blocking reagent (BioLegend). Cell sus-           per the manufacturer’s protocol. The quality of both the mRNA and
+pensions were then incubated at 4°C for 10 min, during which the        ADT libraries was assessed by high-sensitivity bioanalyzer test
+antibody pool was prepared using 1 g of each TotalSeq antibody         (Agilent Inc.). To obtain sufficient read coverage for both libraries,
+(BioLegend). After 30-min incubation at 4°C, cells were washed          we pooled 10% of ADT and 90% of cDNA library into one lane. The
+two times with 1 ml of PBS (Life Technologies) and finally resus-       libraries were sequenced on HiSeq4000 (Illumina) at medium depth
+pended in PBS at 5 × 105 cells/ml for the downstream loading.           (average of 20,000 to 40,000 reads per cell) with three samples
+TotalSeq antibodies for human T cell characterization panels are the    pooled into one sequencing lane.
+following: anti-CD4 (clone SK3), anti-CD8 (clone SK1), anti-CD45RO
+(clone UCHL1), anti-CD45RA (clone HI100), anti-CCR7 (clone              Processing of sequencing data
+G043H7), anti-CD62L (clone DREG-56), anti–HLA-DR (clone L243),          Reads from the mRNA libraries were aligned to the concatenated
+anti-CD38 (clone HB-7), anti-CD69 (clone FN50), anti–4-1BB              human (hg38) and mouse (mm10) reference genomes and the se-
+(clone 4B4–1), anti–PD-1 (clone EH12.2H7), anti–CTLA-4 (clone           quence of the transduced CAR construct (33) using STAR 2.6.1a. A
+BNI3), anti-LAG3 (clone 11C3C65), and anti-TIGIT (clone A15153G).       unique molecule identifier (UMI) count matrix was built using the
+                                                                        DropSeq core computational protocol (version 2.0.0) (44). As reads
+Device preparation and microfluidic operation of scRNA-seq              were aligned to the concatenated human and mouse reference ge-
+The detailed materials and methods for preparing and operating the      nomes, we were able to classify each uniquely aligned UMI as orig-
+scRNA-seq device have been described in our previous report (31, 43).   inating from a human or mouse cell. CITE-seq count was used to
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                13 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+count UMIs in the ADT libraries. We filtered out cells with less than                   between groups of cells (samples or clusters). A log fold change
+a specified total number of mRNA UMIs. This number was deter-                           threshold of 0.25 was applied in later steps to select genes as differ-
+mined in a sample-specific manner by examination of log-scale barcode                   entially expressed. IPA (QIAGEN) (32) was used to pathway en-
+rank plots, where a steep drop-off was taken to indicate the boundary                   richment analysis based on the DEGs associated with each cluster.
+between empty wells and wells containing a cell. This fraction was                      Ingenuity knowledge base (genes only) was used as reference set to
+between 1 × 102.8 and 1 × 103.2 for all samples. For coculture experi-                  perform core expression analysis. T cell–related signaling pathways
+ments, we filtered out mouse cells by removing cells with more than                     were selected from the top identified pathways to represent major
+a specified number of mouse-associated UMIs. Again, this number                         functional profiles of each cluster. The z score was used to determine
+was determined in a sample-specific manner by examination of plots                      the activation or inhibition level of specific pathways.
+of mouse versus human UMI counts. After removing wells that
+contained a mouse cell from the analysis, the residual background                       Ingenuity Pathway Analysis
+expression of mouse genes was removed by setting counts to zero.                        IPA (QIAGEN) was used to understand underlying signaling path-
+The mRNA expression data were log-normalized using Seurat (45),                         ways (32). Here, DEGs distinguishing each identified cluster and the
+and the Seurat v3 anchor-based integration workflow was used to                         corresponding fold change value of each gene were loaded into the
+integrate data from different experiments. We used 20 canonical cor-                    dataset. Ingenuity knowledge base (genes only) was used as reference
+relation analysis (CCA) dimensions and the default number of anchor                     set to perform core expression analysis. T cell–related signaling was
+neighbors and reduced the integrated mRNA data to two dimensions                        selected from identified top canonical pathways to represent major
+using UMAP for visualization (46). The ADT libraries were normal-                       functional profiles of each cluster. The z score was used to deter-
+ized using Seurat v3.                                                                   mine the activation or inhibition level of specific pathways.
+
+Estimation of CAR+ cell fraction                                                        Integrative model analysis
+To estimate the sensitivity to detect the expression of the CAR, we                     Logistic regression was used to classify patients based on their fre-
+counted the fraction of CAR mRNA-expressing cells. We focused on                        quencies of specific biomarkers using their response (CR or RL) status
+cells from the CD19 APC coculture experiments expressing CSF2,                          after receiving CAR T cell therapy as the response variable. We used
+on the assumption that all CSF2-expressing cells had been successfully                  LogisticRegression() from scikit-learn v0.23.2 in python to train the
+activated via CAR binding to CD19. To estimate the CAR+ fraction                        classifier using a stratified fivefold cross-validation as implemented
+in the infusion samples, we used the sensitivity defined above and                      in StratefiedKFold() and to compute the ROC AUC.
+assumed a false-positive detection rate of 0. We then estimated
+90% CIs using a normal sampling distribution.                                           Statistics
+                                                                                        Analyses were performed with Prism 9 (GraphPad). Mann-Whitney
+Cytokine coexpression modules                                                           test was used to compare the specific observations between two groups.
+Cytokine coexpression modules were identified separately for                            A P value of <0.05 was considered statistically significant.
+CD19-3T3–stimulated samples and anti-CD3/CD28 bead–stimulated
+samples. We computed Pearson correlation on the concatenated SUPPLEMENTARY MATERIALS
+normalized count matrices, removing any cytokines expressed in Supplementary material for this article is available at https://science.org/doi/10.1126/
+fewer than 10 cells and removing any associations with a Benjamini-­ sciadv.abj2820
+Hochberg adjusted q value greater than 0.05. The resulting correla- View/request a protocol for this paper from Bio-protocol.
+tion matrix was then clustered using hierarchical clustering. For each
+                                                                           REFERENCES AND NOTES
+of the identified cytokine coexpression modules, AUCell was used            1. D. Bhojwani, C.-H. Pui, Relapsed childhood acute lymphoblastic leukaemia. Lancet Oncol.
+to identify cells expressing that module (47). AUCell uses the AUC             14, e205–e217 (2013).
+to calculate whether a module of genes is enriched within the ex-           2. E. A. Raetz, T. Bhatla, Where do we stand in the treatment of relapsed acute lymphoblastic
+pressed genes for each cell. First, for each module, a continuous AUC          leukemia? Hematology Am. Soc. Hematol. Educ. Program 2012, 129–136 (2012).
+                                                                            3. M. Kalos, B. L. Levine, D. L. Porter, S. Katz, S. A. Grupp, A. Bagg, C. H. June, T cells
+score is computed on the basis of the rank expression of the genes in
+                                                                               with chimeric antigen receptors have potent antitumor effects and can establish memory
+the module. From these continuous scores, a Boolean assignment to              in patients with advanced leukemia. Sci. Transl. Med. 3, 95ra73 (2011).
+each of these modules was determined for every cell by examining            4. D. L. Porter, B. L. Levine, M. Kalos, A. Bagg, C. H. June, Chimeric antigen receptor–modified
+the distribution of AUC scores across all the cells and setting a              T cells in chronic lymphoid leukemia. N. Engl. J. Med. 365, 725–733 (2011).
+threshold above which the module is considered “on.” To build in-           5. J. N. Kochenderfer, W. H. Wilson, J. E. Janik, M. E. Dudley, M. Stetler-Stevenson,
+                                                                               S. A. Feldman, I. Maric, M. Raffeld, D.-A. N. Nathan, B. J. Lanier, R. A. Morgan,
+tegrated visual representations of cells across experiments based on           S. A. Rosenberg, Eradication of B-lineage cells and regression of lymphoma in a patient
+the activity of these cytokine coexpression modules, the continuous            treated with autologous T cells genetically engineered to recognize CD19. Blood 116,
+AUC vectors representing the relative levels of module activity for            4099–4102 (2010).
+each cell were reduced to two dimensions using UMAP. For each of            6. S. L. Maude, N. Frey, P. A. Shaw, R. Aplenc, D. M. Barrett, N. J. Bunin, A. Chew,
+                                                                               V. E. Gonzalez, Z. Zheng, S. F. Lacey, Y. D. Mahnke, J. J. Melenhorst, S. R. Rheingold,
+the identified cytokine coexpression modules, Wilcoxon rank sum
+                                                                               A. Shen, D. T. Teachey, B. L. Levine, C. H. June, D. L. Porter, S. A. Grupp, Chimeric antigen
+tests were performed between CR, RL, and NR patients to determine              receptor T cells for sustained remissions in leukemia. N. Engl. J. Med. 371, 1507–1517 (2014).
+statistically significant differences in the proportions of cells express-  7. D. W. Lee, J. N. Kochenderfer, M. Stetler-Stevenson, Y. K. Cui, C. Delbrook, S. A. Feldman,
+ing that module. We only considered CAR+ cells in these tests.                 T. J. Fry, R. Orentas, M. Sabatino, N. N. Shah, S. M. Steinberg, D. Stroncek, N. Tschernia,
+                                                                                             C. Yuan, H. Zhang, L. Zhang, S. A. Rosenberg, A. S. Wayne, C. L. Mackall, T cells expressing
+                                                                                             CD19 chimeric antigen receptors for acute lymphoblastic leukaemia in children
+Differential expression analysis                                                             and young adults: A phase 1 dose-escalation trial. Lancet 385, 517–528 (2015).
+All differential expression analyses were performed using Seurat v3                       8. J. H. Park, I. Rivière, M. Gonen, X. Wang, B. Sénéchal, K. J. Curran, C. Sauter, Y. Wang,
+(48). The function “FindMarkers” was used for pairwise comparison                            B. Santomasso, E. Mead, M. Roshal, P. Maslak, M. Davila, R. J. Brentjens, M. Sadelain,
+
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)   8 June 2022                                                                                                                         14 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+       Long-term follow-up of CD19 CAR therapy in acute lymphoblastic leukemia. N. Engl. J. Med.                      profiling of pre-manufacture T-cell populations reveals factors mediating long-term
+       378, 449–459 (2018).                                                                                           persistence of CAR T-cell therapy. Cancer Discov. 11, 2186–2199 (2021).
+  9.   R. A. Gardner, O. Finney, C. Annesley, H. Brakke, C. Summers, K. Leger, M. Bleakley, C. Brown,           23.   O. C. Finney, H. Brakke, S. Rawlings-Rhea, R. Hicks, D. Doolittle, M. Lopez, B. Futrell,
+       S. Mgebroff, K. S. Kelly-Spratt, V. Hoglund, C. Lindgren, A. P. Oron, D. Li, S. R. Riddell,                    R. J. Orentas, D. Li, R. Gardner, M. C. Jensen, CD19 CAR T cell product and disease
+       J. R. Park, M. C. Jensen, Intent-to-treat leukemia remission by CD19 CAR T cells of defined                    attributes predict leukemia remission durability. J. Clin. Invest. 129, 2123–2132 (2019).
+       formulation and dose in children and young adults. Blood 129, 3322–3331 (2017).                          24.   N. Singh, Y. G. Lee, O. Shestova, P. Ravikumar, K. E. Hayer, S. J. Hong, X. M. Lu, R. Pajarillo,
+10.    S. L. Maude, T. W. Laetsch, J. Buechner, S. Rives, M. Boyer, H. Bittencourt, P. Bader, M. R. Verneris,         S. Agarwal, S. Kuramitsu, E. J. Orlando, K. T. Mueller, C. R. Good, S. L. Berger, O. Shalem,
+       H. E. Stefanski, G. D. Myers, M. Qayed, B. de Moerloose, H. Hiramatsu, K. Schlis, K. L. Davis,                 M. D. Weitzman, N. V. Frey, S. L. Maude, S. A. Grupp, C. H. June, S. Gill, M. Ruella, Impaired
+       P. L. Martin, E. R. Nemecek, G. A. Yanik, C. Peters, A. Baruchel, N. Boissel, F. Mechinaud,                    death receptor signaling in leukemia causes antigen-independent resistance by inducing
+       A. Balduzzi, J. Krueger, C. H. June, B. L. Levine, P. Wood, T. Taran, M. Leung, K. T. Mueller,                 CAR T-cell dysfunction. Cancer Discov. 10, 552–567 (2020).
+       Y. Zhang, K. Sen, D. Lebwohl, M. A. Pulsipher, S. A. Grupp, Tisagenlecleucel in children                 25.   M. A. Pulsipher, X. Han, S. L. Maude, T. W. Laetsch, M. Qayed, S. Rives, M. W. Boyer,
+       and young adults with B-cell lymphoblastic leukemia. N. Engl. J. Med. 378, 439–448 (2018).                     H. Hiramatsu, G. A. Yanik, T. Driscoll, G. D. Myers, P. Bader, A. Baruchel, J. Buechner,
+11.    C. J. Turtle, L.-A. Hanafi, C. Berger, T. A. Gooley, S. Cherian, M. Hudecek, D. Sommermeyer,                   H. E. Stefanski, C. Kalfoglou, K. Nguyen, E. R. Waldron, K. Thudium Mueller, H. J. Maier,
+       K. Melville, B. Pender, T. M. Budiarto, E. Robinson, N. N. Steevens, C. Chaney, L. Soma,                       G. Kari, S. A. Grupp, Next-generation sequencing of minimal residual disease
+       X. Chen, C. Yeung, B. Wood, D. Li, J. Cao, S. Heimfeld, M. C. Jensen, S. R. Riddell,                           for predicting relapse after tisagenlecleucel in children and young adults with acute
+       D. G. Maloney, CD19 CAR-T cells of defined CD4+:CD8+ composition in adult B cell ALL                           lymphoblastic leukemia. Blood Cancer Discov. 3, 66–81 (2022).
+       patients. J. Clin. Invest. 126, 2123–2138 (2016).                                                        26.   E. J. Orlando, X. Han, C. Tribouley, P. A. Wood, R. J. Leary, M. Riester, J. E. Levine, M. Qayed,
+12.    D. L. Porter, W.-T. Hwang, N. V. Frey, S. F. Lacey, P. A. Shaw, A. W. Loren, A. Bagg,                          S. A. Grupp, M. Boyer, B. de Moerloose, E. R. Nemecek, H. Bittencourt, H. Hiramatsu,
+       K. T. Marcucci, A. Shen, V. Gonzalez, D. Ambrose, S. A. Grupp, A. Chew, Z. Zheng,                              J. Buechner, S. M. Davies, M. R. Verneris, K. Nguyen, J. L. Brogdon, H. Bitter, M. Morrissey,
+       M. C. Milone, B. L. Levine, J. J. Melenhorst, C. H. June, Chimeric antigen receptor T cells                    P. Pierog, S. Pantano, J. A. Engelman, W. Winckler, Genetic mechanisms of target antigen
+       persist and induce sustained remissions in relapsed refractory chronic lymphocytic                             loss in CAR19 therapy of acute lymphoblastic leukemia. Nat. Med. 24, 1504–1506 (2018).
+       leukemia. Sci. Transl. Med. 7, 303ra139 (2015).                                                          27.   R. Gardner, D. Wu, S. Cherian, M. Fang, L.-A. Hanafi, O. Finney, H. Smithers, M. C. Jensen,
+13.    S. S. Neelapu, F. L. Locke, N. L. Bartlett, L. J. Lekakis, D. B. Miklos, C. A. Jacobson,                       S. R. Riddell, D. G. Maloney, C. J. Turtle, Acquisition of a CD19-negative myeloid
+       I. Braunschweig, O. O. Oluwole, T. Siddiqi, Y. Lin, J. M. Timmerman, P. J. Stiff,                              phenotype allows immune escape of MLL-rearranged B-ALL from CD19 CAR-T-cell
+       J. W. Friedberg, I. W. Flinn, A. Goy, B. T. Hill, M. R. Smith, A. Deol, U. Farooq, P. McSweeney,               therapy. Blood 127, 2406–2410 (2016).
+       J. Munoz, I. Avivi, J. E. Castro, J. R. Westin, J. C. Chavez, A. Ghobadi, K. V. Komanduri,               28.   N. Singh, E. Orlando, J. Xu, J. Xu, Z. Binder, M. A. Collins, D. M. O’Rourke, J. J. Melenhorst,
+       R. Levy, E. D. Jacobsen, T. E. Witzig, P. Reagan, A. Bot, J. Rossi, L. Navale, Y. Jiang, J. Aycock,            Mechanisms of resistance to CAR T cell therapies. Semin. Cancer Biol. 65, 91–98 (2020).
+       M. Elias, D. Chang, J. Wiezorek, W. Y. Go, Axicabtagene ciloleucel CAR T-cell therapy                    29.   M. Stoeckius, C. Hafemeister, W. Stephenson, B. Houck-Loomis, P. K. Chattopadhyay,
+       in refractory large B-cell lymphoma. N. Engl. J. Med. 377, 2531–2544 (2017).                                   H. Swerdlow, R. Satija, P. Smibert, Simultaneous epitope and transcriptome
+14.    S. J. Schuster, M. R. Bishop, C. S. Tam, E. K. Waller, P. Borchmann, J. P. McGuirk, U. Jäger,                  measurement in single cells. Nat. Methods 14, 865–868 (2017).
+       S. Jaglowski, C. Andreadis, J. R. Westin, I. Fleury, V. Bachanova, S. R. Foley, P. J. Ho,                30.   Z. Bai, G. Su, R. Fan, Single-cell analysis technologies for immuno-oncology research:
+       S. Mielke, J. M. Magenau, H. Holte, S. Pantano, L. B. Pacaud, R. Awasthi, J. Chu, Ö. Anak,                     From mechanistic delineation to biomarker discovery. Genom. Proteom. Bioinform. 19,
+       G. Salles, R. T. Maziarz, Tisagenlecleucel in adult relapsed or refractory diffuse large B-cell                191–207 (2021).
+       lymphoma. N. Engl. J. Med. 380, 45–56 (2019).                                                            31.   B. Dura, J.-Y. Choi, K. Zhang, W. Damsky, D. Thakral, M. Bosenberg, J. Craft, R. Fan,
+15.    S. Schuster, M. R. Bishop, C. S. Tam, E. K. Waller, P. Borchmann, J. P. McGuirk, U. Jaeger,                    scFTD-seq: Freeze-thaw lysis based, portable approach toward highly distributed
+       S. Jaglowski, C. Andreadis, J. R. Westin, I. Fleury, V. Bachanova, S. R. Foley, P. J. Ho,                      single-cell 3′ mRNA profiling. Nucleic Acids Res. 47, e16 (2019).
+       S. Mielke, J. M. Magenau, H. Holte, K. Van Besien, M. J. Kersten, T. Teshima, K. Tobinai,                32.   A. Krämer, J. Green, J. Pollard Jr., S. Tugendreich, Causal analysis approaches in Ingenuity
+       P. Corradini, O. Anak, L. B. Pacaud, C. del Corral, D. Pharma, R. Awasthi, F. Tai, G. Salles,                  Pathway Analysis. Bioinformatics 30, 523–530 (2014).
+       R. T. Maziarz, Primary analysis of Juliet: A global, pivotal, phase 2 trial of CTL019 in adult           33.   M. C. Milone, J. D. Fish, C. Carpenito, R. G. Carroll, G. K. Binder, D. Teachey, M. Samanta,
+       patients with relapsed or refractory diffuse large B-cell lymphoma. Blood 130, 577 (2017).                     M. Lakhal, B. Gloss, G. Danet-Desnoyers, D. Campana, J. L. Riley, S. A. Grupp, C. H. June,
+16.    A. H. Long, W. M. Haso, J. F. Shern, K. M. Wanhainen, M. Murgai, M. Ingaramo, J. P. Smith,                     Chimeric receptors containing CD137 signal transduction domains mediate enhanced
+       A. J. Walker, M. E. Kohler, V. R. Venkateshwara, R. N. Kaplan, G. H. Patterson, T. J. Fry,                     survival of T cells and increased antileukemic efficacy in vivo. Mol. Ther. 17, 1453–1464 (2009).
+       R. J. Orentas, C. L. Mackall, 4-1BB costimulation ameliorates T cell exhaustion induced by               34.   Z. Bai, S. Lundh, D. Kim, S. Woodhouse, D. M. Barrett, R. M. Myers, S. A. Grupp, M. V. Maus,
+       tonic signaling of chimeric antigen receptors. Nat. Med. 21, 581–590 (2015).                                   C. H. June, P. G. Camara, J. J. Melenhorst, R. Fan, Single-cell multiomics dissection of basal
+17.    O. U. Kawalekar, R. S. O’Connor, J. A. Fraietta, L. Guo, S. E. McGettigan, A. D. Posey Jr.,                    and antigen-specific activation states of CD19-targeted CAR T cells. J. Immunother. Cancer
+       P. R. Patel, S. Guedan, J. Scholler, B. Keith, N. W. Snyder, I. A. Blair, M. C. Milone, C. H. June,            9, e002328 (2021).
+       Distinct signaling of coreceptors regulates specific metabolism pathways and impacts                     35.   C. X. Dominguez, R. A. Amezquita, T. Guan, H. D. Marshall, N. S. Joshi, S. H. Kleinstein,
+       memory development in CAR T cells. Immunity 44, 380–390 (2016).                                                S. M. Kaech, The transcription factors ZEB2 and T-bet cooperate to program cytotoxic T cell
+18.    N. Singh, J. Perazzelli, S. A. Grupp, D. M. Barrett, Early memory phenotypes drive T cell                      terminal differentiation in response to LCMV viral infection. J. Exp. Med. 212, 2041–2056
+       proliferation in patients with pediatric malignancies. Sci. Transl. Med. 8, 320ra3 (2016).                     (2015).
+19.    F. Blaeschke, D. Stenger, T. Kaeuferle, S. Willier, R. Lotfi, A. D. Kaiser, M. Assenmacher,              36.   T. Adomavicius, M. Guaita, Y. Zhou, M. D. Jennings, Z. Latif, A. M. Roseman, G. D. Pavitt,
+       M. Döring, J. Feucht, T. Feuchtinger, Induction of a central memory and stem cell memory                       The structural basis of translational control by eIF2 phosphorylation. Nat. Commun. 10,
+       phenotype in functionally active CD4+ and CD8+ CAR T cells produced in an automated                            2136 (2019).
+       good manufacturing practice system for the treatment of CD19+ acute lymphoblastic                        37.   V. Golubovskaya, L. Wu, Different subsets of T cells, memory, effector functions,
+       leukemia. Cancer Immunol. Immunother. 67, 1053–1066 (2018).                                                    and CAR-T immunotherapy. Cancers (Basel) 8, 36 (2016).
+20.    Q. Deng, G. Han, N. Puebla-Osorio, M. C. J. Ma, P. Strati, B. Chasen, E. Dai, M. Dang, N. Jain,          38.   J. N. Kochenderfer, R. P. T. Somerville, T. Lu, V. Shi, A. Bot, J. Rossi, A. Xue, S. L. Goff,
+       H. Yang, Y. Wang, S. Zhang, R. Wang, R. Chen, J. Showell, S. Ghosh, S. Patchva, Q. Zhang,                      J. C. Yang, R. M. Sherry, C. A. Klebanoff, U. S. Kammula, M. Sherman, A. Perez, C. M. Yuan,
+       R. Sun, F. Hagemeister, L. Fayad, F. Samaniego, H. C. Lee, L. J. Nastoupil, N. Fowler,                         T. Feldman, J. W. Friedberg, M. J. Roschewski, S. A. Feldman, L. McIntyre, M. A. Toomey,
+       R. Eric Davis, J. Westin, S. S. Neelapu, L. Wang, M. R. Green, Characteristics of anti-CD19                    S. A. Rosenberg, Lymphoma remissions caused by anti-CD19 chimeric antigen receptor
+       CAR T cell infusion products associated with efficacy and toxicity in patients with large                      T cells are associated with high serum interleukin-15 levels. J. Clin. Oncol. 35, 1803–1813
+       B cell lymphomas. Nat. Med. 26, 1878–1887 (2020).                                                              (2017).
+21.    J. A. Fraietta, S. F. Lacey, E. J. Orlando, I. Pruteanu-Malinici, M. Gohil, S. Lundh,                    39.   Q. Xue, E. Bettini, P. Paczkowski, C. Ng, A. Kaiser, T. McConnell, O. Kodrasi, M. F. Quigley,
+       A. C. Boesteanu, Y. Wang, R. S. O’Connor, W.-T. Hwang, E. Pequignot, D. E. Ambrose,                            J. Heath, R. Fan, S. Mackay, M. E. Dudley, S. H. Kassim, J. Zhou, Single-cell multiplexed
+       C. Zhang, N. Wilcox, F. Bedoya, C. Dorfmeier, F. Chen, L. Tian, H. Parakandi, M. Gupta,                        cytokine profiling of CD19 CAR-T cells reveals a diverse landscape of polyfunctional
+       R. M. Young, F. B. Johnson, I. Kulikovskaya, L. Liu, J. Xu, S. H. Kassim, M. M. Davis,                         antigen-specific response. J. Immunother. Cancer 5, 85 (2017).
+       B. L. Levine, N. V. Frey, D. L. Siegel, A. C. Huang, E. J. Wherry, H. Bitter, J. L. Brogdon,             40.   W. Wang, M. Fasolino, B. Cattau, N. Goldman, W. Kong, M. A. Frederick, S. J. McCright,
+       D. L. Porter, C. H. June, J. J. Melenhorst, Determinants of response and resistance to CD19                    K. Kiani, J. A. Fraietta, G. Vahedi, Joint profiling of chromatin accessibility and CAR-T
+       chimeric antigen receptor (CAR) T cell therapy of chronic lymphocytic leukemia. Nat. Med.                      integration site analysis at population and single-cell levels. Proc. Natl. Acad. Sci. U.S.A.
+       24, 563–571 (2018).                                                                                            117, 5442–5452 (2020).
+22.    G. M. Chen, C. Chen, R. K. Das, P. Gao, C.-H. Chen, S. Bandyopadhyay, Y.-Y. Ding, Y. Uzun,               41.   A. Sheih, V. Voillet, L.-A. Hanafi, H. A. DeBerg, M. Yajima, R. Hawkins, V. Gersuk,
+       W. Yu, Q. Zhu, R. M. Myers, S. A. Grupp, D. M. Barrett, K. Tan, Integrative bulk and single-cell               S. R. Riddell, D. G. Maloney, M. E. Wohlfahrt, D. Pande, M. R. Enstrom, H.-P. Kiem,
+
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)           8 June 2022                                                                                                                                              15 of 16
+SCIENCE ADVANCES | RESEARCH ARTICLE
+
+      J. E. Adair, R. Gottardo, P. S. Linsley, C. J. Turtle, Clonal kinetics and single-cell             supported by the Connecticut Regenerative Medicine Research Fund and the Li Ka Shing
+      transcriptional profiling of CAR-T cells in patients undergoing CD19 CAR-T immunotherapy.          Foundation or Yale Center for Genomics Analysis (YCGA). Computational data analysis was
+      Nat. Commun. 11, 219 (2020).                                                                       conducted with the Yale High Performance Computing clusters (HPC). Funding: The research
+42.   B. L. Levine, L. M. Humeau, J. Boyer, R.-R. MacGregor, T. Rebello, X. Lu, G. K. Binder,            was supported by Stand-Up-to-Cancer (SU2C) Convergence 2.0 Grant (to R.F.) and the Packard
+      V. Slepushkin, F. Lemiale, J. R. Mascola, F. D. Bushman, B. Dropulic, C. H. June, Gene transfer    Fellowship for Science and Engineering (grant number 2012-38215 to R.F.). This material is
+      in humans using a conditionally replicating lentiviral vector. Proc. Natl. Acad. Sci. U.S.A.       based on work supported under a collaboration by Stand Up To Cancer, a program of the
+      103, 17372–17377 (2006).                                                                           Entertainment Industry Foundation and the Society for Immunotherapy of Cancer. Author
+43.   Z. Bai, Y. Deng, D. Kim, Z. Chen, Y. Xiao, R. Fan, An integrated dielectrophoresis-trapping        contributions: Conceptualization: J.J.M., P.G.C., and R.F. Investigation: Z.B., Z.Z., R.A., D.K., S.L.,
+      and nanowell transfer approach to enable double-sub-poisson single-cell RNA                        A.B., and H.S. Methodology: Z.B., S.W., and Z.Z. Data analysis: S.W., Z.B., K.G., P.G.C., Y.D., and
+      sequencing. ACS Nano 14, 7412–7424 (2020).                                                         Y.X. Resources: D.M.B., R.M.M., S.A.G., and C.H.J. Writing—original draft: Z.B., P.G.C., R.F., and
+44.   E. Z. Macosko, A. Basu, R. Satija, J. Nemesh, K. Shekhar, M. Goldman, I. Tirosh, A. R. Bialas,     J.J.M. Writing—review and editing: All the authors. Competing interests: R.F. is scientific
+      N. Kamitaki, E. M. Martersteck, J. J. Trombetta, D. A. Weitz, J. R. Sanes, A. K. Shalek,           founder and adviser for IsoPlexis, Singleron Biotechnologies, and AtlasXomics. The interests of
+      A. Regev, S. A. McCarroll, Highly parallel genome-wide expression profiling of individual          R.F. were reviewed and managed by Yale University Provost’s Office in accordance with the
+      cells using nanoliter droplets. Cell 161, 1202–1214 (2015).                                        University’s conflict of interest policies. J.J.M. and C.H.J. hold patents related to CAR T cell
+45.   A. Butler, P. Hoffman, P. Smibert, E. Papalexi, R. Satija, Integrating single-cell                 manufacturing and biomarker discovery. S.A.G. reports grants, personal fees, and other
+      transcriptomic data across different conditions, technologies, and species. Nat. Biotechnol.       support from Novartis; grants from Kite and Servier; grants and other support from Vertex;
+      36, 411–420 (2018).                                                                                personal fees from Roche, GSK, Humanigen, CBMG, and Janssen/JnJ; and other support from
+46.   L. McInnes, J. Healy, J. Melville, Umap: Uniform manifold approximation and projection             Jazz, Adaptimmune, TCR2, Cellectis, Juno, Allogene, and Cabaletta; in addition, S.A.G. has a
+      for dimension reduction. arXiv:1802.03426 [stat.ML] (9 February 2018).                             patent for Toxicity management for antitumor activity of CARs, WO 2014011984 A1 issued.
+47.   S. Aibar, C. B. González-Blas, T. Moerman, V. A. Huynh-Thu, H. Imrichova, G. Hulselmans,           D.M.B. reports that his employment in Tmunity Therapeutics Inc. has no relation to this work,
+      F. Rambow, J.-C. Marine, P. Geurts, J. Aerts, J. van den Oord, Z. K. Atak, J. Wouters, S. Aerts,   and no financial conflicts are present. The remaining authors declare no other competing
+      SCENIC: Single-cell regulatory network inference and clustering. Nat. Methods 14,                  interests. Data and materials availability: All scRNA-seq data used in this study can be
+      1083–1086 (2017).                                                                                  accessed in the NCBI Gene Expression Omnibus (GEO) database under the accession number
+48.   T. Stuart, A. Butler, P. Hoffman, C. Hafemeister, E. Papalexi, W. M. Mauck III, Y. Hao,            GSE197215. The other relevant data needed to evaluate the conclusions in the paper are
+      M. Stoeckius, P. Smibert, R. Satija, Comprehensive integration of single-cell data. Cell 177,      present in the paper and/or the Supplementary Materials.
+      1888–1902.e21 (2019).
+                                                                                                         Submitted 2 May 2021
+Acknowledgments: The microfluidic devices were fabricated in the Yale School of                          Accepted 22 April 2022
+Engineering and Applied Science cleanroom and Yale West Campus cleanroom. The                            Published 8 June 2022
+sequencing service was conducted at Yale Stem Cell Center Genomics Core facility, which was              10.1126/sciadv.abj2820
+
+
+
+
+Bai et al., Sci. Adv. 8, eabj2820 (2022)        8 June 2022                                                                                                                                          16 of 16
+

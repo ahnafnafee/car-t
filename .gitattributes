@@ -1,3 +1,7 @@
 * text=auto eol=lf
 *.png binary
 *.pdf binary
+*.zip binary
+*.gb -text
+*.fa -text
+*.fasta -text

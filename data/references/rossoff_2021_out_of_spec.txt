@@ -1,0 +1,529 @@
+letter
+
+. 2021 Nov 25;138(21):2138–2142. doi: 10.1182/blood.2021012392
+
+Out-of-specification tisagenlecleucel does not compromise safety or efficacy in pediatric acute lymphoblastic leukemia
+
+Jenna Rossoff
+
+Jenna Rossoff
+
+1Division of Pediatric Hematology, Oncology and Stem Cell Transplantation, Ann & Robert H. Lurie Children’s Hospital of Chicago, Chicago, IL;
+
+Find articles by Jenna Rossoff
+
+1,✉, Christina Baggott
+
+Christina Baggott
+
+2Department of Pediatrics, and
+
+Find articles by Christina Baggott
+
+2, Snehit Prabhu
+
+Snehit Prabhu
+
+3Stanford Cancer Institute, Stanford University School of Medicine, Stanford, CA;
+
+Find articles by Snehit Prabhu
+
+3, Holly Pacenta
+
+Holly Pacenta
+
+4Department of Pediatrics, The University of Texas Southwestern Medical Center/Children’s Health, Dallas, TX;
+
+5Division of Hematology and Oncology, Cook Children’s Medical Center, Fort Worth, TX;
+
+Find articles by Holly Pacenta
+
+4,5, Christine L Phillips
+
+Christine L Phillips
+
+6Department of Pediatrics, University of Cincinnati, Cincinnati, OH;
+
+7Cincinnati Children’s Hospital Medical Center, Cancer and Blood Disease Institute, Cincinnati, OH;
+
+Find articles by Christine L Phillips
+
+6,7, Heather Stefanski
+
+Heather Stefanski
+
+8Division of Pediatric Blood and Marrow Transplantation, Department of Pediatrics, University of Minnesota Medical School, Minneapolis, MN;
+
+Find articles by Heather Stefanski
+
+8, Julie-An Talano
+
+Julie-An Talano
+
+9Department of Pediatric Hematology Oncology, Medical College of Wisconsin, Milwaukee, WI;
+
+Find articles by Julie-An Talano
+
+9, Amy Moskop
+
+Amy Moskop
+
+9Department of Pediatric Hematology Oncology, Medical College of Wisconsin, Milwaukee, WI;
+
+Find articles by Amy Moskop
+
+9, Steven P Margossian
+
+Steven P Margossian
+
+10Harvard Medical School, Dana-Farber/Boston Children’s Cancer and Blood Disorders Center, Pediatric Hematology-Oncology, Boston, MA;
+
+Find articles by Steven P Margossian
+
+10, Michael R Verneris
+
+Michael R Verneris
+
+11Anschutz Medical Campus, University of Colorado, Colorado Children’s Hospital, Aurora, CO;
+
+Find articles by Michael R Verneris
+
+11, Gary Douglas Myers
+
+Gary Douglas Myers
+
+12Division of BMT/Hematology/Oncology, Children’s Mercy Hospital, Kansas City, MO;
+
+Find articles by Gary Douglas Myers
+
+12, Nicole Karras
+
+Nicole Karras
+
+13Department of Pediatrics, City of Hope National Medical Center, Duarte, CA;
+
+Find articles by Nicole Karras
+
+13, Patrick A Brown
+
+Patrick A Brown
+
+14Department of Oncology, Sidney Kimmel Cancer Center at John Hopkins School of Medicine, Baltimore, MD;
+
+Find articles by Patrick A Brown
+
+14, Muna Qayed
+
+Muna Qayed
+
+15Aflac Cancer and Blood Disorders Center, Emory University, Atlanta, GA;
+
+Find articles by Muna Qayed
+
+15, Michelle Hermiston
+
+Michelle Hermiston
+
+16Department of Pediatrics, University of California San Francisco Benioff Children’s Hospital, San Francisco, CA;
+
+Find articles by Michelle Hermiston
+
+16, Prakash Satwani
+
+Prakash Satwani
+
+17Division of Pediatric Hematology, Oncology, and Stem Cell Transplantation, Department of Pediatrics, Columbia University Medical Center, New York, NY;
+
+Find articles by Prakash Satwani
+
+17, Christa Krupski
+
+Christa Krupski
+
+6Department of Pediatrics, University of Cincinnati, Cincinnati, OH;
+
+Find articles by Christa Krupski
+
+6, Amy K Keating
+
+Amy K Keating
+
+11Anschutz Medical Campus, University of Colorado, Colorado Children’s Hospital, Aurora, CO;
+
+Find articles by Amy K Keating
+
+11, Rachel Wilcox
+
+Rachel Wilcox
+
+12Division of BMT/Hematology/Oncology, Children’s Mercy Hospital, Kansas City, MO;
+
+Find articles by Rachel Wilcox
+
+12, Cara A Rabik
+
+Cara A Rabik
+
+14Department of Oncology, Sidney Kimmel Cancer Center at John Hopkins School of Medicine, Baltimore, MD;
+
+Find articles by Cara A Rabik
+
+14, Vanessa A Fabrizio
+
+Vanessa A Fabrizio
+
+18Division of Pediatric Transplant and Cellular Therapy, Department of Pediatrics, Duke University, Durham, NC;
+
+19Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, NY;
+
+Find articles by Vanessa A Fabrizio
+
+18,19, Michael Kunicki
+
+Michael Kunicki
+
+2Department of Pediatrics, and
+
+Find articles by Michael Kunicki
+
+2, Vasant Chinnabhandar
+
+Vasant Chinnabhandar
+
+8Division of Pediatric Blood and Marrow Transplantation, Department of Pediatrics, University of Minnesota Medical School, Minneapolis, MN;
+
+Find articles by Vasant Chinnabhandar
+
+8, A Yasemin Goksenin
+
+A Yasemin Goksenin
+
+16Department of Pediatrics, University of California San Francisco Benioff Children’s Hospital, San Francisco, CA;
+
+Find articles by A Yasemin Goksenin
+
+16, Kevin J Curran
+
+Kevin J Curran
+
+19Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, NY;
+
+20Department of Pediatrics, Weill Cornell Medical College, New York, NY;
+
+Find articles by Kevin J Curran
+
+19,20, Crystal L Mackall
+
+Crystal L Mackall
+
+21Division of Hematology and Oncology, Department of Pediatrics, Center for Cancer Cell Therapy, Stanford Cancer Institute, and
+
+22Division of Stem Cell Transplantation and Cell Therapy, Department of Medicine, Stanford University School of Medicine, Stanford, CA;
+
+Find articles by Crystal L Mackall
+
+21,22, Theodore W Laetsch
+
+Theodore W Laetsch
+
+4Department of Pediatrics, The University of Texas Southwestern Medical Center/Children’s Health, Dallas, TX;
+
+23Department of Pediatrics and Abramson Cancer Center, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA;
+
+24Division of Oncology, Center for Childhood Cancer Research, Children’s Hospital of Philadelphia, Philadelphia, PA; and
+
+Find articles by Theodore W Laetsch
+
+4,23,24, Liora M Schultz
+
+Liora M Schultz
+
+25Division of Hematology and Oncology, Department of Pediatrics, Stanford University School of Medicine, Stanford, CA
+
+Find articles by Liora M Schultz
+
+25
+
+1Division of Pediatric Hematology, Oncology and Stem Cell Transplantation, Ann & Robert H. Lurie Children’s Hospital of Chicago, Chicago, IL;
+
+2Department of Pediatrics, and
+
+3Stanford Cancer Institute, Stanford University School of Medicine, Stanford, CA;
+
+4Department of Pediatrics, The University of Texas Southwestern Medical Center/Children’s Health, Dallas, TX;
+
+5Division of Hematology and Oncology, Cook Children’s Medical Center, Fort Worth, TX;
+
+6Department of Pediatrics, University of Cincinnati, Cincinnati, OH;
+
+7Cincinnati Children’s Hospital Medical Center, Cancer and Blood Disease Institute, Cincinnati, OH;
+
+8Division of Pediatric Blood and Marrow Transplantation, Department of Pediatrics, University of Minnesota Medical School, Minneapolis, MN;
+
+9Department of Pediatric Hematology Oncology, Medical College of Wisconsin, Milwaukee, WI;
+
+10Harvard Medical School, Dana-Farber/Boston Children’s Cancer and Blood Disorders Center, Pediatric Hematology-Oncology, Boston, MA;
+
+11Anschutz Medical Campus, University of Colorado, Colorado Children’s Hospital, Aurora, CO;
+
+12Division of BMT/Hematology/Oncology, Children’s Mercy Hospital, Kansas City, MO;
+
+13Department of Pediatrics, City of Hope National Medical Center, Duarte, CA;
+
+14Department of Oncology, Sidney Kimmel Cancer Center at John Hopkins School of Medicine, Baltimore, MD;
+
+15Aflac Cancer and Blood Disorders Center, Emory University, Atlanta, GA;
+
+16Department of Pediatrics, University of California San Francisco Benioff Children’s Hospital, San Francisco, CA;
+
+17Division of Pediatric Hematology, Oncology, and Stem Cell Transplantation, Department of Pediatrics, Columbia University Medical Center, New York, NY;
+
+18Division of Pediatric Transplant and Cellular Therapy, Department of Pediatrics, Duke University, Durham, NC;
+
+19Department of Pediatrics, Memorial Sloan Kettering Cancer Center, New York, NY;
+
+20Department of Pediatrics, Weill Cornell Medical College, New York, NY;
+
+21Division of Hematology and Oncology, Department of Pediatrics, Center for Cancer Cell Therapy, Stanford Cancer Institute, and
+
+22Division of Stem Cell Transplantation and Cell Therapy, Department of Medicine, Stanford University School of Medicine, Stanford, CA;
+
+23Department of Pediatrics and Abramson Cancer Center, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA;
+
+24Division of Oncology, Center for Childhood Cancer Research, Children’s Hospital of Philadelphia, Philadelphia, PA; and
+
+25Division of Hematology and Oncology, Department of Pediatrics, Stanford University School of Medicine, Stanford, CA
+
+✉
+Corresponding author.
+
+Received 2020 May 6; Accepted 2020 Aug 17.
+
+© 2021 by The American Society of Hematology
+
+PMC Copyright notice
+
+PMCID: PMC8617436  PMID: 34499715
+
+TO THE EDITOR:
+
+Chimeric antigen receptor (CAR) T-cell therapy has shown exceptional efficacy in pediatric patients with multiply relapsed and/or refractory (R/R) B-cell acute lymphoblastic leukemia (B-ALL). The pivotal ELIANA trial evaluating tisagenlecleucel use in this population demonstrated an overall remission rate of 81% by 3 months postinfusion,2 prompting its approval by the US Food and Drug Administration in 2017. To ensure delivery of safe and effective cellular products, strict specifications were set for tisagenlecleucel to be eligible for commercial release. However, if release criteria are not met, physicians can decide to use the product, assuming no significant safety concerns. In the United States, the Managed Access Program (MAP) provides access to tisagenlecleucel for patients with B-ALL or diffuse large B-cell lymphoma that is out of specification (OOS) and for whom repeat leukapheresis is not feasible. Patients may also receive OOS tisagenlecleucel via a single-patient Investigational New Drug (IND). A previous report did not demonstrate any difference in efficacy or toxicity between patients receiving tisagenlecleucel meeting commercial release specifications and those receiving OOS tisagenlecleucel.3 This study seeks to expand the field by further evaluating outcomes in pediatric patients who received OOS tisagenlecleucel in the Pediatric Real World CAR Consortium (PRWCC).
+
+Retrospective data were abstracted from the PRWCC database of patients with R/R B-ALL who received tisagenlecleucel as an FDA-approved therapy outside of the context of a clinical trial. The PRWCC includes 15 pediatric institutions in the United States. Each institution obtained independent institutional review board approval, and data were collected using a Health Insurance Portability and Accountability Act of 1996–compliant REDCap database. Patients whose products were obtained through the MAP (NCT03601442) or with single-patient IND approval as a result of having a leukapheresis product and/or manufactured tisagenlecleucel that did not meet specifications for commercial release were categorized as MAP/IND, whereas those whose product met all release criteria were categorized as standard of care (SOC).
+
+The primary objective of this study was to compare the efficacy of OOS vs SOC tisagenlecleucel. The primary outcome was a complete response (CR) at day 28 (<5% lymphoblasts in the bone marrow and absence of circulating lymphoblasts or extramedullary disease). Secondary objectives included overall survival (OS) and event-free survival (EFS) at 6 and 12 months postinfusion, probability of continued CR in patients achieving a CR at day 28, death prior to day 28 and rates of cytokine release syndrome (CRS), severe CRS (grade ≥3), immune effector cell–associated neurotoxicity syndrome (ICANS), and infections in patients in the MAP/IND vs SOC groups. Statistical analysis included mean rates of CR at day 28, CRS, ICANS, and infections; the χ2 test was used to analyze differences between the MAP/IND and SOC groups. Kaplan-Meier analyses for OS, EFS, and probability of continued CR were performed, with log-rank testing used to assess differences between the 2 groups.
+
+There were 200 patients in our database: 185 received tisagenlecleucel, 24 (13%) via the MAP (n = 14) or a single patient IND (n = 10), and 15 patients were never infused. Reasons for products being OOS included cell viability < 80% (n = 17), total nucleated cell count <2 × 109 in leukapheresis product (n = 3), failed interferon-γ release assay (n = 2), leukapheresis product collected >9 months prior (n = 1), and determination of residual beads >50 beads per 3 × 106 cells (n = 1). Baseline patient and disease characteristics were not different for MAP/IND patients vs the SOC cohort (Table 1). The number of OOS products was roughly proportional to the total number of infused products from any 1 institution. Reasons for noninfusion were clinical deterioration/death (n = 8), inability to manufacture a product (n = 5), and remission from bridging therapy (n = 2).
+
+Table 1.
+
+Baseline patient, disease, and infusion characteristics for patients receiving tisagenlecleucel via the MAP/IND or SOC
+
+MAP/IND (n = 24)
+SOC (n = 161)
+
+P
+
+Age at diagnosis, median (range), y
+6 (0-22)
+8 (0-25)
+.40
+
+Age at infusion, median (range), y
+10.5 (0-25)
+13 (0-26)
+.49
+
+Females/males
+8 (33.3)/16 (66.7)
+66 (41.0)/95 (59.0)
+.48
+
+Race
+
+Non-Hispanic/White
+10 (41.7)
+80 (49.7)
+.30
+
+Hispanic/Black
+10 (41.7)
+67 (41.6)
+
+Asian
+2 (8.3)
+5 (3.1)
+
+Multiracial/unknown/not reported
+2 (8.3)
+9 (5.6)
+
+Leukemia cytogenetics
+
+Unfavorable
+
+7 (29.2)
+53 (32.9)
+.90
+
+Hypodiploid
+1 (4.2)
+6 (3.7)
+
+t(9;22)/Ph-like
+3 (12.5)
+26 (16.1)
+
+KMT2A rearranged
+2 (8.3)
+12 (7.5)
+
+iAMP21
+1 (4.2)
+9 (5.6)
+
+Favorable
+
+4 (16.7)
+25 (15.5)
+
+Hyperdiploid
+2 (8.35)
+17 (10.5)
+
+t(12;21)
+2 (8.35)
+8 (5.0)
+
+Other/unknown
+
+16 (66.7)
+90 (55.9)
+
+Other
+8 (33.35)
+62 (38.5)
+
+Unknown
+8 (33.35)
+28 (17.4)
+
+MRD status by flow cytometry at EOI
+
+Detected
+13 (54.2)
+77 (47.8)
+.63
+
+Not detected
+8 (33.3)
+58 (36.0)
+
+Unknown
+3 (12.5)
+26 (16.2)
+
+Relapses pre–CAR T, median (range), n
+1 (0-5)
+1 (0-9)
+.21
+
+Lines of therapy pre–CAR T, median (range), n
+3 (1-8)
+3 (1-10)
+.13
+
+Prior CD19-directed therapy
+6 (25)
+32 (19.9)
+.59
+
+Prior HSCT
+10 (41.7)
+37 (23.0)
+.087
+
+Indication for CAR T
+
+Second or greater relapse
+11 (45.8)
+76 (47.2)
+.42
+
+Primary refractory
+6 (25.0)
+31 (19.3)
+
+Other
+7 (29.2)
+54 (33.5)
+
+Time from diagnosis to CAR T, median (range), mo
+31 (4-120)
+30 (2-164)
+.42
+
+CAR+ viable T cells infused, median (range), ×106 cells per kg
+1.5 (0.24-5.1)
+1.7 (0.13-4.6)
+.40
+
+Open in a new tab
+
+Unless otherwise noted, data are n (%).
+
+CAR T, CAR T-cell therapy; EOI, end of induction; HSCT, hematopoietic stem cell transplant; MRD, minimal residual disease.
+
+Rates of CR at day 28 did not differ: 83% vs 85% for MAP/IND vs SOC, respectively (P = .83). OS at 6 and 12 months was 96% vs 83% and 85% vs 70%, respectively (Figure 1A). EFS at 6 and 12 months was 65% vs 63% and 55% vs 51%, respectively (Figure 1B). Among patients who achieved a CR at day 28, the probability of continued remission at 6 and 12 months was 79% vs 75% and 66% vs 63%, respectively (Figure 1C). Five patients died prior to the day-28 evaluations, all in the SOC group.
+
+Figure 1.
+
+Open in a new tab
+
+Overall survival (OS), event-free survival (EFS, and probability of continued remission. MAP/IND vs SOC (A-C) and for MAP/IND (reasons other than cell viability 70% to 79%) vs combined SOC and MAP/IND with cell viability 70% to 79% (D-F). OS is defined by time of CAR infusion to the date of death, with data censored at the time of last follow-up. EFS is defined as time of CAR infusion to the earliest event, with events defined as non-response, relapse or death, with data censored at the time of last follow up and hematopoietic stem cell transplantation (HSCT). Duration of remission includes patients achieving CR at day 28, with events defined as relapse and death and data censored for time of last follow up and HSCT.
+
+Given that the cutoff for cell viability was 70% in many of the pivotal trials, we also determined OS, EFS, and probability of continued remission after an initial CR after reclassifying MAP/IND patients as SOC if a cell viability of 70% to 79% was the only reason for their CAR T-cell product being deemed OOS. OS, EFS, and probability of continued remission were also similar between these 2 groups (Figure 1D-F).
+
+To evaluate the safety of OOS products, rates of CRS (any grade), severe CRS, ICANS, and infections were compared between the MAP/IND and SOC groups. CRS of any grade occurred in 46% vs 61% and severe CRS occurred in 17% vs 19%, respectively; ICANS occurred in 8% vs 22%, respectively; and infections were documented in 54% vs 37%, respectively (P = not significant for all).
+
+Prior to the routine use of immunotherapy, only half of pediatric patients with B-ALL in first relapse achieved a long-term cure, and outcomes for patients with multiply R/R disease were far more dismal.4,5 Survival is limited by the increasing chemoresistance of leukemic blasts at relapse and significant treatment-related morbidity and mortality.4,6 CAR T-cell therapy has been shown to be remarkably effective in patients with R/R B-ALL, offering a potential cure, even in patients whose disease has proven to be resistant to multiple other therapeutic attempts. The FDA approval for tisagenlecleucel sets specifications for the leukapheresis and manufactured products to ensure its safety and efficacy, but some are likely more stringent than necessary. For example, cell viability < 80% is the most common reason for a product to be deemed OOS and is more stringent than the requirement used in the initial clinical trial (≥70%).3 In our study, all patients whose tisagenlecleucel was OOS because of cell viability concerns received products with viability ≥70%. We demonstrated that efficacy (rates of CR, OS, and EFS and probability of continued CR) and safety (CRS, severe CRS, ICANS, and infections) are similar in patients who received OOS vs SOC. Given the limited treatment options for these patients, as well as difficulties with second leukapheresis attempts, our data provide further evidence that delivering OOS tisagenlecleucel does not compromise the excellent outcomes shown in previous CD19-specific CAR trials.
+
+A few limitations of our analysis must be noted. Within our robust multi-institutional cohort, only 24 (13%) infused patients received OOS products. The retrospective nature of this study did not allow for analysis regarding the use of an OOS product vs attempting a second leukapheresis and whether specific patient factors may play a role. Additionally, this cohort was enriched with patients whose cell viability was 70% to 79%, limiting our capacity to further explore the impact of other specifications. Finally, prior work demonstrated that viable cell dose significantly impacts outcomes.7 Despite most having low cell viability, all products delivered to patients in the MAP/IND group were within the indicated viable cell dose. Thus, we were not able to evaluate tisagenlecleucel’s safety or efficacy when a suboptimal viable cell dose is given.
+
+In our retrospective cohort evaluating the use of tisagenlecleucel for pediatric/young adult patients with R/R B-ALL in the real-world setting, in aggregate, neither the efficacy nor the safety of tisagenlecleucel seems to be compromised by the use of OOS products. Larger studies are needed to further delineate specific cutoffs outside of which efficacy and/or safety may be impacted.
+
+Authorship
+
+Contribution: J.R. designed the study, collected and analyzed data, wrote the first draft of the manuscript, and contributed to subsequent revisions of the manuscript; L.M.S. designed the study, collected and analyzed data, and revised the manuscript; C.B. and S.P. analyzed data and revised the manuscript; H.P., C.L.P., H.S., J.-A.T., A.M., S.P.M., M.R.V., G.D.M., N.K., P.A.B., M.Q., M.H., P.S., C.K., A.K.K., R.W., C.A.R., V.A.F., M.K., V.C., A.Y.G., K.J.C., C.L.M., and T.W.L collected data and revised the manuscript; and all authors approved the final version of this manuscript.
+
+Conflict-of-interest disclosure: C.L.P. has served on an advisory committee for Novartis. H.S. has served on an advisory committee and as a member of the Speakers Bureau for Novartis. S.P.M. has served on an advisory committee for Novartis and Jazz Pharmaceuticals. M.R.V. has served on an advisory committee for Novartis, has been a consultant for and is a current equity holder in Fate Therapeutics and B-MoGen Biotechnologies, and has been a consultant for UpToDate. G.D.M. has served on the ELIANA trial Steering Committee and Speakers Bureau and has served as a consultant and received honoraria from Novartis. P.A.B. has served on an advisory committee for Novartis, Kite, Takeda, Janssen, Kura, Servier, and Jazz Pharmaceuticals. M.Q. has served as a consultant for Novartis and Mesoblast. M.H. has served on an advisory board for Sobi and Novartis. P.S. has served as a consultant for Takeda and Mesoblast. K.J.C. has served as a consultant for and received research funding from Novartis, has served as a consultant for Mesoblast, and received research funding from Celgene. C.L.M. has served as a consultant for and is a current equity holder in Lyell Immunopharma and Apricity Health, has served as a consultant for NeoImmune Tech, Nektar Therapeutics, and Bristol Myers Squibb, and is a current equity holder in Allogene. T.W.L. reports consultancy relationships with Novartis, Cellectis, Bayer, Deciphera, Jumo Health, and Y-mAbs Therapeutics and has received research funding from Pfizer, Novartis, and Bayer. The remaining authors declare no competing financial interests.
+
+Correspondence: Jenna Rossoff, Ann & Robert H. Lurie Children's Hospital of Chicago, 225 E. Chicago Ave, Box 30, Chicago, IL 60611; e-mail: jrossoff@luriechildrens.org.
+
+Footnotes
+
+Presented in abstract form at the 62nd annual meeting of the American Society of Hematology, 6 December 2020.
+
+Data sharing requests should be sent to Jenna Rossoff (jrosoff@luriechildren.org).
+
+REFERENCES
+
+1.Rossoff J, Baggott C, Prabhu S, et al. Real-world treatment of pediatric patients with relapsed/refractory B-Cell acute lymphoblastic leukemia using tisagenlecleucel that is out of specification for commercial release [abstract]. Blood.
+2020;136(suppl 1):42-44. Abstract 614. [Google Scholar]
+
+2.Maude SL, Laetsch TW, Buechner J, et al. Tisagenlecleucel in children and young adults with B-cell lymphoblastic leukemia. N Engl J Med.
+2018;378(5):439-448. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+3.Pasquini MC, Hu ZH, Curran K, et al. Real-world evidence of tisagenlecleucel for pediatric acute lymphoblastic leukemia and non-Hodgkin lymphoma [published correction appears in Blood Adv. 2021;5(4):1136]. Blood Adv.
+2020;4(21):5414-5424. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+4.Hunger SP, Raetz EA. How I treat relapsed acute lymphoblastic leukemia in the pediatric population. Blood.
+2020;136(16):1803-1812. [DOI] [PubMed] [Google Scholar]
+
+5.Bhojwani D, Pui CH. Relapsed childhood acute lymphoblastic leukaemia. Lancet Oncol.
+2013;14(6):e205-e217. [DOI] [PubMed] [Google Scholar]
+
+6.Klumper E, Pieters R, Veerman AJ, et al. In vitro cellular drug resistance in children with relapsed/refractory acute lymphoblastic leukemia. Blood.
+1995;86(10):3861-3868. [PubMed] [Google Scholar]
+
+7.Stefanski HE, Eaton A, Baggot C, et al. Dose of commercial tisagenlecleucel impacts outcomes in pediatric and young adult B-cell acute lymphoblastic leukemia: a Pediatric Real-World CAR Consortium Report. Poster presented at Transplantation & Cellular Therapy Meetings of ASTCT and CIBMTR. 8-12 February 2021.

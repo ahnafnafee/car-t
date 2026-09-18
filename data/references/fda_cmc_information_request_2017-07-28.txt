@@ -1,0 +1,76 @@
+From: 
+Giordano Erica 
+To: 
+Patel Manisha (manisha.patel@novartis.com) 
+Cc: 
+"Riggins Cindy"; narin ahmed@novartis.com 
+Subject: 
+BL 125646 CMC Information Request 
+Date: 
+Friday, July 28, 2017 8:31:16 AM 
+Attachments: 
+image009.png 
+image015.png 
+image016.png 
+image017.png 
+image018.png 
+ 
+ 
+Good morning, 
+ 
+Please see the information request below and provide a response by 4 pm on July 31, 2017. As usual please respond 
+directly to this e-mail and follow-up by providing the information as an official amendment to the BLA. 
+ 
+We have reviewed your recent supplemental validation studies (Amendment #32). We have following 
+recommendations and comments. 
+ 
+1. In amendment #32 (serial#31) submitted on June 16, 2017, you have not revised any CPPs 
+ starting viable 
+WBC, static culture viable WBC seeding number, and Positive selection starting viable WBC) that may be too 
+broad. We recommend the following: 
+ 
+a. The lower limit of 
+ may be more appropriate for the 
+ starting viable WBC to exclude the lower 3 
+terminated/rejected batches. See figure 2-7. 
+ 
+ 
+b. The lower limit of
+ may be more appropriate for the static culture viable WBC seeding number to exclude 
+the lower terminated batch. See figure 2-31 
+ 
+ 
+c. A tighter lower limit for the Positive selection starting viable WBC may be more appropriate. See figure 2- 
+12. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+2. You provided the ranges process time based on historical ranges for CTL019 unit operations (Table 6-4). 
+ 
+(b) (4)
+(b) (4)
+
+You classified the process time range as “historical ranges,” but not as CPPs. Please clarify if a deviation will be 
+triggered if a unit operation exceeds a historical range of the process time limit. 
+ 
+Please confirm receipt of this request. 
+Thank you, 
+Erica Giordano 
+Regulatory Project Manager 
+Center for Biologics Evaluation and Research 
+Office of Tissues and Advanced Therapies 
+U.S. Food and Drug Administration 
+Tel: 240-402-8298 
+Erica.Giordano@fda.hhs.gov 
+ 
+ 
+"THIS MESSAGE IS NTENDED ONLY FOR THE USE OF THE PARTY TO WHOM IT IS ADDRESSED AND MAY CONTA N INFORMATION THAT IS 
+PRIVILEGED, CONFIDENTIAL, AND PROTECTED FROM DISCLOSURE UNDER LAW. If you are not the addressee, or a person authorized to deliver the 
+document to the addressee, you are hereby notified that any review, disclosure, dissemination, copying, or other action based on the content of this 
+communication is not authorized. If you have received this document in error, please immediately notify the sender by e-mail or phone." 

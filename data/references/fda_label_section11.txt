@@ -1,0 +1,73 @@
+11 
+DESCRIPTION 
+KYMRIAH (tisagenlecleucel) is a CD19-directed genetically modified autologous T cell immunotherapy comprised of 
+autologous T cells that are genetically modified using a lentiviral vector to encode an anti-CD19 chimeric antigen receptor 
+(CAR). The CAR is comprised of a murine single-chain antibody fragment (scFv) specific for CD19, followed by a CD8 
+hinge and transmembrane region that is fused to the intracellular signaling domains for 4-1BB (CD137) and CD3 zeta. 
+KYMRIAH is prepared from the patient’s peripheral blood mononuclear cells, which are obtained via a standard 
+leukapheresis procedure. The mononuclear cells are enriched for T cells, then transduced with the lentiviral vector 
+containing the anti-CD19 CAR transgene and activated with anti-CD3/CD28 antibody coated beads. The transduced T 
+cells are expanded in cell culture, washed, and formulated into a suspension, which then is cryopreserved. The product 
+must pass a sterility test before release for shipping as a frozen suspension in a patient-specific infusion bag(s). The 
+product is thawed prior to administration [see Dosage and Administration (2.3), How Supplied/Storage and Handling 
+(16)]. The thawed product is a colorless to slightly yellow suspension of cells. 
+In addition to T cells, other cell populations, including monocytes, NK cells, and B cells, may be present. The formulation 
+contains 31.25% (v/v) of Plasma-Lyte A, 31.25% (v/v) of 5% Dextrose/0.45% sodium chloride, 10% Dextran 40 
+(LMD)/5% Dextrose, 20% (v/v) of 25% Human Serum Albumin (HSA), and 7.5% (v/v) Cryoserv® dimethyl sulfoxide 
+(DMSO). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pediatric and Young Adult r/r B-cell ALL: A single dose of KYMRIAH may contain up to 2.5 x 108 CAR-positive 
+viable T cells provided in one to three patient-specific infusion bag(s). Based on the patient’s weight reported at the time 
+of leukapheresis, one of two possible dose ranges will be prepared for the patient: 
+• 
+For patients 50 kg or less: 0.2 to 5.0 x 106 CAR-positive viable T cells per kg body weight. 
+• 
+For patients above 50 kg: 0.1 to 2.5 x 108 CAR-positive viable T cells. 
+Adult r/r DLBCL and r/r FL: A single dose of KYMRIAH may contain 0.6 to 6.0 x 108 CAR-positive viable T cells 
+provided in one to three patient-specific infusion bag(s). 
+The actual number of CAR-positive T cells in the product is reported on the Certificate of Analysis (CoA) that is shipped 
+with KYMRIAH. The volume of CAR-pos

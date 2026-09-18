@@ -1,0 +1,2613 @@
+ 
+1 of 70 
+DEPARTMENT OF HEALTH & HUMAN SERVICES 
+ 
+ U.S. Food and Drug Administration 
+Center for Biologics Evaluation and Research 
+Office of Compliance and Biologics Quality 
+Division of Manufacturing and Product Quality 
+ 
+ 
+ 
+ 
+ 
+ 
+To: 
+File BL STN 125646/0 for CTL019 suspension for intravenous infusion 
+ 
+From:  
+Randa Melhem, PhD, Reviewer, OCBQ/DMPQ/MRBII 
+ 
+Through: 
+CDR Qiao Bobo, PhD, Branch Chief, OCBQ/DMPQ/MRBII 
+ 
+ 
+ 
+John Eltermann, Jr., R.Ph., M.S., Director, OCBQ/DMPQ 
+ 
+Cc: 
+ 
+Xiaobin Victor Lu, PhD, Reviewer, CBER/OTAT/DCGT/GTB 
+ 
+ 
+Joan Johnson, MS, Reviewer, CBER/OCBQ/DMPQ/MRBI 
+ 
+ 
+Erica Giordano, CBER/OTAT/DRPM/RPMBI 
+ 
+ 
+Debra Vause, CBER/OCBQ/DMPQ/ARB 
+ 
+ 
+ 
+Subject: 
+Review Memo (BLA): [Novartis Pharmaceuticals Corporation, License # 1244]. 
+ 
+Original BLA to get licensure for Tisagenlecleucel-T (CTL019) indicated for the 
+treatment of pediatric and young adult patients with relapsed/refractory B-cell 
+acute lymphoblastic leukemia (ALL). The drug product is manufactured at 
+Novartis facility in Morris Plains, NJ. 
+ 
+ 
+ 
+Due Date: 
+October 3, 2017 
+ 
+ 
+RECOMMENDATION 
+Recommend approval with the concurrence of the product office. 
+ 
+SUMMARY 
+CBER received this electronic submission on February 3, 2017. Novartis Pharmaceuticals 
+Corporation (Novartis) submitted this Biologics License Application (BLA) to provide 
+information to support the US market authorization of Tisagenlecleucel-T (CTL019) indicated 
+for the treatment of pediatric and young adult patients with relapsed/refractory B-cell acute 
+lymphoblsatic leukemia (ALL). 
+CTL019 is an adoptive cancer immunocellular therapy that involves the reprogramming of 
+autologous T cells with a transgene using a lentiviral vector. The transgene encodes a chimeric 
+antigen receptor (CAR) that allows these T cells to specifically target and destroy CD19 
+positive B cells in an antigen dependent, but major histocompatibility complex (MHC) 
+independent manner. 
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    2 of 70 
+ 
+ 
+CTL019 final product is cryopreserved in 
+ freezing bags, 
+as a single-dose cell suspension, which is thawed prior to infusion. CTL019 is formulated in a 
+defined cryopreservation medium containing Plasma-Lyte A for Injection, Dextrose and 
+Sodium Chloride for Injection, Human Serum Albumin, Dextran 40 in Dextrose for Injection 
+and Cryoserv® solution (containing DMSO as cryopreservation agent).  The product is 
+indicated for the treatment of pediatric and young adult patients with relapsed/refractory B-cell 
+acute lymphoblatic leukemia (ALL). The target dose is 0.2-5.0 x 106 transduced viable T 
+cells/kg (patients ≤ 50kg), and 0.1-2.5 x 108 transduced viable T cells for patients ˃ 50kg. 
+The viral vector drug substance is manufactured at 
+, (a CMO for 
+Novartis),  and viral vector drug product is filled at 
+, (a contractor 
+for 
+. The final CAR-T cell product CTL019 is manufactured and 
+filled and stored at Novartis Morris Plains Facility in NJ, USA. 
+The final cellular product has been given the INN name tisagenlecleucel and the USAN name 
+tisagenlecleucel-T. It has the internal Novartis product code CTL019, which will be used 
+throughout this memo. 
+As part of review process of this original BLA (STN 125646/0), CBER conducted Pre-License 
+Inspections (PLI) at Novartis Morris Plains Facility [FEI # 3010353512] from 03-7 April 2017 
+for the manufacturing of the CTL019 drug product; and at 
+ 
+ and at 
+ 
+ for the manufacturing of the lentiviral vector. All inspections resulted in 
+deficiencies as documented in the respective 483 observations. The inspectional findings are 
+documented in the respective Establishment Inspectional Report (EIR) for each facility. In 
+addition, the responses to the 483 observations are documented in separate memos. 
+ 
+CATEGORICAL EXCLUSION FROM ENVIRONMENTAL ASSESSMENT 
+Novartis Pharmaceuticals Corporation is claiming a categorical exclusion under 21 CFR 25.31 
+(c) from the need to prepare an environmental assessment, as they consider CTL019 final 
+product does not significantly alter the concentration or distribution of the substance, its 
+metabolites, or degradation products in the environment. 
+They explained that T cells are terminally differentiated cells and are unable to proliferate or 
+survive outside of the human body unless they are in highly controlled, tissue culture conditions 
+(i.e. presence of specific cytokines or defined cell culture medium). They added that this is in 
+line with FDA’s guidance which considers that for purposes of 21 CFR 25.31(c) that 
+Recombinant Viral or Microbial Products (GTVVs) consisting of genetically modified human 
+cells to be substances that “occur naturally in the environment” because these cells have 
+stringent nutritional requirements for survival and replication and are therefore not viable in the 
+environment, and are degraded into naturally occurring substances.[Reference FDA Guidance 
+for Industry “Determining the Need for and Content of Environmental Assessments for Gene 
+Therapies, Vectored Vaccines, and Related Recombinant Viral or Microbial Products 
+(GTVVs)”] 
+In addition, Novartis stated that, to the best of their knowledge, no extraordinary circumstances 
+exist, which may significantly affect the quality of the human environment.  
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    3 of 70 
+ 
+ 
+INTRODUCTION 
+The production of CL019 involves the following facilities. In this review memo I will cover the 
+description of the facilities, equipment, and manufacturing operations for the cell drug 
+substance and drug product performed at the Novartis Cell & Gene Therapies Facility (CGT) 
+located at 220 East Hanover Avenue, Morris Plains, NJ, USA. The manufacturing operations of 
+the viral vector will be reviewed in a separate memo (Reviewer – Joan Johnson). 
+Manufacturing/ 
+Testing activities 
+Inspection? 
+Waiver?  
+Not required? 
+Compliance 
+check 
+required for 
+approval? 
+RMS-BLA 
+entry 
+required? 
+Comments 
+Novartis Pharmaceuticals Corporation (NPC) – Legal entity 
+Cell & Gene Therapies Facility (CGT), 220 East Hanover Avenue, Morris Plains, NJ 07950 USA 
+FEI# 3010353512 DUNS# 078640106 
+ 
+Cell Substance and Cell 
+Product: 
+• Manufacture of CTL019 
+DS and DP 
+• Quality Control and 
+Stability Testing of 
+CTL019 DS and DP. 
+• Quality Control of vector 
+product (functional test of 
+expressed transgene and 
+MOI assay) 
+• Testing and release of 
+vector as incoming material 
+Inspection 
+Yes 
+Yes 
+The facility was acquired by 
+Novartis from Dendreon in 
+December 2012.  
+ 
+The current Pre-license 
+Inspection is the first 
+inspection of the Novartis 
+CGT facility 
+ 
+ 
+Inspection 
+Yes 
+Yes 
+ 
+. 
+ 
+No FDA Inspection History 
+ 
+Last routine GMP inspection 
+in 2016 by MHRA per type C 
+briefing book. 
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    4 of 70 
+ 
+ 
+Manufacturing/ 
+Testing activities 
+Inspection? 
+Waiver?  
+Not required? 
+Compliance 
+check 
+required for 
+approval? 
+RMS-BLA 
+entry 
+required? 
+Comments 
+ 
+Vector Product: 
+• Sterilization and 
+Concentration  
+• Final filling, storage and 
+labeling 
+• Quality control 
+ 
+  
+Inspection 
+Yes 
+Yes 
+ 
+ 
+Previous Inspections: 
+-2016 CDER surveillance, 483 
+issued (VAI) 
+-2014 DMPQ PLI for 
+ 483 issued (VAI)  
+-2016 MHRA 
+Pharmacovigilance Inspection 
+per type C briefing book 
+ 
+• Release of vector 
+batches for use in 
+CTL019 manufacture 
+• CMO oversight of 
+  
+Not Required 
+No 
+Yes 
+Last inspected in 2015 by 
+CDER surveillance  (NAI) 
+ 
+ 
+ 
+• Manufacture and Quality 
+Control of 
+ 
+Master Cell Bank 
+(MCB) 
+Not Required  
+No 
+Yes 
+Not established 
+ 
+• Manufacture and Quality 
+Control of 
+ 
+Working Cell Bank 
+(WCB) derived from the 
+MCB 
+• Quality Control 
+ 
+ 
+testing of vector 
+substance and vector 
+product  
+Not Required  
+No 
+Yes 
+Previous Inspections: 
+-2016 Team Bio, 483 issued 
+(VAI) 
+-2015 MHRA, routine GMP 
+per type C briefing book 
+ 
+• Quality Control (ID test) 
+of the vector product for 
+Novartis CGT incoming 
+material testing 
+Not Required 
+No 
+Yes 
+No inspection history 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    5 of 70 
+ 
+ 
+ 
+NOVARTIS MORRIS PLAINS FACILITY (CGT) 
+The Novartis Cell and Gene Therapies manufacturing facility  is housed in a 
+ building 
+of approximately 
+ square feet 
+ and Novartis is the sole occupant of the 
+facility. 
+The facility (including some equipment) was acquired from Dendreon in December 2012. The 
+CGT facility consists of cGMP manufacturing and support spaces, Quality Control (QC) and 
+developmental laboratories, Quality Assurance (QA), Regulatory Affairs, Warehouse, 
+Mechanical, Administrative areas, and Training areas to support the facility activities; it also 
+includes common areas (e.g., restrooms, break-rooms, etc.). The CGT facility is designed to 
+accommodate the concurrent manufacture of multiple lots of CTL019 and related autologous 
+clinical products. 
+The CGT facility is designed in a modular format based on multiple equivalent workstations 
+(WS) organized into modules and surrounded by support areas as shown in the following 
+schematic diagram.  The facility includes
+ 
+Each manufacturing suite consists of 
+ cleanroom modules, and each module consists of a 
+ 
+ The cleanroom suites are 
+surrounded by the 
+ corridors. Each manufacturing suite is serviced by a 
+ 
+ Please refer to the schematic diagram below: 
+(b)(4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    6 of 70 
+ 
+ 
+Novartis reported that they have qualified 
+ manufacturing suites (Modules 
+ 
+for GxP manufacturing operations, and the other 
+ suites (Modules 
+ are 
+currently used for developmental work, and will be qualified prior to use for commercial 
+manufacturing. 
+They provided the floor plans for the facility including room classifications and functions. The 
+following table presents an overview of these areas and their functions. 
+Personnel, materials, product and waste flows during the manufacturing process were briefly 
+described in the BLA and verified during the PLI and documented in the EIR; no issues were 
+identified with the facility flows. 
+In addition to the manufacturing suites, Novartis described the following manufacturing support 
+areas: Apheresis receipt area, the apheresis staging area, the packaging and shipping area, and 
+the training module area. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    7 of 70 
+ 
+ 
+The Apheresis Receipt area is a 
+ area with a 
+ to receive 
+incoming leukapheresis materials in shipping transport containers (Dewars under LN2). The 
+paperwork and the shipping container are inspected and the temperature data logger information 
+is reviewed. In addition, patient identifiers are verified to confirm they match what is entered 
+within 
+ (a validated global scheduling and operation monitoring system integrated 
+with the 
+ system).  
+The Apheresis Staging area contains 
+ staging workstations, each consisting of 
+ 
+. The area has been designed with 
+ to 
+ of the leukapheresis material to the product corridor. 
+The leukapheresis material remains in the shipping transport container until Novartis 
+personnel transfer the container to a staging workstation located in the apheresis staging 
+area. Using a dedicated workstation for each apheresis material, the package is opened and 
+the leukapheresis bag is inspected for visual damage and to verify all patient identifiers 
+match the incoming paperwork. Following inspection, the leukapheresis material is either 
+transferred into manufacturing
+ 
+ or stored in a Liquid 
+Nitrogen (LN2) freezer. 
+The product packaging room contains 
+ packaging workstations 
+ 
+ The area is designed with 
+ to allow transfer of the 
+final product to the packaging area.  
+Following processing of the batch, the final product container 
+ 
+ 
+ 
+ 
+ 
+ the Final Product packaging room, where it is 
+stored in an LN2 freezer awaiting disposition, packaging and shipping.  
+QA personnel perform final verifications prior to shipment of the final product. 
+The process training module, 
+ 
+ 
+ The training module is currently classified as 
+, as it is designed to 
+allow the execution of manufacturing processes by trainees in a safe, isolated environment 
+which allows for practicing techniques without the potential for compromising patient 
+processes or material. 
+ 
+Heating, Ventilation and Air Conditioning System 
+Each manufacturing suite and associated product and non-product corridors are supplied with 
+HEPA-filtered air 
+ circulated air) provided by dedicated air handling units. The ISO  
+manufacturing suites are designed for 
+ air changes per hour and the ISO  support areas are 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    8 of 70 
+ 
+ 
+designed for 
+ air changes per hour. Novartis provided a Floor plan diagram that listed all 
+the AHU and the areas they support.  There is a 
+ air handling unit (AHU) for each 
+manufacturing suite 
+ work stations). 
+ supports Modules 
+ supports manufacturing Modules 
+. In addition, 
+supplies the training module (Module 
+, and 
+ supplies the 
+. The controlled non-classified (CNC) 
+leukapheresis receipt and staging area, product packaging area and QC laboratories are also 
+supplied with HEPA filtered air provided by a pair of air handling units. 
+The AHUs for the manufacturing areas operate 24/7, and are connected to the emergency power 
+system in case of power failure.  
+The HVAC system supplies sufficient ventilation to create a positive pressure cascade from the 
+ISO manufacturing area to the ISO  corridors to prevent contaminants from entering the 
+area. The ISO areas are further pressurized 
+ areas. Pressure differentials 
+are maintained at a minimum of
+ between different ISO 
+classifications and a minimum of 
+ between ISO classified and 
+non-classified rooms. 
+The HVAC system maintains a 
+ temperature range and 
+ relative humidity for 
+the modules. 
+Reviewer’s comments: In response to an information request, Novartis provided in 
+amendment 125646/0.10 additional information about the HVAC system which is reviewed 
+in Q1 of the Information Request section below.   
+ 
+Static and Dynamic Performance Qualifications for the Modules (EMPQ) 
+Novartis reported that they qualified 
+ of the 
+ manufacturing modules (Modules 
+, 
+and verified that the areas operate within the defined acceptable temperature / humidity range, 
+and meet the pre-determined environmental monitoring specifications and differential pressure 
+requirements, under static and dynamic conditions. They stated in the BLA submission “The 
+performance qualifications were performed over 
+ conditions, followed 
+by a 
+ qualification”. 
+Reviewer’s comments:  Novartis clarified during the PLI that the 
+ static monitoring 
+was performed before the 
+ dynamic monitoring.  
+ 
+The 
+ dynamic EMPQ included sampling for viable and non-viables in the ISO  and ISO 
+ areas at selected pre-defined locations with maximum occupancy in the modules to simulate 
+worst case conditions. The EM sampling was performed for 
+ days with no additional 
+cleaning other than the standard daily cleaning.  
+Novartis reported that the non-viable particulate sampling was performed to meet ISO 
+ 
+requirements for non-viable particulates. Viable sampling of air and surface sites were 
+performed to meet limits for surface and airborne viable samples listed in 
+ chapter 
+. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4
+(b) (4
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    9 of 70 
+ 
+ 
+Novartis considered that all the BSCs (ISO 
+ are equivalent based on make and model and 
+size, initial qualifications results (2010), and then recertification per 
+ Standards 
+after acquisition of the facility by Novartis. As such they performed 
+ 
+ in each of ISO  BSCs (Modules 
+ under static conditions; and then 
+performed 
+ study in 
+ BSC under dynamic conditions and simulating the different 
+manufacturing operations to demonstrate and document that the biosafety cabinets consistently 
+maintain unidirectional laminar flow downward from the biosafety cabinet air supply with 
+sweeping action over and away from the work surfaces, while simulating the different aseptic 
+manufacturing steps. All results were compliant. 
+They added that the temperature, humidity, air exchanges, and pressure differentials were 
+verified to meet predefined specifications. Operational set-points for the Building Automation 
+System (BAS) and alarm limit settings for the Environmental Monitoring System were also 
+verified and found to meet expected values. 
+Novartis stated that they performed EMPQ for the ISO 
+ areas 
+under static conditions. The EM included temperature, humidity, differential pressure and 
+environmental monitoring viable/non-viable monitoring as well as verification of HEPA 
+Certifications and air exchange rates 
+The HVAC system and its qualification was further discussed during the PLI and documented 
+in the EIR. 
+Reviewer’s comments: In response to an information request, Novartis provided in 
+amendment 125646/0.10 additional information about the EMPQ which is reviewed in Q3 
+of the Information Request section below. 
+ 
+Routine Environmental Monitoring 
+Novartis reported that the temperature, humidity and differential pressure of the production 
+areas are continuously monitored by the Environmental Monitoring system which alarms when 
+there are excursions from the set parameter ranges. 
+In addition, their environmental monitoring program includes routine monitoring of non-viables 
+(active air) and viables (active air and surfaces); in addition the BSC also includes passive air 
+monitoring for viables 
+ the frequency depends on room classifications and 
+manufacturing operations. Personnel monitoring is performed in the production area (aseptic 
+manufacturing) using 
+ are at pre-
+defined steps throughout the manufacturing process per approved batch records and/or standard 
+operating procedures. Novartis has established alert and action limits as documented in their 
+procedure. The alert and action limits for the ISO  area were discussed during the PLI and 
+resulted in revisions to the SOPs for clarity and consistency as documented in the EIR. 
+Novartis provided the sampling location and monitoring frequency for the different areas as 
+shown in the following Table: 
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    10 of 70 
+ 
+ 
+Reviewer’s comments: Additional information about the environmental monitoring 
+program was requested, and Novartis provided the information in amendment 
+125646/0.10reviewed in Q4 of the information request section below. 
+ 
+Containment and Control of Cross Contamination 
+Novartis plans to perform concurrent manufacture of multiple lots of CTL019 and related 
+autologous clinical products at the CGT facility. They explained that manufacturing operations 
+are contained and segregated based on physical as well as procedural controls including facility 
+design, manufacturing operations in different BSCs and work stations, cleaning and 
+environmental monitoring; personnel training; patient screening and batch segregation, labeling 
+and maintaining chain of identity and controls on incoming materials. 
+• All patients are pre-screened for blood borne pathogens based on individual country 
+requirements as a pre-requisite for acceptance into the program 
+• The overall design of the facility (work stations, modules and suites) and HVAC system 
+ as well as the 
+ facility flows 
+prevent contaminations and mix ups. 
+• Only 
+ workstation at a given time, 
+and all aseptic manipulations are confined to the BSC within a workstation. All supplies 
+that come in contact with the production lot are sterile, single use and disposable. Product 
+transported or handled outside the workstation is placed into a secondary container. 
+To prevent mix-ups, patient batch segregation, chain of identity and contamination control 
+begins at the Apheresis Center and continues until the infusion of the product into the patient at 
+the infusion site. Labels (leukapheresis, in-process, QC samples and Final product) are 
+generated from validated electronic systems and verified by QA prior to release for use. The 
+label includes the product code, barcode (chain of identity number), to maintain the chain of 
+identity and traceability of the product through the entire manufacturing operation. Barcode 
+scanning is performed throughout the process and the Chain of Identity/ Batch number on the 
+barcode label is electronically verified to match what is required on the batch specific bill of 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    11 of 70 
+ 
+ 
+materials. A bill of materials is established within the 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microbial contamination is minimized by having all
+ 
+ 
+ 
+ 
+The facility is designed with 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The transfer of materials to and from the workstations is 
+ 
+ 
+Reviewer’s comments: In response to an information request, Novartis provided in 
+amendment 125646/0.10 additional information about segregation policy and the 
+procedures in place to maintain the chain of identity of the different lots. The information   
+is reviewed in Q7 & Q8 of the Information Request section below. 
+ 
+Multi-Product manufacturing 
+Novartis reported that before introduction of a new product into the facility a comprehensive 
+risk analysis would be performed to control the risks associated with the new product on the 
+other products, the facility, personnel and the environment.  In addition, for each new product 
+manufactured in the facility, an identity test must be in place which allows the discrimination of 
+the product from other products in the facility. 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    12 of 70 
+ 
+ 
+Computer Systems 
+Novartis provided a brief overview of main Computer Systems used to manage GMP 
+operations and QC Lab testing. The computer systems and different software packages used at 
+the Morris Plains site were discussed during the PLI and documented in the EIR. 
+ 
+• 
+ 
+ 
+ 
+ 
+.  
+ 
+• Laboratory Information Management System (LIMS) 
+LIMS is used at the Morris Plains facility to support GMP requirements by providing full 
+sample tracking with each sample assigned a unique LIMS ID number, full audit trail and 
+sample scheduling for environmental monitoring, in-process and final product testing. The 
+system manages the sampling plan, including printing of sample vial labels with each label 
+containing a bar code with a unique identification number which is traceable to the batch 
+number ensuring patient chain of identity. It also collects test results and performs calculations 
+in support of testing and production. The system is also capable of handling multiple products 
+and country specific samples, testing and specifications. 
+ 
+• 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+(b) (4)
+(b) (4)
+
+1  Page determined to be not relesable: (b)(4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    14 of 70 
+ 
+ 
+Reviewer’s comments: In response to an information request, Novartis provided in 
+amendment 125646/0.10 additional information about the 
+ system which is 
+reviewed in Q9 of the Information Request section below.   
+ 
+Manufacturing Capacity and Scheduling 
+Novartis Morris Plains facility manages the manufacturing operations and the scheduling of the 
+different manufacturing steps of the different batches by utilizing 
+ (scheduling) and 
+the 
+ systems (managing the equipment availability). The duration of a CTL019 batch 
+manufacturing process is scheduled up to 
+. The approved capacity for production is 
+entered into the scheduling system by the supply chain planner. When the batch is confirmed 
+within the scheduling system, the supply chain planner performs a feasibility check on the 
+routing of the batch to ensure equipment resource capacity is available. Once a batch is 
+confirmed in the scheduling system, the batch becomes a process order scheduled in 
+. The 
+maximum number of batches that can be processed per production module is therefore limited 
+by the available equipment for the entirety of the manufacturing duration of that batch 
+ 
+days).  
+Reviewer’s comments: In response to an information request, Novartis provided in 
+amendment 125646/0.10 additional information about the facilities manufacturing capacity  
+which is reviewed in Q10 of the Information Request section below. 
+ 
+Facility Cleaning 
+Novartis reported that the manufacturing areas including floors, exterior equipment and 
+furniture surfaces, walls, ceilings and shelves, are cleaned at regular intervals according to their 
+zone classification.  They added that the cleaning methods (including those of spills in the 
+production areas), cleaning and sanitization agents, concentration of agents, are described in 
+SOPs. They also reported that they have validated the effectiveness of the disinfectants and 
+cleaning agents used at the facility. The facility cleaning was discussed during the PLI and 
+deemed acceptable. 
+Reviewer’s comments: Additional information about cleaning/sanitization was requested, 
+and Novartis provided the information in amendment 125646/0.10 and reviewed in Q5 
+(Disinfectant Effectiveness Studies) of the Information Request section below.  
+ 
+Utilities 
+Novartis provided a brief overview of the water systems, carbon dioxide system and liquid 
+nitrogen system used in the processing of CTL019 at the Morris Plains site. The systems were 
+reviewed in more detail during the inspection and documented in the EIR. 
+ 
+• Water Systems 
+Novartis has 
+ water systems in the facility for non-product uses. In addition, Sterile Water 
+for Injection is 
+ and used in the cleaning solutions for the ISO production areas. 
+o The High Purity Water (HPW) System is used to produce, store and distribute HPW for 
+cleaning solutions in the ISO
+ areas. The system is a 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    15 of 70 
+ 
+ 
+distribution system consisting of 
+, 
+and has a capacity of 
+. The distribution loop is continuously monitored 
+for 
+. 
+o The Deionized Water System supplies water for HVAC Humidification. It is a 
+ distribution system consisting of 
+ 
+ with a storage tank and
+ distribution loop that distributes 
+deionized water to all humidifiers. The distribution loop is continuously monitored for 
+conductivity. 
+ 
+• Carbon Dioxide (CO2) System 
+Carbon dioxide is distributed to the CO2 incubators and CO2 mixer/bioreactor systems in each 
+manufacturing module. The system was reviewed in more detail during the inspection and 
+documented in the EIR. 
+The CO2 is stored in a 
+ 
+ CO2 which is sufficient to supply the respective equipment for at least 
+ 
+weeks. 
+In addition to the 
+, the CO2 distribution system includes a regulator that controls CO2 
+distribution pressure to the equipment. The CO2 is 
+ 
+ includes a pressure regulator to 
+control the final supply pressure to the CO2 incubators and CO2 mixer/bioreactor systems. 
+ 
+• Liquid Nitrogen (LN2) System 
+The Liquid Nitrogen Storage and Distribution System provides constant and uninterrupted 
+supply of Medical Grade LN2 to controlled rate freezers (step-down freezers) and LN2 storage 
+freezers in various rooms. In addition, it provides LN2 for filling the Dewars used for shipping 
+of the final product.  The LN2 system consists of a 
+, a control 
+manifold and associated rigid vacuum jacketed piping for distribution of liquid nitrogen to the 
+respective equipment. It is monitored by the Building Automation System at predetermined 
+high and low levels. The system was reviewed in more detail during the PLI and documented in 
+the EIR. 
+ 
+Equipment 
+Novartis provided the following list of equipment and their usage in the processing of CTL019.  
+Equipment 
+Usage 
+Autologous Blood Recovery System 
+Bag Rotator 
+Balance / Scale (inside the BSC) 
+Biological Safety Cabinet 
+Bioreactor 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    16 of 70 
+ 
+ 
+Equipment 
+Usage 
+Cell Processing System 
+Centrifuge (Refrigerated) 
+Conical Tube Magnetic Bead Separator 
+Controlled-Rate Freezer 
+Flatbed Bag Magnetic Bead Separation 
+System 
+Thawing Device 
+ 
+Novartis reported that they have established a comprehensive equipment qualification program 
+at the Novartis Morris Plains manufacturing facility which includes installation, operational and 
+performance qualification activities, based on international GMPs and Novartis standards. They 
+added that a risk based approach was utilized for the qualification of new and existing 
+equipment/systems.  They stated that qualification data demonstrated that the equipment is 
+acceptable for use, and that the final reports archived in the Novartis Morris Plains facility. 
+They added that qualification information would be provided upon request. The qualification of 
+the equipment was reviewed in more detail during the PLI and documented in the EIR. 
+Reviewer’s comments: Additional information about the qualification of equipment was 
+requested, and Novartis provided the information in amendment 125646/0.10 reviewed in 
+Q5 of the information request section below.  
+In response to information request, Novartis provided in amendment 125646/0.10 (Q15) the 
+following report: MI7008911A, Description of Commercial pedALL Manufacturing Process 
+(approved 18 Nov 2016), which includes list of equipment and their uses in the various 
+manufacturing steps and reproduced below: 
+ Equipment usage per process step
+ 
+  (b)(4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    17 of 70 
+ 
+ 
+ 
+Equipment List 
+ 
+Equipment Cleaning 
+Novartis reported that all product contact equipment is single use and disposable. They added 
+that the cleaning and sanitization of non-product contact equipment are described in the 
+respective equipment procedures and include cleaning methods, cleaning agents (volume and 
+concentration), and frequency of cleaning. 
+(b)(4)(b)(4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    18 of 70 
+ 
+ 
+Reviewer’s comments: Additional information about the qualification of equipment was 
+requested, and Novartis provided the information in amendment 125646/0.10 reviewed in 
+Q5 of the information request section below. 
+ 
+Container Closure 
+CTL019 final product is stored at ≤ -120°C in 
+ freezing bags supplied by 
+. 
+The cell bags include two sizes: 
+ is used for final product volumes of 10 – 30mL of cell 
+suspension, and the 
+ bags are used for final product volumes of 30 – 
+ cell 
+suspension. The 
+ freezing bags are made from 
+ 
+ and have two hermetically sealed spike ports and one 
+ inlet tube 
+sealed on the bag on one end and separated on the other end with a Y-connector into
+ 
+ tubes, each ended with a female luer-lock cap. The fluid path is sterile and non-
+pyrogenic.  Shown below are pictures of the
+ cryopreservation 
+bags. 
+ 
+Novartis reported that for every received shipment of cryobags bags, they visually inspect and 
+accept on the Certificate of Analysis/Conformity provided by the supplier (sterilization, sterility 
+and material).  
+They provided the tests performed to accept a shipment of the cryobags: 
+ 
+Image of cryobags
+(b)(4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    19 of 70 
+ 
+ 
+The 
+ Freezing Bags are 510(k) cleared 
+. I looked up the 510(k) 
+clearance submission and reviews of the submission, and the device was cleared as being 
+substantially equivalent to marketed devices with regards to biocompatibility and container 
+integrity when frozen/thawed in liquid nitrogen. Also the sterilization, sterility assurance 
+labeling, endotoxin testing and non-pyrogenicity labeling statements were satisfactory to the 
+reviewer of the device. 
+Novartis reported that the cryobags were sterilized at
+, and put on an accelerated aging 
+study, then evaluated for changes or degradation by the vendor.  Results of the aging studies 
+showed that there was some minor discoloration of
+ luer components; however, there were 
+no changes in physical properties. They added that the sterilization facility is 
+ inspected 
+by FDA and EU authorities, and that the 
+ cycle is 
+ qualified according 
+to ISO 
+. 
+They added that The 
+ bags have been tested by the vendor for resistance to 
+chemicals routinely used in cryopreservation and stem cell research. 
+ testing showed that 
+the 
+ bag is resistant to 
+. They 
+performed extractables/leachables studies (purview of the product office). 
+Novartis also reported that Container Closure Integrity Testing (CCIT) was performed by 
+ to demonstrate integrity under worst case conditions: normal long term storage, 
+ 
+ They added that the cryobags are 
+ inspected by the 
+vendor for leaks. 
+In addition to studies performed by the vendor, Novartis performed their in-house CCIT 
+validation using the 
+ technique 
+ in conjunction with the 
+shipping validation of the frozen bags containing 
+ 
+ The 
+ 
+filled bags were 
+ stored in liquid nitrogen for up to nine months (T0, T3mon T9mon) 
+to demonstrate the integrity of the bag for the duration of the final product shelf life of nine 
+months.  
+The T0 CCIT study was performed as part of the shipping validation where 
+ samples (of each 
+presentation) in the dewar shippers representing minimum and maximum loads were 
+transported by ground and air for a duration of over 
+. The frozen filled bags were then 
+thawed and tested for container closure integrity using the 
+ test. 
+Novartis provided the results for the CCIT performed on 
+ bags and 
+ bags (as 
+one of the 
+ bags was damaged during shipping). They added that one 
+ filled bag 
+ 
+ and one 
+ filled bag 
+ were used as positive controls for 
+ 
+method. 
+They provided a summary of the results as shown below, indicating that 
+ 
+bags are integral during storage and shipping conditions, and thus they are suitable as primary 
+packaging containers for CTL019 drug product. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    20 of 70 
+ 
+ 
+Novartis also reported that they performed CCIT as part of stability studies of 
+ final product 
+batches 
+ manufactured from healthy 
+donor leukapheresis material using the 
+ pathway to demonstrate suitability of the 
+final container for long term storage at ≤ -120°C. The final product was formulated, packaged 
+into 
+ 
+ 
+ bags and 
+, cryopreserved and 
+stored at ≤ -120 °C. The bags were tested for CCIT and sterility at T=0 and T=6months, and the 
+results met the acceptance criteria (sterile product). 
+In addition, they evaluated CCIT of three final product batches manufactured from patient 
+material 
+ which were packaged in 
+ 
+ 
+ bags and 
+. The bags were tested for CCIT and sterility at 
+T=6 months, and the results met the acceptance criteria (sterile product). 
+All the material tested exhibited no growth during sterility testing at the end of the storage 
+period indicating that the container remained integral and can maintain the sterility of the  final 
+product. 
+Reviewer comment: Novartis did not provide the CCIT validation reports in the 
+submission. The container closure integrity testing protocols and reports were reviewed 
+during the inspection and no issues were identified as described in the EIR. 
+ 
+PROCESS OVERVIEW 
+The manufacturing process is a continuous process with no holding steps beginning at thawing 
+of leukapheresis  material (from a single patient collected at leukapheresis center) received 
+frozen at Morris Plains facility  processing steps  concluding with DP formulation in a 
+cryopreservation medium  freezing and storage in LN2 freezer pending packaging and 
+shipping to the clinical site. 
+The T cells (from the leukapheresis material obtained from the patient to be treated) are 
+processed ex vivo using a lentivirus vector coding the “CAR” into a single CTL019 final 
+product batch. The number of final product bags filled depends on the achieved CAR+ T cell 
+yield, from 1 to 3 bags each containing a single dose. 
+There are 
+ pathways used for the manufacturing of the clinical batches (PPQ batches) 
+depending on the incoming leukapheresis material. Below is a general flow. Detailed 
+information about the manufacturing process and validation is presented in the product review 
+memo. 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    21 of 70 
+ 
+ 
+ 
+ 
+PROCESS VALIDATION 
+Novartis described the process validation protocol and provided summaries of the following 
+process validation studies: 
+• Manufacturing process validation 
+o 
+Process Design 
+o 
+Process Performance Qualification (PPQ) 
+o 
+Continued Process verification (CPV) 
+• Aseptic process validation (APV) 
+o Aseptic CTL019 manufacturing process steps 
+o Holding media studies – Shelf life of the aseptically prepared media 
+o Aseptic Media preparation 
+• Shipping validation (of the leukapheresis starting material and final product) 
+ 
+Manufacturing Process Validation 
+o 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+
+5 Pages determined to be not relesable: (b)(4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    27 of 70 
+ 
+ 
+ 
+ 
+  
+ 
+  
+Reviewer’s comments: In response to an information request, Novartis provided in 
+amendment 125646/0.10 Novartis provided the APV reports for the CTL019 
+manufacturing process and the ancillary media preparation, as well as the validation of 
+the media holds during manufacturing operations. The information is reviewed in the 
+Q13 & Q14 of the Information Request section below. 
+ 
+Shipping validation 
+The shipping validation includes the shipping of the frozen leukapheresis material from the 
+apheresis sites to the Morris Plains facility, and the shipping of the frozen CTL019 final 
+product from the Morris Plains facility to the infusion sites. The aim of the studies is to 
+demonstrate that the cryopreserved leukapheresis material and final product bags 
+ 
+ can be maintained at ≤ -120 °C for at least 
+, and that the integrity of the 
+bags is maintained during shipping.  
+ 
+• Leukapheresis material preparation 
+The patient leukapheresis material is collected into cryobag(s) and sentinel vials, and 
+cryopreserved using a controlled rate freezer by the apheresis sites. Each bag is placed into a 
+secondary container and loaded into a cryogenic dry shipper charged with liquid nitrogen, 
+provided by a contract supplier.  The cryovials are sealed together in a plastic overwrap bag 
+with absorbent sheets, and then sealed in a Tyvek bag. Each shipping container load contain at 
+least one cryobag and one cryovial and up to a maximum of four cryobags and three cryovials. 
+The loaded shipping container is transported by courier to the Novartis Morris Plains facility, 
+where the information is verified and logged in the system, and the leukapheresis material is 
+then stored in LN2 vapor freezer until use. 
+ 
+• CTL019 final product 
+The CTL019 final product is cryopreserved in a controlled rate freezer and stored in LN2 vapor 
+freezer until product release and shipment. Once released and cleared for shipment, the final 
+product is removed from the LN2 freezer and placed into a secondary container and loaded into 
+a cryogenic dry shipper charged with liquid nitrogen, provided by a contract supplier. Each 
+shipping container load can contain one to three cryobags. The shipping container is picked up 
+and transported by courier to the patient transfusion site. 
+ 
+The shipping validation studies were performed using
+ 
+ 
+  
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+1 Page determined to be not relesable: (b)(4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    29 of 70 
+ 
+ 
+• 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+The shipping validation study results met the following acceptance criteria: all of the shipping 
+containers maintained temperatures ≤ -120°C for a minimum of 
+ Novartis 
+reported that the highest temperature observed was -135.2°C. 
+Reviewer’s comments: Novartis did not discuss the deviation in the submitted material 
+and did not submit the validation reports. However, the shipping validation was 
+reviewed during the inspection and no issues were identified as documented in the EIR. 
+ 
+ 
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    30 of 70 
+ 
+ 
+INFORMATION REQUEST 
+ 
+Additional information was requested by email on February 27, 2017, and Novartis submitted 
+their responses on March 30, 2017 in amendment 125646/0/10 and reviewed below. 
+CBER comments are in bold italics followed the Baxalta responses in plain lettering. 
+All responses are acceptable. 
+ 
+HVAC/Environmental Monitoring 
+1. Please list the AHUs (air handling units) at the Novartis Morris Plains manufacturing 
+facility, and the respective suites/modules and ancillary areas they service, and the most 
+recent requalification report(s). Please also list whether the ventilation is accomplished 
+by single pass or recirculated air, and justify your response. 
+Novartis provided a list of AHUs used for the production modules and ancillary areas as 
+presented in the following Table, and stated that the rooms are supplied with @ 
+ 
+ air. 
+ 
+Novartis provided the 2016 Annual USMB HEPA Certification Summary (30 Mar 2016), 
+where they reported the results of the HEPA Certification for modules 
+ 
+and the 
+associated areas including corridors, Dispensary and staging areas. In addition they 
+provided data for the training module 
+, and modules 
+ – currently not qualified for 
+production) and other 
+ areas. 
+• The certification is performed every 
+ and includes airflow (CFM), and air 
+changes per hour (acceptance criterion 
+ and 
+all results met the acceptance criteria.  
+• In addition, they presented the room to room pressurization- Modules 
+, 
+corridors, Dispensary, Training Module and various vestibules and staging areas, and all 
+the reported differential pressures met the acceptance criteria for the respective areas. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    31 of 70 
+ 
+ 
+• They also tested for HEPA filter leakage and differential pressure across the HEPA 
+surface, and there were no leaks detected 
+, and the HEPA filter differential 
+pressure 
+ in .w.g., thus meeting the specifications. 
+• Non-viable particles were also monitored in Modules 
+, corridors, Dispensary, 
+Training Module and various vestibules and staging areas, and all the results were way 
+below the acceptance criteria for the room classification. 
+Response is acceptable, as the AHUs provide sufficient ventilation for the respective rooms to 
+meet their classifications, ACH and differential pressure between the different areas.  
+ 
+2. You reported the cleanroom environmental monitoring performance qualification 
+(EMPQ) was successfully performed under static and dynamic conditions for Modules 
+. Please clarify if these are the only modules that will be used for the production of 
+CTL019. 
+Novartis confirmed that Modules
+ are the only modules qualified at this time for 
+manufacturing of CTL019 and media preparation. 
+Response is acceptable. 
+ 
+3. Please provide the protocol and summary report (s) for dynamic environmental 
+monitoring performance qualification studies. Please include a description of activities 
+performed during dynamic operations and indicate whether ‘worst case’ conditions were 
+assessed.  
+Novartis stated that the environmental monitoring was qualified under static conditions 
+ 
+ and dynamic conditions 
+ for modules 
+, under worst case conditions with 
+maximum number of personnel and equipment being utilized during dynamic monitoring. 
+They clarified that the dynamic EMPQ was performed during manufacturing processes 
+using the APV batch records (all aseptic manipulations were completed in 
+ 
+ of personnel due to the length of the process) to simulate 
+worst case conditions. 
+They submitted the qualification protocols and reports as listed in the following Table and 
+reviewed below: 
+Module 
+Protocol # 
+Report # 
+Module  
+USMB.468.VD, Cleanroom Performance 
+Qualification Protocol for Module  under 
+Dynamic and Static Conditions May 2015 
+(approved 27 May 2015) 
+USMB.496.VD, Cleanroom Performance 
+Qualification Report for Module  under 
+Dynamic and Static Conditions (approved 19 
+Jun 2015) 
+USMB.754.VD, Addendum to  USMB.468.VD, 
+Cleanroom Performance Qualification 
+Protocol for Module  under Dynamic 
+Conditions (approved  09 Aug 2016) 
+USMB.817.VD, Cleanroom Performance 
+Qualification Report for Module  under 
+Dynamic Conditions, Addendum to 
+USMB.754.VD, September 2016 (approved 30 
+Nov 2016) 
+Module  
+USMB.433.VD, Cleanroom Performance 
+Qualification Protocol for Module  under 
+USMB.464.VD, Cleanroom Performance 
+Qualification Report for Module  under 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) 
+(b) 
+(b) 
+(b) 
+(b) 
+(b) 
+(b) 
+(b) 
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    32 of 70 
+ 
+ 
+Module 
+Protocol # 
+Report # 
+Dynamic and Static Conditions March 
+2015(approved 01 Apr 2015) 
+Dynamic and Static Conditions, April 2015 
+(approved 17 Apr 2015) 
+Module  
+USMB.199.VD, Cleanroom Performance 
+Qualification Protocol for Module , Dynamic 
+Conditions (approved 09 May 2014) 
+USMB.256.VD, Cleanroom Performance 
+Qualification Final Report for Module , 
+Dynamic Conditions (approved 02 Jul 2014) 
+Module  
+USMB.289.VD, Cleanroom Performance 
+Qualification Protocol for Module , Dynamic 
+Conditions (approved 28 Aug 2014) 
+USMB.305.VD, Cleanroom Performance 
+Qualification Final Report for Module  
+Dynamic Conditions (approved 22 Oct 2014) 
+ 
+The 
+ static EM was performed to demonstrate that the equipped areas can maintain 
+the defined acceptable temperature/ humidity range and meets the environmental 
+monitoring specifications.  
+The 
+ dynamic monitoring was performed under worst case conditions for each 
+module: operation of all 
+ workstations and the process equipment simultaneously. 
+• EM sampling was performed on each day  
+• Standard/routine cleaning was performed following the manufacturing operations 
+• EM samples collected: Non-viable counts; Active air viable counts, surface viables, 
+and personnel monitoring.  
+For Module  (used for ancillary media preparation), the APV for media preparation was 
+performed during the EMPQ to create dynamic activity with the maximum number of 
+personnel in the module. 
+The qualification of module 
+ included the gown-in rooms, incubator rooms, 
+workstation rooms, equipment vestibules, and gown-out rooms for the respective modules. 
+Novartis provided the Action level for the different samples collected and the results for the 
+modules as summarized in the following Tables: 
+(b) 
+(b) 
+(b) 
+(b) 
+(b) 
+(b) (4
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+
+1 Page determined to be not relesable: (b)(4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    34 of 70 
+ 
+ 
+• 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reviewer’s comments: I reviewed the environmental qualification and routine EM 
+trending reports during the PLI. There were a lot of revisions regarding the EM 
+program: having 
+ in the BSCs, the frequency of monitoring personnel after 
+manufacturing operations, and the acceptance criteria for the viables (air and surface) in 
+ISO  area which are discussed in the EIR, and the 483 response memo. The level of 
+EM excursions was low indicating that the manufacturing areas are in a state of control. 
+Response is acceptable. 
+ 
+4. You reported that the environmental monitoring program included surface, air viable and 
+air nonviable particulates. Please describe the environmental monitoring program, 
+including diagrams depicting sampling locations (with justification) and frequency of 
+sampling as well as the acceptance criteria for the different area classifications. Please 
+provide a comparison of environmental monitoring performed during qualification 
+activities, routine dynamic environmental monitoring, and static environmental 
+monitoring. Please provide the environmental monitoring report documenting the results 
+of environmental monitoring during the manufacturing of the conformance lots and the 
+aseptic process simulation lots. 
+ 
+Novartis provided SOP-7018088 which describes the EM program followed during the 
+manufacturing of the conformance lots and aseptic process validation. They also provided SOP-
+7017439 and WP-7004615 which describe the current EM program.  
+In addition they submitted the EM reports QRA5135-1A_EM and QRA5135-2A_EM (sampling 
+locations), and the forms used for documenting sampling during the EM qualifications. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    35 of 70 
+ 
+ 
+• SOP-7018088, BiopharmOps Morris Plains Routine Environmental Monitoring (v5.0, 
+effective 04 Jan 2016) (Withdrawn/ Retired). 
+• SOP-7017439, Cell & Gene Therapies Morris Plains BSC Qualification/Requalification 
+Environmental Monitoring Report Form (ISO 5) (v11.0, effective 05 Jan 2017)  
+• WP-7004615, Cell & Gene Therapies Morris Plains BSC Qualification/Requalification 
+Environmental Monitoring Report Form (ISO 5) (v4.0, effective 14 Feb 2017) 
+• QRA5135-1A_EM, Selection of EM sites in BSC (ISO 5) during CTL019 aseptic Processing 
+(approved 15 Dec 2014)  
+• QRA5135-2A_EM, Selection of EM Sites in ISO 7 and ISO 8 Manufacturing Areas 
+(approved 30 Sep 2016).  
+• FRM-7053726, Cell & Gene Therapies Morris Plains BSC Qualification/Requalification 
+Environmental Monitoring Report Form (ISO 5) (v4.0, effective 12 Dec 2016) 
+• FRM-7053734, Cell & Gene Therapies Morris Plains Environmental Monitoring Report 
+Form for Modules (ISO 7) Qualification/Re-Qualification (Static), (v4.0, effective 12 Dec 
+2016)  
+• FRM-7053735, Cell & Gene Therapies Morris Plains Environmental Monitoring Report 
+Form for Modules (ISO 7) Qualification/Re-Qualification (Dynamic) (v4.0, effective 12 
+Dec 2016). 
+ 
+Novartis stated that the EM results collected during aseptic manufacturing for the conformance 
+lots met the acceptance criteria with no Alert or Action limit excursions. 
+ 
+Novartis provided the following two reports where they stated that the EM results collected 
+during APV for the CTL019 process (Module 
+ and the media preparation process (Module 
+ 
+met the acceptance criteria with no Alert or Action limit excursions. 
+• PVR5135-5A, Ancillary Media Process APV Report Module 8 July 2016 (approved 29 Sep 
+2016) 
+The culture media preparation aseptic process simulation was validated by three TSB runs in 
+Module 8. The APV was executed according to the approved APV batch records and approved 
+protocol PVP5135-7A described previously in this memo.  
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    36 of 70 
+ 
+ 
+The APV included the worst-case activities and conditions possible during routine operation 
+including 
+ operators and routine/inherent and non - routine/corrective interventions. 
+ 
+• PVR5135-8A, CTL019 Manufacturing Process APV Report (approved 21 Oct 2016). 
+The CTL019 aseptic process simulation was validated by 
+. As 
+described previously in this memo, the APV was executed with minimal hold times (all 
+operations performed in 
+ as per the approved Aseptic Process Validation batch records 
+and the approved protocol (PVP5135-8A). The APV included the worst-case activities and 
+conditions possible during routine operation including 
+ operators and routine/inherent and 
+non - routine/corrective interventions. 
+Reviewer’s comments: Novartis stated that the EM collected during the manufacturing 
+of the conformance lots met the acceptance criteria. I reviewed the trending reports for 
+environmental monitoring during the first three quarters of 2016 (conformance lots 
+manufactured February to May 2016), and noted excursions in personnel monitoring 
+that were not investigated. The issue was discussed during the inspection and resulted in 
+a 483 observation. Novartis described in their response to the 483-observation the 
+CAPAs they put in-place to address the observation. Their response was acceptable and 
+it was reviewed in the 483 response review memo. The EM program was discussed 
+during the inspection and documented in the EIR. 
+ Response is acceptable. 
+ 
+Equipment Qualifications 
+5. You reported that a “comprehensive equipment qualification program has been 
+established at the Novartis Morris Plains manufacturing facility which includes 
+installation, operational, and performance qualification activities.” 
+Please describe and provide the qualification reports or detailed summaries for the 
+following equipment to demonstrate the functionality and suitability for their use during 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    37 of 70 
+ 
+ 
+the manufacturing of CTL019. Also please provide the validation of the cleaning 
+procedure and the routine cleaning/sanitization procedure of the following equipment (if 
+applicable). 
+a. Thawing device (leukopheresis bags) 
+b. Bag rotator 
+c. Centrifuge (refrigerated) 
+d. Closed automated cell separation system 
+e. Conical Tube Magnetic Bead Separator 
+f. Flatbed Bag Magnetic Bead Separation System 
+g. CO2 incubators 
+h. Autologous Blood Recovery System 
+i. Rocking bioreactor 
+j. Controlled rate freezer 
+k. LN2 freezer 
+l. Biosafety cabinet 
+Novartis reported that all product contact equipment is disposable, and that the cleaning of the 
+non-product contact equipment was developed based on validated disinfectant effectiveness 
+studies performed at the Morris Plains facility (VR5135A-1), reviewed below. They also 
+described the general cleaning procedure used for the outer surfaces of the equipment (SOP-
+7018161). 
+Novartis stated that the equipment is grouped (e.g. BSCs, incubators, etc…) and the 
+qualification of each member of the group follows the same approach.  They provided during 
+the PLI, the number of equipment for each group which is documented in the EIR. For each 
+type of equipment, they listed the document number and provided the summary qualification 
+report and the specific cleaning procedure for a representative piece of equipment of each group 
+as listed in the following Table and reviewed below: 
+Equipment 
+Qualification Report  
+Cleaning SOP 
+Thawing device 
+(leukapheresis bags) 
+ 
+USMB.372.VD, Installation and 
+Operational Qualification Report for 
+the 
+ 
+(approved 23 Feb 2015) 
+SOP-7018267, Operation, Cleaning and 
+Maintenance of 
+ Thawing 
+Device at the 
+ Morris Plains Site 
+(v2.0, effective 02 Apr 2014)  
+Bag rotator 
+USMB.472.VD, Installation and 
+Operational Report for 
+  
+(approved 19 Oct 
+2015) 
+SOP-7018263, Operation and Maintenance of 
+ (v1.0, effective 29 Nov 2013) 
+Centrifuge 
+(refrigerated) 
+ 
+ 
+USMB.352.VD, Installation and 
+Operational Qualification Report for 
+the
+ 
+(approved  03 Feb 2015) 
+SOP-7018262, Operation, Cleaning and 
+Maintenance of
+at the 
+BiopharmOps Morris Plains Site (v3.0, 
+effective 09 Feb 2016) 
+Closed automated cell 
+separation system 
+ 
+ 
+USMB.686.VD, Installation and 
+Operational Qualification Report for 
+the
+ 
+(approved 14 July 
+2016) 
+SOP-7019400, Operation, Cleaning and 
+Maintenance of the 
+ at the 
+BiopharmOps Morris Plains Site (v2.0, 
+effective 15 Jun 2015) 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    38 of 70 
+ 
+ 
+Equipment 
+Qualification Report  
+Cleaning SOP 
+Conical Tube 
+Magnetic Bead 
+Separator 
+ 
+USMB.392.VD, Installation and 
+Operational Qualification Report for 
+the
+ 
+approved 07 May 15) 
+SOP-7018265, Operation and Maintenance of 
+ 
+(v2.0, effective 24 Sep 2015) 
+Flatbed Bag Magnetic 
+Bead Separation 
+System 
+ 
+USMB.404.VD, Installation and 
+Operational Qualification Report for 
+the
+ 
+(approved 03 Jun 2015) 
+SOP-7018264, Operation and Maintenance of 
+ (v1.0, effective 19 Nov 
+2013) 
+CO2 incubators* 
+ 
+QVD-52596, Installation and 
+Operational Qualification Report for 
+the
+ 
+ (approved 19 
+Nov 2010) 
+SOP-7018428, Operation and Maintenance of 
+Incubators at the Cell and Gene Therapies 
+Morris Plains Site (v.4.0, effective 04 Jan 
+2017) 
+ 
+Autologous Blood 
+Recovery System 
+ 
+ 
+USMB.359.VD, Installation and 
+Operational Qualification Report for 
+the
+ 
+(approved 12 Feb 2015) 
+SOP-7018260, Operation, Cleaning, 
+Maintenance, Calibration of the 
+ 
+ at BiopharmOps Morris Plains (v2.0, 
+effective 15 Apr 2015) 
+ 
+Rocking bioreactor/ 
+CO2 Mixer 
+ 
+ 
+USMB.362.VD, Installation and 
+Operational Qualification Report for 
+the
+ 
+ (approved 
+17 Apr 2015) 
+USMB.363.VD, Installation and 
+Operational Qualification Report for 
+the 
+ (approved 
+15 Apr 2015) 
+SOP-7018266, Operation and Cleaning of the 
+Bioreactor System at the Cell and Gene 
+Therapies Morris Plains Site (v6.0, effective 
+06 Dec 2016) 
+ 
+ 
+Controlled rate 
+freezer 
+ 
+ 
+USMB.542.VD, Installation and 
+Operational Qualification Report for 
+the
+ 
+ 
+(approved 29 Oct 2015) 
+SOP-7024802, Operation and Cleaning of the 
+ 
+ at the Cell& Gene Therapies Unit 
+Morris Plains Site (v3.0, effective 08 Sep 216) 
+LN2 freezer 
+USMB.809.VD, Installation and 
+Operational Qualification Report for 
+the
+ 
+ 
+(approved 19 Oct 2016) 
+ 
+ 
+ 
+SOP-7020732, Cell& Gene Therapies Unit 
+Morris Plains Operations, Cleaning and 
+Routine Maintenance of Product Retain LN2 
+Freezers (v2.0, approved 03 Mar 2017)  
+SOP-7017450, Cell and Gene Therapies 
+Morris Plains Operation, Cleaning and 
+Routine Maintenance of LN2 Freezers (v2.0, 
+approved 02 Mar 2017) 
+Biosafety cabinet* 
+QVD-52266, Installation and 
+Operational Qualification Report for 
+the
+ 
+(approved 11 Jun 2010) 
+SOP-7017618, Operation, Cleaning and 
+Routine Maintenance of Biological Safety 
+Cabinets at Cell and Gene Therapies Morris 
+Plains (v5.0, approved 14 Nov 2016) 
+* The qualification reports provided were the initial reports (2010) performed prior to the purchase of the facility 
+by Novartis. The most recent qualification reports were requested and reviewed during the PLI and documented in 
+the EIR. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+21 Pages determined to be not relesable: (b)(4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    60 of 70 
+ 
+ 
+ 
+ 
+.  
+ 
+. 
+. 
+ 
+6. Please list the number of modules and work stations at the Morris Plains facilities, and 
+their respective uses.  
+Novartis explained that the Morris Plains facility has 
+ modules each with 
+ work 
+stations. Modules 
+ have a 
+ configuration, and module  is used for training 
+only as shown in the following diagram. 
+Response is acceptable. 
+ 
+Segregation/ Chain of Identity 
+7. You stated that you would be manufacturing both licensed and IND products in the 
+facility. Please provide your segregation policy between the licensed and unlicensed 
+products, and provide studies and/or risk assessments to support your segregation 
+program. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    61 of 70 
+ 
+ 
+Novartis reported that “the commercial and clinical manufacturing processes utilize the 
+same materials, vector and production methodology”, and that each batch is segregated by 
+workstation with sufficient controls in place to prevent cross contamination of batches 
+(from different patients) and sample mix-up. As such, they considered that segregation of 
+clinical and commercial manufacturing is not needed as it poses minimal risk. 
+They added that they performed a risk assessment, and mitigated the identified risk 
+associated with the clinical and commercial production of CTL019 (DLBCL and pALL) at 
+the facility. They provided the risk assessment report reviewed below: 
+• USMB.394.TD, CTL019 Commercial and Clinical Product Cross- Contamination and 
+Segregation Quality Risk Assessment (approved 14 Oct 2016). 
+Novartis reported that their manufacturing strategy is that the Morris Plains facility will 
+be used “to manufacture both clinical and commercial CTL019 product for the global 
+markets with the potential for additional, unique cell and gene therapy products”. 
+The risk assessment was performed by a cross-functional team to identify and mitigate 
+risks associated with the multiple batch manufacturing. They employed the Failure 
+Mode and Effect Analysis (FMEA) methodology by evaluating the following failure 
+mode areas: Personnel, Equipment, Materials, Method, and Environment.  
+The FMEA evaluated risk of cross-contamination of clinical and commercial patient 
+materials as well as product segregation and sample mix-ups. 
+The Risk Priority Number (RPN) is determined by
+ 
+ 
+ 
+Novartis reported that they have procedures in place to minimize/prevent cross 
+contamination and mix-ups – these include single use disposable equipment, well 
+trained and gowned personnel, environmental controls, segregation and cleaning 
+procedures, line clearance procedures, use of an operator and a verifier, electronic label 
+printing, label inventory and label verification through 
+, using barcodes and barcode 
+readers, label reconciliation, etc... They added that the FMEA identified a medium risk 
+for label mix-ups, and they mitigated that by implementing 
+ to enhance and 
+automate label generation throughout the process for apheresis/leukapheresis (APH) and 
+product samples. The FMEA also identified a low risk area (RPN = 
+, during testing 
+of leukapheresis sentinel vials prior to manufacturing. Novartis reported that they 
+initiated change control CR-0000015488 to add more controls to this process step. 
+Reviewer’s comment: The manufacturing of each patient lot (whether clinical or 
+commercial) is treated as a “new product”. In addition, there is cleaning and line 
+clearance following each manufacturing step of the process to ensure appropriate 
+segregation. We noted during the PLI that there are some differences between the 
+commercial and the clinical batch records and this was discussed in detail during the 
+PLI. However, the manufacturing processes are similar and the operator and verifier 
+for every step follow the work procedures loaded on monitors during manufacturing 
+operations – this process is aimed to prevent mistakes. In addition, there are 
+sufficient APH receipt stations, work stations, incubators, freezers and packaging 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    62 of 70 
+ 
+ 
+and labeling stations, which allows for the manufacturing operations of the various 
+lots in separate areas. 
+Response is acceptable. 
+ 
+8. There will be several leukopheresis units (different patients) processed at the facility at 
+the same time. Please describe the procedures in place, and their qualifications to 
+maintain the chain of identity from the Apehersis center, to receipt at Morris Plains 
+facility to different manufacturing steps (including QC testing), final product (including 
+release testing), and then shipment to the clinic. 
+Novartis reported that the chain of identity (CoI) is managed by the validated 
+ 
+computer system (the validation of the system is reviewed by the product reviewer on the 
+BLA review team). They described and provided a diagram depicting all the steps managed 
+by the 
+ system from the initial patient request to the final product infusion into the 
+patient to assure maintenance of CoI. Four key identifiers – Name, Date of Birth, DIN 
+(Donor Identification Number), and Batch ID are linked and maintained together throughout 
+the process: 
+Novartis described the procedures for initiating a product request to APH collection 
+followed by receipt and processing at Morris Plains facility and then release of final 
+product, packaging, labeling and shipping for infusion at the clinical site. Both manual and 
+electronic procedures are used to maintain the Chain of Identity. 
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    63 of 70 
+ 
+ 
+Reviewer’s comment: The maintenance of the chain of identity was presented and 
+discussed in detail during the inspection and documented in the EIR. It is also reviewed 
+in detail in the product review memo. 
+Response is acceptable. 
+ 
+9. You reported that you implemented the 
+ system for the scheduling and 
+monitoring of the process, and that 
+ is integrated with the 
+ system at the 
+Morris Plains site. Please provide a detailed description of the 
+ system, the user 
+requirements, and the validation studies and their results to demonstrate suitability of the 
+ for its intended use, and for compliance with user requirements. 
+Novartis explained that the
+ system is the global Pharma TechOps platform for 
+supporting autologous therapies based on widely used standard software products, using 
+standard functionality where possible and limiting customization to the essential 
+requirements only. It consists of 
+ 
+. They added that the system supports the supply chain 
+process and manufacturing scheduling process of the Novartis Cell & Gene Therapies 
+Morris Plains site and non-Novartis CMOs (Contract Manufacturing Organizations). 
+The system is comprised of the following technologies: 
+• 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 
+ system maintains GxP management of the following electronic records that 
+are critical to patient safety (PS), product quality (PQ), and data integrity (DI): the 
+Certificate of Conformance (CoC), apheresis label and finished product label, apheresis data 
+form, Chain of Identity.  
+ User Requirements Specifications (URS) incorporates a complete assessment of 
+GxP and ERES (Electronic Record, Electronic Signature) requirements. 
+The 
+ Link is used to capture critical patient identifiers and associate these 
+identifiers with a unique Batch ID that is tracked throughout the Cell & Gene CTL019 
+logistics and manufacturing process. 
+They provided the following diagram to illustrate the typical “end-to-end” business process 
+for Cell & Gene Therapy: 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    64 of 70 
+ 
+ 
+ 
+Novartis explained that the 
+ system performs different functions: traceability of 
+the chain of identity, scheduling and tracking tool and issuance of invoices as listed below: 
+ 
+Process 
+Function 
+ 
+Chain of Identity 
+• Recording the patient identity through the automatic creation of a Unique 
+Batch ID for traceability throughout the end-to-end process. 
+• Association of Patient identifiers and a unique apheresis identifier (DIN) 
+to the BatchID for secure maintenance of Chain of Identity. 
+ 
+Scheduling tool 
+ 
+Scheduling tool 
+• Scheduling and tracking of plant appointments. 
+• Scheduling of apheresis appointments in clinical and procurement of 
+apheresis from the treating hospital in commercial. 
+• Scheduling and tracking of apheresis pick-up appointments. 
+• Scheduling and tracking of infusion delivery appointments (clinical). 
+• Plant scheduling and monitoring including resource capacity planning. 
+Commercial Operations 
+• Invoicing upon finished product delivery 
+ 
+Novartis reported that the 
+ system supports the supply chain process and 
+manufacturing scheduling process of the Novartis Cell & Gene Therapies Morris Plains site 
+and non-Novartis CMOs (Contract Manufacturing Organizations). 
+Novartis provided Validation Report CLLCHN_VR_01 001 LTA, and stated that the 
+validation of the system is maintained by adhering to 
+ operational Handbook. 
+• CLLCHN_VR_01_001_LTA, 
+ Validation Report (approved 22 Sep 2016) 
+They stated that the 
+ system was internally validated and met the international 
+regulatory requirements. The validation included User Requirements Specifications, 
+Functional Specifications, Design Specifications, Multiple levels of Testing – IQ, OQ, PQ, 
+a Traceability Matrix, and assessment and monitoring of Strategic Vendors.  
+Reviewer’s comment: The 
+ validation was discussed during the inspection 
+and will be reviewed in the product review memo.  
+Response is acceptable. 
+Diagram illustrating the typical end to end business process for cell and gene therapy
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    65 of 70 
+ 
+ 
+Process Validation 
+10. Each patient lot is a separate manufacturing operation with several manual 
+manipulations and incubation steps over a span of 
+.  Have you performed capacity 
+studies (actual or simulated) to determine the number of lots that the 
+facility/equipment/QC and personnel can handle and sustain per day, week, etc…? Please 
+provide a detailed description and results. 
+Novartis reported that they have not performed a formal capacity study. They added that the 
+during 
+ months 
+ of clinical manufacturing, they 
+operated 
+ manufacturing modules for CTL019 production and used 
+ 
+module for media production, and manufactured an average 
+ batches per week. This is a 
+demonstrated capacity performance of 
+ batches per month. They added that for 
+ 
+consecutive weeks from 
+ (within the same 9-months period), 
+the Morris Plains site manufactured 
+ batches per week, which is a demonstrated capacity 
+performance of 
+ batches per month. The clinical manufacturing was performed by trained 
+operators at the rate of 
+. Novartis stated that the anticipating the 
+efficiency to increase with time. 
+Novartis added that since starting the clinical manufacturing operations, they qualified 
+ 
+ module for a total of 
+ manufacturing and 
+ media preparation module 
+(please refer to the response to Q6 above). They also purchased and qualified additional 
+equipment, and increased the number of trained personnel (cell processing operators, testing 
+technicians, and quality control, scheduling and support functions) to support an increase in 
+flexibility of manufacturing and a capacity up to over 
+ batches per month. 
+Novartis forecast the demand for manufacturing of the drug product for commercial pALL 
+and active clinical trials during the months after approval to be around 
+ per month. They 
+consider that the clinical studies performed demonstrate that the Morris Plains facility 
+manufacturing capability surpassed the anticipated demand.  
+In addition to the currently qualified modules and equipment mentioned above, the Morris 
+Plains Facility is scheduled in 2017 to qualif
+ 
+. To support 
+the 
+ cleanroom capacity, additional equipment is being purchased and qualified for 
+manufacturing, and quality testing laboratories, and warehouse and support space are 
+planned. 
+Novartis stated that they actively monitor the facility operations as they relate to capacity 
+across manufacturing, laboratory, warehouse and support functions. They added that they 
+continuously, monitor and adjust to improve efficiency and operations; and that their 
+Quality System ensures proper implementation and planning so that scaling up is done in a 
+controlled way. As additional space is required, proper qualification of the environment, 
+equipment and facilities is ensured as part of bringing these areas into service. 
+Response is acceptable. 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    66 of 70 
+ 
+ 
+11. You reported that 
+ successful PPQ lots were manufactured to qualify each of the 
+ pathway and 
+ pathway manufacturing processes. Please clarify which modules 
+(and work stations) were used, and whether 
+ work station was assigned to 
+ lot 
+through the whole manufacturing process of that lot.  Please clarify, and describe the 
+cleaning and line clearance procedure for the BSC, and whether it is performed after 
+every step, every day, etc. 
+Novartis stated that the assignment of modules during the manufacture of the conformance 
+lots will not be the same for routine commercial or clinical manufacturing. They explained 
+that during the manufacturing of PPQ lots, 
+ 
+ throughout the manufacturing process due to 
+the availability of excess workstations/modules as compared to manufacturing demands. 
+They added that for routine manufacturing, workstations are scheduled based on 
+availability; and that the manufacturing of a lot (over 
+ days) can occur
+ 
+ work station is used for the aseptic processing of different lots. 
+However for the duration of the operation, the workstation is dedicated for 
+ 
+ is performed between for each operation by verifying that 
+all components, labels, paperwork and waste have been removed from the workstation. 
+This same procedure is verified by a second operator at the time of execution. All results are 
+documented in the appropriate sections of the associated batch record. 
+Novartis clarified that biological safety cabinet (BSC) undergoes cleaning before and after 
+each use by production operations (also referred to as Process Unit (PU)). The pre-cleaning 
+is performed using 
+ The 
+post-cleaning is performed using
+ 
+ 
+Novartis provided the list of work stations (WS) and modules used for the conformance lots 
+as summarized in the following Table: 
+Reviewer’s comments: I discussed the line clearance process during the inspection. 
+Novartis does not have an SOP for line clearance; however the line clearance 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    67 of 70 
+ 
+ 
+instructions are included in the work procedures (WP) for every day of manufacturing 
+process of CTL019. The production operators perform the pre and post line clearance, 
+and document in the batch record. QA performs a review of the cleaning and clearance 
+of the work stations during their review of the batch record, and if any discrepancies are 
+noted, a deviation and investigation will be initiated. 
+Response is acceptable. 
+ 
+12. Please specify the incubators used for the manufacturing of the conformance lots, and 
+clarify whether lots manufactured concurrently can be incubated in the same incubator. 
+Please explain and describe the segregation of the lots in incubators. 
+Novartis explained that each incubator contains only one patient lot during use, and thus no 
+segregation of lots in individual incubators is needed. 
+They clarified that during the manufacture of the PPQ lots one incubator was dedicated to 
+each lot for the different incubation steps of that lot. They added that routine manufacturing 
+does not require that all incubation steps for one lot occur in one specific incubator, and that 
+an incubator is not dedicated to only one lot for the duration of the incubation activities for 
+that particular lot. 
+Novartis listed the incubators used for the PPQ lots as summarized in the above table 
+(response to Q11). 
+Response is acceptable. 
+ 
+Aseptic process validation (APV) 
+13. You reported that the aseptic process validation is performed for both CTL019 
+manufacturing process and for the cell culture media preparation process, every 
+ 
+months, in the manufacturing module. It is not clear whether you are referring to a 
+specific module, and the number of BSCs involved in the 
+ monthly APV for each 
+process (to simulate worst case conditions). Please explain and justify your response. 
+Novartis explained that 
+ APV runs (media prep or CTL019 process) were performed to 
+qualify each module. After initial qualification, the relevant APV is performed every 
+ 
+months on a 
+ basis, with 
+ module re-qualified every 
+ months. They justified 
+the frequency of qualification on the identical design of the modules. They reiterated the 
+APV is performed under worst case conditions – for the simulation of the CTL019 process, 
+APV is performed using 
+ BSCs per module; and for the culture media preparation 
+simulations, all 
+ BSCs are used. In addition each BSC is qualified every 
+ months to 
+ensure it meets its specifications and HEPA certification. 
+Response is acceptable. 
+ 
+14. You reported that the initial APV for the CTL019 was conducted in Module , and 
+included
+ work stations (out of
+ work stations) for that module as routine 
+production of CTL019 uses up to
+ BSC (each BSC in a work station). You explained 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    68 of 70 
+ 
+ 
+that 
+ work station (BSC with its ancillary equipment) was used to simulate the 
+CTL019 process by using 
+ and the other
+ work stations were used to simulate the 
+CTL019 process using 
+ to create a challenge operations 
+condition in terms of personnel movement and particulate generation during APV. Each 
+APV run in each of the 
+ work stations was completed in 
+ 
+ of personnel due to the length of the process. You also reported 
+that the validation process included 
+ validation runs: 
+ station on 
+ days.  
+a. Please clarify if Module  is the only module that will be used for the production of 
+CTL019. If other modules are used, please explain your APV strategy for 
+qualification of those modules, and justify your response. 
+Novartis clarified that modules 
+ are used for the production of CTL019. All 
+these modules 
+ were initially qualified and validated by APV. These modules 
+are requalified (APV) every 
+ months on a rotational basis as described above. 
+Response is acceptable. 
+b. You reported that during APV, the incubation times were 
+; and you added 
+that worst case incubation times were evaluated using 
+ in a separate study 
+conducted prior to this APV study, and that all results were compliant.  Please provide 
+the protocol and summary report for that study. 
+Novartis reported that the worst case media hold (APV) was evaluated according to 
+protocol USMB.098.TD and documented in report USMB.115.TD. They stated that the 
+incubation duration tested was 
+ which is worst case for the current CTL019 
+manufacturing process that includes 
+. 
+They provided the protocol and report which are reviewed below: 
+• USMB.098.TD, Integrity Study for non-processing times during static & perfusion 
+culture in the CTL019 process (approved 02 May 2014) 
+• USMB.115.TD, Integrity Study Report for non-processing times during static & 
+perfusion culture in the CTL019 process (approved 23 Jul 2014) 
+The media hold studies, performed using 
+ 
+as summarized in the 
+following Table: 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    69 of 70 
+ 
+ 
+Response is acceptable. 
+ 
+c. You reported that during APV you sampled after each step and that the final 
+container was sampled and tested for sterility. Please clarify whether the final 
+container (filled with 
+ was incubated (and assessed for absence of growth, 
+followed by growth promotion studies), to demonstrate the validity of the aseptic 
+process, and justify your response. 
+Novartis confirmed that all final product containers filled with 
+ 
+and assessed for 
+absence of growth, followed by growth promotion testing to demonstrate the validity of 
+the aseptic process. 
+Response is acceptable. 
+ 
+d. You also reported the APV for cell culture media preparation was performed in 
+ 
+separate runs in 
+ work stations of Module . Please clarify if Module  is the only 
+module used for the preparation of cell culture media. If other modules are used, 
+please explain your APV strategy for qualification of those modules, and justify your 
+response. 
+Novartis clarified that Module  was also qualified and validated for the preparation of 
+culture media. Both Module  and Module  were initially qualified and then validated 
+for APV and are included in routine re-validation program 
+ basis every 
+ 
+months) as described above. 
+Novartis reported in response to Q10 that they plan to outsource culture media 
+preparation so that they can free Module  for CTL019 commercial and clinical 
+manufacturing.  
+Response is acceptable. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (
+(b) (
+(b) (4)
+(b) (
+(b) (
+(b) (
+(b) (
+(b) (4)
+(b) (4)
+
+ 
+ 
+  
+ 
+Novartis BLA 125646/0   DP Review memo – Melhem                                                    70 of 70 
+ 
+ 
+ 
+Continued Process Verification 
+15. You provided in report PVP5135-6B, Continued Process Verification Plan: CTL019 
+Product links to several documents, however all the links go to the Reference section of 
+the same document. Please submit the referenced documents. 
+Novartis provided the following reports: 
+• AS5135F, Specifications for Clinical Development (approved 19 Aug 2016) 
+• CQAP5135B, Criticality Assessment of Quality Attributes – Analysis Plan (approved 
+10 Oct 2016) 
+• MI7008911A, Description of Commercial pedALL Manufacturing Process (approved 18 
+Nov 2016), which Includes list of equipment (Table 12-1) and their uses in the various 
+manufacturing steps (Table 122-10) of the report. 
+• PCMP5135B, CTL019 Process Characterization Master Plan (PCMP) (approved 20 
+June 2016) 
+• PCSR5135E, CTL019 Process Characterization Summary Report (approved 09 Dec 
+2016) 
+• PVP5135B, Morris Plains Process Validation Master Plan 2016: CTL019 Product (26 
+Apr 2016) 
+• QbD1_5135B, Process risk assessment (Drug product QbD1) (approved 10 Nov 2016) 
+• SI5135, Clinical Batch Sampling Instructions (approved 05 Jan 2017) 
+• SOP 7007242, APR/PQR Process Performance Analysis (v3.0, effective18 Mar 2014) 
+• SOP-7013054, Periodic Product Quality Review (Including Annual Product Review 
+(APR) / Product Quality Review (PQR) (v4.0, effective 28 Sep 2016) 
+• SOP-7014994, Continued Process Verification (CPV) – withdrawn/retired 
+• SOP-7015371, Process Validation Lifecycle in PharmOps (v3.0, effective 18Apr 2016) 
+• SOP-7017454, Cell & Gene Therapies Unit Morris Plains Laboratory Investigations in 
+AQWA (v7.0, effective 07 Nov 2016) 
+• SOP-7017813, Morris Plains AQWA Deviations and CAPAs Procedure (v 5.0, effective 
+16 Aug 2016) 
+• SOP-7018963, Pharma Change Control in 
+ – withdrwan/retired 
+• SOP -7019073, BiopharmOps Morris Plains Management of GMP Document Control 
+Storage Locations (v3.0, effective 16 Mar 2016) 
+• SOP-7027692, Global Document Management Process for GxP documents in 
+ (v3.0, effective 01 Dec 2015) (Not yet fully implemented and in use at 
+the Morris Plains Facility) 
+Response is acceptable. 
+ 
+(b) (4)
+(b) (4)

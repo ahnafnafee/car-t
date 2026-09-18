@@ -1,0 +1,133 @@
+SEQUENCE LISTING FREE TEXT
+SEQ ID NO:1: 3MSCV5 primer
+SEQ ID NO:2: 3MSCV3 primer
+SEQ ID NO:3: Anti CEA-28z-CAR fragment sequence
+SEQ ID NO:4: Anti CEA-z28-CAR fragment sequence
+SEQ ID NO:5: GITR transmembrane region and cytoplasmic domain coding sequence
+SEQ ID NO:6: 28TM-G-F primer
+SEQ ID NO:7: G-z-R primer
+SEQ ID NO:8: z-G-F primer
+SEQ ID NO:9: G-MC-R primer
+SEQ ID NO:10: 28SD-G-F primer
+SEQ ID NO:11: hinge-G-F primer
+SEQ ID NO:12: G-28SD-R primer
+SEQ ID NO:13: G-28SD-R2 primer
+SEQ ID NO:14: 28TM-R primer
+SEQ ID NO:15: z-F primer
+SEQ ID NO:16: z-R primer
+SEQ ID NO:17: END-MC-F primer
+SEQ ID NO:18: 28SD-R primer
+SEQ ID NO:19: hinge-R primer
+SEQ ID NO:20: 28SD-F primer
+SEQ ID NO:21: 28SD-F2 primer
+SEQ ID NO:22: Anti CEA scFv
+SEQ ID NO:23: Human CD8 alpha chain hinge domain
+SEQ ID NO:24: Human CD28 transmembrane domain
+SEQ ID NO:25: Human CD28 cytoplasmic domain
+SEQ ID NO:26: Human CD3 zeta chain cytoplasmic domain
+SEQ ID NO:27: Human GITR transmembrane domain
+SEQ ID NO:28: Human GITR cytoplasmic domain
+SEQ ID NO:29: Anti CEA-zG-CAR sequence
+SEQ ID NO:30: Anti CEA-zG28-CAR sequence
+SEQ ID NO:31: Anti EGFR-LC-z-CAR coding sequence
+SEQ ID NO:32: Human IgG leader sequence
+SEQ ID NO:33: Anti EGFR monoclonal antibody scFv sequence
+SEQ ID NO:34: Human IgG CL sequence
+SEQ ID NO:35: Anti EGFR-28z-CAR sequence
+SEQ ID NO:36: Anti EGFR-zG-CAR sequence
+SEQ ID NO:37: Anti EGFR-28zG-CAR sequence
+SEQ ID NO:38: Anti EGFR-z28G-CAR sequence
+SEQ ID NO:39: Anti EGFR-G28z-CAR sequence
+        
+    
+
+    
+
+
+    
+    
+
+            
+    
+    &lt;- Previous Patent (Lettuce variety 79-2...)   |   Next Patent (Recombinant adenovir...) -&gt;
+            
+        
+
+    
+        
+
+        
+    
+        
+        
+            
+                Home
+            
+            
+                Search
+            
+            
+                Services
+            
+        
+        
+            
+            
+        
+    
+    
+        
+            &copy; 2004-2026 FreePatentsOnline.com. All rights reserved.
+            Privacy Policy
+                &amp; Terms of Use.
+        
+    
+    
+
+
+
+
+
+    _gaq.push(['_setCustomVar', 2, 'User Origin Source', 'from fpo', 2]);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+
+
+    function trackPageLoad() {
+        var plend = new Date();
+        var plload = plend.getTime() - plstart.getTime();
+        var pn = document.location.pathname;
+        var lc = 'slow';
+        var la = new Array(200, 300, 400, 500, 1000, 1500, 2000, 2500, 5000);
+        for (var i = 0, len = la.length; i 
+
+    try {
+        if (window.onload != null) {
+            var oldOnload = window.onload;
+            window.onload = function (e) {
+                oldOnload(e);
+                trackPageLoad();
+            };
+        }
+        else {
+            window.onload = trackPageLoad();
+        }
+    } catch (err) {
+    }
+
+
+
+
+
+
+
+

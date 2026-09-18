@@ -1,0 +1,922 @@
+     FDA Introductory Remarks
+
+          Tisagenlecleucel
+Novartis Pharmaceuticals Corporation
+   Oncologic Drugs Advisory Committee Meeting
+                   July 12, 2017
+                     Wilson W. Bryan, MD
+      Office of Tissues and Advanced Therapies (OTAT)
+     Center for Biologics Evaluation and Research (CBER)
+  Proposed Indication
+
+Tisagenlecleucel is an autologous genetically
+modified immunocellular therapy indicated for
+the treatment of pediatric and young adult
+patients 3 to 25 years of age with
+relapsed/refractory (r/r) B-cell acute
+lymphoblastic leukemia (ALL)
+www.fda.gov                                     2
+Issues for Committee Discussion
+
+• Product Quality
+• Safety
+   – Cytokine Release Syndrome and Neurotoxicity
+   – Secondary Malignancy and Long-Term Follow-up
+• Benefit – Risk Profile
+
+www.fda.gov                                         3
+        Tisagenlecleucel
+           CMC presentation
+Oncologic Drugs Advisory Committee Meeting
+                July 12, 2017
+
+                 BLA 125646
+              tisagenlecleucel
+   Novartis Pharmaceuticals Corporation
+                                     Xiaobin Victor Lu, PhD
+                                                CBER/OTAT
+                   Division of Cellular and Gene Therapies
+              Overview
+ • Tisagenlecleucel: A chimeric antigen
+   receptor (CAR) T cell therapy
+ • CAR structure
+ • Mechanism of action
+ • Vector design and safety profile
+ • Manufacturing process and control
+ • Product consistency
+ • Discussion questions
+www.fda.gov                               2
+              Tisagenlecleucel
+• Genetically-modified autologous cellular
+  immunotherapy
+    – Patient's own T cells are modified (transduced) with
+      a retroviral (HIV-1-based) vector to express a CD19-
+      directed CAR
+• Targets CD19-expressing cells
+    – Intended target: B cell tumors
+    – Unintended, but expected: Normal B lineage cells
+• A dynamic “living” biologic
+    – Can expand and differentiate during manufacturing,
+      and after administration to patients
+www.fda.gov                                                  3
+      Tisagenlecleucel CAR design
+• scFv domain
+   – Specific for CD19
+• Spacer & transmembrane
+   – Important for CAR structure
+     and function
+• Intracellular signaling
+  domains
+   – T cell activation: CD3ζ
+   – Co-stimulation signal: 4-1BB
+
+www.fda.gov                         4
+              Mechanism of action
+• CAR scFv binds to CD19
+  on B cell tumors
+    – Not restricted by HLA
+• Binding of CAR to CD19
+  activates tisagenlecleucel
+    – Promotes cell expansion
+      and differentiation
+    – Triggers effector functions:
+        • Lysis of CD19+ cells
+        • Cytokine signaling
+        • Stimulation of bystander
+          immune cells
+www.fda.gov                          5
+              Tisagenlecleucel vector
+
+Lentivirus (HIV-1)                                                  rev
+                                                                    tat
+                                               vif
+    LTR       gag                                                vpu                   LTR
+                              pol                    vpr           env              nef
+   Ψ packaging
+   sequence                                                           RRE
+
+
+                                                           Accessory genes
+ Tisagenlecleucel vector
+
+                                    Promoter    CD19 CAR gene       SIN LTR
+                        RRE
+                    Ψ
+
+                                                                    LTR: long terminal repeat
+                                                                    SIN: self-inactivating
+www.fda.gov                                                         RRE: rev response element   6
+               Vector packaging system
+                         Promoter       gag                pol         pA
+
+
+    Packaging
+                         Promoter       VSV-G envelope           pA
+    Plasmids
+                         Promoter   Rev        pA
+
+
+
+
+    CAR vector
+                        Promoter                    Promoter      CD19 CAR gene   pA   SIN LTR
+    Plasmid                              RRE
+                                    Ψ
+
+
+      Replication defective
+              1. Split plasmid design with little sequence homology
+              2. Removal of accessory viral genes
+              3. Self-inactivating
+www.fda.gov                                                                                      7
+          Potential for RCR generation
+• Slight risk of formation during vector
+  manufacture
+   – Replication competent retrovirus (RCR) were
+     observed in early gammaretroviral vectors
+• RCR risks are reduced by design features of the
+  tisagenlecleucel retroviral vector
+   – Minimal homology between packaging plasmids and
+     vector sequences
+   – Segregation on 4 different DNA plasmids
+   – Deletion of HIV accessory genes
+www.fda.gov                                            8
+    RCR testing during IND studies
+          Co-culture             qPCR assay
+                                                       qPCR assay
+            assay            or co-culture assay
+
+
+
+
+                                                               archive
+
+
+
+        Retrovirus Vector
+                              tisagenlecleucel         Patient Samples
+        & Production Cells
+
+
+              Product Manufacturing                Patient Long-term
+                                                       Follow-up
+ • All RCR results were reported to be negative for tisagenlecleucel
+    • Vector lots (≥ 13)
+    • Patient-specific tisagenlecleucel lots (≥ 72 )
+www.fda.gov                                                              9
+         Proposed RCR testing of
+       commercial tisagenlecleucel
+• Each vector batch and production cells
+     – Co-culture assay
+• Each patient’s batch of tisagenlecleucel
+     – qPCR assay
+• Note: Negative RCR test results during
+  manufacturing do not eliminate all risk of RCR
+• Novartis does not plan to collect patient
+  samples for RCR testing
+www.fda.gov                                        10
+Vector insertional mutagenesis risk
+• Retroviral vector integration into a chromosome may
+  change activity of host genes
+     – Gene mutation or disruption
+     – Increased activity of nearby genes due to enhancers in vector
+• Insertional mutagenesis from gammaretroviral vectors has
+  led to leukemia in multiple clinical studies using stem cells
+• No vector-associated leukemia to date with tisagenlecleucel
+  or other vector-modified T cell products
+• Tisagenlecleucel uses a “self-inactivating” (SIN) vector
+  design
+     – SIN vectors lack retroviral enhancer sequences
+     – Less likely to activate nearby genes, and therefore less risk of
+       oncogenesis
+www.fda.gov                                                               11
+   Vector integration site analysis
+• Vector integration sites were characterized in 14
+  batches of tisagenlecleucel.
+• Distribution of integration sites was similar to
+  other lentiviral vectors.
+• No evidence for targeting to specific genes
+   – Integration sites were highly polyclonal
+   – No favoring of integration near oncogenes
+• Caveat: This type of analysis cannot predict
+  whether a rare mutated T cell will preferentially
+  expand in vivo, possibly leading to oncogenesis.
+
+www.fda.gov                                           12
+ Monitoring for insertional mutagenesis
+• During clinical trials of tisagenlecleucel:
+   – Patient cell samples were regularly monitored for:
+         • Product persistency
+         • Clonal expansion
+   – No instances of clonal expansion or vector-associated
+     oncogenesis were detected
+• The applicant does not propose routine patient
+  monitoring for vector persistence or clonal T cell
+  expansion, if tisagenlecleucel is licensed
+
+www.fda.gov                                               13
+              Summary of potential risks
+              associated with the vector
+• Replication-competent retrovirus (RCR)
+   – Vector design features
+   – Testing for RCR
+   – Patient monitoring (during IND, but not proposed if licensed)
+• Insertional mutagenesis
+   – SIN vector design
+   – Patient monitoring (during IND, but not proposed if licensed)
+• Vector-associated risks are low, but not entirely
+  eliminated.
+• Patient long-term follow-up for vector risk factors will
+  be discussed by the advisory committee.
+www.fda.gov                                                          14
+     Overview of tisagenlecleucel
+       manufacturing process
+
+
+
+
+   Vector
+
+
+
+
+www.fda.gov              Cancer Gene Therapy (2015) 22, 79–84 15
+         Control of tisagenlecleucel
+         manufacturing and quality
+• Qualify critical components
+     – Leukapheresis
+     – Vector
+•   Establish critical process parameters
+•   Validate the manufacturing process
+•   Monitor through in-process testing
+•   Meet lot release specifications
+•   Characterize additional product attributes
+
+www.fda.gov                                      16
+ Variability of leukapheresis cells
+• Autologous cells are collected from patient by apheresis
+• Heterogeneous composition:
+   – T cells, B cells, monocytes, tumor blasts, NK cells, RBC, etc.
+   – Composition influenced by genetics, disease, age, prior
+     treatment history, etc.
+
+
+
+
+                      Source: Novartis BLA Briefing Document
+www.fda.gov                                                      17
+              Characteristics of T cells in
+                   tisagenlecleucel
+• Tisagenlecleucel contains mostly T cells
+   – A subset of these T cells express the CAR
+• Heterogeneous T cell populations
+   – CD4/CD8 ratio
+   – Central memory T cells, effector memory T cells, etc.
+• Unknown which T cell subsets contribute to
+  tisagenlecleucel activity
+• T cells can change after administration
+   –   Expansion
+   –   Activation
+   –   Differentiation
+   –   Persistence
+www.fda.gov                                                  18
+Tisagenlecleucel lot release testing
+• Safety
+    – RCR, sterility, endotoxin, mycoplasma
+    – Integrated vector copies
+• Identity and purity
+    – Tracking, CAR+, % T cells
+• Dose determination
+    – Number of viable T cells expressing CAR
+• Potency
+    – Cytokine production
+
+www.fda.gov                                     19
+ Tisagenlecleucel potency testing
+
+• Quantitative measure of tisagenlecleucel
+  biological activity
+• Lot release: IFN-γ production upon
+  stimulation by CD19+ cells
+• Additional characterization: killing of
+  CD19+ cells
+
+
+www.fda.gov                                  20
+Setting lot release specifications
+• Lot release specifications ensure a consistently safe,
+  pure, and potent product
+• The proposed lot release specifications were based on
+  statistical analysis of historical data
+• Patient safety and efficacy outcomes occurred within a
+  broad range of tisagenlecleucel characteristics, for
+  instance:
+    – IFN-γ production
+    – Transduction efficiency (% CAR+ T cells & vector copy numbers)
+
+
+
+
+www.fda.gov                                                       21
+                      Example of lot release data
+                                        Potency
+                                                               Upper limit
+  IFN-γ/CAR+ T cell
+
+
+
+
+                                                                  Wide
+                                                                  Range
+
+
+
+
+                                                               Lower limit
+                        tisagenlecleucel lots (release date)
+www.fda.gov                                                                  22
+                  Example of lot release data
+                           Transduction efficiency
+  %CAR+ T cells
+
+
+
+
+                                                               Wide
+                                                               Range
+
+
+
+
+                                                           Lower limit
+                    tisagenlecleucel lots (release date)
+www.fda.gov                                                              23
+                          Example of lot release data
+                                      Integrated vector
+                    3.0
+
+
+
+                    2.5
+  VCN/CAR+ T cell
+
+
+
+
+                    2.0
+
+
+
+                    1.5
+
+
+
+                    1.0
+
+
+
+                    0.5
+
+
+
+                    0.0
+
+
+
+                            tisagenlecleucel lots (release date)
+www.fda.gov                                                        24
+       Tisagenlecleucel quality summary
+• Dynamic product with the capacity to expand and
+  differentiate following administration.
+• Process controls are necessary to assure product
+  consistency.
+• Some of the product attributes are variable and may
+  have limited value for predicting safety and efficacy.
+• Products with variable characteristics were administered
+  during clinical studies.
+• The risks of RCR and insertional mutagenesis are
+  minimized through vector design.
+     – RCR has not been detected in tisagenlecleucel cell products
+       or vectors.
+     – Clonal dominance has not been observed.
+     – Long-term follow-up of study subjects is still underway.
+www.fda.gov                                                          25
+              Discussion question #1
+DISCUSSION: During tisagenlecleucel
+development, the applicant established product
+quality specifications to assess Chimeric Antigen
+Receptor (CAR) expression and T cell activity,
+including transduction efficiency by flow
+cytometry, vector copy number per cell, and IFN-γ
+production following stimulation by CD19+ cells.
+
+
+
+
+www.fda.gov                                         26
+      Discussion question #1 (continued)
+Please discuss the following aspects of the control of
+product quality of tisagenlecleucel with respect to identity,
+safety, purity and potency:
+
+a. The design of the CAR construct and viral vector.
+b. The assessment of CAR expression and T cell activity
+   through
+          I.     The number of transduced T cells
+          II.    The number of vector copies per cell
+          III.   Antigen-specific T cell function (e.g., IFN-γ production and
+                 cytotoxicity upon stimulation)
+c. Any other measurements, such as T cell subpopulations
+   (cell surface marker characterization), that could
+   provide greater assurance of product quality.
+www.fda.gov                                                                     27
+              Discussion question #2
+DISCUSSION: Potential safety concerns with
+tisagenlecleucel and other retrovirus-based gene
+therapy products include generation of replication
+competent retrovirus (RCR) and insertional
+mutagenesis. Strategies to address these concerns
+include vector design and product testing.
+
+
+
+
+www.fda.gov                                      28
+      Discussion question #2 (continued)
+a. Please discuss how vector design impacts the
+   risk of RCR.
+b. Please discuss how vector design impacts the
+   risk that insertional mutagenesis might cause
+   secondary malignancies.
+c. Please discuss the extent to which product
+   testing can mitigate the risk of RCR and
+   insertional mutagenesis.
+
+
+www.fda.gov                                        29
+              Thank you!
+www.fda.gov
+BLA 125646
+Tisagenlecleucel
+Novartis Pharmaceuticals Corporation
+
+
+                                                       Clinical Presentation
+                            Oncologic Drugs Advisory Committee Meeting
+                                                                July 12, 2017
+                                                        Maura O’Leary, MD
+                                                                  CBER/OTAT
+             Division of Clinical Evaluation and Pharmacology/Toxicology
+                                               Clinical Hematology Branch
+Proposed Indication
+
+Tisagenlecleucel is an autologous genetically
+modified immunocellular therapy indicated for
+the treatment of pediatric and young adult
+patients 3 to 25 years of age with
+relapsed/refractory (r/r) B-cell acute
+lymphoblastic leukemia (ALL)
+
+
+
+                                                2
+Outline
+•   Issues for Discussion
+•   Disease Background and Current Therapies
+•   Study B2202 - Design
+•   Efficacy Results
+•   Safety Results
+•   Follow-up and Pharmacovigilance Study
+•   Overall Summary
+
+
+
+                                               3
+Issues for Discussion
+• Potential post-marketing considerations
+   – Mitigation of short-term risks to patients from cytokine
+     release syndrome (CRS) and neurotoxicities
+   – Long-term follow-up to address potential risk of
+     secondary malignancies from replication competent
+     retroviruses (RCR) and insertional mutagenesis
+   – Tisagenlecleucel persistence
+• The overall benefit - risk profile for the treatment of
+  pediatric and young adult patients with refractory or
+  relapsed B-cell precursor ALL
+
+                                                                4
+Background
+• Pediatric ALL: 3100 cases in US per year in children and
+  adolescents
+   – 80% are B cell precursor ALL (CD19 positive [CD19+])
+• Relapse occurs in 15-20% of patients.
+• Risk stratification for subsequent therapy after relapse is based
+  on the time from initial diagnosis of ALL to relapse.
+• Patients with refractory disease or relapse following salvage
+  chemotherapy who achieve a remission are considered for
+  allogeneic stem cell transplant (allo-SCT).
+• Treatment options for patients who fail allo-SCT or have
+  relapsed multiple times are limited and results are dismal.
+
+                                                                      5
+Treatment of Pediatric Relapsed ALL
+FDA-Approved Approval
+                                            Endpoint              Clinical Benefit / Effect
+Products     Year
+BLINCYTO                                    ORR = CR + CR/CRh: 33%
+                          2014
+(n=70)                                      CRi        Median DOR – ORR: 6 months
+
+CLOLAR                                      ORR = CR +
+                          2004                         CR/CRp: 19.7%
+(n=61)                                      CRi
+                                                       Median DOR – ORR: 2.5 months
+CR: complete remission; CRi: CR with incomplete hematologic recovery; DOR: duration of response; ORR: overall
+remission rate
+Source: PI for BLINCYTO, CLOLAR
+
+
+ Published CR rates with chemotherapy for pediatric ALL in
+ 2nd relapse 44%; 3rd marrow relapse 27% (Ko et al, 2010)
+                                                                                                                6
+  B2202: Treatment Schema
+   Apheresis                      Tisagenlecleucel
+                  Cell product        infusion
+                 manufacturing
+
+
+
+            Bridging Chemotherapy
+
+       Enrollment*                         1st Efficacy                   Long-term
+                           Lymphodepleting
+                                           Assessment                      follow-up:
+Screening                   Chemotherapy                Efficacy/Safety
+                                           D28; Confirm                   5 - 15 years
+                                                         assessments
+                                           efficacy 4                         from
+                                                              every
+                                           weeks later                     treatment
+                                                        3-6 months to
+                                                             5 years
+
+*Cell product acceptance required prior to
+enrollment
+                                                                                         7
+B2202: Enrollment Eligibility
+
+ • Systemic relapsed or refractory (r/r) B cell
+   precursor ALL
+ • 3 years to 21 years at the time of initial
+   diagnosis
+ • Acceptable leukapheresis product at
+   manufacturing site
+ • Excluded active central nervous system
+   involvement by malignancy
+                                                  8
+B2202 Tisagenlecleucel Dose
+
+Single intravenous infusion
+  • For subjects ≤ 50 kg: 2 - 5 x 10e6 viable
+    transduced T cells / kg body weight
+  • For subjects > 50 kg: single dose of 1 - 2.5 x
+    10e8 viable transduced T cells
+
+
+
+
+                                                     9
+B2202: Primary Endpoint
+
+• Primary endpoint: ORR (CR+CRi) within 3
+  months after tisagenlecleucel administration,
+  as assessed by an Independent Review
+  Committee (IRC)
+• Primary study hypothesis: Ho: ORR ≤ 20% vs.
+  Ha: ORR > 20%
+  ORR - Overall Remission Rate
+  CR – Complete Remission
+  CRi – CR with incomplete hematologic recovery
+  Per National Comprehensive Cancer Network (NCCN) guidelines
+
+
+                                                                10
+B2202: Risk Mitigation Measures
+
+  • Pre-infusion eligibility criteria
+  • Novel CRS definition and grading system
+  • Complex CRS treatment algorithm
+  • Supportive measures for multi-organ
+    dysfunction
+  • Study site selection and training
+  • Study site monitoring
+
+                                              11
+B2202: Pre-Infusion Eligibility
+Criteria for Tisagenlecleucel
+
+•   Negative rapid test for influenza
+•   Adequate pulmonary and cardiac function
+•   Absence of active infection
+•   Availability on site of tocilizumab
+
+
+
+
+                                              12
+B2202: Study Site Selection and
+Training
+• Selection
+  – Tertiary care centers
+  – Expertise in thawing and infusion of cellular products
+• Training
+  – Pre-emptive measures (e.g., availability of tocilizumab
+    prior to infusion)
+  – Cytokine release syndrome grading and treatment
+    algorithm
+  – Subject or caregiver education on the early recognition
+    of CRS symptoms
+                                                             13
+B2202: Overview of Long-Term
+Follow-Up (LTFU)
+• Follow up periods
+   – Years 0-5 years – Study B2202
+   – Years 5-15 years – Study A2205B
+• Objectives
+   – Potential risks from tisagenlecleucel
+      • Replication competent retrovirus (RCR)
+      • New malignancies
+   – Adverse events related to tisagenlecleucel from
+     B2202 (transgene persistence)
+   – Delayed adverse events of childhood leukemia
+                                                       14
+ B2202: LTFU Assessments
+ • Investigational site or remote sites
+ • Years 0-2
+    – Persistence every 3-6 months, annually when
+      negative
+ • Years 2-5
+    – Every 6 months for 5 years – transgene persistence*
+    – Annually for RCR ^
+ • Years 5-10 years on Study A2205B
+    – Annually (if negative): transgene persistence and RCR
+      samples are stored
+ • Survival data: every 6 months
+*After 5 years, if transgene persistence is no longer detected by 2 consecutive assessments,
+subjects will be followed via mail or phone call biannually with annual storage of samples.
+^After 1 year, if all RCR samples are negative, archiving of collected samples is planned.
+                                                                                               15
+Efficacy Results: B2202
+
+
+
+                          16
+B2202 Efficacy Results
+
+         Primary Endpoint: ORR* (n=63)
+   Response                      n (%)
+   ORR* (95% CI)                 52 [82.5%] (CI: 70.9, 91.0)
+    CR                           40 (63%)
+    CRi                          12 (19%)
+   No Response/Unknown           11 (18%)
+
+   * All were Minimum Residual Disease (MRD) negative
+
+
+
+                                                               17
+ B2202: Duration of Response (DOR)
+Response
+    CR
+   CRi
+
+                                         Median follow up: 4.8 mos
+                                         (1.2 -14.1)
+         Responders
+
+
+
+
+                                         Median DOR: Not reached
+
+
+
+
+                                           New therapy (non-HSCT)
+                                           Relapse
+                                           HSCT
+                                           Assessment not available
+
+         Gormley 2016                                                 18
+                        Months since initial response
+B2202: Safety
+
+•   Overview
+•   Deaths
+•   Cytokine release syndrome (CRS)
+•   Neurotoxicity
+•   Adverse events of special interest (AESI)
+•   Pharmacovigilance
+
+
+
+                                                19
+B2202 Safety Results: Deaths
+   Prior to infusion   Post-infusion
+        (n=12)            (n=11)
+
+        ALL (n=6)         ALL (n=7)
+
+
+
+        Infections        Infections
+           (n=5)             (n=3)
+
+
+        Respiratory      Intracranial
+       failure (n=1)     Hemorrhage
+                            (n=1)
+                                        20
+B2202 Safety Results:
+Cytokine Release Syndrome
+•   CRS - 78% of subjects
+•   Median time to onset: 3 days (1 - 22 days)
+•   Median duration of CRS: 8 days (1 - 36)
+•   Median time to Grade 3/4 CRS: 6 days (3 – 33)
+
+• CRS severity was associated with high tumor
+  burden of greater than 50% blasts in the bone
+  marrow at screening
+                                                    21
+B2202 Neurotoxicity
+• 30 subjects (44%) developed neurotoxicity
+   – 10 subjects (15%) had Grade 3 events
+   – 6/10 Grade 3 neurotoxic events were associated
+     with Grade 3/4 CRS
+   – No Grade 4 neurotoxicity
+• One Grade 5 intracranial hemorrhage (ICH) due to
+  coagulopathy
+• Reversible
+   – Supportive measures
+   – Airway protection
+   – Seizure prophylaxis
+   – Corticosteroids +/- tocilizumab
+                                                      22
+B2202 CRS: Tocilizumab Use
+• 68 subjects infused with tisagenlecleucel
+• 53 subjects developed CRS (78%)
+  – 14 Grade 3 (21%)
+  – 18 Grade 4 (27%)
+• Tocilizumab
+  – 1 Treated with Grade 2
+  – 7 Treated with Grade 3
+  – 18 Treated with Grade 4
+• 26 treated with tocilizumab for CRS, 16 – one
+  dose, 7 – two doses, and 3 – three doses
+• One patient received tocilizumab who did not
+  have CRS                                        23
+Supportive Care for CRS and
+Neurotoxicity
+• Intensive Care Unit admissions
+   – 31 subjects with a mean duration of 11 days
+• Infections
+   – 27 subjects with Grade 3/4 infections
+• Assisted ventilation
+   – 10 subjects
+• Dialysis
+   – 7 subjects with mean of 11 days
+• Seizure prophylaxis
+• Airway protection in encephalopathic subjects
+                                                   24
+B2202 Safety: Additional Adverse
+Events of Special Interest
+Event                      Grade        N (%)
+Febrile Neutropenia        Grade 3/4    25 (37)
+Cytopenias > 28 days       Grade 3/4    22 (33)
+Infections                 Grade 3/4    18 (27)
+Congestive Heart Failure   Grade 3/4    3 (4)
+Hemophagocytic             Grade 3/4    3 (4)
+Lymphohistiocytosis
+Hypogammaglobulinemia      All Grades   20 (29)
+Hypofibrinogenemia         Grade 3/4    32 (47)
+
+                                                  25
+B2202: Long-Term Safety Results
+• Survival
+   – Median overall survival (OS) has not been
+     reached
+   – The median follow-up time for survival is 6.9
+     months (9 days to 17.7 months)
+• Generation of RCR – none
+• Persistence – up to 366 days in responders
+   – Hypogammaglobulinemia
+   – Potential for malignant transformation
+                                                 26
+Summary of Safety Issues
+• Post-Infusion: 0 - 60 days
+   – 47% Grade 3/4 CRS events
+   – 15% Grade 3 neurotoxicity
+   – 27% Grade 3/4 infectious complications
+   – 11 deaths post-infusion – progressive
+     disease, infections, and one ICH
+• Long-term follow-up
+   – Limited duration of follow-up
+   – No RCR or secondary malignancies
+   – Persistence
+                                              27
+Proposed Pharmacovigilance Plan
+(PVP)
+• Post-Marketing Registry Study
+   – Observational registry
+   – Standard-of-care follow-up
+   – No routine monitoring of RCR or persistence
+• Post-marketing risk mitigation at treatment
+  sites
+   – Training for healthcare providers
+   – Education for patients
+   – Essential services
+                                               28
+CCTL019B2401:
+Proposed Post-Marketing Registry Study
+• Design
+   – Multicenter, prospective, observational, non-
+     interventional, planned safety study
+• Enrollment
+• Endpoints
+ – Adverse events and laboratory abnormalities
+ – Adverse Events of Special Interest
+ – Growth and Development outcomes
+ – Reproductive status and pregnancy outcomes
+ – Disease outcomes (ORR, OS)
+• Follow-up period (up to 15 years)
+                                                     29
+Potential Risk Mitigation Measures
+• Risk Mitigation in the IND Phase
+   – Treatment sites
+      • Tertiary care
+      • Expertise in thawing and infusion of cellular
+        products
+   – Training
+      • Pre-emptive measures (e.g., availability of
+        tocilizumab; reassessment of clinical status after
+        lymphodepletion)
+      • CRS grading and treatment algorithm
+      • Subject or caregiver education - early
+        recognition of CRS and neurotoxicities
+                                                         30
+Overall Summary
+• Primary efficacy of MRD negative is ORR 82.5% (52/63)
+• B2202 Study requirements
+   – Site training
+   – Complex CRS management algorithm and risk management
+   – Site monitoring during the study
+• Short-term risks
+   – Life-threatening (CRS, neurotoxicity, coagulopathies and
+     infections)
+• Long-term risks
+   – RCR and secondary malignancies: none reported, but short
+     duration of follow-up
+• Post-marketing studies
+   – Registry study for known and potential adverse events
+   – Mitigate acute risks related to CRS and neurotoxicity.
+                                                            31
+Discussion Question 3: Clinical
+
+Please discuss risk mitigation measures for
+the serious risks of cytokine release
+syndrome and neurotoxicity with
+tisagenlecleucel.
+
+
+
+
+                                              32
+Discussion Question 4: Clinical
+For the tisagenlecleucel IND studies, the FDA
+requires 15 years of follow-up to monitor for
+subsequent malignant transformation.
+
+Given the possibility of generation of replication-
+competent retrovirus and insertional
+mutagenesis, please discuss the duration of
+follow-up and the type of assessments that you
+would recommend for patients who receive
+marketed tisagenlecleucel.                        33
+Voting Question 5
+Considering the efficacy and safety results of
+Study B2202, is the benefit-risk profile of
+tisagenlecleucel favorable for treatment of
+pediatric and young adult patients (age 3-25
+years) with relapsed (second or later relapse) or
+refractory (failed to achieve remission to initial
+induction or reinduction chemotherapy) B-cell
+precursor acute lymphoblastic leukemia (ALL)?
+
+                                                     34
+Thank you for your attention
+
+
+
+
+                               35
+

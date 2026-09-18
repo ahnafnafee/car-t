@@ -1,0 +1,123 @@
+Source file: D:\GitHub\car-t\.private\verify\US9175308B2.html
+Distinct SEQ ID NOs: 39
+
+=== SEQ ID NO: 1 (first mention @ 154599) ===
+ <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 3MSCV5 primer shown in SEQ ID NO: 1 and a 3MSCV3 primer shown in SEQ ID NO: 2 using pMSCVneo (manufactured by Clontech) as a template, to amplify a MSCV3′ LTR site.</span> <meta itemprop="num_attr" content="0094"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">the amplified fragment thus obtained</span> 
+
+=== SEQ ID NO: 2 (first mention @ 154641) ===
+ <span itemprop="definition">was performed with a 3MSCV5 primer shown in SEQ ID NO: 1 and a 3MSCV3 primer shown in SEQ ID NO: 2 using pMSCVneo (manufactured by Clontech) as a template, to amplify a MSCV3′ LTR site.</span> <meta itemprop="num_attr" content="0094"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">the amplified fragment thus obtained</span> <span itemprop="definition">was cut
+
+=== SEQ ID NO: 3 (first mention @ 155812) ===
+efinitions" itemscope repeat> <span itemprop="subject">an artificial synthetic gene of a base sequence shown in SEQ ID NO: 3</span> <span itemprop="definition">(in FIG. 1A , referred to as anti-CEA-28z-CAR) and an artificial synthetic gene of a base sequence shown in SEQ ID NO: 4 (in FIG. 1B , referred to as anti-CEA-z28-CAR) were prepared.</span> <meta itemprop="num_attr" content="0095"> </li> <li itemprop="definitions"
+
+=== SEQ ID NO: 4 (first mention @ 155976) ===
+definition">(in FIG. 1A , referred to as anti-CEA-28z-CAR) and an artificial synthetic gene of a base sequence shown in SEQ ID NO: 4 (in FIG. 1B , referred to as anti-CEA-z28-CAR) were prepared.</span> <meta itemprop="num_attr" content="0095"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">These artificial synthetic genes</span> <span itemprop="definition">encode one molecule of a chimeric pr
+
+=== SEQ ID NO: 5 (first mention @ 161167) ===
+m_attr" content="0095"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">SEQ ID NO: 5</span> <span itemprop="definition">An artificial synthetic gene shown in SEQ ID NO: 5 was prepared. This artificial synthetic gene encodes a GITR transmembrane domain having an amino acid sequence shown in SEQ ID NO: 27 and a GITR intracellular domain having an amino acid sequence shown in SEQ ID NO: 28.</span> 
+
+=== SEQ ID NO: 6 (first mention @ 161740) ===
+ <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28TM-G-F primer shown in SEQ ID NO: 6 and a G-z-R primer shown in SEQ ID NO: 7 to obtain an amplified DNA fragment A</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed using with a z-G-F primer shown in
+
+=== SEQ ID NO: 7 (first mention @ 161781) ===
+ <span itemprop="definition">was performed with a 28TM-G-F primer shown in SEQ ID NO: 6 and a G-z-R primer shown in SEQ ID NO: 7 to obtain an amplified DNA fragment A</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed using with a z-G-F primer shown in SEQ ID NO: 8 and a G-MC-R primer shown i
+
+=== SEQ ID NO: 8 (first mention @ 162081) ===
+span itemprop="subject">PCR</span> <span itemprop="definition">was performed using with a z-G-F primer shown in SEQ ID NO: 8 and a G-MC-R primer shown in SEQ ID NO: 9 to obtain an amplified DNA fragment B</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28SD-G-F primer shown in S
+
+=== SEQ ID NO: 9 (first mention @ 162123) ===
+ <span itemprop="definition">was performed using with a z-G-F primer shown in SEQ ID NO: 8 and a G-MC-R primer shown in SEQ ID NO: 9 to obtain an amplified DNA fragment B</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28SD-G-F primer shown in SEQ ID NO: 10 and a G-z-R primer shown in S
+
+=== SEQ ID NO: 10 (first mention @ 162420) ===
+ <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28SD-G-F primer shown in SEQ ID NO: 10 and a G-z-R primer shown in SEQ ID NO: 7 to obtain an amplified DNA fragment C</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a hinge-G-F primer shown in 
+
+=== SEQ ID NO: 11 (first mention @ 162760) ===
+ <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a hinge-G-F primer shown in SEQ ID NO: 11 and a G-28SD-R primer shown in SEQ ID NO: 12 to obtain an amplified DNA fragment D</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a z-G-F primer shown in 
+
+=== SEQ ID NO: 12 (first mention @ 162805) ===
+<span itemprop="definition">was performed with a hinge-G-F primer shown in SEQ ID NO: 11 and a G-28SD-R primer shown in SEQ ID NO: 12 to obtain an amplified DNA fragment D</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a z-G-F primer shown in SEQ ID NO: 8 and a G-28SD-R2 primer shown in 
+
+=== SEQ ID NO: 13 (first mention @ 163145) ===
+ <span itemprop="definition">was performed with a z-G-F primer shown in SEQ ID NO: 8 and a G-28SD-R2 primer shown in SEQ ID NO: 13 to obtain an ampl</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28TM-R primer shown in SEQ ID NO: 14 and a z-F primer shown in SEQ ID NO: 15.</span> 
+
+=== SEQ ID NO: 14 (first mention @ 163421) ===
+ <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28TM-R primer shown in SEQ ID NO: 14 and a z-F primer shown in SEQ ID NO: 15.</span> <meta itemprop="num_attr" content="0097"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">a 28TM-R primer shown in SEQ ID NO: 14</span> <span itemprop="definition">was cloned the amplified DNA fragment A using In-F
+
+=== SEQ ID NO: 15 (first mention @ 163461) ===
+ <span itemprop="definition">was performed with a 28TM-R primer shown in SEQ ID NO: 14 and a z-F primer shown in SEQ ID NO: 15.</span> <meta itemprop="num_attr" content="0097"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">a 28TM-R primer shown in SEQ ID NO: 14</span> <span itemprop="definition">was cloned the amplified DNA fragment A using In-Fusion Advantage PCR Cloning Kit (manufac
+
+=== SEQ ID NO: 16 (first mention @ 165313) ===
+ <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a z-R primer shown in SEQ ID NO: 16 and a 28SD-F2 primer shown in SEQ ID NO: 21.</span> <meta itemprop="num_attr" content="0101"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">a pMS3-CEA-zG28-CAR vector</span> <span itemprop="definition">An amino acid sequence of CEA-zG28-CAR expressed by this v
+
+=== SEQ ID NO: 17 (first mention @ 165973) ===
+ <span itemprop="definition">was performed with a z-R primer shown in SEQ ID NO: 16 and an END-MC-F primer shown in SEQ ID NO: 17.</span> <meta itemprop="num_attr" content="0102"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">amplification product</span> <span itemprop="definition">thus obtained was cloned the amplified DNA fragment B to prepare a pMS3-CEA-28zG-CAR vector.</span> 
+
+=== SEQ ID NO: 18 (first mention @ 164101) ===
+ <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28SD-R primer shown in SEQ ID NO: 18 and a z-F primer shown in SEQ ID NO: 15.</span> <meta itemprop="num_attr" content="0099"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">a pMS3-CEA-28z-CAR vector</span> <span itemprop="definition">was cloned the amplified DNA fragment C to prepare a pMS3-CEA-2
+
+=== SEQ ID NO: 19 (first mention @ 164703) ===
+ <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a hinge-R primer shown in SEQ ID NO: 19 and a 28SD-F primer shown in SEQ ID NO: 20.</span> <meta itemprop="num_attr" content="0100"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">amplification product</span> <span itemprop="definition">thus obtained was cloned the amplified DNA fragment D to prepare
+
+=== SEQ ID NO: 20 (first mention @ 164746) ===
+ <span itemprop="definition">was performed with a hinge-R primer shown in SEQ ID NO: 19 and a 28SD-F primer shown in SEQ ID NO: 20.</span> <meta itemprop="num_attr" content="0100"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">amplification product</span> <span itemprop="definition">thus obtained was cloned the amplified DNA fragment D to prepare a pMS3-CEA-G28z-CAR vector.</span> 
+
+=== SEQ ID NO: 21 (first mention @ 165357) ===
+ <span itemprop="definition">was performed with a z-R primer shown in SEQ ID NO: 16 and a 28SD-F2 primer shown in SEQ ID NO: 21.</span> <meta itemprop="num_attr" content="0101"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">a pMS3-CEA-zG28-CAR vector</span> <span itemprop="definition">An amino acid sequence of CEA-zG28-CAR expressed by this vector is shown in SEQ ID NO: 30.</span> 
+
+=== SEQ ID NO: 22 (first mention @ 156389) ===
+efinition">encode one molecule of a chimeric protein consisting of a scFv (the amino acid sequence of which is shown in SEQ ID NO: 22) of an anti-CEA monoclonal antibody which binds to a cancer antigen CEA (carcinoembryonic antigen), a CD8 ⁇ chain hinge domain having an amino acid sequence shown in SEQ ID NO: 23, a CD28 transmembrane domain having an amino acid sequence shown in SEQ ID NO: 24, a CD28 intracellular domain having an amino acid sequence show
+
+=== SEQ ID NO: 23 (first mention @ 156570) ===
+ to a cancer antigen CEA (carcinoembryonic antigen), a CD8 ⁇ chain hinge domain having an amino acid sequence shown in SEQ ID NO: 23, a CD28 transmembrane domain having an amino acid sequence shown in SEQ ID NO: 24, a CD28 intracellular domain having an amino acid sequence shown in SEQ ID NO: 25, and a CD3 ⁇ intracellular domain having an amino acid sequence shown in SEQ ID NO: 26.</span> <meta itemprop="num_attr" content="0095"> </li> 
+
+=== SEQ ID NO: 24 (first mention @ 156652) ===
+aving an amino acid sequence shown in SEQ ID NO: 23, a CD28 transmembrane domain having an amino acid sequence shown in SEQ ID NO: 24, a CD28 intracellular domain having an amino acid sequence shown in SEQ ID NO: 25, and a CD3 ⁇ intracellular domain having an amino acid sequence shown in SEQ ID NO: 26.</span> <meta itemprop="num_attr" content="0095"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">a 
+
+=== SEQ ID NO: 25 (first mention @ 156734) ===
+aving an amino acid sequence shown in SEQ ID NO: 24, a CD28 intracellular domain having an amino acid sequence shown in SEQ ID NO: 25, and a CD3 ⁇ intracellular domain having an amino acid sequence shown in SEQ ID NO: 26.</span> <meta itemprop="num_attr" content="0095"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">a scFv</span> <span itemprop="definition">the amino acid sequence of which i
+
+=== SEQ ID NO: 26 (first mention @ 156822) ===
+an amino acid sequence shown in SEQ ID NO: 25, and a CD3 ⁇ intracellular domain having an amino acid sequence shown in SEQ ID NO: 26.</span> <meta itemprop="num_attr" content="0095"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">a scFv</span> <span itemprop="definition">the amino acid sequence of which is shown in SEQ ID NO: 22</span> <meta itemprop="num_attr" content="0095"> 
+
+=== SEQ ID NO: 27 (first mention @ 161394) ===
+was prepared. This artificial synthetic gene encodes a GITR transmembrane domain having an amino acid sequence shown in SEQ ID NO: 27 and a GITR intracellular domain having an amino acid sequence shown in SEQ ID NO: 28.</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28TM-G-F primer sho
+
+=== SEQ ID NO: 28 (first mention @ 161479) ===
+ng an amino acid sequence shown in SEQ ID NO: 27 and a GITR intracellular domain having an amino acid sequence shown in SEQ ID NO: 28.</span> <meta itemprop="num_attr" content="0096"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a 28TM-G-F primer shown in SEQ ID NO: 6 and a G-z-R primer shown in SEQ ID NO: 7 to obtain an amplified DN
+
+=== SEQ ID NO: 29 (first mention @ 200091) ===
+m_attr" content="0154"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">SEQ ID NO:29</span> <span itemprop="definition">Anti CEA-zG-CAR sequence</span> <meta itemprop="num_attr" content="0155"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">SEQ ID NO:30</span> <span itemprop="definition">Anti CEA-zG28-CAR sequence</span> <meta it
+
+=== SEQ ID NO: 30 (first mention @ 165671) ===
+</span> <span itemprop="definition">An amino acid sequence of CEA-zG28-CAR expressed by this vector is shown in SEQ ID NO: 30.</span> <meta itemprop="num_attr" content="0101"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">PCR</span> <span itemprop="definition">was performed with a z-R primer shown in SEQ ID NO: 16 and an END-MC-F primer shown in SEQ ID NO: 17.</span> <meta it
+
+=== SEQ ID NO: 31 (first mention @ 187744) ===
+efinitions" itemscope repeat> <span itemprop="subject">An artificial synthetic gene of a base sequence shown in SEQ ID NO: 31</span> <span itemprop="definition">was prepared.</span> <meta itemprop="num_attr" content="0119"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">This artificial synthetic gene</span> <span itemprop="definition">encodes EGFR-z which is an anti-EGFR-CAR, 
+
+=== SEQ ID NO: 32 (first mention @ 188209) ===
+is, one molecule of a chimeric protein consisting of a human IgG leader sequence having an amino acid sequence shown in SEQ ID NO: 32, a scFv of an anti-EGFR monoclonal antibody which binds to a cancer antigen EGFR (Epidermal Growth Factor Receptor) having an amino acid sequence shown in SEQ ID NO: 33, a human IgG-LC (light chain constant region) domain having an amino acid sequence shown in SEQ ID NO: 34, a CD28 transmembrane domain having an amino acid s
+
+=== SEQ ID NO: 33 (first mention @ 188378) ===
+antibody which binds to a cancer antigen EGFR (Epidermal Growth Factor Receptor) having an amino acid sequence shown in SEQ ID NO: 33, a human IgG-LC (light chain constant region) domain having an amino acid sequence shown in SEQ ID NO: 34, a CD28 transmembrane domain having an amino acid sequence shown in SEQ ID NO: 24, and a CD3 ⁇ intracellular domain having an amino acid sequence shown in SEQ ID NO: 26.</span> <meta itemprop="num_attr" content=
+
+=== SEQ ID NO: 34 (first mention @ 188484) ===
+ence shown in SEQ ID NO: 33, a human IgG-LC (light chain constant region) domain having an amino acid sequence shown in SEQ ID NO: 34, a CD28 transmembrane domain having an amino acid sequence shown in SEQ ID NO: 24, and a CD3 ⁇ intracellular domain having an amino acid sequence shown in SEQ ID NO: 26.</span> <meta itemprop="num_attr" content="0119"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">EG
+
+=== SEQ ID NO: 35 (first mention @ 189899) ===
+eat> <span itemprop="subject">pMS3-EGFR-LC-z-CAR expressing (2) EGFR-28z having an amino acid sequence shown in SEQ ID NO: 35</span> <span itemprop="definition">was prepared.</span> <meta itemprop="num_attr" content="0120"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">pMS3-EGFR-LC-zG-CAR expressing (5) EGFR-zG having an amino acid sequence shown in SEQ ID NO: 36, pMS3-EGFR-LC-28zG-C
+
+=== SEQ ID NO: 36 (first mention @ 190205) ===
+eat> <span itemprop="subject">pMS3-EGFR-LC-zG-CAR expressing (5) EGFR-zG having an amino acid sequence shown in SEQ ID NO: 36, pMS3-EGFR-LC-28zG-CAR expressing (9) EGFR-28zG having an amino acid sequence shown in SEQ ID NO: 37, pMS3-EGFR-LC-z28G-CAR expressing (10) EGFR-z28G having an amino acid sequence shown in SEQ ID NO: 38, and pMS3-EGFR-LC-G28z-CAR expressing (7) EGFR-G28z having an amino acid sequence shown in SEQ ID NO: 39</span> <sp
+
+=== SEQ ID NO: 37 (first mention @ 190306) ===
+ sequence shown in SEQ ID NO: 36, pMS3-EGFR-LC-28zG-CAR expressing (9) EGFR-28zG having an amino acid sequence shown in SEQ ID NO: 37, pMS3-EGFR-LC-z28G-CAR expressing (10) EGFR-z28G having an amino acid sequence shown in SEQ ID NO: 38, and pMS3-EGFR-LC-G28z-CAR expressing (7) EGFR-G28z having an amino acid sequence shown in SEQ ID NO: 39</span> <span itemprop="definition">were prepared.</span> <meta itemprop="num_attr" content="0120"> 
+
+=== SEQ ID NO: 38 (first mention @ 190408) ===
+sequence shown in SEQ ID NO: 37, pMS3-EGFR-LC-z28G-CAR expressing (10) EGFR-z28G having an amino acid sequence shown in SEQ ID NO: 38, and pMS3-EGFR-LC-G28z-CAR expressing (7) EGFR-G28z having an amino acid sequence shown in SEQ ID NO: 39</span> <span itemprop="definition">were prepared.</span> <meta itemprop="num_attr" content="0120"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">the struct
+
+=== SEQ ID NO: 39 (first mention @ 190513) ===
+uence shown in SEQ ID NO: 38, and pMS3-EGFR-LC-G28z-CAR expressing (7) EGFR-G28z having an amino acid sequence shown in SEQ ID NO: 39</span> <span itemprop="definition">were prepared.</span> <meta itemprop="num_attr" content="0120"> </li> <li itemprop="definitions" itemscope repeat> <span itemprop="subject">the structures of these CARs</span> <span itemprop="definition">correspond to (2), (5), (9), (7) and (10) i
+
+=== 'SEQUENCE LISTING' heading @ 292161 ===
+ immunity gene therapy targeting an antigen such as a tumor antigen.</div> <heading id="h-0044">SEQUENCE LISTING FREE TEXT</heading> <div id="p-0125" num="0127" class="description-paragraph">SEQ ID NO:1: 3MSCV5 primer</div> <div id="p-0126" num="0128" class="description-paragraph">SEQ ID NO:2: 3MSCV3 primer</div> <div id="p-0127" num="0129" class="description-paragraph">SEQ ID NO:3: Anti CEA-28z-CAR fragment sequence</div> <div id="p-0128" num="0130" class="description-paragraph">SEQ ID NO:4: Anti CEA-z28-CAR fragment sequence</div> <div id="p-0129" num="0131" class="description-paragraph">SEQ ID NO:5: GITR transmembrane region and cytoplasmic domain coding sequence</div> <div id="p-0130" num="0132" class="description-paragraph">SEQ ID NO:6: 28TM-G-F primer</div> <div id="p-0131" num="0133" class="description-paragraph">SEQ ID NO:7: G-z-R primer</div> 
+

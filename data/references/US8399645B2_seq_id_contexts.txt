@@ -1,0 +1,15 @@
+Source file: D:\GitHub\car-t\.private\verify\scrapes\7f7b5623ff85-mcp__firecrawl__firecrawl_scrape.txt
+Distinct SEQ ID NOs: 3
+
+=== SEQ ID NO: 1 (first mention @ 37067) ===
+uction pathway from outside of the cell to inside \\[Kim et al., J. Immunol. 151:1255 (1993)\\].\n\nA human 4-1BB gene (SEQ ID NO:1) was isolated from a cDNA library made from activated human peripheral T-cell mRNA \\[Goodwin et al., Eur. J. Immunol. 23:2631 (1993);\\]. The amino acid sequence of human 4-1BB (SEQ ID NO: 2) shows 60% homology to mouse 4-1BB (SEQ ID NO:4)\\[Kwon et al., Proc. Natl. Acad. Sci. USA 86:1963 (1989); Gen Bank No: NM—011612\\] whi
+
+=== SEQ ID NO: 2 (first mention @ 31838) ===
+ng domain of 4-1BB used in the chimeric receptor is of human origin. In a preferred embodiment, human 4-1BB consists of SEQ ID NO:2. In another embodiment the signaling domain comprises amino acids 214-255 of SEQ ID NO:2.\n\nIn another embodiment of the invention the cytoplasmic domain of the chimeric receptor comprises the signaling domain of CD3ζ in addition to the signaling domain of 4-1BB. In another embodiment the extracellular domain comprises a sing
+
+=== SEQ ID NO: 4 (first mention @ 37307) ===
+. Immunol. 23:2631 (1993);\\]. The amino acid sequence of human 4-1BB (SEQ ID NO: 2) shows 60% homology to mouse 4-1BB (SEQ ID NO:4)\\[Kwon et al., Proc. Natl. Acad. Sci. USA 86:1963 (1989); Gen Bank No: NM—011612\\] which indicates that the sequences are highly conserved. As mentioned supra, 4-1BB belongs to the TNFR superfamily, along with CD40, CD27, TNFR-I, TNFR-II, Fas, and CD30 \\[Alderson et al., Eur. J. Immunol. 24:2219 (1994)\\]. When a monoclonal
+
+=== 'SEQUENCE LISTING' heading @ 34873 ===
+ cells) and their highly efficient transduction with chimeric receptors.\n\n6\\. DESCRIPTION OF THE SEQUENCE LISTING\n\nSEQ ID No. 1 is the nucleotide sequence for human 4-1BB mRNA. The coding sequence for the human 4-1BB protein begins at position 129 and ends at position 893.\n\nSEQ ID No. 2 is the amino acid sequence of human 4-1BB. The signaling domain begins at position 214 and ends at position 255.\n\nSEQ. ID. No. 3 is the nucleotide sequence for murine 4-1BB mRNA. The coding sequence for the murine 4-1BB protein begins at position 146 and ends at position 916.\n\nSEQ ID. No. 4 is the amino acid sequence of murine 4-1BB. The signaling domain begins at position 209 and ends at position 256.\n\n7\\. DESCRIPTION OF THE FIGURES\n\nFIG. 1 is a schematic representation of the CD19-truncated, CD19-ζ, CD19-28-ζ and CD19-BB-ζ receptor constructs.\n\nFIG. 2 shows the percent of CD19-positive
+

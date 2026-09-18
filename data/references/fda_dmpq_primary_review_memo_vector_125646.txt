@@ -1,0 +1,802 @@
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 1 of 56 
+ 
+ 
+ 
+ 
+ 
+_____________________________________________________________________________________________________ 
+ 
+ Food and Drug Administration 
+Center for Biologics Evaluation and Research 
+10903 New Hampshire Ave 
+Building 71, G112 
+Silver Spring, MD 20993-0002 
+ 
+To: 
+ 
+DATS 659853 
+ 
+ 
+STN BLA 125646/0 
+tisagenlecleucel (CTL019), KymriahTM  
+ 
+ 
+ 
+From:  
+Joan Johnson, CMC/Facility Reviewer, CBER/OCBQ/DMPQ/MRB1 
+ 
+Through: 
+Carolyn Renshaw, Branch Chief, CBER/OCBQ/DMPQ/MRB1 
+ 
+ 
+ 
+John Eltermann, Division Director, CBER/OCBQ/DMPQ   
+ 
+CC:  
+ 
+Erica Giordano, RPM, CBER/OTAT/DRPM/RPMB1 
+ 
+ 
+Debra Vause, DMPQ RPM, CBER/OCBQ/DMPQ/ARB  
+ 
+ 
+Xiaobin (Victor) Lu, CMC Chair, CBER/OTAT/DCGT/GTB 
+Randa Melhem, PhD, Reviewer, CBER/OCBQ/DMPQ/MRB2 
+ 
+Subject: 
+DMPQ Primary Review Memo for Biologics License Application 125646/0 filed per 
+21CFR601.2 for tisagenlecleucel (CTL019), KymriahTM. 
+ 
+This review memo focuses on vector substance and vector product manufactured at 
+. respectively.   
+ 
+Indication: 
+Treatment of pediatric and young adult patients with relapsed/refractory (r/r) B-cell acute 
+lymphoblastic leukemia (ALL) 
+ 
+Applicant 
+Novartis Pharmaceuticals Corporation (License # 1244) 
+ 
+Facility: 
+1.  
+Vector Substance manufacturer:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  
+Vector Product manufacturer:  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  
+CTL019 Cell Substance and Cell Product manufacturer:  
+ 
+ 
+Novartis Pharmaceuticals Corporation, 220 East Hanover Avenue,  
+ 
+ 
+Morris Plains, NJ 07950 USA,  
+ 
+FEI # 3010353512, DUNS# 078640106 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 2 of 56 
+ 
+ 
+ 
+ 
+Action  
+Recommendation:  Approval Recommended  
+ 
+Due Date:   
+ 
+October 3, 2017 
+               
+ 
+Review Summary  
+ 
+Novartis Pharmaceuticals Corporation (Novartis) submitted a BLA STN 125646/0 for licensure of 
+tisagenlecleucel, commonly described as chimeric antigen receptor (CAR) T cells against CD19. 
+Novartis’s internal product code is CTL019 and the proposed trade name is KymriahTM. The product is 
+an autologous T cell product derived from a patient leukapheresis, genetically modified using lentiviral 
+transgene vector, selectively expanded in culture and formulated as a final single-dose cell suspension 
+for infusion. Tisagenlecleucel is indicated for the treatment of pediatric and young adult patients 3 to 25 
+years of age with relapsed/refractory (r/r) B-cell acute lymphoblastic leukemia (ALL).  
+ 
+The purified lentiviral vector bulk substance and sterile filtered /concentrated vector product are 
+manufactured at 
+, respectively. The 
+qualification, validation and control programs associated with product, facility, equipment, process, 
+container closure and shipping activities at both manufacturing sites were reviewed and appeared to be 
+adequate for the GMP manufacture of CTL019 vector substance and vector product for further use as a 
+critical component in the final cell product manufacturing process at Novartis NJ facility. 
+ 
+DMPQ performed a PLI (Pre-License Inspection) at both the 
+ facility initiated on 
+ 
+. The PLI was classified as VAI (Voluntary Action Indicated) based on 
+the firms commitment to timely implement corrective actions to address deficiencies identified during 
+the PLI. 
+ 
+ 
+Items Submitted and Reviewed: 
+ 
+1.1.2  
+Form FDA 356h  
+1.2 
+ 
+Cover Letter 
+1.11.1  
+Quality Information Amendment 
+1.12 
+ 
+Environmental Analysis 
+2.2  
+ 
+Introduction 
+2.3  
+ 
+Quality Overall Summary-introduction 
+2.3.S   
+Drug Substance –vector 
+2.3.A   
+Appendices—
+ 
+3.2.S   
+Vector DS and DP (all sections under CTL019 murine HIV-1 Vector) 
+3.2.A.1  
+Appendices (all sections under CTL019 murine HIV-1 Vector) 
+3.2.A.2 
+Adventitious Agents (under DMPQ purview) 
+3.2.R   
+Reginal Information (under DMPQ purview) 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 3 of 56 
+ 
+ 
+ 
+Review Memo Format and Table of Contents 
+ 
+I have provided a summary of information provided in the submission that is under DMPQ purview as 
+outlined in SOPP 8401.4.  In general, my Review Assessment / Comments are provided at the end of 
+review sections in a lined box.  Any information requests (IRs) related to review are included in bolded 
+text.  The firm’s response to that IR or a response summary will immediately follow in italicized text.  
+My review and assessment of the IR response and subject topic will follow in the lined box. 
+ 
+Table of Contents 
+ 
+Review Summary ................................................................................................................... 2 
+Items Submitted and Reviewed: ........................................................................................... 2 
+Review Memo Format and Table of Contents .................................................................... 3 
+Regulatory History ................................................................................................................ 4 
+For 
+ ................................................................................................... 5 
+For 
+.................................................................................................................. 5 
+Environmental Assessment ................................................................................................... 6 
+Facility Table .......................................................................................................................... 7 
+Product Background ............................................................................................................. 7 
+Manufacturing Process Overview ........................................................................................ 8 
+A. .................................................. Vector Substance Facility-
+ ................................................................................................................................................. 9 
+ Facility Overview ........................................................................................................ 9 
+A.2 Vector 
+ Manufacturing Process Overview at
+ ............................................ 10 
+A.3 Vector 
+ Upstream Process Controls .................................................................... 11 
+ 
+ 
+ 
+ 
+........................................ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Buffers and Solutions for Vector Substance Downstream Processing ................................................. 14 
+A.5 Contamination/Cross Contamination Control .................................................................... 15 
+A.6 Personnel, Material and Equipment Flow ........................................................................... 16 
+ .......................................................................................................... 17 
+A.8 General Cleaning and Disinfection ..................................................................................... 17 
+A.9 Pharmaceutical Gases and Water Systems ......................................................................... 19 
+A.10 HVAC and EM ................................................................................................................. 19 
+A.11 Equipment Qualification ................................................................................................... 20 
+A.12 Equipment Sterilization .................................................................................................... 22 
+A.13 Process Validation Batches and Results ........................................................................... 22 
+A.14 Media Simulation.............................................................................................................. 23 
+A.15 Vector Substance Container Closure ................................................................................ 24 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 4 of 56 
+ 
+ 
+ 
+A.16 Vector Substance Stability ................................................................................................ 24 
+A.17 Vector Substance Shipping Validation ............................................................................. 25 
+B. .................................................. Vector Product Facility at 
+ ............................................................................................................................................... 25 
+B.1 
+ Facility Overview ...................................................................................................... 25 
+B.2 Process Overview of the Vector Product at
+ ............................................................... 26 
+B.3 Vector Product Manufacturing Process Controls ................................................................ 27 
+ 
+ 
+ 
+28 
+B.4 Contamination/Cross Contamination Control ..................................................................... 28 
+ .......................................................................................................... 29 
+B.6 General Cleaning and Disinfection ..................................................................................... 29 
+B.7 Pharmaceutical Gases and Water Systems .......................................................................... 30 
+B.8 HVAC and EM ................................................................................................................... 30 
+B.9 Equipment Cleaning and Decontamination ........................................................................ 33 
+B.10 Equipment Qualification ................................................................................................... 34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+............................................................................................................... 43 
+B.11 Isolator Decontamination .................................................................................................. 43 
+B.12 Process Validation of the Vector Product Process ............................................................ 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ............................................................................................... 48 
+B.13 Media Simulation for Vector Product Manufacturing Process at 
+ ........................... 49 
+B.14 Container Closure and Integrity Test of Vector Product .................................................. 52 
+B.15 Vector Product Stability .................................................................................................... 54 
+B.16 Vector Product Shipping Validation ................................................................................. 55 
+ 
+Regulatory History 
+ 
+The following IRs was requested upon initial review of the BLA on March 7, 2017 prior to filing: 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 5 of 56 
+ 
+ 
+ 
+For 
+ Facility 
+1. Please provide environmental monitoring performance qualification (EMPQ) 
+summary report including dynamic monitoring data and sampling locations for 
+the 
+ where manufacturing processes occur. Please provide EM 
+data summary (including BSCs) during the manufacturing of the process 
+validation lots for the vector substance. 
+2. Please provide the most recent requalification of the HVAC system for AHU Unit 
+ and clarify if ventilation is accomplished by single pass or recirculated air, and 
+justify your response. 
+3. Please confirm that 
+ area is not utilized for CTL019 vector substance 
+manufacturing and provide your segregation procedure or program and associated 
+study or risk assessment for cross-contamination prevention. 
+4. Please provide the qualification summary report for the following equipment to 
+demonstrate the functionality and suitability for their use during the vector 
+substance manufacturing process.  
+• Wave Mixer 
+• Orbital shaker 
+• Biological Safety Cabinet 
+• Centrifuge 
+• 
+ 
+ 
+ 
+5. Please provide summary report of disinfectant efficacy study for cleaning agents 
+and disinfectants used for routine equipment and production room cleaning at the 
+vector substance manufacturing facility. 
+6. Please provide validation summary report for the VHP treatment of the 
+manufacturing suite during product change over. 
+7. Please provide aseptic process validation summary report for the open 
+manipulations performed in biologic safety cabinets. 
+8. Please provide shipping validation /qualification summary report including 
+supporting data for the vector substance shipped from 
+ for 
+final processing and fill 
+For 
+ Facility 
+9. For the filling isolator, please provide summary report of the following: 
+• IQ, OQ and PQ (most recent requalification if applicable) including EM 
+monitoring frequency, criteria and sampling points.  
+• Smoke studies performed including acceptance criteria and results.  
+• Validation study for the cleaning and decontamination of the isolator. 
+• Sterilization of the isolator and consumables s such as tubing, 
+ 
+membrane, stoppers and glass vials used inside the isolator. 
+10. Please provide EM data summary during the manufacturing of the process 
+validation lots for the vector product and the most recent aseptic process 
+validation (media fill) lots.    
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 6 of 56 
+ 
+ 
+ 
+11. For equipment qualification, please provide summary report of IQ, OQ and PQ 
+for all GMP critical equipment used in the vector product manufacturing process 
+both in Building  and Building . 
+12. Please provide summary report of disinfectant efficacy study for cleaning agents 
+and disinfectants used for routine equipment and production room cleaning at the 
+vector product manufacturing facility. 
+13. Please provide a complete list of all other products handled in manufacturing 
+Building  and how they are segregated from the CTL019 vector product.  
+14. Please provide a summary report of the most recent Aseptic Process Validation 
+runs (media fills). 
+15. Please provide shipping validation/qualification summary report including 
+supporting data and worst case conditions for the vector product shipped from 
+ to Novartis NJ plant for manufacturing of CTL019 cell product. 
+ 
+Amendment 13 was received on April 7, 2017 as response to the IRs listed above. Review of the 
+response is provided in the respective sections below for each facility in a lined box. 
+ 
+ 
+Environmental Assessment 
+ 
+Novartis is requesting a categorical exclusion for an Environmental Assessment as required under 21 
+CFR 25.31(c) because CTL019 is an autologous T cell product genetically modified with a lentiviral 
+vector encoding an anti-CD19 chimeric antigen receptor (CAR). The final product is not viable in the 
+environment and is degraded into naturally occurring substances. The potential for release in the 
+environment of the lentiviral construct is considered negligible due to the low probability of free viral 
+particle carry over in the final drug product.  
+ 
+Novartis attests that the drug substance and drug product are manufactured according to current local 
+environmental legislations and no extraordinary circumstances exist, which may significantly affect the 
+quality of the human environment and would thus require the preparation of at least an Environmental 
+Assessment. 
+ 
+Based on the information submitted and the nature of the product, I am in agreement with the categorical 
+exclusion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4
+(b) (4
+(b) (4
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 7 of 56 
+ 
+ 
+ 
+Facility Table 
+ 
+ 
+Manufacturer Name/Location 
+Manufacturing/Testing Activities 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+Novartis Pharmaceuticals Corporation/US 
+220 East Hanover Avenue,  
+Morris Plains, NJ 07950 USA,  
+FEI # 3010353512 
+Cell Substance and Cell Product: 
+Manufacture of CTL019 DS and DP 
+Quality Control and Stability Testing of CTL019 DS and DP. 
+Quality Control of vector product (functional test of expressed 
+transgene and MOI assay) 
+Testing and release of vector as incoming material 
+ 
+ 
+The CTL019 (murine) HIV-1 vector (CTL019 vector) is manufactured for Novartis under contract by 
+ who produces the 
+ 
+ subsequently undergoes further aseptic processing and filling to yield final filled vector 
+product at 
+. 
+ 
+Novartis has quality oversight of 
+ via third party quality agreement established in 2014 and ensures 
+that 
+ oversight of the contract filling operations at 
+ are in agreement with Novartis 
+requirements. In addition, Quality control of vector product (functional test of expressed transgene and 
+MOI assay), testing and release of vector product as incoming material are performed by Novartis NJ 
+facility. Release of vector product batches for use in CTL019 manufacture at Novartis NJ facility and 
+quality oversight of 
+ is performed by Novartis Basel site in Switzerland.  
+ 
+There are no CTL019 manufacturing activities conducted at the Novartis Basel Switzerland site.  
+ 
+ 
+ 
+ 
+Product Background 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 8 of 56 
+ 
+ 
+ 
+CTL019 is an adoptive cancer immune-cellular therapy that involves the reprogramming of autologous 
+T cells with a transgene using a lentiviral vector. The transgene encodes a chimeric antigen receptor 
+(CAR) that allows these T cells to specifically target and destroy CD19 positive B cells in an antigen 
+dependent, but major histocompatibility complex (MHC) independent manner. 
+ 
+CTL019 is made up of autologous T cells derived from a patient leukapheresis and selectively expanded 
+in culture. The manufacturing process is continuous from receipt of leukapheresis to cryopreservation. 
+The final product is cryopreserved and stored in vapor phase liquid nitrogen at ≤ -1200C. The final 
+container is 
+ freezing bag (510K cleared under 
+ in two sizes: 
+ for 
+volumes 10-30 mL and 
+ for volumes 30-
+. The proposed shelf life is 9 months.         
+ 
+The composition of the final filled vector product is described in the table below: 
+ 
+ 
+ 
+ 
+          
+ 
+                                          
+ 
+                                                   
+ 
+                                                                
+ 
+                                                                
+ 
+                                                 
+ 
+                                                
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+Manufacturing Process Overview 
+ 
+Note: This review memo covers only the vector substance and vector product aspect of the 
+manufacturing process. 
+ 
+The CTL019 (murine) HIV-1 lentiviral vector (CTL019 vector) is manufactured under contract by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The firm stated that the vector substance and vector product manufacturing process utilizes single use 
+disposable item for all product contact equipment and in-process components. No equipment cleaning 
+validation is required at both the 
+. 
+ 
+The CTL019 cell product manufacturing process at the Novartis NJ facility is continuous without any 
+intermediates and drug substance holding steps. The overall duration of the manufacturing process takes 
+up to 
+ and consists of 
+ main phases: 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 9 of 56 
+ 
+ 
+ 
+ 
+• Leukapheresis material thawing and washing, T-cell enrichment, T cells 
+activation and first vector transduction 
+ 
+• Second vector transduction, cell expansion in static and 
+, cell 
+harvest, formulation and cryopreservation (
+ 
+ 
+The CTL019 cell manufacturing process is reviewed by DMPQ reviewer (R. Melhem) in a separate 
+review memo. 
+ 
+A. Vector Substance Facility-
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+15  Pages determined to be not relesable: (b)(4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+Novartis BLA 125646/0 DMPQ Review Memo Vector Production – Johnson. J 
+Page 25 of 56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+B. Vector Product Facility at 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+31  Pages determined to be not relesable: (b)(4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)
+
+(b) (4)

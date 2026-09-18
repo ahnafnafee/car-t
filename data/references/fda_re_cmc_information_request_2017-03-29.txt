@@ -1,0 +1,176 @@
+ 
+From: 
+Wonnacott, Keith 
+To: 
+Giordano, Erica 
+Cc: 
+Riggins, Cindy 
+Subject: 
+RE: BL 125646 OTAT CMC Information Request 
+Date: 
+Wednesday, March 29, 2017 11:24:21 AM 
+Attachments: 
+7008911 ANSW MC 840 8.pdf 
+Sensitivity: 
+Confidential 
+ 
+Erica, 
+Please find enclosed our answers to the questions you sent to us on Thursday, March 23, 2017.  This 
+answer document does not have any accompanying attachments.  If you have any questions, please 
+feel free to contact us.  We will follow up with a BLA submission through the gateway of this 
+document. 
+ 
+Keith Wonnacott, PhD 
+Director, Regulatory Affairs 
+Novartis 
+ 
+ 
+From: Giordano, Erica [mailto:Erica.Giordano@fda.hhs.gov] 
+Sent: Thursday, March 23, 2017 9:06 AM 
+To: Patel, Manisha 
+Cc: Riggins, Cindy; Ahmed, Narin 
+Subject: BL 125646 OTAT CMC Information Request 
+Sensitivity: Confidential 
+ 
+Good morning, 
+Please see the information request below and provide a response by March 28, 2017 by COB. 
+In Section 2 of 3.2.P.5.2 Analytical Procedures, you detail changes during development in 
+analytical methods for cell counting and viability, mycoplasma, and cell phenotyping.  We 
+note that no CTL019 batches have been analyzed using the proposed 
+ and flow 
+cytometry procedures and 2 batches from the pivotal study B2022 have been analyzed using 
+the 
+ 
+ 
+Is each of these methods being used currently for manufacture of CTL019? 
+ 
+ 
+Please provide the prospective comparability protocol and analysis for each assay or indicate 
+where it can be found in the BLA.  The comparability protocol should reflect ICH guidelines, 
+include clinical batches in the analysis, and provide a description of the predetermined limits 
+for acceptable variance and discussion of the statistical analysis. 
+ 
+For the flow cytometry-based assays, which are used for dose determination and as a safety 
+measure, please provide the following additional information: 
+ 
+ 
+i. 
+A table comparing the flow cytometry staining cocktails (including antibody- 
+fluorochrome combinations  and dilutions) used in each panel for the released B2202 batches 
+and the proposed panel for the licensed product 
+ 
+ii. 
+Comparison of 
+ strategy, including a table indicating 
+ hierarchy for each 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+cell type and representative 
+ plots of control and patient samples 
+ 
+ 
+iii. 
+Data, graph or table, assessing the effect of the staining panel on cellular population 
+designation.  Please include an assessment of the dose determination in patient samples 
+between the two methods. 
+ 
+In SOP AM6008A, but not in the Analytical Procedures, cellular staining may be 
+accomplished by the incubation in manually prepared staining cocktail or by use of a custom 
+. However, a comparison of cell phenotyping by these two methods was not 
+included in the assay validation report.  Additionally, no information on the stains included in 
+the 
+ was provided
+, test and control wells, etc).  Please 
+comment. 
+ 
+On page 9 of 3.2.P.5.2 analytical procedures, “the analysts 
+ 
+ using locked protocols as specified in Table 1-5.” However, in SOP AM6008A the 
+ strategy is according to locked protocols with the analyst instructed “to adjust 
+ 
+accordingly.” Please clarify. Does the 
+ strategy correspond to the order of 
+ 
+Does it place 
+ for each cell type? Under what circumstances does an analyst 
+adjust the 
+  How are the adjusted 
+ recorded?  Are the adjusted 
+ based on 
+controls and applied to all samples in a run or set on an individual sample basis? Are the 
+adjusted 
+ subject to supervisory review prior to lot release?  Have these adjustments 
+been associated with a CTL019 lot meeting lot release criteria that did not originally? 
+ 
+ 
+In Table 1-5 the of 3.2.P.5.2 analytical procedures, you detail the 
+ strategy for each 
+sample. 
+Are the
+ hierarchies switched for the 
+ controls? 
+ 
+We note that the viability 
+is absent in the 
+ control.  Please comment. 
+ 
+ 
+We note that the 
+ hierarchy for the sample differs from that for the positive control. 
+Please comment on how this affects placement of 
+ in relation to controls. 
+ 
+Please submit data confirming that the compensation setting  used in your 
+ 
+panel will not affect the percent positive cells obtained from both CAR +and CD19 + 
+channels. As your specification for %CAR+ and CD19+ cells requires detection below 10%, 
+we recommend inclusion of a FMO (fluorescence minus one) control for these two markers 
+to confirm compensation setting and population gating of each sample. Please comment. 
+ 
+Please confirm receipt. 
+ 
+Thank you, 
+ 
+Erica Giordano 
+Regulatory Project Manager 
+ 
+Center for Biologics Evaluation and Research 
+Office of Tissues and Advanced Therapies 
+U.S. Food and Drug Administration 
+Tel: 240-402-8298 
+Erica.Giordano@fda.hhs.gov 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+ 
+"THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE PARTY TO WHOM IT IS ADDRESSED AND MAY 
+CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL, AND PROTECTED FROM DISCLOSURE UNDER 
+LAW. If you are not the addressee, or a person authorized to deliver the document to the addressee, you are hereby 
+notified that any review, disclosure, dissemination,  copying, or other action based on the content of this communication is 
+not authorized. If you have received this document in error, please immediately notify the sender by e-mail  or phone." 

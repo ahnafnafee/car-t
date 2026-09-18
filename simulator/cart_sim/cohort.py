@@ -65,6 +65,8 @@ def run_cohort(
         "vcn",
         "viability",
         "dose_target",
+        "sterility",
+        "mycoplasma",
     }
     if set(lot_params) - allowed_lot_keys:
         raise ValueError(
@@ -97,7 +99,17 @@ def run_cohort(
         te = min(0.92, max(0.05, rng.gauss(0.55, 0.18)))
         net_yield = math.exp(rng.gauss(math.log(0.05), 0.4))
         target = 2e8 if indication == "DLBCL" else (1e6 * weight_kg if weight_kg <= 50 else 1e8)
-        inputs = {"te": te, "net_yield": net_yield, "dose_target": target}
+        # Illustrative scenario assumption: sterility and mycoplasma cultures
+        # came back negative, as they do for the overwhelming majority of
+        # released lots (Rossoff 2021 reports no microbial OOS reasons).
+        # Override with lot_params {"sterility": False} etc. for a positive.
+        inputs = {
+            "te": te,
+            "net_yield": net_yield,
+            "dose_target": target,
+            "sterility": True,
+            "mycoplasma": True,
+        }
         inputs.update(lot_params)
         man = manufacture(**inputs, indication=indication, weight_kg=weight_kg)
         # Latent fitness affects dynamics, not physical dose or manufacturing yield.

@@ -1,0 +1,3385 @@
+Individuals using assistive technology may not be able to fully 
+access the information contained in this file. For assistance, 
+please call 800-835-4709 or 240-402-8010, extension 1. CBER 
+Consumer Affairs Branch or send an e-mail to: ocod@fda.hhs.gov 
+and include 508 Accommodation and the title of the document in 
+the subject line of your e-mail. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIGHLIGHTS OF PRESCRIBING INFORMATION 
+These highlights do not include all the information needed to use 
+KYMRIAH safely and effectively. See full prescribing information for 
+KYMRIAH. 
+KYMRIAH® (tisagenlecleucel) suspension for intravenous infusion 
+Initial U.S. Approval: 2017 
+WARNING: CYTOKINE RELEASE SYNDROME, NEUROLOGICAL 
+TOXICITIES, and SECONDARY HEMATOLOGICAL 
+MALIGNANCIES 
+See full prescribing information for complete boxed warning. 
+• 
+Cytokine Release Syndrome (CRS), including fatal or life-threatening 
+reactions, occurred in patients receiving KYMRIAH. Do not 
+administer KYMRIAH to patients with active infection or 
+inflammatory disorders. Treat severe or life-threatening CRS with 
+tocilizumab or tocilizumab and corticosteroids. (2.3, 2.4, 5.1) 
+• 
+Neurological toxicities, which may be severe or life-threatening, can 
+occur following treatment with KYMRIAH, including concurrently 
+with CRS. Monitor for neurological events after treatment with 
+KYMRIAH. Provide supportive care as needed. (5.2) 
+• 
+T cell malignancies have occurred following treatment of hematologic 
+malignancies with BCMA- and CD19- directed genetically modified 
+autologous T cell immunotherapies, including KYMRIAH. (5.8) 
+-----------------------------RECENT MAJOR CHANGES------------------------­
+Boxed Warning 
+6/2025 
+Dosage and Administration (2.3) 
+6/2025 
+Warnings and Precautions (5.1, 5.2) 
+6/2025 
+Warnings and Precautions, KYMRIAH REMS (5.3) 
+Removed 6/2025 
+Warnings and Precautions, Effects on Ability to Drive and Use Machines 
+(5.10) 
+Removed 6/2025 
+----------------------------INDICATIONS AND USAGE-------------------------­
+KYMRIAH is a CD19-directed genetically modified autologous T-cell 
+immunotherapy indicated for the treatment of: 
+• 
+Patients up to 25 years of age with B-cell precursor acute lymphoblastic 
+leukemia (ALL) that is refractory or in second or later relapse. (1.1) 
+• 
+Adult patients with relapsed or refractory (r/r) large B-cell lymphoma 
+after two or more lines of systemic therapy, including diffuse large B-cell 
+lymphoma (DLBCL) not otherwise specified, high grade B-cell 
+lymphoma and DLBCL arising from follicular lymphoma. 
+Limitations of Use: KYMRIAH is not indicated for treatment of patients 
+with primary central nervous system lymphoma. (1.2) 
+• 
+Adult patients with relapsed or refractory follicular lymphoma (FL) after 
+two or more lines of systemic therapy. This indication is approved under 
+accelerated approval based on response rate and duration of response. 
+Continued approval for this indication may be contingent upon 
+verification and description of clinical benefit in confirmatory trial(s). 
+(1.3) 
+----------------------DOSAGE AND ADMINISTRATION----------------------­
+For autologous use only. For intravenous use only. 
+• 
+Administer a lymphodepleting regimen if needed before infusion of 
+KYMRIAH. (2.3) 
+• 
+Do NOT use a leukodepleting filter. (2.3) 
+• 
+Verify the patient’s identity prior to infusion. (2.3) 
+• 
+Premedicate with acetaminophen and an H1-antihistamine. (2.3) 
+• 
+Confirm availability of tocilizumab prior to infusion. (2.3, 5.1) 
+• 
+Dosing of KYMRIAH is based on the number of chimeric antigen 
+receptor (CAR)-positive viable T cells. 
+• 
+Pediatric and Young Adult B-cell ALL (up to 25 years of age) 
+• 
+For patients 50 kg or less, administer 0.2 to 5.0 x 106 CAR-positive 
+viable T cells per kg body weight intravenously. (2.1) 
+• For patients above 50 kg, administer 0.1 to 2.5 x 108 total CAR-
+positive viable T cells (non-weight based) intravenously. (2.1) 
+• 
+Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma and 
+Follicular Lymphoma 
+• Administer 0.6 to 6.0 x 108 CAR-positive viable T cells 
+intravenously. (2.2) 
+---------------------DOSAGE FORMS AND STRENGTHS--------------------­
+• 
+Pediatric and Young Adult B-cell ALL (up to 25 years of age) 
+A single dose of KYMRIAH contains 0.2 to 5.0 x 106 CAR-positive viable T 
+cells per kg of body weight for patients 50 kg or less, or 0.1 to 2.5 x 108 CAR-
+positive viable T cells for patients more than 50 kg, suspended in one to three 
+patient-specific infusion bag(s) for intravenous infusion. (3) 
+• 
+Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma and 
+Follicular Lymphoma 
+A single dose of KYMRIAH contains 0.6 to 6.0 x 108 CAR-positive viable T 
+cells suspended in one to three patient-specific infusion bag(s) for intravenous 
+infusion. (3) 
+-------------------------------CONTRAINDICATIONS----------------------------­
+None. (4) 
+------------------------WARNINGS AND PRECAUTIONS----------------------­
+• Hypersensitivity Reactions: Monitor for hypersensitivity reactions during 
+infusion. (5.4) 
+• Serious Infections: Monitor patients for signs and symptoms of infection; 
+treat appropriately. (5.5) 
+• Prolonged Cytopenias: Patients may exhibit ≥ Grade 3 cytopenias for 
+several weeks following KYMRIAH infusion. Prolonged neutropenia has 
+been associated with increased risk of infection. (5.6) 
+• Hypogammaglobulinemia: Monitor and provide replacement therapy until 
+resolution. Assess immunoglobulin levels in newborns of mothers treated 
+with KYMRIAH. (5.7) 
+• Secondary Malignancies: T cell malignancies have occurred following 
+treatment of hematologic malignancies with BCMA- and CD19-directed 
+genetically modified autologous T cell immunotherapies, including 
+KYMRIAH. In the event that a secondary malignancy occurs after 
+treatment with KYMRIAH, contact Novartis Pharmaceuticals Corporation 
+at 1-844-4KYMRIAH. (5.8) 
+------------------------------ADVERSE REACTIONS-----------------------------­
+Pediatric and Young Adult B-cell ALL (up to 25 years of age): The most 
+common adverse reactions (incidence greater than 20%) are CRS, infections-
+pathogen unspecified, hypogammaglobulinemia, fever, decreased appetite, 
+viral infectious disorders, headache, febrile neutropenia, hemorrhage, 
+musculoskeletal pain, vomiting, encephalopathy, diarrhea, hypotension, 
+cough, nausea, bacterial infectious disorders, pain, hypoxia, tachycardia, 
+edema, fatigue, and acute kidney injury. (6.1) 
+Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma: The most 
+common adverse reactions (incidence greater than 20%) are CRS, infections-
+pathogen unspecified, fever, diarrhea, nausea, fatigue, hypotension, edema, 
+hemorrhage, dyspnea, and headache. (6.1) 
+Adult Relapsed or Refractory Follicular Lymphoma: The most common 
+adverse reactions (incidence greater than 20%) are CRS, infections-pathogens 
+unspecified, fatigue, musculoskeletal pain, headache, and diarrhea. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Novartis 
+Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA­
+1088 or www.fda.gov/medwatch. 
+See 17 for PATIENT COUNSELING INFORMATION and Medication 
+Guide. 
+Revised: 6/2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FULL PRESCRIBING INFORMATION: CONTENTS* 
+6 
+ADVERSE REACTIONS 
+WARNING: CYTOKINE RELEASE SYNDROME, NEUROLOGICAL 
+TOXICITIES, and SECONDARY HEMATOLOGICAL 
+MALIGNANCIES 
+1 
+INDICATIONS AND USAGE 
+1.1 
+Pediatric and Young Adult Relapsed or Refractory B-cell Acute 
+Lymphoblastic Leukemia 
+1.2 
+Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma 
+1.3 
+Adult Relapsed or Refractory Follicular Lymphoma 
+2 
+DOSAGE AND ADMINISTRATION 
+2.1 
+Dosage in Pediatric and Young Adult Relapsed or Refractory B-
+cell Acute Lymphoblastic Leukemia 
+2.2 
+Dosage in Adult Relapsed or Refractory Diffuse Large B-cell 
+Lymphoma and Follicular Lymphoma 
+2.3 
+Administration 
+2.4 
+Management of Severe Adverse Reactions 
+3 
+DOSAGE FORMS AND STRENGTHS 
+4 
+CONTRAINDICATIONS 
+5 
+WARNINGS AND PRECAUTIONS 
+5.1 
+Cytokine Release Syndrome 
+5.2 
+Neurological Toxicities 
+5.3 
+Hemophagocytic Lymphohistiocytosis/Macrophage Activation 
+Syndrome 
+5.4 
+Hypersensitivity Reactions 
+5.5 
+Serious Infections 
+5.6 
+Prolonged Cytopenias 
+5.7 
+Hypogammaglobulinemia 
+5.8 
+Secondary Malignancies 
+6.1 
+Clinical Trials Experience 
+6.2 
+Postmarketing Experience 
+6.3 
+Immunogenicity 
+7 
+DRUG INTERACTIONS 
+8 
+USE IN SPECIFIC POPULATIONS 
+8.1 
+Pregnancy 
+8.2 
+Lactation 
+8.3 
+Females and Males of Reproductive Potential 
+8.4 
+Pediatric Use 
+8.5 
+Geriatric Use 
+11 
+DESCRIPTION 
+12 
+CLINICAL PHARMACOLOGY 
+12.1 
+Mechanism of Action 
+12.2 
+Pharmacodynamics 
+12.3 
+Pharmacokinetics/Cellular Kinetics 
+13 
+NONCLINICAL TOXICOLOGY 
+13.1 
+Carcinogenesis, Mutagenesis, Impairment of Fertility 
+14 
+CLINICAL STUDIES 
+14.1 
+Relapsed or Refractory B-cell Acute Lymphoblastic Leukemia 
+14.2 
+Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma 
+14.3 
+Adult Relapsed or Refractory Follicular Lymphoma 
+15 
+REFERENCES 
+16 
+HOW SUPPLIED/STORAGE AND HANDLING 
+17 
+PATIENT COUNSELING INFORMATION 
+*Sections or subsections omitted from the full prescribing information are 
+not listed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FULL PRESCRIBING INFORMATION 
+WARNING: CYTOKINE RELEASE SYNDROME, NEUROLOGICAL TOXICITIES, and SECONDARY 
+HEMATOLOGICAL MALIGNANCIES 
+• 
+Cytokine Release Syndrome (CRS), including fatal or life-threatening reactions, occurred in patients 
+receiving KYMRIAH. Do not administer KYMRIAH to patients with active infection or inflammatory 
+disorders. Treat severe or life-threatening CRS with tocilizumab or tocilizumab and corticosteroids [see 
+Dosage and Administration (2.3, 2.4), Warnings and Precautions (5.1)]. 
+• 
+Neurological toxicities, which may be severe or life-threatening, can occur following treatment with 
+KYMRIAH, including concurrently with CRS. Monitor for neurological events after treatment with 
+KYMRIAH. Provide supportive care as needed [see Warnings and Precautions (5.2)]. 
+• 
+T cell malignancies have occurred following treatment of hematologic malignancies with BCMA- and 
+CD19- directed genetically modified autologous T cell immunotherapies, including KYMRIAH [see 
+Warnings and Precautions (5.8)]. 
+1 
+INDICATIONS AND USAGE 
+KYMRIAH is a CD19-directed genetically modified autologous T cell immunotherapy indicated for the treatment of: 
+1.1 
+Pediatric and Young Adult Relapsed or Refractory B-cell Acute Lymphoblastic Leukemia 
+Patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or 
+later relapse. 
+1.2 
+Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma 
+Adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy, 
+including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, high grade B-cell lymphoma and DLBCL 
+arising from follicular lymphoma. 
+Limitation of Use: KYMRIAH is not indicated for treatment of patients with primary central nervous system lymphoma. 
+1.3 
+Adult Relapsed or Refractory Follicular Lymphoma 
+Adult patients with relapsed or refractory (r/r) follicular lymphoma (FL) after two or more lines of systemic therapy. 
+This indication is approved under accelerated approval based on response rate and duration of response [see Clinical 
+Studies (14.3)]. Continued approval for this indication may be contingent upon verification and description of clinical 
+benefit in confirmatory trial(s). 
+2 
+DOSAGE AND ADMINISTRATION 
+For autologous use only. For intravenous use only. 
+2.1 
+Dosage in Pediatric and Young Adult Relapsed or Refractory B-cell Acute Lymphoblastic Leukemia 
+KYMRIAH is provided as a single-dose for infusion containing a suspension of chimeric antigen receptor (CAR)-positive 
+viable T cells. 
+Based on the patient weight reported at the time of leukapheresis: 
+− 
+Patients 50 kg or less: administer 0.2 to 5.0 x 106 CAR-positive viable T cells per kg body weight. 
+− 
+Patients above 50 kg: administer 0.1 to 2.5 x 108 CAR-positive viable T cells. 
+2.2 
+Dosage in Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma and Follicular Lymphoma 
+KYMRIAH is provided as a single-dose for infusion containing a suspension of chimeric antigen receptor (CAR)-positive 
+viable T cells. 
+− 
+For adult patients: administer 0.6 to 6.0 x 108 CAR-positive viable T cells. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3 
+Administration 
+Preparing Patient for KYMRIAH Administration with Lymphodepletion 
+− 
+Confirm availability of KYMRIAH prior to starting the lymphodepleting regimen. 
+Pediatric and Young Adult Relapsed or Refractory B-cell Acute Lymphoblastic Leukemia 
+• 
+Lymphodepleting chemotherapy: Fludarabine (30 mg/m2 intravenously daily for 4 days) and 
+cyclophosphamide (500 mg/m2 intravenously daily for 2 days starting with the first dose of fludarabine). 
+• 
+Infuse KYMRIAH 2 to 14 days after completion of the lymphodepleting chemotherapy. 
+Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma and r/r Follicular Lymphoma 
+• 
+Lymphodepleting chemotherapy: Fludarabine (25 mg/m2 intravenously daily for 3 days) and 
+cyclophosphamide (250 mg/m2 intravenously daily for 3 days starting with the first dose of fludarabine). 
+• 
+Alternate lymphodepleting chemotherapy: bendamustine 90 mg/m2 intravenously daily for 2 days if a patient 
+experienced a previous Grade 4 hemorrhagic cystitis with cyclophosphamide or demonstrates resistance to a 
+previous cyclophosphamide containing regimen. 
+• 
+Infuse KYMRIAH 2 to 11 days (r/r DLBCL) or 2 to 6 days (r/r FL) after completion of the lymphodepleting 
+chemotherapy. 
+• 
+Lymphodepleting chemotherapy may be omitted if a patient is experiencing significant cytopenia, e.g., white 
+blood cell (WBC) count is less than 1 x 109/L within 1 week prior to KYMRIAH infusion. 
+Preparation of KYMRIAH for Infusion and Administration 
+Delay the infusion of KYMRIAH if a patient has unresolved serious adverse reactions (including pulmonary reactions, 
+cardiac reactions, or hypotension) from preceding chemotherapies, active uncontrolled infection, active graft versus host 
+disease (GVHD), or worsening of leukemia burden following lymphodepleting chemotherapy [see Warnings and 
+Precautions (5.1)]. 
+A KYMRIAH dose may be contained in one to three cryopreserved patient specific infusion bag(s). Verify the number of 
+bags received for the dose of KYMRIAH with the Certificate of Conformance (CoC) and Certificate of Analysis (CoA). 
+Coordinate the timing of thaw of KYMRIAH and infusion in the following manner. Confirm the infusion time in advance, 
+and adjust the start time for thaw so that KYMRIAH is available for infusion when the recipient is ready. If more than one 
+bag has been received for the treatment dose, thaw 1 bag at a time. Wait to thaw/infuse the next bag until it is determined 
+that the previous bag is safely administered. 
+Preparation of KYMRIAH for Infusion 
+1. Confirm tocilizumab and emergency equipment are available prior to infusion and during the recovery period. 
+2. Premedicate patient with acetaminophen and diphenhydramine or another H1-antihistamine approximately 30 to 
+60 minutes prior to KYMRIAH infusion. Avoid prophylactic use of systemic corticosteroids, as it may interfere 
+with the activity of KYMRIAH. 
+3. Confirm patient identity: Prior to KYMRIAH preparation, match the patient's identity with the patient identifiers 
+on each KYMRIAH infusion bag(s). KYMRIAH is for autologous use only. Employ universal precautions to 
+avoid potential transmission of infectious diseases when handling the product. 
+Note: The patient identifier number may be preceded by the letters DIN or Aph ID. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. KYMRIAH Infusion Bag 
+4. Inspect the infusion bag(s) for any breaks or cracks prior to thawing. If a bag is compromised, do not infuse the 
+contents. Call Novartis at 1-844-4KYMRIAH. 
+5. Place the infusion bag inside a second, sterile bag in case of a leak and to protect ports from contamination. 
+6. Thaw each infusion bag one at a time at 37°C using either a water bath or dry thaw method until there is no 
+visible ice in the infusion bag. Remove bag from thawing device immediately; do not store product bag at 37°C. 
+Once the infusion bag has been thawed and is at room temperature (20°C to 25°C), it should be infused within 30 
+minutes. Do not wash, spin down, and/or resuspend KYMRIAH in new media prior to infusion. 
+7. Inspect the contents of the thawed infusion bag for any visible cell clumps. If visible cell clumps remain, gently 
+mix the contents of the bag. Small clumps of cellular material should disperse with gentle manual mixing. Do not 
+infuse KYMRIAH if clumps are not dispersed, the infusion bag is damaged or leaking, or otherwise appears to be 
+compromised. Call Novartis at 1-844-4KYMRIAH. 
+Administration 
+8. Confirm the patient’s identity with the patient identifiers on the infusion bag. 
+9. Administer KYMRIAH as an intravenous infusion at 10 mL to 20 mL per minute, adjusted as appropriate for 
+smaller children and smaller volumes. The volume in the infusion bag ranges from 10 mL to 50 mL. Do NOT use 
+a leukocyte-depleting filter. If more than one bag is being infused for the treatment dose, wait to thaw/infuse the 
+next bag until it is determined that the previous bag is safely administered. 
+-
+Prime the tubing prior to infusion with sodium chloride 9 mg/mL (0.9%) solution for injection. 
+-
+Infuse all contents of the infusion bag. 
+-
+Rinse the infusion bag with 10 mL to 30 mL sodium chloride 9 mg/mL (0.9%) solution for injection while 
+maintaining a closed tubing system to assure as many cells as possible are infused into the patient. 
+-
+Cells from all the bag(s) must be infused to complete a single dose. 
+KYMRIAH contains human cells genetically modified with a lentivirus. Follow local biosafety guidelines applicable for 
+handling and disposal of such products. 
+Monitoring 
+-
+Monitor patients daily during the first week following KYMRIAH infusion for signs and symptoms of CRS 
+and neurologic toxicities [see Warnings and Precautions (5.1, 5.2)]. 
+-
+Instruct patients to remain within proximity of a healthcare facility for at least 2 weeks following infusion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+Advise patients to avoid driving for at least 2 weeks following infusion. 
+2.4 
+Management of Severe Adverse Reactions 
+Cytokine Release Syndrome 
+Identify CRS based on clinical presentation [see Warnings and Precautions (5.1)]. Evaluate for and treat other causes of 
+fever, hypoxia, and hypotension. If CRS is suspected, manage according to the recommendations in Table 1 (Lee et al., 
+2014). Alternative CRS management strategies may be implemented based on appropriate institutional or academic 
+guidelines. 
+Table 1. CRS Grading and Management Guidance 
+CRS grade a 
+Symptomatic treatment 
+Tocilizumab 
+Corticosteroids 
+Grade 1 
+Exclude other causes (e.g., 
+In patients with persistent (> 3 
+Not applicable 
+Mild symptoms requiring 
+infection) and treat specific 
+days) or refractory fever, 
+symptomatic treatment only 
+symptoms (e.g., with 
+consider managing as Grade 2 
+(e.g., low grade fever, 
+antipyretics, antiemetics, 
+CRSb . 
+fatigue, anorexia, etc.) 
+analgesics, etc.) 
+Grade 2 
+Antipyretics, oxygen, 
+Administer tocilizumabc 
+If no improvement within 24 
+Symptoms require and 
+intravenous fluids and/or 
+intravenously over 1 hour: 
+hours of tocilizumab, administer 
+respond to moderate 
+low dose vasopressors as 
+− 8 mg/kg (max. 800 mg) if 
+a daily dose of 2 mg/kg/day 
+intervention 
+needed. 
+body weight ≥ 30 kg 
+methylprednisolone 
+Oxygen requirement < 40% 
+or 
+Hypotension responsive to 
+fluids or low dose of one 
+vasopressor or 
+− 12 mg/kg if body weight 
+< 30 kg 
+If no improvement after first 
+dose, repeat every 8 hours (limit 
+to a maximum of 3 dosages in 
+intravenously (or equivalent) 
+until vasopressor and oxygen no 
+longer needed, then taper. 
+If not improving, manage as 
+appropriate grade below. 
+Grade 2 organ toxicity 
+24-hour period; maximum total 
+of 4 doses). 
+Grade 3 
+Symptoms require and 
+respond to aggressive 
+intervention 
+Oxygen requirement ≥ 40% 
+or 
+Hypotension requiring high 
+dose or multiple 
+vasopressors or 
+Grade 3 organ toxicity or 
+Grade 4 transaminitis 
+High-flow oxygen 
+Intravenous fluids, and 
+high-dose or multiple 
+vasopressors 
+Treat other organ toxicities 
+as per local guidelines. 
+Per Grade 2 
+If not improving, consider 
+alternative therapyd . 
+Per Grade 2 
+If not improving, manage as 
+Grade 4. 
+Grade 4 
+Mechanical ventilation 
+Per Grade 2 
+Administer methylprednisolone 
+Life-threatening symptoms 
+Intravenous fluids and high-
+If not improving, consider 
+1,000 mg intravenously one to 
+Requirement for ventilator 
+dose vasopressor(s) 
+alternative therapyd . 
+two times per day for 3 days. 
+support or 
+Treat other organ toxicities 
+If not improving, consider 
+Grade 4 organ toxicity 
+(excluding transaminitis) 
+as per local guidelines. 
+methylprednisolone 1,000 mg 
+intravenously two to three times 
+a day or alternate therapyd . 
+Continue corticosteroids until 
+improvement to Grade 1, and 
+then taper as clinically 
+appropriate. 
+aLee et al., 2014. 
+bSantomasso et al., 2021. 
+cRefer to tocilizumab Prescribing Information for details. 
+dAlternative therapy includes anti-cytokine and anti-T cell therapies as per institutional policy and published guidelines such as (but not limited to) 
+anakinra, siltuximab, ruxolitinib, cyclophosphamide, IVIG, and ATG. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neurologic Toxicities 
+Patients should be monitored for neurologic toxicities, including ICANS, following KYMRIAH infusion, particularly 
+during and after resolution of CRS. Identify neurologic toxicities based on clinical presentation. Evaluate for and treat 
+other causes of neurological symptoms. Consider non-sedating seizure prophylaxis (e.g., levetiracetam) for patients at 
+higher risk of seizure, such as those with seizure history, CNS disease, concerning EEG findings, or neoplastic brain 
+lesions. If neurologic toxicity is suspected, manage according to the recommendations in Table 2. Alternative neurologic 
+toxicities management strategies may be implemented based on appropriate institutional, academic, or consensus 
+guidelines. 
+Table 2. Guidance for Grading and Management of ICANS 
+ICANS gradea 
+No concurrent CRS 
+Concurrent CRS 
+Grade 1 
+ICE scoreb: 7-9 with no depressed level of 
+consciousness 
+Offer supportive care with intravenous hydration 
+and aspiration precautions. 
+Administer tocilizumab at any grade CRS, as 
+per dosage recommendation in Table 1. 
+Caution with repeated tocilizumab doses in 
+patients with ICANS. Consider adding 
+corticosteroids to tocilizumab past the first 
+dosec. 
+Grade 2 
+ICE scoreb: 3-6 
+and/or 
+Mild somnolence awaking to voice 
+Supportive care as above. 
+Consider dexamethasone 10 mg intravenously 
+every 6-12 hours or methylprednisolone 
+equivalent (1 mg/kg intravenously every 12 
+hours) until the event is Grade 1 or less. If 
+improving, taper corticosteroids. 
+Administer tocilizumab at any grade CRS, as 
+per dosage recommendation in Table 1. If 
+refractory to tocilizumab past the first dose, 
+administer dexamethasone 10 mg 
+intravenously every 6-12 hours or 
+methylprednisolone equivalent (1 mg/kg 
+intravenously every 12 hours) until the event 
+is Grade 1 or less, then taper corticosteroids. 
+Grade 3 
+ICE scoreb: 0-2* 
+and/or 
+Depressed level of consciousness awakening 
+only to tactile stimulus 
+and/or 
+Any clinical seizure focal or generalized that 
+resolves rapidly or nonconvulsive seizures 
+on EEG that resolve with intervention 
+and/or 
+Focal or local edema on neuroimaging 
+Administer dexamethasone 10 mg intravenously 
+every 6-12 hours or methylprednisolone 
+equivalent (1 mg/kg intravenously every 12 
+hours). 
+Administer tocilizumab at any grade CRS, as 
+per dosage recommendation in Table 1. 
+Administer dexamethasone 10 mg 
+intravenously every 6-12 hours or 
+methylprednisolone equivalent (1 mg/kg 
+intravenously every 12 hours). Continue 
+corticosteroids until the event is Grade 1 or 
+less, then taper corticosteroids. If not 
+improving, manage as Grade 4. 
+Grade 4 
+ICE scoreb: 0* (patient is unarousable and 
+unable to perform ICE) 
+and/or 
+Stupor or coma 
+and/or 
+Life-threatening prolonged seizure 
+(> 5 minutes) or repetitive clinical or 
+electrical seizures without return to baseline 
+in between 
+and/or 
+Diffuse cerebral edema on neuroimaging, 
+decerebrate or decorticate posturing or 
+papilledema, cranial nerve VI palsy, or 
+Cushing’s triad
+Consider mechanical ventilation for airway 
+protection. 
+Administer high-dose methylprednisolone 
+intravenously 1,000 mg one to two times per day 
+for 3 days. 
+If not improving, consider 1,000 mg of 
+methylprednisolone two to three times per day 
+or alternate therapyd. 
+Continue corticosteroids until improvement to 
+Grade 1, and then taper as clinically appropriate. 
+Treat seizures, status epilepticus, and cerebral 
+edema as per institutional guidelines. 
+Administer tocilizumab at any grade CRS, as 
+per dosage recommendation in Table 1. 
+Administer methylprednisolone 1,000 mg 
+intravenously one to two times per day for 3 
+days. 
+If not improving, consider methylprednisolone 
+1,000 mg intravenously two to three times per 
+day or alternate therapyd. 
+Continue corticosteroids until improvement to 
+Grade 1, and then taper as clinically 
+appropriate. 
+Treat seizures, status epilepticus, and cerebral 
+edema as per institutional guidelines. 
+aASTCT criteria for grading NT (Lee et al., 2019); NCI CTCAE criteria for grading NT used in clinical trials. 
+bICE Assessment Tool: (1) Orientation: orientation to year, month, city, and hospital: 4 points. (2) Naming: ability to name three objects (e.g., point to clock, pen, 
+and button): 3 points. (3) Following commands: ability to follow simple commands (e.g., show me 2 fingers or close your eyes and stick out your tongue): 1 point. 
+(4) Writing: ability to write a standard sentence (e.g., Our national bird is the bald eagle): 1 point. (5) Attention: ability to count backward from 100 by 10: 1 point. 
+cSantomasso et. al., 2021. 
+dAlternate therapy may include anakinra, siltuximab, ruxolitinib, cyclophosphamide, antithymocyte globulin, or intrathecal hydrocortisone (50 mg) plus 
+methotrexate (12 mg). 
+*A patient with an ICE score of 0 may be classified as Grade 3 ICANS if awake with global aphasia, but a patient with an ICE score of 0 may be classified as Grade 
+4 ICANS if unarousable. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+DOSAGE FORMS AND STRENGTHS 
+Pediatric and Young Adult r/r B-cell ALL (up to 25 years of age): A single dose of KYMRIAH contains 0.2 to 5.0 x 
+106 CAR-positive viable T cells per kg of body weight for patients 50 kg and below or 0.1 to 2.5 x 108 CAR-positive 
+viable T cells for patients above 50 kg, suspended in one to three patient-specific infusion bag(s) [see How 
+Supplied/Storage and Handling (16)]. 
+Adult r/r DLBCL and r/r FL: A single dose of KYMRIAH contains 0.6 to 6.0 x 108 CAR-positive viable T cells, which 
+may be suspended in one to three patient-specific infusion bag(s) [see How Supplied/Storage and Handling (16)]. 
+See the CoA for actual cell count. The volume in the infusion bag ranges from 10 mL to 50 mL. 
+4 
+CONTRAINDICATIONS 
+None. 
+5 
+WARNINGS AND PRECAUTIONS 
+5.1 
+Cytokine Release Syndrome 
+CRS, including fatal or life-threatening reactions, occurred following treatment with KYMRIAH. CRS occurred in 61 
+(77%) of the 79 pediatric and young adult patients with r/r ALL receiving KYMRIAH, including ≥ Grade 3 CRS (Penn 
+grading system1) occurring in 48% of patients. The median times to onset and resolution of CRS were 3 days (range, 1 to 
+22; 1 patient with onset after Day 10) and 8 days (range, 1 to 36), respectively. Of the 61 patients with CRS, 31 (51%) 
+received tocilizumab. Ten (16%) patients received two doses of tocilizumab and 3 (5%) patients received three doses of 
+tocilizumab; 17 (28%) patients received addition of corticosteroids (e.g., methylprednisolone). 
+CRS occurred in 85 (74%) of the 115 adult patients with r/r DLBCL receiving KYMRIAH, including ≥ Grade 3 CRS 
+(Penn grading system1) occurring in 23% of patients. The median times to onset and resolution of CRS were 3 days 
+(range, 1 to 51; 1 patient with onset after Day 10) and 7 days (range, 2 to 30), respectively. Of the 85 patients with CRS, 
+19 (22%) received systemic tocilizumab or corticosteroids. Seven (8%) patients received a single dose of tocilizumab and 
+11 (13%) patients received two doses of tocilizumab; 11 (13%) patients received corticosteroids in addition to 
+tocilizumab. One patient received corticosteroids for CRS without concomitant tocilizumab, and two patients received 
+corticosteroids for persistent neurotoxicity after resolution of CRS. 
+CRS occurred in 51 (53%) of the 97 adult patients with r/r FL receiving KYMRIAH; all were Grade 1 or 2 CRS (Lee 
+grading system2). The median times to onset and resolution of CRS were 4 days (range, 1 to 14) and 4 days (range, 1 to 
+13), respectively. Of the 51 patients with CRS, 15 (29%) received systemic anticytokine treatment with tocilizumab. 
+Three (6%) patients required 3 dosages of tocilizumab, 4 (8%) patients required 2 dosages and 8 (16%) patients required 
+single dose of tocilizumab. Two (4%) patients received corticosteroids in addition to tocilizumab. 
+Five deaths occurred within 30 days of KYMRIAH infusion. One patient with r/r ALL died with CRS and progressive 
+leukemia, and one patient had resolving CRS with abdominal compartment syndrome, coagulopathy, and renal failure 
+when an intracranial hemorrhage occurred. Of the 3 r/r DLBCL patients who died within 30 days of infusion, all had CRS 
+in the setting of stable to progressive underlying disease, one of whom developed bowel necrosis. 
+Among patients with CRS, key manifestations include fever (93% in r/r ALL; 85% in r/r DLBCL; 92% in r/r FL), 
+hypotension (69% in r/r ALL; 45% in r/r DLBCL; 40% in r/r FL), hypoxia (57% in r/r ALL; 35% in r/r DLBCL; 19% in 
+r/r FL), and tachycardia (26% in r/r ALL; 13% in r/r DLBCL; 2% in r/r FL). CRS may be associated with hepatic, renal, 
+and cardiac dysfunction, and coagulopathy. 
+Delay the infusion of KYMRIAH after lymphodepleting chemotherapy if the patient has unresolved serious adverse 
+reactions from preceding chemotherapies (including pulmonary toxicity, cardiac toxicity, or hypotension), active 
+uncontrolled infection, active graft versus host disease (GVHD), or worsening of leukemia burden [see Dosage and 
+Administration (2.3)]. 
+Risk factors for severe CRS in the pediatric and young adult r/r B-cell ALL population are high pre-infusion tumor burden 
+(greater than 50% blasts in bone marrow), uncontrolled or accelerating tumor burden following lymphodepleting 
+chemotherapy, active infections, and/or inflammatory processes. 
+Confirm that a minimum of two doses of tocilizumab are available on site prior to infusion of KYMRIAH. 
+Monitor patients daily during the first week following KYMRIAH infusion for signs and symptoms of CRS. Monitor 
+patients for signs or symptoms of CRS for at least 2 weeks after treatment with KYMRIAH. At the first sign of CRS, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+immediately evaluate patient for hospitalization and institute treatment with supportive care, tocilizumab and/or 
+corticosteroids as indicated [see Dosage and Administration (2.3, 2.4)]. 
+Counsel patients to seek immediate medical attention should signs or symptoms of CRS occur at any time [see Patient 
+Counseling Information (17)]. 
+5.2 
+Neurological Toxicities 
+Neurological toxicities, including severe or life-threatening reactions, occurred following treatment with KYMRIAH. 
+Neurologic toxicities occurred in 56 (71%) of the 79 patients with r/r ALL, including ≥ Grade 3 in 22%. The median times 
+to the first event and duration were 6 days from infusion (range, 1 to 301) and 7 days, respectively. 
+Neurologic toxicities occurred in 69 (60%) of the 115 patients with r/r DLBCL, including ≥ Grade 3 in 19%. The median 
+times to the first event and duration were 5 days (range, 1 to 368) and 17 days, respectively. 
+Neurologic toxicities occurred in 42 (43%) of the 97 patients with r/r FL, including ≥ Grade 3 in 6%. The median times to 
+the first event and duration were 8 days (range, 1 to 345) and 5 days, respectively. 
+Among patients who had a neurological toxicity, 84% occurred within 8 weeks following KYMRIAH infusion. 
+Resolution occurred within 3 weeks in 71% of patients with r/r ALL, 50% of patients with r/r DLBCL, and 74% of 
+patients with r/r FL. Encephalopathy lasting up to 70 days was noted. 
+The onset of neurological toxicity can be concurrent with CRS, following resolution of CRS or in the absence of CRS. 
+The most common neurological toxicities observed with KYMRIAH include headache (35% in r/r ALL; 21% in r/r 
+DLBCL; 25% in r/r FL), encephalopathy (30% in r/r ALL; 16% in r/r DLBCL; 3% in r/r FL), delirium (19% in r/r ALL; 
+5% in r/r DLBCL; 1% in r/r FL), anxiety (16% in r/r ALL; 10% in r/r DLBCL; 2% in r/r FL), sleep disorders (11% in r/r 
+ALL; 10% in r/r DLBCL; 6% in r/r FL), dizziness (5% in r/r ALL; 12% in r/r DLBCL; 8% in r/r FL), tremor (8% in r/r 
+ALL; 6% in r/r DLBCL; 3% in r/r FL), and peripheral neuropathy (4% in r/r ALL; 12% in r/r DLBCL; 7% in r/r FL). 
+Other manifestations included seizures and aphasia. 
+Monitor patients daily during the first week following KYMRIAH infusion for signs and symptoms of neurologic 
+toxicities. Rule out other causes of neurological symptoms. Monitor patients for signs or symptoms of neurologic 
+toxicities for at least 2 weeks after infusion and treat promptly. Neurologic toxicity should be managed with supportive 
+care and/or corticosteroids as needed [see Dosage and Administration (2.3)]. Advise patients to avoid driving for at least 
+2 weeks following infusion. 
+Counsel patients to seek immediate medical attention should signs or symptoms of neurologic toxicity occur at any time 
+[see Patient Counseling Information (17)]. 
+5.3 
+Hemophagocytic Lymphohistiocytosis/Macrophage Activation Syndrome 
+Hemophagocytic Lymphohistiocytosis (HLH)/Macrophage Activation Syndrome (MAS), which can be life-threatening or 
+fatal, has occurred following treatment with KYMRIAH. HLH was reported in 6% (5/79) of patients with r/r ALL (time to 
+onset ranged from 3 to 18 days) and 2% (2/115) of patients with r/r DLBCL (times to onset were Day 7 and Day 10); all 
+HLH events occurred during ongoing CRS and resolved. One patient (1%) with r/r FL developed HLH > 1 year after 
+receiving KYMRIAH with a fatal outcome. The patient did not have CRS during or immediately preceding HLH. 
+Treatment of HLH should be administered as per institutional standards. 
+5.4 
+Hypersensitivity Reactions 
+Allergic reactions may occur with infusion of KYMRIAH. Serious hypersensitivity reactions, including anaphylaxis, may 
+be due to the DMSO or dextran 40 in KYMRIAH. Observe patients for hypersensitivity reactions during the infusion. 
+5.5 
+Serious Infections 
+Infections, including life-threatening or fatal infections, occurred following treatment with KYMRIAH. Infections 
+occurred in 57 (72%) of the 79 patients with r/r ALL; 38 patients (48%) experienced ≥ Grade 3 infections, including fatal 
+infections in 2 patients (3%). 
+Infections occurred in 67 (58%) of the 115 patients with r/r DLBCL; 38 patients (33%) experienced ≥ Grade 3 infections, 
+including fatal infection in 1 patient (1%). 
+Infections occurred in 50 (52%) of the 97 patients with r/r FL; 20 patients (21%) experienced ≥ Grade 3 infections, 
+including fatal infection in 1 patient (1%). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prior to KYMRIAH infusion, infection prophylaxis should follow local guidelines. Patients with active uncontrolled 
+infection should not start KYMRIAH treatment until the infection is resolved. Monitor patients for signs and symptoms of 
+infection after treatment with KYMRIAH and treat appropriately [see Dosage and Administration (2.3)]. 
+Febrile neutropenia (≥ Grade 3) was also observed in 34% of patients with r/r ALL, 17% of patients with r/r DLBCL, and 
+13% of patients with r/r FL after KYMRIAH infusion and may be concurrent with CRS. In the event of febrile 
+neutropenia, evaluate for infection and manage with broad spectrum antibiotics, fluids and other supportive care as 
+medically indicated. 
+Viral Reactivation 
+Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure and death, can occur in 
+patients treated with drugs directed against B cells. 
+There is no experience with manufacturing KYMRIAH for patients with a positive test for HIV or with active HBV or 
+active HCV. Perform screening for HBV, HCV, and HIV in accordance with clinical guidelines before collection of cells 
+for manufacturing. 
+5.6 
+Prolonged Cytopenias 
+Patients may exhibit cytopenias for several weeks following lymphodepleting chemotherapy and KYMRIAH infusion. 
+In the ELIANA study (Study 1), ≥ Grade 3 cytopenias not resolved by Day 28 following KYMRIAH treatment included 
+neutropenia (40%), and thrombocytopenia (27%) among 52 responding patients. At 56 days following KYMRIAH, 17% 
+and 12% of responding patients had ≥ Grade 3 neutropenia or thrombocytopenia, respectively. 
+In the JULIET study (Study 2), ≥ Grade 3 cytopenias not resolved by Day 28 following KYMRIAH treatment included 
+thrombocytopenia (39%) and neutropenia (25%) among 115 treated patients. 
+In the ELARA study (Study 3), ≥ Grade 3 cytopenias not resolved by Day 28 following KYMRIAH treatment included 
+thrombocytopenia (17%) and neutropenia (16%) among 97 treated patients. 
+Prolonged neutropenia has been associated with increased risk of infection. Myeloid growth factors, particularly GM­
+CSF, are not recommended during the first 3 weeks after KYMRIAH infusion or until CRS has resolved. 
+5.7 
+Hypogammaglobulinemia 
+Hypogammaglobulinemia and agammaglobulinemia related to B-cell aplasia can occur in patients after KYMRIAH 
+infusion. 
+Hypogammaglobulinemia was reported in 53% of patients treated with KYMRIAH for r/r ALL, 17% of patients with r/r 
+DLBCL, and 18% of patients with r/r FL [see Clinical Pharmacology (12.3)]. 
+Monitor immunoglobulin levels after treatment with KYMRIAH and manage using infection precautions, antibiotic 
+prophylaxis, and immunoglobulin replacement standard guidelines. 
+Immunization with Live Vaccine 
+The safety of immunization with live vaccines during or following KYMRIAH treatment has not been studied. 
+Vaccination with live vaccines is not recommended for at least 6 weeks prior to the start of lymphodepleting 
+chemotherapy, during KYMRIAH treatment, and until immune recovery following treatment with KYMRIAH. 
+Pregnant women who have received KYMRIAH may have hypogammaglobulinemia. Assess immunoglobulin levels in 
+newborns of mothers treated with KYMRIAH. 
+5.8 
+Secondary Malignancies 
+Patients treated with KYMRIAH may develop secondary malignancies or recurrence of their cancer. T cell malignancies 
+have occurred following treatment of hematologic malignancies with BCMA- and CD19- directed genetically modified 
+autologous T cell immunotherapies, including KYMRIAH. Mature T cell malignancies, including CAR-positive tumors, 
+may present as soon as weeks following infusion, and may include fatal outcomes [see Boxed Warning, Adverse 
+Reactions (6.2), Patient Counseling Information (17)]. 
+Monitor life-long for secondary malignancies. In the event that a secondary malignancy occurs, contact Novartis 
+Pharmaceuticals Corporation at 1-844-4KYMRIAH to obtain instructions on patient samples to collect for testing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ADVERSE REACTIONS 
+The following serious adverse reactions are discussed in greater detail in another section of the label: 
+• 
+Cytokine Release Syndrome [see Warnings and Precautions (5.1)] 
+• 
+Neurological Toxicities [see Warnings and Precautions (5.2)] 
+• 
+Hemophagocytic Lymphohistiocytosis/Macrophage Activation Syndrome [see Warnings and Precautions (5.3)] 
+• 
+Serious Infections [see Warnings and Precautions (5.5)] 
+• 
+Prolonged Cytopenias [see Warnings and Precautions (5.6)] 
+• 
+Hypogammaglobulinemia [see Warnings and Precautions (5.7)] 
+6.1 
+Clinical Trials Experience 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials 
+of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed 
+in practice. 
+The safety data described in the WARNINGS AND PRECAUTIONS and in this section reflect exposure to KYMRIAH 
+in three non-randomized, single-arm studies in which 79 pediatric and young adult patients with relapsed/refractory (r/r) 
+B-cell ALL (ELIANA Study), 115 adults with r/r diffuse large B-cell lymphoma (JULIET Study), and 97 adults with r/r 
+follicular lymphoma (ELARA Study) received a single dose of CAR-positive viable T cells. 
+Pediatric and Young Adult r/r B-cell Acute Lymphoblastic Leukemia (ALL) (up to 25 years of age) 
+Based on a recommended dose which was weight-based, all 79 patients in the ELIANA study (Study 1) received a single 
+intravenous dose of KYMRIAH [see Clinical Studies (14.1)]. The most common adverse reactions (> 20%) were CRS 
+(77%), infections-pathogen unspecified (57%), hypogammaglobulinemia (53%), fever (42%), decreased appetite (38%), 
+viral infectious disorders (38%), headache (35%), febrile neutropenia (34%), hemorrhage (32%), musculoskeletal pain 
+(32%), vomiting (32%), encephalopathy (30%), bacterial infectious disorders (29%), diarrhea (29%), hypotension (29%), 
+cough (27%), nausea (27%), pain (25%), hypoxia (25%), tachycardia (24%), edema (23%), fatigue (23%), and acute 
+kidney injury (22%). 
+The adverse reactions with greater than or equal to 10% incidence for any Grade are summarized in Table 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3. Selected Adverse Reactions Anytime After Infusion (≥ 10%) Following Treatment with KYMRIAH in 
+Pediatric and Young Adult r/r B-cell ALL (N = 79) 
+Adverse reaction 
+All Grades 
+(%) 
+Grades 3 or higher 
+(%) 
+Blood and lymphatic system disorders 
+ Febrile neutropenia 
+34 
+34 
+Cardiac disorders
+ Tachycardiaa 
+24 
+4 
+Gastrointestinal disorders
+ Vomiting 
+32 
+1 
+ Diarrhea 
+29 
+1 
+ Nausea 
+27 
+3 
+ Abdominal painb 
+18 
+3 
+ Constipation 
+18 
+0 
+General disorders and administration site conditions
+ Fever 
+42 
+13
+ Painc 
+25 
+3 
+ Fatigued 
+23 
+0 
+ Edemae 
+23 
+8 
+Immune system disorders
+ Cytokine release syndrome 
+77 
+48 
+ Hypogammaglobulinemiaf 
+53 
+13 
+Infections and infestations
+ Infections-pathogen unspecified 
+57 
+27
+ Viral infectious disorders 
+37 
+22
+ Bacterial infectious disorders 
+29 
+16
+ Fungal infectious disorders 
+15 
+9 
+Metabolism and nutrition disorders
+ Decreased appetite 
+38 
+15
+ Hypocalcemia 
+20 
+6 
+Hyperferritinemiag 
+10 
+3 
+Musculoskeletal and connective tissue disorders
+ Musculoskeletal painh 
+32 
+4 
+ Arthralgia 
+14 
+1 
+Nervous system disorders 
+Headachei 
+35 
+3 
+Encephalopathyj 
+30 
+9 
+Psychiatric disorders 
+Deliriumk 
+19 
+4 
+Anxiety 
+17 
+3 
+Sleep disorderl 
+11 
+0 
+Renal and urinary disorders 
+Acute kidney injurym 
+22 
+14 
+Respiratory, thoracic and mediastinal disorders
+ Coughn 
+27 
+0 
+Hypoxia 
+25 
+20 
+Dyspneao 
+19 
+14 
+ Pulmonary edema 
+15 
+9
+ Nasal congestion 
+11 
+0 
+ Oropharyngeal pain 
+10 
+0 
+ Pleural effusion 
+10 
+4 
+ Tachypnea 
+10 
+5 
+Skin and subcutaneous tissue disorders 
+Rashp 
+18 
+1 
+Vascular disorders
+ Hemorrhageq 
+32 
+10 
+Hypotension 
+29 
+20
+ Hypertension 
+19 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aTachycardia includes sinus tachycardia and tachycardia.
+bAbdominal pain includes abdominal pain, abdominal pain upper. 
+cPain includes pain and pain in extremity.
+dFatigue includes fatigue and malaise. 
+eEdema includes face edema, fluid overload, generalized edema, localized edema, edema peripheral. 
+fHypogammaglobulinemia includes hypogammaglobulinemia, immunoglobulins decreased, blood immunoglobulin G decreased, blood 
+immunoglobulin A decreased, blood immunoglobulin M decreased, immunodeficiency, immunodeficiency common variable. 
+gHyperferritinemia includes serum ferritin increased.
+hMusculoskeletal pain includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, and non-
+cardiac chest pain. 
+iHeadache includes headache and migraine. 
+jEncephalopathy includes encephalopathy, cognitive disorder, confusional state, depressed level of consciousness, disturbance in attention, 
+lethargy, mental status changes, somnolence, memory impairment, and automatism. Encephalopathy is a dominant feature of immune 
+effector cell-associated neurotoxicity syndrome (ICANS), along with other symptoms. 
+kDelirium includes delirium, agitation, hallucination, hallucination visual, irritability, restlessness. 
+lSleep disorder includes sleep disorder, insomnia and nightmare. 
+mAcute kidney injury includes acute kidney injury, anuria, azotemia, renal failure, renal tubular dysfunction, renal tubular necrosis, and 
+blood creatinine increased. 
+nCough includes cough and productive cough. 
+oDyspnea includes acute respiratory failure, dyspnea, respiratory distress, and respiratory failure. 
+pRash includes dermatitis, rash, rash maculo-papular, rash papular, and rash pruritic. 
+qHemorrhage includes anal hemorrhage, catheter site hemorrhage, cerebral hemorrhage, conjunctival hemorrhage, contusion, cystitis 
+hemorrhagic, disseminated intravascular coagulation, epistaxis, gastrointestinal hemorrhage, gingival bleeding, hemarthrosis, 
+hematemesis, hematuria, hemoptysis, heavy menstrual bleeding, melena, mouth hemorrhage, peritoneal hematoma, petechiae, pharyngeal 
+hemorrhage, purpura, retinal hemorrhage, vaginal hemorrhage. 
+Additional important adverse reactions that did not meet the threshold criteria for inclusion in Table 3 were: 
+Blood and lymphatic system disorders: coagulopathy (6%), hemophagocytic lymphohistiocytosis (6%), pancytopenia 
+(3%) 
+Cardiac disorders: cardiac failurea (9%), arrhythmiab (4%) 
+Eye disorders: visual impairment (3%) 
+Gastrointestinal disorders: abdominal distention (4%), ascites (4%), stomatitis (4%), abdominal compartment syndrome 
+(1%), dry mouth (1%) 
+General disorders and administration site conditions: chills (9%), asthenia (4%), influenza-like illness (3%), multiple 
+organ dysfunction syndrome (3%) 
+Immune system disorders: infusion related reaction (6%), graft versus host disease (3%) 
+Investigations: prothrombin time prolonged (4%), fibrin D dimer increased (3%), weight decreased (3%) 
+Metabolism and nutrition disorders: tumor lysis syndrome (6%), hypercalcemia (4%) 
+Nervous system disorders: tremor (8%), seizurec (6%), dizziness (5%), peripheral neuropathyd (4%), speech disordere 
+(3%), motor dysfunctionf (1%), neuralgia (1%) 
+Respiratory, thoracic, and mediastinal disorders: acute respiratory distress syndrome (4%), lung infiltration (1%) 
+Skin and subcutaneous tissue disorders: pruritus (9%), erythema (6%), hyperhidrosis (4%), night sweats (1%) 
+Vascular disorders: capillary leak syndrome (3%), thrombosis (3%), flushing (1%) 
+aCardiac failure includes cardiac failure, cardiac failure congestive, left ventricular dysfunction, right ventricular dysfunction. 
+bArrhythmia includes cardiac arrest. 
+cSeizure includes generalized tonic-clonic seizure and seizure. 
+dPeripheral neuropathy includes hyperasthesia, hypoasthesia, paresthesia. 
+eSpeech disorder includes aphasia and dysarthria. 
+fMotor dysfunction includes muscle spasms. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Laboratory Abnormalities 
+Table 4. Grade 3 or 4 Laboratory Abnormalities Occurring in > 10% of Patients Following Treatment with 
+KYMRIAH in Pediatric and Young Adult r/r B-cell ALL based on CTCAEa (N = 79) 
+Laboratory abnormality 
+Grade 3 or 4 (%) 
+Hematology 
+Blood fibrinogen decreased 
+11 
+Biochemistry 
+Aspartate aminotransferase increased 
+29 
+Hypokalemia 
+28 
+Alanine aminotransferase increased 
+22 
+Hypophosphatemia 
+20 
+Hyperbilirubinemia 
+19 
+Hyperglycemia 
+13 
+aCTCAE = Common Terminology Criteria for Adverse Events version 4.03. 
+All patients experienced neutropenia, anemia and thrombocytopenia. See Table 5 for the incidences of ≥ Grade 3 
+prolonged thrombocytopenia and prolonged neutropenia in responding patients. 
+Table 5. Prolonged Cytopenias Following Treatment with KYMRIAH in Pediatric and Young Adult r/r B-cell 
+ALL 
+Prolonged cytopenia 
+N = 52 (%) 
+N = 52 (%) 
+Day 28 
+Day 56 
+Prolonged neutropeniaa 
+40 
+17 
+Prolonged thrombocytopeniaa 
+27 
+12 
+a≥ Grade 3 observed within 14 days after Day 28 or Day 56 in responding patients. 
+Adult r/r Diffuse Large B-cell Lymphoma (DLBCL) 
+In the JULIET study (Study 2) 115 adults with r/r DLBCL received a single intravenous dose of KYMRIAH [see Clinical 
+Studies (14.2)]. The most common adverse reactions (incidence > 20%) were CRS, infections-pathogen unspecified, 
+fever, diarrhea, nausea, fatigue, hypotension, edema, bleeding episodes, dyspnea, and headache. 
+The study population characteristics were median age of 56 years (range, 22 to 76 years), 80% DLBCL; a median of 3 
+prior lines of therapy (range, 1 to 6), 49% had a prior autologous hematopoietic stem cell transplantation, and 32% had 
+received prior radiation therapy. One hundred seven patients (93%) received lymphodepleting chemotherapy prior to 
+KYMRIAH, which included fludarabine (n = 85) or bendamustine (n = 22). 
+The adverse reactions with greater than or equal to 10% incidence for any Grade are summarized in Table 6 below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 6. Selected Adverse Reactions Anytime After Infusion Reported in ≥ 10% Following Treatment with 
+KYMRIAH in Adult r/r DLBCL (N = 115) 
+Adverse reaction 
+All Grades 
+(%) 
+Grades 3 or higher 
+(%) 
+Blood and lymphatic system disorders 
+ Febrile neutropenia 
+17 
+17 
+Cardiac disorders
+ Tachycardiaa 
+13 
+3 
+Arrhythmiab 
+10 
+5 
+Gastrointestinal disorders
+ Diarrhea 
+31 
+1 
+ Nausea 
+29 
+1 
+Constipation 
+17 
+1 
+ 
+Abdominal painc 
+10 
+2 
+General disorders and administration site conditions
+ Fever 
+35 
+5 
+ Fatigued 
+27 
+6 
+ Edemae 
+27 
+3 
+ Painf 
+14 
+3 
+Chills 
+12 
+0 
+Immune system disorders
+ Cytokine release syndrome 
+74 
+23 
+Hypogammaglobulinemiag 
+17 
+6 
+Infections and infestations
+ Infections-pathogen unspecified 
+48 
+26 
+ 
+Bacterial infectious disorders 
+17 
+8 
+Fungal infectious disorders 
+11 
+5 
+Viral infectious disorders 
+11 
+2 
+Investigations
+ Weight decreased 
+12 
+4 
+Metabolism and nutrition disorders
+ Decreased appetite 
+14 
+4 
+Musculoskeletal and connective tissue disorders 
+ Arthralgia 
+14 
+0 
+ 
+Musculoskeletal painh 
+13 
+1 
+Nervous system disorders
+ Headachei 
+21 
+1 
+ Encephalopathyj 
+16 
+11 
+ 
+Peripheral neuropathyk 
+12 
+3 
+ Dizzinessl 
+12 
+2 
+Psychiatric disorders 
+Anxiety 
+10 
+1 
+ 
+Sleep disorderm 
+10 
+0 
+Renal and urinary disorders 
+ Acute kidney injuryn 
+17 
+6 
+Respiratory, thoracic and mediastinal disorders
+ Dyspneao 
+21 
+6 
+Coughp 
+17 
+0 
+Skin and subcutaneous tissue disorders 
+Rashq 
+11 
+0 
+Vascular disorders
+ Hypotensionr 
+25 
+9 
+ Hemorrhages 
+22 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aTachycardia includes sinus tachycardia and tachycardia. 
+bArrhythmia includes atrial fibrillation, cardiac arrest, supraventricular tachycardia, and ventricular extrasystoles. 
+cAbdominal pain includes abdominal discomfort, abdominal pain, and abdominal pain upper.
+dFatigue includes fatigue and malaise. 
+eEdema includes face edema, fluid overload, fluid retention, generalized edema, localized edema, edema peripheral, peripheral swelling. 
+fPain includes pain and pain in extremity. 
+gHypogammaglobulinemia includes blood immunoglobulin G decreased, immunodeficiency, immunoglobulins decreased and hypogammaglobulinemia. 
+hMusculoskeletal pain includes back pain, flank pain, musculoskeletal chest pain, neck pain, and non-cardiac chest pain. 
+iHeadache includes headache and migraine. 
+jEncephalopathy includes cognitive disorder, confusional state, disturbance in attention, lethargy, mental status changes, somnolence, memory 
+impairment, metabolic encephalopathy and thinking abnormal. Encephalopathy is a dominant feature of immune effector cell-associated neurotoxicity 
+syndrome (ICANS), along with other symptoms.
+kPeripheral neuropathy includes paraesthesia, hypoaesthesia, hyperaesthesia, peripheral sensory neuropathy, neuropathy peripheral, cranial nerve 
+paralysis, demyelinating polyneuropathy, Horner’s syndrome, polyneuropathy, and sciatica.
+lDizziness includes dizziness, presyncope, and syncope. 
+mSleep disorder includes insomnia and sleep disorder. 
+nAcute kidney injury includes acute kidney injury, blood creatinine abnormal, and blood creatinine increased. 
+oDyspnea includes dyspnea, dyspnea exertional, respiratory distress, and respiratory failure. 
+pCough includes cough, productive cough, and upper-airway cough syndrome. 
+qRash includes dermatitis, dermatitis acneiform, dermatitis contact, rash, rash maculo-papular, rash papular, and rash pruritic. 
+rHypotension includes hypotension and orthostatic hypotension. 
+sHemorrhage includes anal hemorrhage, blood urine present, cerebral hemorrhage, contusion, cystitis hemorrhagic, disseminated intravascular 
+coagulation, duodenal ulcer hemorrhage, epistaxis, eye contusion, gastrointestinal hemorrhage, hematemesis, hematochezia, hematuria, large intestinal 
+hemorrhage, melena, mouth hemorrhage, petechiae, pharyngeal hemorrhage, post procedural hemorrhage, pulmonary hemorrhage, purpura, retinal 
+hemorrhage, traumatic hematoma, tumor hemorrhage, upper gastrointestinal hemorrhage. 
+Additional important adverse reactions that did not meet the threshold criteria for inclusion in Table 5 were: 
+Blood and lymphatic system disorders: pancytopenia (3%), hemophagocytic lymphohistiocytosis (2%), B-cell aplasia 
+(1%) 
+Cardiac disorders: cardiac failurea (1%) 
+Eye disorders: visual impairmentb (6%) 
+Gastrointestinal disorders: vomiting (9%), stomatitis (6%), dry mouth (5%), abdominal distension (4%), ascites (3%) 
+General disorders and administration site conditions: influenza-like illness (9%), asthenia (7%), multiple organ 
+dysfunction syndrome (3%) 
+Immune system disorders: infusion related reaction (3%) 
+Investigations: fibrin D dimer increased (4%) 
+Metabolism and nutrition disorders: hypocalcemia (5%), hypercalcemia (4%), hyperferritinemiac (4%), tumor lysis 
+syndrome (2%) 
+Musculoskeletal and connective tissue disorders: myalgia (5%) 
+Nervous system disorders: motor dysfunctiond (6%), tremore (6%), speech disorderf (4%), neuralgiag (3%), seizureh (3%), 
+ataxiai (2%), ischemic cerebral infarction (1%) 
+Psychiatric disorders: deliriumj (5%) 
+Respiratory, thoracic, and mediastinal disorders: hypoxia (8%), oropharyngeal paink (8%), pleural effusion (5%), nasal 
+congestion (4%), pulmonary edemal (3%), tachypnea (3%) 
+Skin and subcutaneous tissue disorders: night sweats (5%), pruritus (4%), hyperhidrosis (4%), erythema (2%) 
+Vascular disorders: thrombosism (6%), hypertension (4%), capillary leak syndrome (1%) 
+aCardiac failure includes cardiac failure congestive.
+bVisual impairment includes vision blurred and visual impairment. 
+cHyperferritinemia includes serum ferritin increased. 
+dMotor dysfunction includes muscle spasms, muscle twitching, myoclonus and myopathy. 
+eTremor includes dyskinesia and tremor. 
+fSpeech disorder includes speech disorder, aphasia, and dysarthria. 
+gNeuralgia includes neuralgia and sciatica.
+hSeizure includes PTs seizure and status epilepticus. 
+iAtaxia includes ataxia and dysmetria.
+jDelirium includes delirium, agitation, and irritability. 
+kOropharyngeal pain includes oral pain and oropharyngeal pain. 
+lPulmonary edema includes acute pulmonary edema and pulmonary edema. 
+mThrombosis includes deep vein thrombosis, embolism, pulmonary embolism, thrombosis, vena cava thrombosis, and venous thrombosis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Laboratory Abnormalities 
+Table 7. Grade 3 or 4 Laboratory Abnormalities Occurring in > 10% of Patients Following KYMRIAH Infusion 
+in Adult r/r DLBCL Patients Based on CTCAEa N = 115 
+Laboratory parameter 
+Grade 3 or 4 (%) 
+Hematology 
+Lymphopenia 
+95 
+Neutropenia 
+82 
+Leukopenia 
+78 
+Anemia 
+59 
+Thrombocytopenia 
+56 
+Biochemistry 
+Hypophosphatemia 
+24 
+Hypokalemia 
+13 
+aCTCAE = Common Terminology Criteria for Adverse Events version 4.03. 
+Adult r/r Follicular Lymphoma (FL) 
+The safety of KYMRIAH was evaluated in the ELARA study (Study 3), a trial that included 97 patients with r/r FL who 
+received a single intravenous dose of KYMRIAH [see Clinical Studies (14.3)]. Patients with a history of CNS disorders 
+or autoimmune disease requiring systemic immunosuppression were ineligible. The median age was 57 years (range, 29 to 
+73 years), 34% were female, 75% were White, 13% were Asian, and 1% were Black or African American. 
+The most common adverse reactions (incidence > 20%) were CRS, infections-pathogen unspecified, fatigue, 
+musculoskeletal pain, headache, and diarrhea. 
+The adverse reactions with greater than or equal to 10% incidence for any Grade are summarized in Table 8 below. 
+Table 8. Selected Adverse Reactions Anytime After Infusion Reported in ≥ 10% Following Treatment with 
+KYMRIAH in Adult r/r FL (N = 97) 
+Adverse reaction 
+All Grades 
+(%) 
+Grades 3 or higher 
+(%) 
+Blood and lymphatic system disorders 
+ Febrile neutropenia 
+13 
+13 
+Gastrointestinal disorders
+ Diarrhea 
+24 
+2 
+ Nausea 
+16 
+2 
+Constipation 
+16 
+0 
+ Abdominal paina 
+10 
+1 
+General disorders and administration site conditions
+ Fatigueb 
+27 
+3 
+Fever 
+19 
+1 
+Immune system disorders
+ Cytokine release syndrome 
+53 
+0 
+Hypogammaglobulinemiac 
+18 
+1 
+Infections and infestations
+ Infections-pathogen unspecified 
+38 
+12 
+Viral infectious disorders 
+18 
+5 
+Musculoskeletal and connective tissue disorders 
+Musculoskeletal paind 
+25 
+1 
+ Arthralgia 
+10 
+0 
+Nervous system disorders
+ Headachee 
+25 
+2 
+Respiratory, thoracic and mediastinal disorders
+ Coughf 
+19 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adverse reaction 
+All Grades 
+(%) 
+Grades 3 or higher 
+(%) 
+Skin and subcutaneous tissue disorders 
+Rashg 
+10 
+0 
+aAbdominal pain includes abdominal pain and abdominal pain upper. 
+bFatigue includes asthenia, fatigue, and malaise. 
+cHypogammaglobulinemia includes blood immunoglobulin G decreased and hypogammaglobulinemia. 
+dMusculoskeletal pain includes back pain, bone pain, flank pain, muscle discomfort, musculoskeletal chest pain, musculoskeletal pain, 
+myalgia, neck pain, and non-cardiac chest pain. 
+eHeadache includes headache and migraine. 
+fCough includes cough and productive cough. 
+gRash includes rash, rash maculo-papular, and rash papular. 
+Additional important adverse reactions that did not meet the threshold criteria for inclusion in Table 8 were: 
+Blood and lymphatic system disorders: pancytopenia (3%), hemolysisa (2%), coagulopathyb (2%) 
+Cardiac disorders: tachycardiac (2%), arrhythmiad (4%) 
+Eye disorders: visual impairmente (4%) 
+Gastrointestinal disorders: vomiting (9%), stomatitisf (4%), abdominal distension (2%), dry mouth (2%) 
+General disorders and administration site conditions: edemag (9%), painh (8%), chills (6%) 
+Immune system disorders: infusion related reaction (3%), graft versus host diseasei (1%), hemophagocytic 
+lymphohistiocytosis (1%) 
+Infections and infestations: bacterial infectious disorders (7%), fungal infectious disorders (2%) 
+Investigations: weight decreased (7%) 
+Metabolism and nutrition disorders: decreased appetite (8%), tumor lysis syndrome (2%) 
+Nervous system disorders: dizzinessj (8%), motor dysfunctionk (9%), peripheral neuropathyl (7%), immune effector cell-
+associated neurotoxicity syndrome (4%), encephalopathy (3%), tremor (3%) 
+Psychiatric disorders: sleep disorderm (6%), anxiety (2%), delirium (1%) 
+Renal and urinary disorder: acute kidney injuryn (4%) 
+Respiratory, thoracic, and mediastinal disorders: dyspneao (8%), pleural effusion (6%), oropharyngeal pain (5%), nasal 
+congestion (2%), rhinorrhea (2%) 
+Skin and subcutaneous tissue disorders: pruritus (9%), night sweats (3%), erythema (2%), hyperhidrosis (1%) 
+Vascular disorders: hypotensionp (9%), hemorrhageq (6%), hypertension (5%), thrombosisr (1%) 
+aHemolysis includes hemolysis and hemolytic anemia. 
+bCoagulopathy includes coagulopathy and international normalized ratio increased. 
+cTachycardia includes sinus tachycardia.
+dArrhythmia includes atrial fibrillation, atrioventricular block first degree, and electrocardiogram QT prolonged. 
+eVisual impairment includes blindness (preexisting progressive blindness, which initiated prior to start of lymphodepleting chemotherapy, further 
+worsened after KYMRIAH infusion), vision blurred, and visual impairment. 
+fStomatitis includes mouth ulceration and stomatitis. 
+gEdema includes edema peripheral, fluid retention, hypervolemia, localized edema, and peripheral swelling.
+hPain includes ear pain, pain, and pain in extremity. 
+iGraft versus host disease includes graft versus host disease in gastrointestinal tract and graft versus host disease in skin. 
+jDizziness includes dizziness and syncope. 
+kMotor dysfunction includes dyskinesia, muscle spasms, muscular weakness, musculoskeletal stiffness, and myoclonus. 
+lPeripheral neuropathy includes dysesthesia, hypoesthesia, neuropathy peripheral, paresthesia, and peripheral sensory neuropathy. 
+mSleep disorder includes insomnia. 
+nAcute kidney injury includes acute kidney injury and blood creatinine increased. 
+oDyspnea includes acute respiratory failure, dyspnea, and dyspnea exertional. 
+pHypotension includes hypotension and orthostatic hypotension. 
+qHemorrhage includes blood blister, catheter site hemorrhage, contusion, epistaxis, hematochezia, hematoma, mucosal hemorrhage, oral blood 
+blister, petechiae, and purpura. 
+rThrombosis includes deep vein thrombosis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Laboratory Abnormalities 
+Table 9. Grade 3 or 4 Laboratory Abnormalities Occurring in > 10% of Patients Following KYMRIAH Infusion in 
+Adult r/r FL Patients Based on CTCAEa (N = 97*) 
+Laboratory abnormality 
+Grade 3 or 4 (%) 
+Hematology 
+Neutropenia 
+63 
+Leukopenia 
+40 
+Thrombocytopenia 
+21 
+Anemia 
+20 
+Lymphopenia 
+19 
+Biochemistry 
+Hypophosphatemia 
+12 
+aCTCAE = Common Terminology Criteria for Adverse Events version 4.03. 
+*Evaluable population (n = 91 to 97) for each laboratory value included number of patients who had both baseline (before KYMRIAH 
+infusion) and at least one post-KYMRIAH infusion on-study laboratory value available. 
+6.2 
+Postmarketing Experience 
+Because adverse events to marketed products are reported voluntarily from a population of uncertain size, it is not always 
+possible to reliably estimate their frequency or establish a causal relationship to product exposure. 
+The following adverse events have been identified during postmarketing use of KYMRIAH. 
+• 
+Anaphylactic reaction 
+• 
+Neoplasms: T cell malignancies 
+6.3 
+Immunogenicity 
+In clinical studies, humoral immunogenicity of KYMRIAH was measured by determination of anti-murine CAR19 
+antibodies (anti-mCAR19) in serum pre- and post-administration. The majority of patients, 91% in ELIANA (Study 1), 
+94% in JULIET (Study 2), and 66% in ELARA (Study 3), tested positive for pre-dose anti-mCAR19 antibodies prior to 
+KYMRIAH infusion. Treatment induced anti-mCAR19 antibodies were detected in 9% and 33% of the patients in 
+JULIET and ELARA, respectively. However, the preexisting and treatment-induced antibodies were not associated with 
+an impact on clinical response and did not have an impact on the initial expansion and persistence of KYMRIAH. 
+Persistence of KYMRIAH was similar between patients with positive post-infusion anti-mCAR19 antibodies compared 
+with patients with negative post-infusion anti-mCAR19 antibodies. There is no evidence that the presence of preexisting 
+and treatment-induced anti-mCAR19 antibodies impact the safety or effectiveness of KYMRIAH. 
+T cell immunogenicity responses were not observed in r/r ALL, r/r DLBCL, or r/r FL patients. 
+7 
+DRUG INTERACTIONS 
+HIV and the lentivirus used to make KYMRIAH have limited, short spans of identical genetic material (RNA). Therefore, 
+some commercial HIV nucleic acid tests (NATs) may yield false-positive results in patients who have received 
+KYMRIAH. 
+8 
+USE IN SPECIFIC POPULATIONS 
+8.1 
+Pregnancy 
+Risk Summary 
+There are no available data with KYMRIAH use in pregnant women. No animal reproductive and developmental toxicity 
+studies have been conducted with KYMRIAH to assess whether it can cause fetal harm when administered to a pregnant 
+woman. It is not known if KYMRIAH has the potential to be transferred to the fetus. Based on the mechanism of action, if 
+the transduced cells cross the placenta, they may cause fetal toxicity, including B-cell lymphocytopenia. Therefore, 
+KYMRIAH is not recommended for women who are pregnant, and pregnancy after KYMRIAH administration should be 
+discussed with the treating physician. Report pregnancies to Novartis Pharmaceuticals Corporation at 1-888-669-6682. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically 
+recognized pregnancies is 2% to 4% and 15% to 20%, respectively. 
+8.2 
+Lactation 
+Risk Summary 
+There is no information regarding the presence of KYMRIAH in human milk, the effect on the breastfed infant, and the 
+effects on milk production. A risk to the breastfed infant cannot be excluded. The developmental and health benefits of 
+breastfeeding should be considered along with the mother’s clinical need for KYMRIAH and any potential adverse effects 
+on the breastfed infant from KYMRIAH or from the underlying maternal condition. 
+8.3 
+Females and Males of Reproductive Potential 
+Pregnancy Testing 
+Pregnancy status of females with reproductive potential should be verified. Sexually-active females of reproductive 
+potential should have a pregnancy test prior to starting treatment with KYMRIAH. 
+Contraception 
+See the prescribing information for fludarabine and cyclophosphamide for information on the need for effective 
+contraception in patients who receive the lymphodepleting chemotherapy. 
+There are insufficient exposure data to provide a recommendation concerning duration of contraception following 
+treatment with KYMRIAH. 
+Infertility 
+There are no data on the effect of KYMRIAH on male and female fertility. 
+8.4 
+Pediatric Use 
+The safety and efficacy of KYMRIAH have been established in pediatric patients with r/r B-cell ALL. Use of KYMRIAH 
+is supported by a single-arm trial [see Clinical Studies (14.1)] that included 61 pediatric patients with r/r B-cell precursor 
+ALL in the following age groups: 40 children (ages 2 years to less than 12 years) and 21 adolescents (ages 12 years to less 
+than 17 years). No differences in efficacy or safety were observed between the different age subgroups or in comparison 
+to the young adults in the trial. 
+The safety and efficacy of KYMRIAH in pediatric patients with r/r DLBCL and r/r FL have not been established. 
+8.5 
+Geriatric Use 
+The safety and effectiveness of KYMRIAH have not been established in geriatric patients with r/r B-cell ALL. Clinical 
+studies of KYMRIAH did not include sufficient numbers of subjects aged 65 and over to determine whether they respond 
+differently from younger subjects. 
+11 
+DESCRIPTION 
+KYMRIAH (tisagenlecleucel) is a CD19-directed genetically modified autologous T cell immunotherapy comprised of 
+autologous T cells that are genetically modified using a lentiviral vector to encode an anti-CD19 chimeric antigen receptor 
+(CAR). The CAR is comprised of a murine single-chain antibody fragment (scFv) specific for CD19, followed by a CD8 
+hinge and transmembrane region that is fused to the intracellular signaling domains for 4-1BB (CD137) and CD3 zeta. 
+KYMRIAH is prepared from the patient’s peripheral blood mononuclear cells, which are obtained via a standard 
+leukapheresis procedure. The mononuclear cells are enriched for T cells, then transduced with the lentiviral vector 
+containing the anti-CD19 CAR transgene and activated with anti-CD3/CD28 antibody coated beads. The transduced T 
+cells are expanded in cell culture, washed, and formulated into a suspension, which then is cryopreserved. The product 
+must pass a sterility test before release for shipping as a frozen suspension in a patient-specific infusion bag(s). The 
+product is thawed prior to administration [see Dosage and Administration (2.3), How Supplied/Storage and Handling 
+(16)]. The thawed product is a colorless to slightly yellow suspension of cells. 
+In addition to T cells, other cell populations, including monocytes, NK cells, and B cells, may be present. The formulation 
+contains 31.25% (v/v) of Plasma-Lyte A, 31.25% (v/v) of 5% Dextrose/0.45% sodium chloride, 10% Dextran 40 
+(LMD)/5% Dextrose, 20% (v/v) of 25% Human Serum Albumin (HSA), and 7.5% (v/v) Cryoserv® dimethyl sulfoxide 
+(DMSO). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pediatric and Young Adult r/r B-cell ALL: A single dose of KYMRIAH may contain up to 2.5 x 108 CAR-positive 
+viable T cells provided in one to three patient-specific infusion bag(s). Based on the patient’s weight reported at the time 
+of leukapheresis, one of two possible dose ranges will be prepared for the patient: 
+• 
+For patients 50 kg or less: 0.2 to 5.0 x 106 CAR-positive viable T cells per kg body weight. 
+• 
+For patients above 50 kg: 0.1 to 2.5 x 108 CAR-positive viable T cells. 
+Adult r/r DLBCL and r/r FL: A single dose of KYMRIAH may contain 0.6 to 6.0 x 108 CAR-positive viable T cells 
+provided in one to three patient-specific infusion bag(s). 
+The actual number of CAR-positive T cells in the product is reported on the Certificate of Analysis (CoA) that is shipped 
+with KYMRIAH. The volume of CAR-positive viable T cells in an infusion bag ranges from 10 mL to 50 mL. 
+12 
+CLINICAL PHARMACOLOGY 
+12.1 
+Mechanism of Action 
+KYMRIAH is a CD19-directed genetically modified autologous T cell immunotherapy which involves reprogramming a 
+patient’s own T cells with a transgene encoding a chimeric antigen receptor (CAR) to identify and eliminate 
+CD19-expressing malignant and normal cells. The CAR is comprised of a murine single-chain antibody fragment which 
+recognizes CD19 and is fused to intracellular signaling domains from 4-1BB (CD137) and CD3 zeta. The CD3 zeta 
+component is critical for initiating T cell activation and antitumor activity, while 4-1BB enhances the expansion and 
+persistence of KYMRIAH. Upon binding to CD19-expressing cells, the CAR transmits a signal to promote T cell 
+expansion, activation, target cell elimination, and persistence of the KYMRIAH cells. 
+12.2 
+Pharmacodynamics 
+Due to the on-target effect of KYMRIAH, a period of B-cell aplasia is expected. 
+Among evaluable pediatric and young adult r/r B-cell ALL patients with an ongoing response at Month 24, 33% had no 
+detectable B cells at baseline prior to infusion. At Month 24, 88% had no detectable B cells. 
+Most adult r/r DLBCL patients had B-cell depletion at baseline prior to infusion due to previous treatment with rituximab. 
+Recovery of B-cell levels were observed with longer follow-up in some of the responding DLBCL patients after 
+KYMRIAH infusion. Among evaluable adult r/r DLBCL and FL patients with an ongoing response at Month 24, all 
+patients had no detectable B cells at baseline prior to infusion or at Month 24. 
+12.3 
+Pharmacokinetics/Cellular Kinetics 
+Following infusion, KYMRIAH exhibited an initial rapid expansion followed by a bi-exponential decline in 
+pediatric and young adult r/r B-cell acute lymphoblastic leukemia (ALL) patients, adult r/r diffuse large B-cell 
+lymphoma patients, and adult r/r follicular lymphoma patients. 
+A summary of pharmacokinetic parameters of KYMRIAH is provided in Table 10 below. 
+Table 10. Pharmacokinetic Parameters of KYMRIAH in Pediatric and Young Adult r/r B-cell ALL, Adult r/r 
+DLBCL, and Adult r/r FL 
+Parameter 
+Summary 
+statistics 
+Pediatric 
+ALL 
+responding 
+patients 
+Pediatric 
+ALL non-
+responding 
+patients 
+r/r DLBCL 
+responding 
+patients 
+(CR and 
+PR) 
+r/r DLBCL 
+non-
+responding 
+patients 
+(SD/PD/ 
+unknown) 
+r/r FL 
+responding 
+patients 
+(CR and 
+PR) 
+r/r FL non-
+responding 
+patients 
+(SD/PD) 
+N = 62 
+N = 8 
+N = 34 
+N = 34 
+N = 77 
+N = 12 
+Cmax (copies/mcg) 
+Geometric 
+mean (CV%), n 
+34,700 
+(155.4), 61 
+20,000 
+(71.6), 7 
+5,210 
+(256.5), 33 
+6,450 
+(408.2), 32 
+6,250 (344), 
+64 
+3,000 (1190), 
+8 
+Tmax (day) 
+Median [min; 
+max], n 
+9.91 [0.008; 
+27], 61 
+20.0 [0.03; 
+62.7], 7 
+9.83 [5.73; 
+16.8], 33 
+8.39 [3.04; 
+27.7], 32 
+9.94 [2.62; 
+28.0], 64 
+13.0 [7.73; 
+16.0], 8 
+AUC0-28d 
+(copies/mcg*day) 
+Geometric 
+mean (CV%), n 
+318,000 
+(177.8), 61 
+156,000 
+(99.4), 6 
+58,200 
+(165.1), 30 
+75,800 
+(292.3), 25 
+56,900 (270), 
+63 
+20,100 
+(18100), 7 
+T½ (day) 
+Geometric 
+mean (CV%), n 
+16.8 (155.9), 
+54 
+2.52 (171.9), 
+3 
+45.3 (157.7), 
+21 
+13.6 (167.0), 
+22 
+44.0 (296), 
+42 
+24.4 (180), 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description of Pharmacokinetics in Pediatric and Young Adult r/r B-cell ALL (up to 25 years of age) 
+The Cmax and AUC0-28d were similar between CR/CRi patients compared with non-responding (NR) patients. 
+KYMRIAH was present in the blood as well as bone marrow and was measurable beyond 2 years. Blood to bone marrow 
+partitioning suggested that KYMRIAH distribution in bone marrow was 44% of that present in blood at Day 28 while at 
+Months 3 and 6 KYMRIAH distributed at 67% and 69%, respectively, indicating high distribution to bone marrow. 
+Children < 10 years and between 10-18 years of age had similar- to 1.7-fold higher Cmax and AUC0-28d than adults. 
+Due to small sample size and high variability, it is difficult to assess the impact of age on the pharmacokinetics of 
+KYMRIAH. 
+Description of Pharmacokinetics in Adult r/r DLBCL 
+The Cmax and AUC0-28d were similar between responding and non-responding (NR) patients. 
+KYMRIAH was present in adult r/r DLBCL patients up to 18 months in peripheral blood and up to 9 months in 
+the bone marrow for patients having a complete response (CR). The median time of maximal expansion of 
+transgene levels (Tmax) in peripheral blood occurred at 9-10 days in both responding and non-responding patients. 
+Description of Pharmacokinetics in Adult r/r FL 
+KYMRIAH has been detected for up to 18 months in peripheral blood and up to 3 months in bone marrow for 
+patients who achieved a response. The median time of maximal expansion of transgene levels (Tmax) in peripheral 
+blood occurred at 10 days in responding and 13 days in non-responding patients. 
+The blood to bone marrow partitioning in bone marrow was nearly 50% at Month 3 in responding patients. 
+The geometric mean AUC0-28d value of responders was 183% higher compared to non-responders, while the 
+geometric mean Cmax value was 108% higher in responders compared to non-responders. Considering the high 
+inter-individual variability, small number of non-responders, overlapping expansion ranges observed between 
+responders and non-responders, the exposure differences should be interpreted with caution. 
+Tocilizumab and Corticosteroid used for CRS Management 
+Some patients required tocilizumab and corticosteroids for the management of CRS. KYMRIAH continues to 
+expand and persist following treatment as per the CRS management algorithm (see Table 1). Patients who have 
+higher expansion tended to have higher CRS Grades [see Warnings and Precautions (5.1)]. 
+Pediatric and young adult r/r B-cell ALL patients (N = 28) treated with tocilizumab had 298% and 183% higher 
+KYMRIAH AUC0-28d and Cmax, respectively, as compared to patients (N = 46) who did not receive tocilizumab. In 
+addition, patients who received corticosteroids for CRS management (N = 17) had 280% higher AUC0-28d 
+compared with patients who did not receive corticosteroids (N = 31). 
+Adult r/r DLBCL patients treated with tocilizumab (N = 18) had 238% (n = 14) and 311% (n = 16) higher 
+KYMRIAH AUC0-28d and Cmax, respectively, as compared to patients (N = 97) who did not receive tocilizumab. In 
+addition, patients who received corticosteroids for CRS management (N = 12) had 104% and 179% higher 
+AUC0-28d and Cmax, respectively, as compared with patients who did not receive corticosteroids (N = 79). 
+Adult r/r FL patients treated with tocilizumab (N = 14) had 245% (n = 12) and 312% (n = 11) higher KYMRIAH 
+AUC0-28d and Cmax, respectively, as compared to patients (N = 76) who did not receive tocilizumab. Three patients 
+received corticosteroids for CRS management while all other patients received corticosteroids for other reasons, 
+therefore a formal comparison for exposure differences by use of corticosteroids cannot be performed. 
+Hepatic and renal impairment studies of KYMRIAH were not conducted. 
+13 
+NONCLINICAL TOXICOLOGY 
+13.1 
+Carcinogenesis, Mutagenesis, Impairment of Fertility 
+Genotoxicity assays and carcinogenicity assessment in rodent models were not performed for KYMRIAH. In vitro 
+expansion studies with transduced T cells (KYMRIAH) from healthy donors and patients showed no evidence for 
+transformation and/or immortalization of T cells. In vivo studies in immunocompromised mice did not show signs of 
+abnormal cell growth or signs of clonal cell expansion for up to 7 months after cell injection. A genomic insertion site 
+analysis was performed on KYMRIAH products from 14 individual donors (12 patients and 2 healthy volunteers). There 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+was no evidence for preferential integration near genes of concern, or preferential outgrowth of cells harboring integration 
+sites of concern. 
+No studies on the effects of KYMRIAH on fertility have been conducted. 
+14 
+CLINICAL STUDIES 
+14.1 
+Relapsed or Refractory B-cell Acute Lymphoblastic Leukemia 
+The efficacy of KYMRIAH in pediatric and young adults with r/r B-cell precursor ALL was evaluated in an open-label, 
+multicenter single-arm trial (ELIANA, NCT02435849). In total, 107 patients were screened, 88 were enrolled, 68 were 
+treated, and 63 were evaluable for efficacy. Nine percent of the enrolled patients did not receive the product due to 
+manufacturing failure. The 63 evaluable patients included 35 males and 28 females of median age 12 years (range, 3 to 23 
+years). Seventy-three percent of patients were White, 10% were Asian, and 17% were of other races. Six (10%) had 
+primary refractory disease, 30 (48%) had one prior stem cell transplantation, 5 patients (8%) had two stem cell 
+transplantations. Treatment consisted of lymphodepleting chemotherapy (fludarabine 30 mg/m2 daily for 4 days and 
+cyclophosphamide 500 mg/m2 daily for 2 days) followed by a single dose of KYMRIAH. Of the 22 patients who had a 
+WBC count < 1000/µL, 20 received lymphodepleting chemotherapy prior to KYMRIAH while 2 received KYMRIAH 
+infusion without lymphodepleting chemotherapy. Fifty-three patients received bridging chemotherapy between time of 
+enrollment and lymphodepleting chemotherapy. 
+The efficacy of KYMRIAH was established on the basis of complete remission (CR) within 3 months after infusion, the 
+duration of CR, and proportion of patients with CR and minimal residual disease (MRD) < 0.01% by flow cytometry 
+(MRD-negative) (Table 11). Among the 63 infused patients, 52 (83%) achieved CR/CRi, all of which were MRD-
+negative. With a median follow-up of 4.8 months from response, the median duration of CR/CRi was not reached (range, 
+1.2 to 14.1+ months). Median time to onset of CR/CRi was 29 days with onset of CR/CRi between 26 and 31 days for 
+50/52 (96%) responders. The stem cell transplantation rate among those who achieved CR/CRi was 12% (6/52). Table 11 
+shows the efficacy results from this study. 
+Table 11. Efficacy Results in Pediatric and Young Adult Patients with r/r B-cell ALL 
+Results 
+N = 63 
+CR/CRi1,2 
+52 (83%)
+ (95% CI) 
+(71%, 91%) p < 0.0001
+ CR3 
+40 (63%)
+ CRi4 
+12 (19%) 
+CR or CRi with MRD-negative bone marrow5,6 
+52 (83%)
+ (95% CI) 
+(71%, 91%) p < 0.0001 
+Duration of remission7 
+N = 52 
+Median (months) 
+Not reached 
+(95% CI) 
+(7.5, NE8) 
+1CR/CRi was calculated based on all patients who received KYMRIAH and completed at least 3 months follow-up or discontinued earlier prior 
+to the data cut-off. Requires remission status to be maintained for at least 28 days without clinical evidence of relapse. 
+2The null hypothesis of CR/CRi less than or equal to 20% was rejected. 
+3CR (complete remission) was defined as less than 5% of blasts in the bone marrow, no evidence of extramedullary disease, and full recovery of 
+peripheral blood counts (platelets greater than 100,000/microliter and absolute neutrophil counts [ANC] greater than 1,000/microliter) without 
+blood transfusion. 
+4CRi (complete remission with incomplete blood count recovery) was defined as less than 5% of blasts in the bone marrow, no evidence of 
+extramedullary disease, and without full recovery of peripheral blood counts with or without blood transfusion. 
+5MRD (minimal residual disease) negative was defined as MRD by flow cytometry less than 0.01%. 
+6The null hypothesis of MRD-negative remission rate less than or equal to 15% was rejected. 
+7DOR (duration of remission) was defined as time since onset of CR or CRi to relapse or death due to underlying cancer, whichever is earlier, 
+censoring for new cancer therapy including stem cell transplantation (N = 52). 
+8Not Estimable. 
+14.2 
+Adult Relapsed or Refractory Diffuse Large B-cell Lymphoma 
+The efficacy and safety of KYMRIAH was evaluated in an open-label, multicenter, single-arm trial (JULIET; 
+NCT02445248). Eligible patients were ≥ 18 years of age with relapsed or refractory DLBCL, who received ≥ 2 lines of 
+chemotherapy, including rituximab and anthracycline, or relapsed following autologous hematopoietic stem cell 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+transplantation (HSCT). The study excluded patients with active central nervous system malignancy, prior allogenic 
+HSCT, an ECOG performance status ≥ 2, a creatinine clearance < 60, alanine aminotransferase > 5 times normal, cardiac 
+ejection fraction < 45%, or absolute lymphocyte concentration less than 300/µL. 
+Following 2 to 11 days after completion of lymphodepleting (LD) chemotherapy consisting of either fludarabine (25 
+mg/m2 intravenously daily for 3 days) and cyclophosphamide (250 mg/m2 intravenously daily for 3 days starting with the 
+first dose of fludarabine) or bendamustine (90 mg/m2 intravenously daily for 2 days), KYMRIAH was administered as a 
+single intravenous infusion. Bridging chemotherapy between leukapheresis and LD chemotherapy was permitted to 
+control disease burden. LD chemotherapy could be omitted if the white blood cell count was < 1000 cells/µL. The major 
+efficacy outcome measures were objective response rate per Lugano criteria [2014] as assessed by an independent review 
+committee and duration of response. 
+Of the 160 patients enrolled, 106 patients received tisagenlecleucel, including 92 patients who received product 
+manufactured in the U.S. and were followed for at least 3 months or discontinued earlier. Eleven out of 160 patients 
+enrolled did not receive tisagenlecleucel due to manufacturing failure. Thirty-eight other patients did not receive 
+tisagenlecleucel, primarily due to death (n = 16), physician decision (n = 16), and adverse events (n = 3). 
+Of the 92 patients receiving KYMRIAH, 90% received physician’s choice of bridging chemotherapy in the interval 
+between start of screening and KYMRIAH infusion, among whom the median number of bridging chemotherapy 
+regimens was 1 (range, 1 to 5) with 83% of patients receiving ≤ 2 regimens. A retrospectively identified sub-group of 68 
+patients was evaluable for the major efficacy outcome measures. Patients included in this sub-group had either had no 
+bridging chemotherapy, or had imaging that showed measurable disease after completion of bridging chemotherapy, prior 
+to KYMRIAH infusion. Of the 24 patients not included, 8 had no evidence of disease at baseline prior to KYMRIAH 
+infusion, 15 did not have baseline imaging following bridging chemotherapy, and 1 was excluded because of initial 
+misclassification of a neuroendocrine tumor as DLBCL. 
+Among the efficacy evaluable population of 68 patients, the baseline characteristics were median age 56 years (range, 22 
+to 74 years); 71% male; 90% White, 4% Asian, and 3% Black or African American; 78% had primary DLBCL not 
+otherwise specified (NOS) and 22% had DLBCL following transformation from follicular lymphoma, of whom 17% were 
+identified as high grade; and 44% had undergone prior autologous HSCT. The median number of prior therapies was 3 
+(range, 1 to 6), 56% had refractory disease and 44% relapsed after their last therapy. Ninety percent of patients received 
+lymphodepleting chemotherapy (66% of patients received fludarabine and 24% received bendamustine) and 10% did not 
+receive any LD chemotherapy. The median time from leukapheresis and cryopreservation to KYMRIAH infusion was 113 
+days (range, 47 to 196 days). The median dose was 3.5 × 108 CAR-positive viable T cells (range, 1.0 to 5.2 × 108 cells). 
+Seventy-three percent of patients received KYMRIAH in the inpatient setting. 
+Efficacy was established on the basis of CR rate and duration of response (DOR), as determined by an independent review 
+committee (Table 12 and Table 13). The median time to first response to KYMRIAH (CR or PR) was 0.9 months (range, 
+0.7 to 3.3 months). The median duration of response was not reached. Response durations were longer in patients who 
+achieved CR, as compared to patients with a best response of partial response (PR) (Table 13). Of the 22 patients who 
+experienced a CR, 9 achieved this status by 1 month, 12 more by month 3, and the last by month 6 after KYMRIAH 
+infusion. 
+Table 12. Response Rates in Relapsed or Refractory DLBCL in the JULIET Study 
+Response rate 
+N = 68 
+Overall response rate (ORR) (CR+PR), n (%) 
+34 (50%) 
+(95% CI) 
+(37.6%, 62.4%) 
+Complete response rate n (%) 
+22 (32%) 
+(95% CI) 
+(21.5%, 44.8%) 
+Partial response rate n (%) 
+12 (18%) 
+(95% CI) 
+(9.5%, 28.8%) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 13. Duration of Responsea (Months) in Relapsed or Refractory DLBCL in the JULIET Study 
+Duration of response 
+Overall DOR for responders (months) 
+Median DORa,b 
+(95% CI) 
+Rangec 
+Median Follow-up (95% CI)b 
+DOR if BOR is CR 
+Median DORa,b 
+(95% CI) 
+Rangec 
+DOR if BOR is PR 
+Median DORa,b 
+(95% CI) 
+Rangec 
+Results 
+N = 34 
+NE 
+(5.1, NE) 
+(0.03+ – 11.3+) 
+9.4 (7.9, 10.8) 
+N = 22 
+NE 
+(10.0, NE) 
+(1.5+ – 11.3+) 
+N = 12 
+3.4 
+(1.0, NE) 
+(0.03+ – 11.3+) 
+Abbreviations: CR, Complete Response; DOR, Duration of Response; NE, not estimable; PR, partial response. 
+aAmong all responders. DOR measured from date of first objective response to date of progression or death from relapse. 
+bKaplan-Meier estimate in months. 
+cA + sign indicates a censored value. 
+14.3 
+Adult Relapsed or Refractory Follicular Lymphoma 
+The efficacy of KYMRIAH was evaluated in a multicenter, single-arm, open-label trial (ELARA, Study 3; 
+NCT03568461) that included patients who were refractory to or relapsed within 6 months after completion of two or more 
+lines of systemic therapy (including an anti-CD20 antibody and an alkylating agent), relapsed during or within six months 
+after completion of an anti-CD20 antibody maintenance therapy following at least two lines of therapy, or relapsed after 
+autologous hematopoietic stem cell transplant (HSCT). The trial excluded patients with active or serious infections, 
+transformed lymphoma, or other aggressive lymphomas, prior allogeneic HSCT, or disease with active CNS involvement. 
+Following lymphodepleting (LD) chemotherapy, KYMRIAH was administered as a single dose intravenous infusion with 
+a target dose of 0.6 to 6.0 × 108 CAR-positive viable T cells. The median dose administered was 2.06 × 108 CAR-positive 
+viable T-cells (range, 0.1 to 6.0 × 108 CAR-positive viable T cells). The LD chemotherapy regimen consisted of either 
+fludarabine (25 mg/m2 intravenously daily for 3 days) and cyclophosphamide (250 mg/m2 intravenously daily for 3 days 
+starting with the first dose of fludarabine) or bendamustine (90 mg/m2 IV daily for 2 days); bridging chemotherapy 
+between leukapheresis and LD chemotherapy was permitted as needed. Of the 90 patients included in the primary efficacy 
+analysis, 40 patients (45%) were treated with bridging therapies. The most commonly used agents (in ≥ 5% of patients) 
+were rituximab (22%), dexamethasone (13%), gemcitabine (12%), prednisone (11%), oxaliplatin (8%), etoposide (8%), 
+and vincristine (6%). 
+Of 98 patients who were enrolled and underwent leukapheresis, 97 patients received infusion with KYMRIAH and one 
+patient without measurable disease did not receive KYMRIAH. There were no manufacturing failures for the 98 enrolled 
+patients. Of the 97 patients infused with KYMRIAH, the efficacy evaluable population, as specified in the protocol, 
+included the first 90 patients with measurable disease who received KYMRIAH consecutively and had at least 9 months 
+follow-up from first objective response or discontinued earlier. 
+Among the 90 patients with FL included in the efficacy analysis, the median age was 58 years (range, 29 to 73 years), 
+31% were female, 78% were White, 10% were Asian, and 1% were Black or African American. The median number of 
+prior therapies was 4 (range, 2 to 13), with 24% receiving 2 prior lines, 21% receiving 3 prior lines, and 54% receiving ≥4 
+prior lines. Eighty-seven percent had Stage III-IV disease at study entry, 64% had bulky disease, 36% had a prior 
+autologous HSCT, 79% were refractory to the most recent regimen, and 66% had progression within 24 months of 
+initiating their first anti-CD20 combination therapy (POD24). 
+Efficacy was established on the basis of objective response rate and duration of response (DOR) as determined by an 
+independent review committee (Table 14 and Table 15). The first disease assessment was scheduled to be performed at 
+Month 3 post-infusion; the median time to first response was 2.9 months (range, 0.6 to 6.0 months). All responders 
+achieved their response (complete response [CR] or partial response [PR]) at the first performed post-infusion disease 
+assessment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 14. Response Rates in Patients with Relapsed or Refractory FL 
+Response 
+Primary efficacy population 
+N = 90 
+All leukapheresed patients 
+N = 98 
+Overall response rate (ORR), n (%) 
+(95% CI) 
+77 (86%) 
+(76.6, 92.1) 
+84 (86%) 
+(77.2, 92.0) 
+Complete response rate (CRR)a,b, n (%) 
+61 (68%) 
+66 (67%) 
+(95% CI) 
+(57.1, 77.2) 
+(57.1, 76.5) 
+aTwo patients, included in the Primary Efficacy Population, with best overall response of CR, had their disease relapsed more than 6 months 
+after the last line of therapy. 
+bOf the 30 patients who initially achieved a PR, 14 patients (47%) converted to a CR, including 10 patients at the next subsequent visit and 
+within 6 months post-infusion. 
+Table 15. Duration of Response in Patients with Relapsed or Refractory FL 
+From N = 90 
+Overall DOR, months 
+N = 77 
+Median (95% CI)a,b 
+NE (15.6, NE) 
+Rangec 
+(0.03+, 21.1+)
+ 
+Median Follow-up
+9.1* 
+% event-free probability 
+At 9 months (95% CI) 
+75.2 (63.5, 83.6) 
+At 12 months (95% CI) 
+70.8 (58.0, 80.3) 
+DOR if best response is CR, months 
+N = 61 
+Median (95% CI)a,b 
+NE (15.6, NE) 
+Rangec 
+(2.7, 21.1+) 
+% event-free probability 
+At 9 months (95% CI) 
+87.7 (75.8, 93.9) 
+At 12 months (95% CI) 
+85.2 (72.2, 92.4) 
+Abbreviations: CR, complete response; DOR, duration of response; NE, not estimable. 
+*The first disease assessment was scheduled to be performed at Month 3 post-infusion. The median follow up is the time from first objective 
+response to last disease assessment. 
+aAmong responders. DOR measured from date of first objective response to date of progression or death from relapse. 
+bKaplan-Meier estimate in months. 
+cA + sign indicates a censored value. 
+15 
+REFERENCES 
+1. Porter DL, Hwang WT, Frey N, et al. (2015). Chimeric antigen receptor T cells persist and induce sustained remissions 
+in relapsed refractory chronic lymphocytic leukemia (Table S4A). Sci. Transl Med; 7(303):303ra139. DOI: 
+10.1126/scitranslmed.aac5415. 
+2. Lee DW, Gardner R, Porter DL, et al. (2014). Current concepts in the diagnosis and management of cytokine release 
+syndrome. Blood; 124(2):188-95. 
+3. Lee DW, Santomasso BD, Locke FL, et al. (2019) ASTCT Consensus Grading for Cytokine Release Syndrome and 
+Neurologic Toxicity Associated with Immune Effector Cells. Biol Blood Marrow Transplant; 25(4):625-38. 
+4. Santomosso BD, Nastoupil LJ, Adkins S, et al. (2021) Management of Immune-Related Adverse Events in Patients 
+Treated With Chimeric Antigen Receptor T-Cell Therapy: ASCO Guideline. J Clin Oncol; 39(35):3978-92. 
+16 
+HOW SUPPLIED/STORAGE AND HANDLING 
+KYMRIAH is supplied as a frozen suspension of genetically modified autologous T cells in an infusion bag(s) labeled for 
+the specific recipient. KYMRIAH is shipped directly to the cell lab associated with the infusion center in a liquid nitrogen 
+Dewar. Product and patient-specific labels are located inside the Dewar. 
+Ped ALL: NDC 0078-0846-19 
+DLBCL and FL: NDC 0078-0958-19 
+• 
+Confirm patient identity upon receipt. 
+• 
+Store infusion bag(s) in a temperature-monitored system less than or equal to minus 120°C, e.g., in the vapor phase of 
+liquid nitrogen. 
+• 
+Use closed, break-proof, leak-proof containers when transporting infusion bags within the facility. 
+• 
+Thaw KYMRIAH prior to infusion [see Dosage and Administration (2)]. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+PATIENT COUNSELING INFORMATION 
+Advise the patient to read the FDA-approved patient labeling (Medication Guide). 
+Ensure that patients understand the risk of manufacturing failure. This has been reported in up to 9% of manufacturing 
+attempts. In case of a manufacturing failure, a second manufacturing of KYMRIAH may be attempted. In addition, while 
+the patient awaits the product, additional chemotherapy (not the lymphodepletion) may be necessary and may increase the 
+risk of adverse events during the pre-infusion period. 
+Prior to infusion, advise patients of the following risks: 
+• 
+Cytokine Release Syndrome (CRS) -- Report signs and symptoms of CRS (high fever, difficulty breathing, 
+chills/shaking chills, severe nausea, severe vomiting, severe diarrhea, severe muscle pain, severe joint pain, very 
+low blood pressure, or dizziness/lightheadedness) to their healthcare professional [see Warnings and Precautions 
+(5.1), Adverse Reactions (6.1)]. 
+• 
+Neurological Toxicities -- Report altered or decreased consciousness, delirium, confusion, agitation, seizures, 
+difficulty speaking and understanding, or loss of balance to their healthcare professional [see Warnings and 
+Precautions (5.2), Adverse Reactions (6.1)]. 
+• 
+Hemophagocytic Lymphohistiocytosis (HLH)/Macrophage Activation Syndrome (MAS) -- Presenting signs and 
+symptoms are similar to those of CRS and infections [see Warnings and Precautions (5.3), Adverse Reactions 
+(6.1)]. 
+• 
+Serious Infections -- KYMRIAH may cause serious infections. Advise patients that they will be screened for 
+HBV, HCV, and HIV before collection of cells [see Warnings and Precautions (5.5), Adverse Reactions (6.1)]. 
+• 
+Hypogammaglobulinemia -- Patients may need to receive immunoglobulin replacement for an indefinite amount 
+of time following treatment with KYMRIAH. Patients should tell their physician about their treatment with 
+KYMRIAH before receiving a live vaccine [see Warnings and Precautions (5.7), Adverse Reactions (6.1)]. 
+• 
+Prolonged Cytopenia -- Patient may exhibit signs or symptoms associated with bone marrow suppression (i.e., 
+neutropenia, thrombocytopenia and anemia) for several weeks following lymphodepleting chemotherapy and 
+KYMRIAH [see Warnings and Precautions (5.6)]. 
+• 
+Secondary Malignancies -- Secondary malignancies, including T cell malignancies, have occurred [see Boxed 
+Warning, Warnings and Precautions (5.8), Adverse Reactions (6.2)]. 
+Advise patients of the need to: 
+• 
+Patients should be instructed to contact Novartis Pharmaceuticals Corporation at 1-844-4KYMRIAH if they get 
+secondary malignancies [see Warnings and Precautions (5.8)]. 
+• 
+Avoid driving for at least 2 weeks. 
+Distributed by: 
+Novartis Pharmaceuticals Corporation 
+East Hanover, New Jersey 07936 
+US License Number 1244 
+© Novartis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEDICATION GUIDE 
+KYMRIAH® (pronounced KIM-RYE-AH) 
+(tisagenlecleucel) 
+suspension, for intravenous infusion 
+Read this Medication Guide before you start your KYMRIAH treatment. The more you know 
+about your treatment, the more active you can be in your care. Talk with your healthcare 
+provider if you have questions about your health condition or treatment. Reading this 
+Medication Guide does not take the place of talking with your healthcare provider about your 
+treatment. 
+What is the most important information I should know about KYMRIAH? 
+KYMRIAH may cause side effects that are severe or life-threatening. Call your healthcare 
+provider or get emergency help right away if you get any of the following: 
+• 
+difficulty breathing 
+• 
+fever (100.4°F/38°C or higher) 
+• 
+chills/shaking chills 
+• 
+confusion 
+• 
+severe nausea, vomiting, diarrhea 
+• 
+severe muscle or joint pain 
+• 
+very low blood pressure 
+• 
+dizziness/lightheadedness 
+It is important that you tell your healthcare providers that you have received KYMRIAH. Your 
+healthcare providers may give you other medicines to treat your side effects. 
+What is KYMRIAH? 
+KYMRIAH is made from your own white blood cells and is a prescription cancer treatment 
+used in patients up to 25 years old who have acute lymphoblastic leukemia (ALL) that is 
+either relapsing (went into remission, then came back) or refractory (did not go into 
+remission after receiving other leukemia treatments). It is also used in patients with large B-
+cell lymphoma or follicular lymphoma, two types of non-Hodgkin lymphoma, that have 
+relapsed or are refractory after having at least two other kinds of treatment. 
+How will I get KYMRIAH? 
+Since KYMRIAH is made from your own white blood cells, your healthcare provider has to take 
+some of your blood. This is called “leukapheresis.” It takes 3 to 6 hours and may need to be 
+repeated. A tube (intravenous catheter) will be placed in your vein to collect your blood. 
+Your blood cells are frozen and sent to the manufacturing site to make KYMRIAH. It takes 
+about 3-4 weeks from the time your cells are received at the manufacturing site and shipped 
+back to your healthcare provider, but the time may vary. 
+While waiting for KYMRIAH to be made, your healthcare provider may give you therapy to 
+stabilize your cancer. 
+In addition, before you get KYMRIAH, your healthcare provider may give you chemotherapy 
+for a few days to prepare your body. 
+When your body is ready, your healthcare provider will give you KYMRIAH through a tube 
+(intravenous catheter) in your vein. This usually takes less than one hour. 
+You should plan to stay close to a healthcare facility for at least 2 weeks after getting 
+KYMRIAH. Your healthcare provider will check to see if your treatment is working and help 
+you with any side effects that occur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What should I avoid after receiving KYMRIAH? 
+• 
+Avoid driving for at least 2 weeks after you get KYMRIAH. 
+• 
+Do not donate blood, organs, tissues, sperm, oocytes, and other cells. 
+What are the possible or reasonably likely side effects of KYMRIAH? 
+The most common side effects of KYMRIAH are: 
+• 
+difficulty breathing 
+• 
+fever (100.4°F/38°C or higher) 
+• 
+chills/shaking chills 
+• 
+confusion 
+• 
+severe nausea, vomiting, diarrhea 
+• 
+severe muscle or joint pain 
+• 
+very low blood pressure 
+• 
+dizziness/lightheadedness 
+• 
+headache 
+KYMRIAH can increase the risk of life-threatening infections that may lead to death. Tell your 
+healthcare provider right away if you develop fever, chills, or any signs or symptoms of an 
+infection. 
+KYMRIAH can lower one or more types of your blood cells (red blood cells, white blood cells, 
+or platelets). After treatment, your healthcare provider will test your blood to check for this. 
+Tell your healthcare provider right away if you get a fever, are feeling tired, weak, or short of 
+breath, or have bruising or bleeding. 
+Having KYMRIAH in your blood may cause a false-positive HIV test result by some commercial 
+tests. 
+KYMRIAH may increase your risk of getting cancers, including certain types of blood cancers. 
+Your healthcare provider should monitor you for this. 
+These are not all the possible side effects of KYMRIAH. Call your doctor for medical advice 
+about side effects. You may report side effects to FDA at 1-800-FDA-1088. 
+General information about the safe and effective use of KYMRIAH. 
+Medicines are sometimes prescribed for purposes other than those listed in a Medication 
+Guide. 
+Do not use KYMRIAH for a condition for which it was not prescribed. 
+Talk to your healthcare provider about any concerns. You can ask your healthcare provider for 
+information about KYMRIAH that is written for healthcare professionals. 
+Distributed by: 
+Novartis Pharmaceuticals Corporation, East Hanover, New Jersey 07936. 
+US License Number 1244 
+© Novartis 
+For more information, go to KYMRIAH.com or call 1-888-669-6682. 
+This Medication Guide has been approved by the U.S. Food and Drug Administration. 
+ Revised: June 2025 

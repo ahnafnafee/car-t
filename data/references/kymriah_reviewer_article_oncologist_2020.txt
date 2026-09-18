@@ -1,0 +1,497 @@
+                                                                                            Regulatory Issues: EMA
+
+
+
+
+The European Medicines Agency Review of Kymriah
+(Tisagenlecleucel) for the Treatment of Acute Lymphoblastic
+Leukemia and Diffuse Large B-Cell Lymphoma
+SAHRA ALI,d RUNE KJEKEN,e CHRISTIANE NIEDERLAENDER,f GREG MARKEY,f THERESE S. SAUNDERS,a,e MONA OPSATA,a,e KRISTINE MOLTU,a,e
+BJØRN BREMNES,a,e EIRIK GRØNEVIK,a,e MARTINE MUUSSE,a,e GRO D. HÅKONSEN,a,e VENKE SKIBELI,a,e MARIA ELISABETH KALLAND,a,e
+INGRID WANG,a,e INGEBJØRG BUAJORDET,a,e ANIA URBANIAK,a,e JOHN JOHNSTON,f KHADIJA RANTELL,f ESSAM KERWASH,f
+
+
+
+
+                                                                                                                                                     Downloaded from academic.oup.com/oncolo/article/25/2/e321/6443357 by guest on 17 September 2026
+MARTINA SCHUESSLER-LENZ,b,g TOMAS SALMONSON,a,h JONAS BERGH,c,i,j CHRISTIAN GISSELBRECHT,c,k KYRIAKI TZOGANI,d
+IRENE PAPADOULI,d FRANCESCO PIGNATTId
+a
+  Committee for Medicinal Products for Human Use, bCommittee for Advanced Therapies, cScientiﬁc Advisory Group, and dEuropean
+Medicines Agency, Amsterdam, The Netherlands; eNorwegian Medicines Agency, Oslo, Norway; fMedicines and Healthcare Products
+Regulatory Agency, London, United Kingdom; gPaul-Ehrlich-Institut, Langen, Germany; hMedical Products Agency, Uppsala, Sweden;
+i
+  Department of Oncology and Pathology, Karolinska Institutet, Stockholm, Sweden; jKarolinska University Hospital BioClinicum, New
+Karolinska Hospital, Solna, Sweden; kInstitut d’Hématologie, Hôpital Saint Louis, Paris, France
+Disclosures of potential conﬂicts of interest may be found at the end of this article.
+Key Words. Acute lymphoblastic leukemia • Diffuse large B-cell lymphoma • Chimeric antigen receptor •
+Kymriah (Tisagenlecleucel, CTL019) • Replication-competent lentivirus • Cytokine release syndrome
+
+
+
+
+    ABSTRACT
+    Chimeric antigen receptor (CAR)–engineered T-cell therapy                       of a transgene encoding a CAR. The beneﬁt of Kymriah was
+    is becoming one of the most promising approaches in the                         its ability to achieve remission with a signiﬁcant duration in
+    treatment of cancer. On June 28, 2018, the Committee for                        patients with ALL and an objective response with a signiﬁ-
+    Advanced Therapies (CAT) and the Committee for Medicinal                        cant duration in patients with DLBCL. The most common
+    Products for Human Use (CHMP) of the European Medi-                             hematological toxicity was cytopenia in both patients with
+    cines Agency adopted a positive opinion, recommending                           ALL and those with DLBCL. Nonhematological side effects in
+    the granting of a marketing authorization for the medicinal                     patients with ALL were cytokine release syndrome (CRS),
+    product Kymriah for pediatric and young adult patients up                       infections, secondary hypogammaglobulinemia due to B-cell
+    to 25 years of age with B-cell acute lymphoblastic leukemia                     aplasia, pyrexia, and decreased appetite. The most common
+    (ALL) that is refractory, in relapse after transplant, or in sec-               nonhematological side effects in patients with DLBCL were
+    ond or later relapse and for adult patients with relapsed or                    CRS, infections, pyrexia, diarrhea, nausea, hypotension, and
+    refractory diffuse large B-cell lymphoma (DLBCL) after two                      fatigue. Kymriah also received an orphan designation on
+    or more lines of systemic therapy. Kymriah became one of                        April 29, 2014, following a positive recommendation by the
+    the ﬁrst European Union–approved CAR T therapies. The                           Committee for Orphan Medicinal Products (COMP). Mainte-
+    active substance of Kymriah is tisagenlecleucel, an autolo-                     nance of the orphan designation was recommended at the
+    gous, immunocellular cancer therapy that involves repro-                        time of marketing authorization as the COMP considered
+    gramming the patient’s own T cells to identify and                              the product was of signiﬁcant beneﬁt for patients with both
+    eliminate CD19-expressing cells. This is achieved by addition                   conditions. The Oncologist 2020;25:e321–e327
+
+
+    Implications for Practice: Chimeric antigen receptor (CAR)–engineered T-cell therapy is becoming the most promising
+    approach in cancer treatment, involving reprogramming the patient’s own T cells with a CAR-encoding transgene to identify
+    and eliminate cancer-speciﬁc surface antigen–expressing cells. On June 28, 2018, Kymriah became one of the ﬁrst EMA
+    approved CAR T therapies. CAR T technology seems highly promising for diseases with single genetic/protein alterations; how-
+    ever, for more complex diseases there will be challenges to target clonal variability within the tumor type or clonal evolution
+    during disease progression. Products with a lesser toxicity proﬁle or more risk-minimization tools are also anticipated.
+
+
+
+    Correspondence: Sahra Ali, FRCPath, M.D., National Seconded Expert (NSE), European Medicines Agency, Spark Building, Orlyplein 24, 1043
+    DP Amsterdam, The Netherlands. Telephone: 20-31-88-781-6000; e-mail: sahra.ali@ema.europa.eu Received March 28, 2019; accepted for
+    publication July 31, 2019; published Online First on October 16, 2019. http://dx.doi.org/10.1634/theoncologist.2019-0233
+
+
+    The Oncologist 2020;25:e321–e327 www.TheOncologist.com                                                              © AlphaMed Press 2019
+e322                                                                        The European Medicines Agency Review of Kymriah
+
+
+INTRODUCTION
+Acute Lymphoblastic Leukemia
+Treatment strategies for children and adolescents with acute
+lymphoblastic leukemia (ALL) have developed greatly over the
+past few decades, leading to a cure in up to 90% of cases [1, 2].
+    However, relapses occur and still present the most com-
+mon cause of treatment failure in childhood ALL, occurring
+in about 15%–20% of patients. Survival of relapsed patients
+can be predicted by site of relapse, length of ﬁrst complete
+remission, and immunophenotype of relapsed ALL [3]. Stan-
+dard salvage regimens for relapsed ALL are still mostly
+based on different combinations of the same agents used in
+frontline therapy in various doses and schedules [4–6].
+
+
+
+
+                                                                                                                                       Downloaded from academic.oup.com/oncolo/article/25/2/e321/6443357 by guest on 17 September 2026
+    Postrelapse prognosis and survival are poor, with esti-
+mated survival rates of 22% at 1 year and 7% at 5 years. Fac-
+tors predicting a good outcome after salvage therapy were
+young age OS 12% in patients aged <20 years vs. 3% in
+patients aged >50 years; p < .001) and short duration of ﬁrst
+remission (CR1; OS, 11% in patients with a CR1 of >2 years          Figure 1. Structure of chimeric antigen receptor construct.
+vs. 5% in patients with a CR1 of <2 years; p < .001) [7].           Abbreviations: VH, heavy chain variable region; VL, light chain
+                                                                    variable region.
+Diffuse Large B-Cell Lymphoma
+The frontline standard of care for patients with diffuse large      CD3-ζ component is critical for initiating T-cell activation and
+B-cell lymphoma (DLBCL) includes a combination of CHOP              antitumor activity, whereas 4-1BB enhances the expansion
+(cyclophosphamide, vincristine, doxorubicin, and prednisone)        and persistence of tisagenlecleucel. Upon binding to CD19-
+with rituximab (R-CHOP) [8].                                        expressing cells, the CAR transmits a signal promoting T-cell
+    The addition of rituximab, a monoclonal antibody directed       expansion and persistence of tisagenlecleucel (Fig. 1).
+against CD20, to ﬁrst-line chemotherapy has improved the out-           The tisagenlecleucel (murine) HIV-1 vector is a replication-
+come of patients with DLBCL, resulting in a survival rate of        defective, recombinant, third-generation self-inactivating
+about 75% at 6 years [9]. However, 30%–50% of the patients          lentiviral vector derived from the HIV-1 lentiviral genome. It
+do not have long-term beneﬁt from ﬁrst-line therapy (approxi-       encodes a CAR against human CD19 expressed under the con-
+mately 30% relapse and 20% have refractory disease) [10].           trol of the human elongation factor 1α promoter (Fig. 2).
+    For patients who are deemed eligible for high-dose che-             CTL019 tisagenlecleucel lentiviral vector is designed to
+motherapy and autologous stem cell transplant (HD-ASCT)             minimize the likelihood of replication-competent lentivirus
+based on adequate performance status (deﬁned by age and             (RCL) emergence, as packaging plasmids are provided in trans
+absence of major organ dysfunctions), clinical treatment            and split on to three different plasmids. Plasmid sequences
+guidelines for patients with relapsed/refractory (r/r) DLBCL        have been optimized to have minimal homology with the
+recommend salvage therapy with platinum-based chemo-                parental HIV in order to minimize the chance of homologous
+therapy regimens followed by HD-ASCT. However, about half           recombination. Therefore, formation of RCL in patients is
+of patients with r/r DLBCL are not eligible for autologous          considered highly unlikely. Horizontal gene transfer of
+stem cell transplant because of advanced age and/or                 tisagenlecleucel lentiviral vector sequences could only happen
+comorbidities. Furthermore, among patients suitable for             upon generation of RCL in a signiﬁcant number of patients,
+HD-ASCT, only about half will have a response to salvage            after administration of Kymriah, and RCL being shed into the
+therapy that is sufﬁcient for proceeding to HD-ASCT [11, 12].       environment. This would require co-infection of CAR T cells
+In addition, of patients proceeding to HD-ASCT, 60%                 together with retroviruses with sufﬁcient sequence homolo-
+will relapse after transplant. Clinical studies, palliative         gies for recombination to occur, which is highly improbable
+chemotherapy, and in rare cases a second HD-ASCT or                 because the risk of RCL formation has been reduced to the
+allogeneic stem cell transplant are some of the options             minimum. Thus, the likelihood of the overall risk for the envi-
+available for these patients [8].                                   ronment was also considered to be negligible.
+
+
+KYMRIAH                                                             CLINICAL PHARMACOLOGY
+Kymriah (tisagenlecleucel, CTL019) is an autologous, immuno-        After the infusion of Kymriah into pediatric and young adult
+cellular cancer therapy that involves reprogramming the             patients with r/r B-cell ALL and r/r DLBCL, Kymriah typically
+patient’s own T cells with a transgene encoding a chimeric          exhibited an initial rapid expansion followed by a slower
+antigen receptor (CAR) to identify and eliminate CD19-              biexponential decline. In patients with ALL, tisagenlecleucel
+expressing cells. The CAR is composed of a murine single-chain      was present in the blood and bone marrow beyond 2 years,
+antibody fragment that recognizes CD19 and is fused to intra-       whereas in patients with DLBCL with complete response,
+cellular signaling domains from 4-1BB (CD137) and CD3-ζ. The        tisagenlecleucel was detected for up to 2 years in peripheral
+
+
+© AlphaMed Press 2019
+Ali, Kjeken, Niederlaender et al.                                                                                                    e323
+
+
+                                                                   Table 1. Study B2202: BOR and ORR at 3 months
+                                                                   post–tisagenlecleucel infusion by independent review
+                                                                   committee assessment FAS
+
+Figure 2. Genetic structure of the integrated vector.              BOR                                 n (%)                      p value
+Abbreviations: ΔU3, U3 region; cPPT, central polypurine tract;     Interim efﬁcacy analysis of
+CTL019, tisagenlecleucel; EF1α, human elongation factor 1α;           ﬁrst patients to receive
+LTR, long terminal repeat; nt, nucleotides; RRE, Rev response         tisagenlecleucel infusion
+elements; SIN, self-inactivating; WPRE, woodchuck hepatitis           (n = 50)
+virus posttranscriptional response element.                           CR                               34 (68.0)
+                                                                      CRi                               7 (14.0)
+blood and up to month 9 in bone marrow. There was no appar-           No response or unknown            9 (18.0)
+ent relationship between cellular kinetic and dose or body
+                                                                     ORR (CR + CRi), n (%)             41 (82.0) [68.6–91.4]      <.0001a
+weight. In the pediatric group, a high tumor burden at baseline          [95% CI]
+resulted in higher expansion of CAR T cells. Tocilizumab (used
+                                                                   Full analysis set: April 25,
+
+
+
+
+                                                                                                                                            Downloaded from academic.oup.com/oncolo/article/25/2/e321/6443357 by guest on 17 September 2026
+for treatment of cytokine release syndrome [CRS]) was not            2017, cutoff (n = 75)
+shown to have an impact on the cellular kinetics of
+                                                                     CR                                45 (60.0)
+tisagenlecleucel, as the transgene continued to expand and
+persist following tocilizumab administration. Treatment-             CRi                               16 (21.3)
+induced anti-murine CAR19 antibodies were shown in 34.6%             No response                        6 (8.0)
+of pediatric and young adult patients with ALL and in 5% of          Unknown                            8 (10.7)
+adult patients with DLBCL. However, preexisting and                  ORR (CR + CRi), n (%)             61 (81.3) [70.7–89.4]      <.0001b
+treatment-induced antibodies were not associated with an               [95% CI]
+impact on clinical response, nor did they have an impact on         a
+                                                                      Indicates statistical signiﬁcance (one-sided) at the .0057 level so
+the expansion and persistence of tisagenlecleucel.                  that the null hypothesis that ORR ≤ 0.2 is rejected.
+                                                                    b
+                                                                      No formal signiﬁcance testing was conducted. Nominal p value is
+                                                                    presented.
+                                                                    Abbreviations: BOR, best overall disease response; CI, conﬁdence
+DOSE RESPONSE STUDIES                                               interval; CR, complete response; CRi, complete response with incom-
+For patients with ALL, the relationship between tisagen-            plete recovery; FAS, full analysis set; ORR, overall response rate.
+lecleucel dose and response (efﬁcacy and safety) was
+explored. We observed an increasing trend in probability of
+response for doses between 0.1 × 108 and 1.0 × 108 total           determine the efﬁcacy and safety of Kymriah in pediatric
+CAR-positive T cells per kilogram for patients weighing >50 kg     patients with relapsed and refractory B-cell ALL). An interim
+and between 0.2 × 106 and 1.5 × 106 CAR-positive viable            analysis was conducted of the ﬁrst 50 patients infused with
+T cells per kilogram for patients weighing ≤50 kg. The dose        Kymriah who had completed 3 months from study day 1 infu-
+had no signiﬁcant impact on grade 3–4 CRS in general,              sion or had discontinued earlier (Table 1). The interim analy-
+although there was a slight trend for increased risk of grade      sis was performed by testing the null hypothesis of overall
+4 CRS with higher dose for patients weighing ≤50 kg.               response rate (ORR) within 3 months being less than or equal
+    The protocol-speciﬁed dose range in the pivotal study of r/r   to 20% against the alternative hypothesis of ORR within
+DLBCL (C2201) was based on the experience in the University of     3 months being greater than 20% at an overall one-sided
+Pennsylvania (UPCC13413) study in r/r lymphoma (18 patients        2.5% level of signiﬁcance based on a previous clofarabine
+with DLBCL, 8 patients with follicular lymphoma) [13], and pre-    study response rate in the same population [15].
+liminary clinical experiences also were taken into consideration        The full analysis of the study showed a signiﬁcant
+[14]. Some patients were given tisagenlecleucel even though the    improved ORR: 61 of the 75 infused patients (81.3%) had a
+recommended dose of viable CAR T cells was not met, because        best overall disease response (BOR) of CR or CRi [16].
+other effective treatment options were not available. Patients          Regarding the secondary endpoints, the proportion of
+who received doses below and above the target dose range           patients with BOR and minimal residual disease (MRD)–
+had response rates similar to those of patients who received       negative bone marrow (i.e., MRD <0.01%) at 3 months after
+doses within the protocol-speciﬁed dose.                           Kymriah infusion was 61/75 (81.3%; 95% conﬁdence interval
+    A rapid loss of transgene and limited expansion were           [CI], 70.7–89.4). The majority of patients who had a CR or
+observed in patients with CD19-positive relapsed disease           CRi after Kymriah treatment achieved a sustained response,
+compared with patients with sustained complete response            and a median duration of response (DOR) per independent
+(CR) or complete response with incomplete recovery (CRi).          review committee assessment was not reached at the pri-
+On the other hand, we noticed that patients with CD19-             mary data cutoff (median follow-up time of 7.5 months).
+negative relapse evaded CAR T-cell–mediated recognition                 Patients in the B2202 study reported improvements in
+and clearance despite having persistent transgene.                 health-related quality-of-life outcomes at 3 and 6 months
+                                                                   among responders to therapy. Tisagenlecleucel infusion led
+                                                                   to a decrease in the severity of problems as measured by
+EFFICACY DATA                                                      the emotional, social, physical, and psychosocial health
+For the ALL indication, efﬁcacy results were based on the piv-     subscales as well as mobility, self-care, usual activities,
+otal study B2202 (a phase II, single-arm, multicenter trial to     pain/discomfort, and anxiety/depression as assessed via the
+
+
+www.TheOncologist.com                                                                                          © AlphaMed Press 2019
+e324                                                                          The European Medicines Agency Review of Kymriah
+
+EQ-5D questionnaire [17]. Thus, results indicate a meaning-          Table 2. Study C2201: ORR and DOR results in the
+ful improvement in patients responding to treatment.                 intention-to-treat population
+     For the DLBCL indication, the pivotal C2201 phase II                                                         Enrolled patients
+study was an open-label, multicenter, single-arm study in            Primary endpoint                             (n = 165)
+adult patients with r/r DLBCL.                                       ORR (CR + PR), n (%) [95% CI]                 56 (33.9) [26.8–41.7]
+     Of 147 patients enrolled, 99 patients received infusion
+                                                                       CR, n (%)                                   40 (24.2)
+with Kymriah; this was for the following reasons: ﬁve infusions
+were pending at the time of analysis, Kymriah could not be             PR, n (%)                                   16 (9.7)
+manufactured for 9 patients, there were 16 deaths prior to           Response at month 3 (n = 165)
+Kymriah infusion, physician decision in 12 patients, subject           ORR, n (%)                                  39 (23.6)
+decision in 3 patients, adverse events in 2 patients, and proto-       CR, n (%)                                   33 (20.0)
+col deviation in 1 patient. The majority of the patients in the      Response at month 6 (n = 165)
+C2201 study had relapsed or were refractory to either two or
+                                                                       ORR, n (%)                                  34 (20.6)
+three prior therapies (75.7%). With the updated cutoff in the
+
+
+
+
+                                                                                                                                             Downloaded from academic.oup.com/oncolo/article/25/2/e321/6443357 by guest on 17 September 2026
+C2201 study, 165 patients were enrolled, 111 of whom were              CR, n (%)                                   30 (18.2)
+infused.                                                             DOR (n = 56)
+     Among the 99 patients who received tisagenlecleucel               Median [95% CI], months                    Not reached [10.0, NE]
+infusion, 89 patients (90%) had received antineoplastic ther-          Relapse-free probability at 6              66.7
+apy after enrollment and prior to tisagenlecleucel infusion.             months, %
+The most frequently used (≥15% of patients) bridging thera-            Relapse-free probability at 12             63.7
+pies were rituximab (54.5%), gemcitabine (38.4%), dexameth-              months, %
+asone (25.3%), etoposide (22.2%), cytarabine (19.2%), cisplatin       Abbreviations: CI, conﬁdence interval; CR, complete response; DOR,
+(18.2%), and cyclophosphamide (15.2%). The median time                duration of response; NE, not evaluable; ORR, overall response rate;
+from the end of the last antineoplastic therapy (prior to             PR, partial response.
+screening) to enrollment was longer in the long-term
+responders (5.1 months) than in the nonresponders (2.8
+                                                                     within 8 weeks postinfusion; adverse events within 8 weeks
+months). The proportion of patients with lymphomas of double
+                                                                     and after 8 weeks postinfusion were reported in 84.8% and
+or triple hits in myc, bcl2, and bcl6 genes was also lowest in the
+                                                                     28.2% of patients, respectively. No adverse reactions were
+long-term responders. The manufacturing time in this study
+                                                                     reported after more than 1 year postinfusion.
+was longer than has been seen with other CAR T-cell products.
+At the time of the primary analysis (data cut off [DCO], March
+8, 2017; 99 patients infused), the median time from enrollment       Cytokine Release Syndrome
+in the C2201 study to infusion was 54 days (range,                   The most frequently reported drug reaction was CRS (ALL
+30–357 days), with a median time from screening to infusion of       indication, 80.8% in the summary of clinical safety pool and
+119 days (range, 49–396 days). This considerable time span           DLBCL indication, 57.7%). In almost all cases, development
+from screening and enrollment to infusion was a concern,             of CRS occurred between 1 and 10 days (median onset,
+especially as tisagenlecleucel is intended for the treatment         3 days) after Kymriah infusion. The median time to resolu-
+of patients with an advanced disease expected to progress            tion of CRS was 7 days. CRS was reversible in most cases
+rapidly.                                                             and was managed with supportive care and as-needed anti-
+     The pivotal study was designed to evaluate efﬁcacy              cytokine therapy. Approximately half of the patients with
+based on the infused patient population. However, for the            CRS required intensive care unit–level care (56.0%) at a
+efﬁcacy outcomes, the results based on the intention-to-             median of 6 days after the infusion, where they remained
+treat (ITT) population (all enrolled patients) was considered        for a median duration of 7 days.
+the most relevant analysis set from the point of view of the             CRS is managed solely based on clinical presentation and
+scientiﬁc assessment. The ORR was 33.9% (Table 2).                   according to the CRS management algorithm. Anti–IL-6–based
+                                                                     therapy such as tocilizumab has been administered for moder-
+                                                                     ate or severe CRS associated with Kymriah, and a minimum of
+                                                                     four doses of tocilizumab must be on site and available for
+CLINICAL SAFETY
+                                                                     administration prior to Kymriah infusion. Corticosteroids may
+ALL Indication and DLBCL Indication                                  be administered in cases of life-threatening emergencies.
+Grade 3 or 4 adverse reactions were reported in 88% of               Patients with medically signiﬁcant cardiac dysfunction should
+patients with ALL. The most common grade 3 or 4 non-                 be managed by standards of critical care, and measures such
+hematological adverse reaction was CRS (47%). The most               as echocardiography should be considered. Tumor necrosis
+common grade 3 and 4 hematological laboratory abnormali-             factor antagonists are not recommended for management of
+ties were leucopenia (99%), neutropenia (95%), lymphopenia           Kymriah-associated CRS.
+(95%), thrombocytopenia 77%), and anemia (53%).
+    Adverse reactions noted in patients with DLBCL were              Neurological Events
+similar to those in the ALL population. Grade 3 or 4 CRS             Neurological events were of concern, observed in 38% of
+incidence was 22%, and infection incidence was 24%. In the           patients with ALL and in 21% of patients with DLBCL. Neuro-
+DLBCL indication, adverse events were primarily observed             logical events could be concurrent with cytokine release
+
+
+© AlphaMed Press 2019
+Ali, Kjeken, Niederlaender et al.                                                                                               e325
+
+
+syndrome, following resolution of cytokine release syndrome,         BENEFIT-RISK ASSESSMENT
+or in the absence of cytokine release syndrome. The majority         Results from the B2202 study demonstrated that a single
+of neurologic events occurred in the ﬁrst 30 days after infu-        infusion with tisagenlecleucel showed a signiﬁcant increase
+sion. Neurological events occurring during the ﬁrst 8 weeks          of ORR in patients with aggressive relapsed or refractory ALL.
+postinfusion most commonly included agitation, encephalop-           Despite the limited follow-up, results from time-dependent
+athy, seizures, tremor, confusional state, delirium, irritability,   endpoints such as DOR, event-free survival, and OS provided
+and somnolence. Other manifestations included aphasia                support for sustained beneﬁt of tisagenlecleucel. However,
+and speech disorder. The median time to onset of neurologi-          although the short-term efﬁcacy appeared to be promising,
+cal events was 7 days in both B-cell ALL and DLBCL. The              the long-term response has yet to be established. Further-
+median time to resolution was 7 days for B-cell ALL and              more, issues regarding the uncontrolled nature of the study,
+12 days for DLBCL. The majority of neurological events               such as selection and treatment bias, should be taken into
+resolved completely; however, 7% of patients with neurolog-          account. For r/r DLBCL, the observed responses were modest
+ical events with the ALL indication and 5% with the DLBCL            in the ITT population. However, the activity could have poten-
+indication had not recovered at the time of data cutoff.             tially been higher with shorter manufacturing time, which was
+
+
+
+
+                                                                                                                                        Downloaded from academic.oup.com/oncolo/article/25/2/e321/6443357 by guest on 17 September 2026
+Treatment with tocilizumab did not reverse the symptoms.             the objective of the Marketing Authorization Holder (MAH) in
+No neurological events were suggested to be a contributing           the postauthorization phase.
+factor to any death. It was not clear if delayed or late neuro-           A major issue, identiﬁed during the assessment of the
+logical events (occurring >8 weeks postinfusion) had been            C2201 study for r/r DLBCL, was the prolonged time from
+observed. A recent publication on neurotoxicity associated           leukapheresis and enrollment to infusion. The median time
+with CAR T cells mentions CAR T-cell–related encephalopathy,         from enrollment to infusion (54 days) was considerably longer
+and a management guide is proposed [18].                             than the prespeciﬁed manufacturing time of 4–5 weeks,
+                                                                     which again is longer than what would be expected based on
+                                                                     the product’s quality speciﬁcation (approximately 3 weeks). It
+Hypogammaglobulinemia                                                appeared that the prolonged median turnaround time was
+Hypogammaglobulinemia was seen in 45% of patients in                 due to limited manufacturing capacity in the ﬁrst part of the
+the ALL indication and in 15% in the DLBCL indication. Sec-          study. Therefore, the results observed in the ITT population in
+ondary to the development of hypogammaglobulinemia,                  the study might likely represent a conservative estimate for
+patients were more susceptible to infections. Infections             the target patient population. On the other hand, the infused
+were seen in 54.1% of adult patients with DLBCL. Immuno-             “modiﬁed ITT” population, though deﬁned as the efﬁcacy set
+globulin replacement therapy was given to 19.2% of those             for the efﬁcacy endpoint analyses, was likely to add a further
+with hypogammaglobulinemia in the DLBCL indication. Pro-             selection bias, as it was difﬁcult to rule out the potential for
+longed depletion of normal B cells, or agammaglobulinemia,           overestimation of the treatment effect. Therefore, the ITT
+and infections are both categorized as identiﬁed risks.              population was considered relevant for estimating the effect
+                                                                     of the treatment strategy, regardless of whether patients
+Hematological Reactions                                              were able to receive Kymriah, and representative based on
+Cytopenias were seen in 36% of both patients with ALL and            reasonable assumptions and extrapolations.
+those with DLBCL and were observed within 28 days as well                 Further data, including details of the manufacturing turn-
+as several months post–tisagenlecleucel infusion.                    around time (i.e., time from last relapse or conﬁrmed refrac-
+    Delayed toxicity of hematologic origin (such as myelodys-        tory status, time from decision to treat, and time from
+plastic syndrome, aplastic anemia, and bone marrow failure)          leukapheresis to infusion), will be obtained from post-
+has been associated with prior treatment with chemother-             authorization studies. These include a prospective, observa-
+apy and radiation and was observed in the tisagenlecleucel           tional study in patients with r/r DLBCL based on data from
+development program.                                                 registry with efﬁcacy outcome measures in line with the
+                                                                     C2201 study and further follow-up (24 months) for patients
+                                                                     in the efﬁcacy analysis set cohort and all infused patients
+Other Safety Concerns                                                from the C2201 study. The European Medicines Agency’s
+The insertion of lentiviral vector sequences throughout the          Committee for Advanced Therapies (CAT) (whose main
+genome has the potential to dysregulate local host cell gene         responsibility was to prepare a draft opinion on the advanced
+expression, with a theoretical risk of insertional oncogenesis       therapy medicinal product application submitted to the Com-
+resulting from disruption of normal function of genes that           mittee for Medicinal Products for Human Use [CHMP], then to
+control cell growth and a potential risk of development of           adopt the ﬁnal opinion) also requested the company to submit
+secondary malignancies or recurrence of prior cancer. This           the results of study CCTL019H2301, an open-label, phase III
+has been categorized as a potential risk. Life-long risk for         study of Kymriah versus standard of care in adult patients with
+development of secondary malignancies will be monitored.             r/r aggressive B-cell non-Hodgkin lymphoma. The results are
+It was concluded that there is a negligible risk for the envi-       expected by 2025. Upon request from the CAT, a Scientiﬁc
+ronment associated with the clinical use of Kymriah. RCL             Advisory Group (SAG) Oncology meeting was convened on
+may be generated during tisagenlecleucel manufacturing or            June 18, 2018, to address few issues regarding the DLBCL indi-
+subsequently after introduction of vector-transduced viable          cations. The SAG acknowledged that there might be some
+T cells into the patient. Generation of replication-competent        selection bias in the pivotal trial. However, the ITT population
+lentivirus has been categorized as a potential risk.                 was considered relevant and representative. Prior response to
+
+
+www.TheOncologist.com                                                                                     © AlphaMed Press 2019
+e326                                                                            The European Medicines Agency Review of Kymriah
+
+bridging chemotherapy did not seem to be of concern. Of               and site qualiﬁcation to minimize the CRS risks associated
+note, the initial manufacturing problems and the delay in the         with Kymriah treatment; the MAH must ensure that hospi-
+infusion of Kymriah have to be taken into account, and one            tals and their associated centers that dispense Kymriah are
+would expect less degree of progression prior to infusion on          specially qualiﬁed in accordance with the agreed-upon con-
+the basis of improvements in the manufacturing speed.                 trol distribution program and ensure on-site, immediate
+    Based on the ITT analysis set, the complete response rate         access to four doses of tocilizumab for each patient as CRS
+observed was somewhat in the range of what has been                   management medication prior to treating patients.
+observed with other treatment modalities for third-line ther-
+apy (CORAL studies: ORR ITT 40%, CR 28% [19]). However,
+the duration of response was considered remarkable, with              CONCLUSION
+more than 60% of responders still responding at 13.9 months           Although CAR T-cell technology seems to be highly promis-
+(DCO of December 8, 2017). Considering these observations             ing for diseases with single genetic/protein alterations, for
+together, based on the response rate and duration of                  more complex diseases there will be challenges to target
+response, and given the available treatment options, the              the clonal variability within the tumor type or the clonal
+
+
+
+
+                                                                                                                                                    Downloaded from academic.oup.com/oncolo/article/25/2/e321/6443357 by guest on 17 September 2026
+SAG recommended by consensus that the clinical beneﬁt                 evolution during disease progression. We also await prod-
+was considered established despite the limitations for time-          ucts with a lesser toxicity proﬁle or more risk-minimization
+dependent endpoints in single-arm trials. Concerning OS, a            tools.
+number of suitable approaches have been explored based on
+matching. It was difﬁcult to draw conclusions on the basis of
+the analyses presented, although they were informative,               ACKNOWLEDGMENTS
+because important biases (including lead time bias) could             The scientiﬁc assessment summarized in this report is based
+not be excluded. Matching-adjusted indirect comparison was            on important contributions from the rapporteur and co-
+used against the result of SCHOLAR-1 study [20]. Before               rapporteur assessment teams, CAT and CHMP members, and
+matching, tisagenlecleucel was associated with signiﬁcantly           additional experts after the application for a marketing
+higher CR and ORR compared with salvage therapies in                  authorization from the company. This publication is a sum-
+SCHOLAR-1 (CR, 36.5% vs. 7.0%, p < .01; ORR, 47.6%                    mary of the European Public Assessment Report (EPAR), the
+vs. 26.0%, p < .01). After matching on the primary diagnosis          summary of product characteristics, and other product infor-
+(DLBCL or others), International Prognostic Index risk classiﬁ-       mation. The EPAR is published on the EMA Web site (www.
+cation, and refractory category, the differences in CR and            ema.europa.eu). For the most current information on this
+ORR remained signiﬁcant (CR, 38.0% vs. 7.0%, p < .01; ORR,            marketing authorization, please refer to the EMA Web site.
+47.4% vs. 26.0%, p < .01). CTL019 was associated with a               The authors of this paper remain solely responsible for the
+31.0% (95% CI, 19.1%–3.0%) higher CR rate and a 21.4%                 opinions expressed in this publication.
+(95% CI, 8.8%–34.1%) higher ORR compared with salvage
+therapies. Furthermore, the SAG recommended that
+research on identiﬁcation of biomarkers predictive of                 AUTHOR CONTRIBUTIONS
+response should continue, with the aim to guide treatment             Collection and/or assembly of data: Sahra Ali, Rune Kjeken, Christiane
+decisions.                                                              Niederlaender, Greg Markey, Therese S. Saunders, Mona Opsata, Kristine
+                                                                        Moltu, Bjørn Bremnes, Eirik Grønevik, Martine Muusse, Gro D. Håkonsen,
+    With regard to safety, long-term data for Kymriah were miss-        Venke Skibeli, Maria Elisabeth Kalland, Ingrid Wang, Ingebjørg Buajordet,
+ing, and hence the CAT requested a prospective registry                 Ania Urbaniak, John Johnston, Khadija Rantell, Essam Kerwash, Martina
+(CTL019B2401) to collect real-world safety and efﬁcacy data in          Schuessler-Lenz Tomas Salmonson, Jonas Bergh, Christian Gisselbrecht,
+                                                                        Kyriaki Tzogani, Irene Papadouli, Francesco Pignatti
+pediatric, young adult, and adult patients with hematological         Data analysis and interpretation: Sahra Ali, Rune Kjeken, Christiane
+malignancies expressing CD19 who have received, or are due to           Niederlaender, Greg Markey, Therese S. Saunders, Mona Opsata, Kristine
+receive, an autologous infusion of tisagenlecleucel for the treat-      Moltu, Bjørn Bremnes, Eirik Grønevik, Martine Muusse, Gro D. Håkonsen,
+                                                                        Venke Skibeli, Maria Elisabeth Kalland, Ingrid Wang, Ingebjørg Buajordet,
+ment of an authorized indication. The primary objective is to eval-     Ania Urbaniak, John Johnston, Khadija Rantell, Essam Kerwash, Martina
+uate safety as measured by type, frequency, and severity of             Schuessler-Lenz Tomas Salmonson, Jonas Bergh, Christian Gisselbrecht,
+adverse events (including secondary malignancies).                      Kyriaki Tzogani, Irene Papadouli, Francesco Pignatti
+                                                                      Manuscript writing: Sahra Ali, Rune Kjeken, Christiane Niederlaender, Greg
+    The COMP considered that the efﬁcacy in the target                  Markey, Therese S. Saunders, Mona Opsata, Kristine Moltu, Bjørn Bremnes,
+patient population speciﬁed in the therapeutic indication               Eirik Grønevik, Martine Muusse, Gro D. Håkonsen, Venke Skibeli, Maria
+granted offered a signiﬁcant beneﬁt in the treatment of these           Elisabeth Kalland, Ingrid Wang, Ingebjørg Buajordet, Ania Urbaniak, John
+                                                                        Johnston, Khadija Rantell, Essam Kerwash, Martina Schuessler-Lenz Tomas
+patients. Also based on the CAT and CHMP review of data on              Salmonson, Jonas Bergh, Christian Gisselbrecht, Kyriaki Tzogani, Irene
+quality, safety, and efﬁcacy, it was considered by majority             Papadouli, Francesco Pignatti
+                                                                      Final approval of manuscript: Sahra Ali, Rune Kjeken, Christiane
+decision that the risk-beneﬁt balance of Kymriah is favorable.          Niederlaender, Greg Markey, Therese S. Saunders, Mona Opsata, Kristine
+    As per standard requirements, the CAT and CHMP con-                 Moltu, Bjørn Bremnes, Eirik Grønevik, Martine Muusse, Gro D. Håkonsen,
+ditions for approval included obligations for submission of             Venke Skibeli, Maria Elisabeth Kalland, Ingrid Wang, Ingebjørg Buajordet,
+                                                                        Ania Urbaniak, John Johnston, Khadija Rantell, Essam Kerwash, Martina
+periodic safety update reports via the European medicines               Schuessler-Lenz Tomas Salmonson, Jonas Bergh, Christian Gisselbrecht,
+agency web-portal. The marketing authorization holder                   Kyriaki Tzogani, Irene Papadouli, Francesco Pignatti
+shall submit the ﬁrst periodic safety update report within
+6 months following authorization.
+    Additional risk-minimization measures were required by            DISCLOSURES
+CAT and CHMP and included the availability of tocilizumab             The authors indicated no ﬁnancial relationships.
+
+
+© AlphaMed Press 2019
+Ali, Kjeken, Niederlaender et al.                                                                                                                        e327
+
+
+REFERENCES
+  1. Hunger SP, Lu X, Devidas M et al. Improved       an MRC UKALL12/ECOG 2993 study. Blood                   14. Schuster SJ, Bishop MR, Tam C et al.
+survival for children and adolescents with acute      20071;109:944–950.                                     Sustained disease control for adult patients with
+lymphoblastic leukemia between 1990 and 2005:           8. Tilly H, Gomes da Silva M, Vitolo U et al.;       relapsed or refractory diffuse large B-cell lym-
+A report from the Children’s Oncology Group.          ESMO Guidelines Committee. Diffuse large B-cell        phoma: An updated analysis of JULIET, a global
+J Clin Oncol 2012;30:1663–1669.                       lymphoma (DLBCL): ESMO Clinical Practice Guide-        pivotal phase 2 trial of tisagenlecleucel. Blood
+                                                      lines for diagnosis, treatment and follow-up. Ann      2018;132(suppl 1):1684A.
+ 2. Möricke A, Zimmermann M, Reiter A et al.
+Long-term results of ﬁve consecutive trials in        Oncol 2015;26(suppl 5):v116–v125.                       15. Maude SL, Laetsch TW, Buechner J et al.
+childhood acute lymphoblastic leukemia per-             9. Pfreundschuh M, Kuhnt E, Trümper L et al.;        Tisagenlecleucel in children and young adults
+formed by the ALL-BFM study group from 1981 to        MabThera International Trial (MInT) Group. CHOP-       with B-cell lymphoblastic leukemia. N Engl J Med
+2000. Leukemia 2010;24:265–284.                       like chemotherapy with or without rituximab in         2018;378:439–448.
+ 3. Locatelli F, Martin M, Bernardo ME et al.         young patients with good-prognosis diffuse large-B-     16. Jeha S, Gaynon PS, Razzouk BI et al. Phase II
+How I treat relapsed childhood acute lympho-          cell lymphoma: 6-year results of an open-label         study of clofarabine in pediatric patients with
+blastic leukemia. Blood 2012;120:2807–2816.           randomised study of the MabThera International Trial   refractory or relapsed acute lymphoblastic leuke-
+                                                      (MInT) Group. Lancet Oncol 2011;12:1013–1022.          mia. J Clin Oncol 2006;24:1917–1923.
+ 4. Tallen G, Ratei R, Mann G et al. Long-term
+                                                        10. Coifﬁer B, Sarkozy C. Diffuse large B-cell
+
+
+
+
+                                                                                                                                                                  Downloaded from academic.oup.com/oncolo/article/25/2/e321/6443357 by guest on 17 September 2026
+outcome in children with relapsed acute lympho-                                                               17. Rabin R, de Charro F. EQ-5D: A measure of
+                                                      lymphoma: R-CHOP failure - what to do? Hema-
+blastic leukemia after time-point and site-of-                                                               health status from the EuroQol Group. Ann Med
+                                                      tology Am Soc Hematol Educ Program 2016;
+relapse stratiﬁcation and intensiﬁed short-course                                                            2001;33:337–343.
+                                                      2016:366–378.
+multidrug chemotherapy: Results of trial ALL-REZ
+                                                       11. Gisselbrecht C, Glass B, Mounier N et al. Sal-     18. Neelapu SS, Tummala S, Kebriaei P et al.
+BFM 90. J Clin Oncol 2010;28:2339–2347.
+                                                      vage regimens with autologous transplantation for      Chimeric antigen receptor T-cell therapy - assess-
+  5. Bailey LC, Lange BJ, Rheingold SR et al. Bone-   relapsed large B-cell lymphoma in the rituximab        ment and management of toxicities. Nat Rev Clin
+marrow relapse in paediatric acute lymphoblastic      era. J Clin Oncol 2010;28:4184–4190.                   Oncol 2018;15:47–62.
+leukaemia. Lancet Oncol 2008;9:873–883.
+                                                       12. Crump M, Kuruvilla J, Couban S et al. Ran-          19. Van Den Neste E, Schmitz N, Mounier N
+  6. Seeger K, Adams HP, Buchwald D et al. TEL-       domized comparison of gemcitabine, dexametha-          et al. Outcomes of diffuse large B-cell lymphoma
+AML1 fusion transcript in relapsed childhood acute    sone, and cisplatin versus dexamethasone,              patients relapsing after autologous stem cell
+lymphoblastic leukemia: The Berlin-Frankfurt-         cytarabine, and cisplatin chemotherapy before          transplantation: An analysis of patients included
+Münster Study Group. Blood 1998;91:1716–1722.         autologous stem-cell transplantation for relapsed      in the CORAL study. Bone Marrow Transplant
+                                                      and refractory aggressive lymphomas: NCIC-CTG          2017;52:216–221.
+ 7. Fielding AK, Richards SM, Chopra R et al.;
+Medical Research Council of the United Kingdom        LY.12. J Clin Oncol 2014;32:3490–3496.                   20. Crump M, Neelapu SS, Umar Farooq U, et
+Adult ALL Working Party; Eastern Cooperative            13. Schuster SJ, Svoboda J, Chong EA et al. Chi-     al. Outcomes in refractory diffuse large B-cell
+Oncology Group. Outcome of 609 adults after           meric antigen receptor T cells in refractory B-cell    lymphoma: Results from the international
+relapse of acute lymphoblastic leukemia (ALL);        lymphomas. N Engl J Med 2017;377:2545–2554.            SCHOLAR-1 study. Blood 2017;130:1800–1808.
+
+
+
+
+www.TheOncologist.com                                                                                                          © AlphaMed Press 2019
+

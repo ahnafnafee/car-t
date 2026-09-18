@@ -1,0 +1,20 @@
+=== PMC11985369 ===
+title: Longitudinal analysis of lentiviral and retroviral chimeric antigen receptors' integration sites reveals distinct clonal evolutionary patterns
+journal: British Journal of Haematology
+abstract:  Summary T‐cell malignancies following chimeric antigen receptor (CAR) therapies are partly related to insertional mutagenesis, but the longitudinal evolution of CAR‐integration sites (IS) remains understudied. We performed an IS analysis in blood from three tisagenlecleucel (lentiviral), one axicabtagene‐ciloleucel and one brexucabtagene‐autoleucel (gammaretrovirals) patient at peak expansion and 1‐year follow‐up. All were complete responders. Peak expansion IS patterns were vector dependent: lentiviral CAR integrated mostly in introns and gammaretrovirals in intergenic regions, closer to transcription start sites. At 1‐year post‐infusion, lentiviral CAR showed no major clonal proliferation. Gammaretroviral CARs had divergent outcomes: no detectable CAR (axicabtagene‐ciloleucel) or low‐level oligoclonal persistence (brexucabtagene‐autoleucel). Whether this latter evolution is at risk of
+tisagenlecleucel hits: 3
+  @10350: :4180/11985369/634e4891bed0/BJH-206-1173.pdf?> Summary T‐cell malignancies following chimeric antigen receptor (CAR) therapies are partly related to insertional mutagenesis, but the longitudinal evolution of CAR‐integration sites (IS) remains understudied. We performed an IS analysis in blood from three tisagenlecleucel (lentiviral), one axicabtagene‐ciloleucel and one brexucabtagene‐autoleucel (gammaretrovirals) patient at peak expansion and 1‐year follow‐up. All were complete responders. Peak expansion IS patterns were vector dependent: lentiviral CAR integrated mostly in introns and gammaretrovirals in intergenic regions, closer to transcription start sites. At 1‐year post‐infusion, lentiviral CAR showed no major clonal proliferation. Gammare
+
+  @11413: tter evolution is at risk of further CAR malignancies needs further investigations. axicabtagene‐ciloleucel brexucabtagene‐autoleucel chimeric antigen receptor clonal proliferation integration site tisagenlecleucel Groupe Pasteur Mutualité 10.13039/100014846 Agence Nationale de Recherches sur le Sida et les Hépatites Virales </instituti
+
+  @16491: sertional mutagenesis. 2 , 3 This specific hazard arises directly from the dependence on viral vectors for CAR production, which allow persistent CAR expression through gene integration. Two vector backbones are commercially available: (i) lentiviral vectors, based on human immunodeficiency virus 1 (HIV‐1) and used by tisagenlecleucel (Kymriah, tisa‐cel) and (ii) gammaretroviral vectors, based on the murine leukaemia virus and used by axicabtagene ciloleucel (Yescarta, axi‐cel) and brexucabtagene autoleucel (Tecartus, brexu‐cel). Despite its clinical relevance, few studies have specifically addressed CAR integration, 2 , 3 , <x
+
+
+=== PMC9644589 ===
+title: Genome-wide profiling of retroviral DNA integration and its effect on clinical pre-infusion CAR T-cell products
+journal: Journal of Translational Medicine
+tisagenlecleucel hits: 1
+  @132545:  MA Boyer MW August KJ Hamilton J Awasthi R Clinical pharmacology of tisagenlecleucel in B-cell acute lymphoblastic leukemia Clin Cancer Res 2018 24 6175 30190371 10.1158/1078-0432.CCR-18-0758 PMC7433345 43. <person-
+
+
+

@@ -49,6 +49,8 @@ def manufacture(
     profile=COMMERCIAL_US,
     indication="DLBCL",
     weight_kg=None,
+    sterility=None,
+    mycoplasma=None,
 ):
     """Apheresis -> T isolation -> bead activation -> lentiviral transduction ->
     expansion -> cryo -> dose. Yield and composition defaults remain illustrative.
@@ -56,6 +58,8 @@ def manufacture(
     net_yield is recovered total T cells per starting T cell, BEFORE viability.
     te is CAR-positive fraction among viable T cells. dose_target is viable CAR+
     cells. Viability is applied exactly once. VCN is unknown unless supplied.
+    sterility and mycoplasma are the boolean negative-culture results behind the
+    unredacted SBRA qualitative requirements; None keeps them unknown.
     The source-profile comparison does not authorize release of an actual lot.
     """
     _nonnegative(apheresis_wbc=apheresis_wbc, net_yield=net_yield, dose_target=dose_target)
@@ -78,6 +82,8 @@ def manufacture(
             "car_fraction": te,
             "vcn_copies_cell": vcn,
             "dose_viable_car_cells": dose_car,
+            "sterility_negative": sterility,
+            "mycoplasma_negative": mycoplasma,
         },
         profile,
         indication=indication,

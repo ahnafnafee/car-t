@@ -1,0 +1,1116 @@
+                 Summary Basis for Regulatory Action
+   Date: August 30, 2017
+
+   From: Xiaobin Victor Lu, Ph.D., Chair of the Review Committee
+
+   BLA/ STN#: 125646/0
+
+   Applicant Name: Novartis Pharmaceuticals Corporation
+
+   Date of Submission: February 2, 2017
+
+   Goal Date: October 3, 2017
+
+   Proprietary Name: KYMRIAH
+
+   Proper Name: tisagenlecleucel
+
+   Indication: KYMRIAH is a CD19-directed genetically modified autologous T cell
+   immunotherapy indicated for the treatment of patients up to 25 years of age with B-cell
+   precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or later relapse.
+
+   Recommended Action: Approval
+
+   Review Office Signatory Authority: Wilson Bryan, MD, Director, Office of Tissues and
+   Advanced Therapies
+          □ I concur with the summary review.
+          □ I concur with the summary review and include a separate review to
+       add further analysis.
+          □ I do not concur with the summary review and include a separate
+       review.
+
+
+
+    The table below indicates the material reviewed when developing the SBRA
+    Document title                             Reviewer name
+Clinical Review(s)                             Maura O’Leary, MD (OTAT/DCEPT)
+  • Clinical (product office)                  Donna Przepiorka, MD, PhD (OCE)
+  • Clinical Branch Chief Review               Bindu George, MD (OTAT/DCEPT)
+  • Clinical Division Director Review          Tejashri Purohit-Sheth (OTAT/DCEPT)
+  • Postmarketing safety                       Marc Theoret, MD (OCE)
+    epidemiological review (OBE/DE)            Jaspal Ahluwalia, MD (OBE/DE)
+  • Bioresearch Monitoring                     Dennis  Cato (OCBQ/DIS/BMB)
+    (OCBQ/DIS)                                 Hong  Yang  (OBE)
+                                               Million Tegenge (OBE)
+  • Pharmacometrics Analysis Working
+                                               Richard Forshee (OBE)
+    Group (CBER/OBE and
+                                               Shiowjen Lee (OBE)
+    CDER/OCP)
+                                               Xue (Mary) Lin (OBE)
+
+                                                                                                3
+ • Clinical Outcome Assessment          Chao Liu (CDER/OCP)
+   (CDER/OND)                           Justin C. Earp (CDER/OCP)
+                                        Stacy Shord (CDER/OCP)
+                                        Yaning Wang (CDER/OCP)
+                                        Nam Atiqur Rahman (CDER/OCP)
+                                        Nikunj Patel (CDER/OND)
+Statistical Review                      Xue (Mary) Lin, PhD (OBE)
+  • Clinical data
+  • Non-clinical data
+CMC Review(s)                           Xiaobin (Victor) Lu, PhD (OTAT/DCGT)
+  • CMC (product office)                Andrew Byrnes, PhD (OTAT/ DCGT)
+  • Facilities review (OCBQ/DMPQ)       Kimberly Schultz, PhD (OTAT /DCGT)
+  • Vector Substance and Vector         Elena Gubina, PhD (OTAT/DCGT)
+    Product (OCBQ/DMPQ)                 Tom Finn, PhD (OTAT/DCGT)
+  • Establishment Inspection Reports    Denise Gavin, PhD (OTAT/DCGT)
+    (OCBQ/DMPQ)                         Joan Johnson, MS (OCBQ/DMPQ)
+• Review of Bioburden, Endotoxin,       Randa Melhem, PhD (OCBQ/DMPQ)
+    Compendial Sterility Method         Ashley Burns, PharmD (OCBQ/DMPQ)
+    Qualifications                      Richard Heath Coats (OCBQ/DMPQ)
+    (OCBQ/DBSQC/LMIVTS)                 Simleen Kaur (OCBQ/DBSQC)
+                                        Cheryl Hulme (OCBQ/DMPQ/PRB)
+                                        Marie Anderson, MS, PhD (OCBQ/DBSQC)
+Pharmacology/Toxicology Review(s)       Ying Huang, PhD (OTAT/DCEPT)
+  • Toxicology (product office)
+  • Developmental toxicology (product
+    office)
+  • Animal pharmacology
+Clinical Pharmacology Review            Iftekhar Mahmood (OTAT/DCEPT)
+Labeling Review                         Dana Jones (OCBQ/APLB)
+  • APLB (OCBQ/APLB)
+Other Review(s)                         Jean Makie (OCBQ)
+  • DSCSA Exemption Request (OCBQ)      Naomi Redd (DRISK)
+  • DRISK (CDER/DRISK)
+
+
+
+
+                                                                               4
+    1. INTRODUCTION
+
+Novartis Pharmaceuticals Corporation submitted a Biologics License Application (BLA), STN
+125646, for licensure of tisagenlecleucel. The proprietary name is KYMRIAH. KYMRIAH is a
+CD19-directed genetically modified autologous T cell immunotherapy indicated for the
+treatment of patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia
+(ALL) that is refractory or in second or later relapse.
+
+KYMRIAH is comprised of genetically modified antigen-specific autologous T cells (from the
+patient) reprogrammed to target cells that express CD19. CD19 is an antigen expressed on the
+surface of B cells and tumors derived from B cells. The KYMRIAH chimeric antigen receptor
+(CAR) protein has a murine anti-CD19 single chain antibody fragment (scFv) and signaling
+domains (CD3-ζ) and 4-1BB. These intracellular signaling domains play critical roles in
+KYMRIAH functions, including T cell activation, persistence in vivo, and anti-tumor activity.
+
+This document summarizes the basis for approval for KYMRIAH, highlighting topics of key
+review discussions. One clinical trial, CCTL019B2202 (B2202), conducted under a Special
+Protocol Assessment, provided the basis for the BLA submission for a regular approval for
+KYMRIAH. B2202 is a multicenter, open-label, single-arm, trial to determine the efficacy and
+safety of KYMRIAH in pediatric and young adult patients with relapsed or refractory B-cell ALL.
+The primary objective was to evaluate the efficacy of KYMRIAH therapy as measured by overall
+remission rate (ORR) during the 3 months after KYMRIAH administration, which includes
+complete remission (CR) and CR with incomplete blood count recovery (CRi) as determined by
+an Independent Review Committee (IRC) assessment.
+
+The B2202 trial was adequate and well controlled and the review team concluded that the BLA
+contains substantial evidence to demonstrate effectiveness for the proposed indication. For the
+63 patients in the efficacy analysis population, the CR rate was 63% (95% CI: 50%, 75%), and all
+patients in CR were MRD negative. With a median follow-up of 4.8 months, the median
+duration of CR was not reached.
+
+The major risks of KYMRIAH include:
+
+•   Cytokine release syndrome, which occurred in 79% of the patients and can be fatal or life-
+    threatening
+•   Transient neurologic toxicity which occurred in 65% of the patients
+•   Febrile neutropenia which occurred in 38% of the patients
+•   Cytopenias not resolved by day 28 which occurred in 53% of the patients
+•   Infections which occurred in 59% of the patients
+
+Overall the benefit/risk profile for these heavily-pretreated pediatric and young adult patients
+with relapsed/refractory (R/R) B-cell precursor ALL is favorable with appropriate risk
+mitigation strategies in place. During the trial the applicant provided on-site training for
+participants, restricted study sites to transplant centers, and closely monitored safety events.
+This risk mitigation strategy was successful in reducing morbidity of KYMRIAH and will be
+continued in the Risk Evaluation Mitigation Strategy (REMS) with Elements To Assure Safe Use
+(ETASU) detailed later in this review.
+
+The review team recommends approval of this BLA with postmarketing requirements (PMR) for
+a REMS with ETASU for the management of cytokine release syndrome and neurologic toxicity,
+training and assessment of sites and the use of tocilizumab and a postmarketing observational
+
+                                                                                                 5
+study to assess short and long-term toxicities of KYMRIAH (B2401). B2401 will include short-
+term CRS, neurologic, and other adverse event reporting as well as long-term observational
+follow-up for the potential of second malignancy with tumor assessment at the time of
+occurrence of a new (second) malignancy.
+
+   2. BACKGROUND
+
+Disease background
+
+Acute Lymphoblastic Leukemia
+
+Acute lymphoblastic leukemia can be of B or T cell origin. Approximately 80-85% of pediatric
+ALL diagnoses are B cell precursor in origin and CD19 positive (CD19+). CD19 is an antigen on
+the membrane of the cell, not only at initial diagnosis, but at relapse.
+
+CD19 is not expressed by pluripotent blood stem cells. Since CD19 is limited to normal B cells or
+B cell malignancies, this made CD19 a natural target for immunotherapy. The strategy with
+KYMRIAH was to produce genetically modified chimeric antigen receptor (CAR) T cells
+transduced with a lentiviral vector encoding the chimeric antigen receptor genes to target CD19
+exclusively.
+
+Pediatric and Young Adult B cell Precursor Relapsed or Refractory (R/R) Acute Lymphoblastic
+Leukemia
+
+Acute lymphoblastic leukemia (ALL) occurs in children and adults. Each year 3100 new cases
+are seen in children and adolescents in the U.S. ALL comprises 25% of all cancer diagnoses in
+children less than 15 years and 19% of all cancers in patients less than 20 years old. While the 5-
+year survival rate for ALL in children is now 90%, after relapse only 40% are able to achieve a
+durable remission. Fifteen to 20% of pediatric B cell precursor ALL patients relapse after their
+initial remission.
+
+Survival after relapse is dependent on the timing of the relapse and the type of the relapse.
+Those patients who relapse on therapy, or have relapsed multiple times, have a poor prognosis.
+The only potential cure for relapsed systemic pediatric ALL is allogeneic stem cell
+transplantation (HSCT). With more aggressive therapies for front-line treatment, salvage
+therapy has become less effective. Relapsed ALL remains a leading cause of cancer deaths in
+children in the US.
+
+Available Therapies
+
+The standard of care approach to relapsed disease in pediatric and young adult ALL is to re-
+induce with combination chemotherapy to achieve a second or subsequent complete remission
+with minimal residual disease (MRD) negative status. Then, the patient is able to have the
+available curative therapy, hematopoietic stem cell transplantation (HSCT). In the absence of
+complete response to combination chemotherapy (standard of care regimens), single agents are
+available as detailed in Table 1 below. These combination induction regimens mimic those used
+with initial treatment: corticosteroid, vincristine, asparaginase, and an anthracycline.
+
+
+
+
+                                                                                                  6
+  Table 1. FDA Approved Therapies for R/R ALL in Pediatric and Young Adult
+           Patients
+FDA-Approved Products                            Approval/ Year      Results
+
+Clofarabine (CLOLAR)                             2004, accelerated   CR 11.5%
+
+
+Vincristine lyophilized injection (MARQIBO)      2012, accelerated   CR 4.6%
+
+
+Blinatumomab (BLINCYTO)                          2014                CR 17.1%; Median DOR 6.0 months
+
+
+Inotuzumab ozogamicin (BESPONSA)                 2017                CR 35.8%; Median DOR 8.0 months
+
+8/21/2017
+CR: complete remission; DOR: duration of response;
+Source: USPI for CLOLAR, BLINCYTO, MARQIBO, BESPONSA
+
+
+Regulatory History and Considerations
+
+Key regulatory milestones in the development of KYMRIAH are summarized below.
+
+Table 2. Regulatory Activity
+  Date                  Milestone
+  4/22/2013             PreIND Meeting
+  3/03/2014             PreIND Meeting
+  3/04/2014             Special Protocol Assessment (SPA)
+  9/23/2014             IND 16130 submission
+  9/23/2014             Rare Disease Designation
+  1/31/2014             Orphan Designation: Acute Lymphoblastic Leukemia
+  4/08/2015             First subject enrolled into Study CCTL019B2202
+  2/29/2016             Breakthrough Therapy Designation
+  11/21/2016            Pre-BLA Meeting
+  11/23/2016            Efficacy Assessment: Data Cut-off
+  12/16/2016            CCTL019B2202 Interim Analysis with 6 months follow-up
+  1/19/2017             Deaths and SAEs in ongoing studies cut-off
+  2/02/2017             BLA 125646 submission
+  3/15/2017             Rare Pediatric Disease Designation
+  3/28/2017             BLA 125646 filed
+  7/12/2017             Oncologic Drugs Advisory Committee Meeting
+  10/03/2017            PDUFA Action Due Date
+
+
+    3. CHEMISTRY MANUFACTURING AND CONTROLS (CMC)
+
+
+            a) Product Quality
+
+Product Description
+
+KYMRIAH is composed of autologous T cells that are genetically modified with a lentiviral
+vector encoding a chimeric antigen receptor (CAR). The CAR specifically recognizes the CD19
+protein present on CD19+ B lineage tumor cells as well as normal B cells.
+
+                                                                                                       7
+KYMRIAH is a rationally designed immunotherapy, and the presumed mechanism of action is
+direct cytolytic killing of tumor cells. Briefly, T cell activation begins with scFv binding to CD19,
+which physically brings the CAR T cells to the CD19+ tumor cells. The interaction of the CAR
+and CD19 results in formation of immune synapses, similar to the natural T cell activation
+pathways. Formation of immune synapses triggers a cascade of T cell signaling that leads to T
+cell activation. Upon activation, T cells produce cytokines, perforin and granzymes to initiate
+direct cytolytic tumor cell killing. Activation of the CAR T cells also promotes cell expansion and
+differentiation.
+
+Manufacturing Summary
+
+The manufacturing process starts with receipt of the patient’s white blood cells collected by
+leukapheresis at one of the apheresis centers that have been qualified by Novartis. The cellular
+composition of the leukapheresis material determines which of two manufacturing pathways is
+used for T cell enrichment. The enriched T cells are pre-stimulated with CD3/CD28 antibody-
+conjugated beads and then transduced with the lentiviral vector. The CAR-expressing
+autologous T cells are then expanded in culture for up to (b) (4) to reach sufficient numbers. The
+cells are washed to remove impurities (including the CD3/CD28 antibody conjugated beads)
+and formulated with infusion media for cryopreservation in a vapor-phase liquid nitrogen
+freezer. Upon request from the clinical center, KYMRIAH is shipped in a vapor phase liquid
+nitrogen dry shipper (dewar) to the clinical infusion center by a qualified courier. The chain-of-
+identity of the entire process from leukapheresis to infusion and throughout all manufacturing
+steps is controlled by a computer based system to ensure the product’s identity and product
+traceability.
+
+The manufacturing process for the vector used for KYMRIAH production can be divided into
+two stages: vector substance and vector product. The vector substance manufacturing begins
+with (b) (4)
+
+
+             . Vector product is manufactured by (b) (4)
+                                                                                    . Additional lot
+release tests are conducted to release the final vector product.
+
+Manufacturing Controls or Control Strategy
+
+Manufacturing process consistency is mainly controlled by (1) raw material and reagent
+qualification programs, (2) in-process monitoring, (3) in-process control testing, including
+decision points for alternative manufacturing pathways, (4) lot release tests, (5) traceability by
+using a chain-of-identity system, and (6) validation of the manufacturing process. Within
+individual unit operations of the manufacturing process, critical process parameters and key
+process parameters were established based on process characterization and manufacturing risk
+assessment studies during the process development stages. The critical process parameters and
+key process parameters define the acceptable operating ranges for each manufacturing step
+necessary to ensure a consistent final product that meets the predefined product quality
+attributes (lot release specifications).
+
+The raw material qualification program consists of risk assessment of the source materials,
+vendor qualification and audits, and an incoming materials management system that consists of
+visual examination of the package, identity testing, and confirmation of the certificate of analysis
+upon receipt of the raw material and the reagent.
+
+
+                                                                                                       8
+While the in-process monitoring activities ensure each unit operation is on the right track, in-
+process control testing is used to make appropriate decisions for the next manufacturing steps.
+Lot release testing serves as the final confirmation of product quality before releasing the
+product for commercial use.
+
+Process Validation
+
+The KYMRIAH manufacturing process was validated, including (b) (4) T cell enrichment pathways.
+(b) (4) batches were manufactured using the commercial manufacturing and commercial
+master batch records. Deviations during the manufacturing process validation were investigated
+and closed. The results of the process validation (i.e., process performance qualifications) met
+the predefined validation acceptance criteria.
+
+As part of the process validation, a continued process verification (CPV) protocol was
+established to monitor the process by trending manufacturing data, deviations, out-of-
+specification batches, and other unexpected manufacturing quality incidents. A media fill study
+was also conducted to validate the aseptic process. A chain-of-identity system was also validated
+to support product traceability from leukapheresis to infusion. Shipping and receiving of
+leukapheresis materials and the final cell product were validated for shipments between the
+apheresis/infusion centers and the Morris Plains manufacturing facility. As part of the overall
+manufacturing process validation, the manufacturing processes for vector substance and vector
+product have also been validated.
+
+Specifications
+
+The final lot release specifications are shown in the table below.
+
+Table 1. KYMRIAH Lot Release Specifications
+                                Requirements for
+ Test                                                          Sample used for testing
+                                commercial use
+ Appearance                     Colorless to slightly yellow   Formulated product (b) (4)
+ Identity by CAR q-PCR          Positive for PCR signal        (b) (4)
+ Percentage of viable T cells   (b) (4)                        Final product (b) (4)
+ Determination of
+ transduction efficiency by
+                                (b) (4)
+                                                               (b) (4)
+ CAR-q-PCR
+ Cell viability                 (b) (4)                        Final product (b) (4)
+ Determination of residual
+ beads by microscopy
+                                (b) (4)                        (b) (4)
+ Percentage of viable CD19+
+                                (b) (4)                        Final product(b) (4)
+ B cells
+ Total cell count4              Report cells/mL                Final product (b) (4)
+                                                               Final product (b) (4)
+
+ Number of viable cells
+ (calculated)
+                                (b) (4) total viable cells
+
+
+
+
+                                                                                                   9
+                                                                          Final product (after thaw)2
+                                      • 0.2 to 5.0 × 106 CAR
+                                                                          Calculation formula: (%CAR
+                                        positive viable T cells/kg
+                                                                          expression x Viable cell
+                                        body weight (≤50 kg)
+ Dose (calculated)                                                        concentration x Volume per
+                                      • 0.1 to 2.5 ×108 CAR               dose)/100 (per patients (≤ 50 kg this
+                                        positive viable T cells (>        number is divided per Kg
+                                        50 kg)                            body weight)
+ Determination of CAR
+ expression by flow
+                                      (b) (4)                             Final product (b) (4)
+ cytometry
+                                      • (b) (4)
+ Release of IFNγ in response
+ to CD19-expressing target                                                Final product (b) (4)
+ cells                                • (b) (4)
+
+ Bacterial Endotoxins                 (b) (4)                             Final product(b) (4)
+ Sterility                            Negative                            Formulated product (b) (4)
+ Mycoplasma                           Negative                            (b) (4)
+ Determination of VSV-G
+ DNA by quantitative PCR
+                                      (b) (4)                             (b) (4)
+ (qPCR)
+1Post-harvest   samples are taken before the addition of cryopreservation media, to avoid potential interference of
+(b) (4) present in the final formulation.
+2Final product (after thawing) sample tests are performed on an aliquot of the final formulation of the cellular
+product, collected just prior to filling the drug product bag, stored in the vapor phase of liquid nitrogen (≤ -120°C),
+and thawed at the time of analysis.
+3 Testing for residual beads is performed using a sample collected                      prior to dose formulation, to allow for
+                                                                          (b) (4)
+accurate measurement of residual beads present per (b) (4)              , without being impacted by the range of
+concentrations of cells per mL at which final dose may be formulated.
+4 No specification is set for Total cell count since it is not a critical quality attribute; result from Total cell count is
+
+used to calculate Number of viable cells, essential for the Dose calculation.
+5 Pre-harvest samples are taken from the cell culture supernatant at the end of cell culture just prior to harvest
+
+processing steps and final formulation, to provide maximal opportunity to detect any contaminating mycoplasma
+present in the manufacturing process.
+
+Impurity Profile
+
+CAR-positive T cells are the active ingredient in KYMRIAH. The entire T cell population,
+including non-transduced T cells, is considered a part of the product and the purity of
+KYMRIAH is defined as the percentage of viable T cells as a whole.
+
+Impurities can be classified into product-related (cellular impurities) and process-related
+impurities. Cellular impurities are those derived from leukapheresis material such as red blood
+cells, granulocytes, dead cells, and B cells/B-lineage lymphoblasts. Process-related impurities
+include ancillary materials and reagents that are not intended to be present in the final product.
+
+Cell viability is a lot release specification with an acceptance criterion of (b) (4) . Non-viable
+cells represent a potential clinical safety issue. Cell viability is controlled during the
+manufacturing and formulation process, and the percentage of total dead cells in KYMRIAH has
+been consistently low.
+
+B-lineage cells including B cell blasts can interfere with the cell manufacturing process and are a
+potential safety concern if present in the final product. Therefore, B-lineage cells are removed
+during the manufacturing process. An acceptance criterion of (b) (4) B cells in KYMRIAH was
+established using the validated analytical method with a LOQ = (b) (4) . No residual B-lineage
+
+                                                                                                                             10
+cells have been detected in any batch manufactured at the Novartis Morris Plains Facility.
+However, the possibility still exists for residual B cell blasts to be transduced, survive the
+manufacturing process, and be present in a trace amount in KYMRIAH.
+
+No lot release test is performed for natural killer (NK) cells, despite detection of low levels in
+some lots during clinical development, because the biological activities of autologous NK cells
+are not considered to be a safety concern.
+
+The percentages of hematocrit are measured and reported by the leukapheresis collection sites.
+The majority of incoming patient leukapheresis material met the recommended target for red
+blood cells (RBC), which is (b) (4) The KYMRIAH manufacturing process is capable of
+removing RBC even if present in large numbers in the patient leukapheresis starting material.
+The acceptance criterion for appearance is colorless to slightly yellow. High levels of RBCs in the
+final product would cause a lot release failure due to color outside of the acceptable limit.
+
+There are significant levels of antibody conjugated beads (CD3/CD28) at the end of the cell
+expansion step before harvest (at maximum (b) (4) in 10 mL solution). The antibody
+conjugated beads (CD3/CD28) are actively removed (b) (4)              to meet the acceptance
+criterion of no more than (b) (4)
+
+Reduction of process-related residuals is a consequence of a series of washes and volume
+replacement processes. There are multiple washing and bead removal steps in the
+manufacturing process that are capable of removing impurities. Overall, this represents up to a
+5000-fold reduction of residual carry-over by volume replacement.
+
+Viral Safety
+
+The potential risks from adventitious viral agents for KYMRIAH are addressed through
+assessment of source materials and testing programs during vector and KYMRIAH
+manufacturing. Animal and human or recombinant technology-derived raw materials are
+qualified and tested for their origin and suitability to minimize the potential contaminations
+with various adventitious viruses and TSE/BSE risk. Therefore, the infusion of KYMRIAH
+presents an overall low risk of patient infection from viral adventitious agents.
+
+Container Closure-DS, DP
+
+KYMRIAH is filled and cryopreserved at ≤ -120°C in (b) (4)
+        bags, as a single-dose cell suspension, which is thawed prior to infusion. The (b) (4)
+cryobags are used for final product volumes of 10-30 mL of cell suspension, and the (b) (4)
+cryobags are used for final product volumes of 30-(b) (4) cell suspension.
+
+The (b) (4)                bags, which are non-pyrogenic and sterilized by (b) (4)               ,
+are 510(k) cleared devices(b) (4)          The bags have sterile fluid paths including two spike
+ports, an inlet tube, and a Y-connector with female luer-lock caps.
+The container closure integrity of the bags is tested and inspected for leaks by the vendor
+(b) (4) . Additional container closure integrity testing is performed by Novartis on the filled
+(b) (4)            cryobags using a (b) (4)          method. The frozen filled bags containing
+surrogate media are thawed at different time points to demonstrate the integrity of the bags for
+the duration of the final product shelf life of nine months. Results of container closure integrity
+testing at Time0 and Time6months were acceptable.
+
+
+
+                                                                                                     11
+Manufacturing Risks
+
+Manufacturing failures
+As an autologous, single-dose product, manufacturing failures would have a direct impact on
+patients for whom KYMRIAH is prescribed. In the clinical study protocol B2202, 7 of the 78 lots
+manufactured failed due to either termination of manufacturing or out-of-specification results
+(an approximately 9% failure rate).
+
+Replication Competent Lentivirus
+Generation of replication-competent lentivirus (RCL) during the manufacturing process for
+KYMRIAH is a theoretical safety concern. To date, no RCL has been detected in any clinical
+trials using a lentiviral vector transduced cell product, as tested on the vector product with a
+sensitive co-culture RCL assay or on the final transduced cell product with the same RCL assay
+or a PCR-based RCL assay.
+
+Insertional Mutagenesis
+Insertional mutagenesis due to vector integration is a potential risk for inducing secondary
+malignancies following KYMRIAH administration. Integration of the vector into the patient’s
+cells might inadvertently activate a cellular proto-oncogene or disrupt a tumor suppressor gene,
+leading to malignant transformation events. To mitigate the risk of insertional mutagenesis, the
+vector used for KYMRIAH manufacturing was designed to remove any known viral enhancer
+elements (self-inactivating design). In addition, the average vector copy number per cell is
+limited to less than (b) (4) per cell for KYMRIAH.
+
+            b) CBER Lot Release
+
+An exemption has been granted from CBER Lot Release, with no requirement for submission of
+lot release protocols or product samples to CBER. The basis for this decision is that KYMRIAH
+is an autologous product; each lot will treat a single patient. Lot release testing would negatively
+impact the often limited quantity of cells available to the patient and failure of a single lot will
+have a minimal potential impact on public health.
+
+            c) Facilities Review/Inspection
+
+Facility information and data provided in the BLA were reviewed by CBER and found to be
+sufficient and acceptable. The facilities involved in the manufacture of KYMRIAH are listed in
+the table below. The activities performed and inspectional histories are noted in the table and
+are further described in the paragraphs that follow.
+Table 2. Manufacturers for KYMRIAH drug product, vector substance and vector
+product
+                                                               DUNS        Inspection    Justification
+ Name/Address                                     FEI number
+                                                               number      /Waiver       /Results
+ Final Product
+ Drug Substance
+ Drug Product
+ Release Testing
+                                                                                         CBER
+                                                                           Pre-License
+ Cell & Gene Therapies Facility (CGT), 220 East   3010353512   078640106                 April 3 – 7, 2017
+                                                                           Inspection
+ Hanover Avenue, Morris Plains, NJ 07950 USA                                             VAI
+
+ Manufacture of KYMRIAH Drug Substance
+ (DS) and Drug Product (DP)
+
+
+
+                                                                                                       12
+    Quality Control and Stability Testing of
+    KYMRIAH DS and DP.
+
+    Quality Control of vector (functional test of
+    expressed transgene and MOI assay)
+    Testing and release of vector as incoming
+    material
+    Lentiviral vector (with CAR transgene)
+    Manufacturing and Release Testing
+
+(b) (4)                                                                                   CBER
+                                                                                (b) (4)   (b) (4)
+                                                        (b) (4)   (b) (4)
+    Manufacturing and storage of lentiviral vector
+                                                                                          VAI
+    (with CAR transgene)
+
+    Batch release, stability testing and QC of
+    lentiviral vector
+    Lentiviral vector (with CAR transgene)
+    Manufacturing and Release testing
+
+(b) (4)
+                                                                                          CBER
+                                                                            2
+                                                                                (b) (4)
+                                                        (b) (4)   (b) (4)                 (b) (4)
+    Sterilization, concentration, filling storage and                                     VAI
+    labeling of the lentiviral vector (with the CAR
+    gene)
+
+    QC testing (b) (4)
+                 of the lentiviral vector
+
+CBER performed a Pre-License Inspection (PLI) at Novartis Pharmaceuticals Corporation Cell
+and Gene Therapy Facility (CGT) in Morris Plains, New Jersey from April 3-7, 2017 for the
+manufacture of KYMRIAH suspension for intravenous infusion.
+
+At the end of the inspection, CBER issued a Form FDA 483. The firm responded to the
+observations, and the corrective actions were reviewed and found to be acceptable. All
+inspectional issues are considered to be satisfactorily resolved.
+
+CBER also performed two PLIs at the facilities involved in the manufacturing of the lentiviral
+vector (with CAR transgene):
+•      (b) (4)                                – a contract manufacturer (CMO) for Novartis.
+       The inspection was conducted (b) (4)               for the manufacture of the lentiviral
+       vector. CBER issued a Form FDA 483 at the end of the inspection.
+
+       The firm responded to the observations, and the corrective actions were reviewed and found
+       to be acceptable. All inspectional issues are considered to be satisfactorily resolved.
+•      (b) (4)                                                                           . The
+       inspection was conducted from (b) (4)              for the sterilization, concentration and
+       filling of the lentiviral vector. CBER issued a Form FDA 483 at the end of the inspection.
+
+       The firm responded to the observations, and the corrective actions were reviewed and found
+       to be acceptable. All inspectional issues are considered to be satisfactorily resolved.
+
+
+
+                                                                                                     13
+           d) Environmental Assessment
+
+The BLA included a request for categorical exclusion from an Environmental Assessment under
+21 CFR 25.31(c). The FDA concluded that this request is justified as the manufacturing of this
+product will not significantly alter the concentration and distribution of naturally occurring
+substances and no extraordinary circumstances exist that would require an environmental
+assessment.
+
+           e) Product Comparability
+
+The CD19 CAR-positive T cell product that was the predecessor to KYMRIAH was originally
+developed at the University of Pennsylvania using a lentiviral vector for stable integration and
+expression of the CD19-specific CAR for the treatment of B cell leukemia and lymphoma.
+Novartis made numerous changes in the (b) (4)          and the manufacturing process.
+
+The new (b) (4)            developed by Novartis for KYMRIAH was designed to improve the
+(b) (4) safety features while maintaining the same CAR transgene. The new (b) (4)            is
+expected to have reduced potential for generation of replication competent lentivirus and
+insertional mutagenesis-mediated oncogenesis. An equivalency study comparing the new and
+the original (b) (4)           was conducted to demonstrate that the new (b) (4) was able to
+transduce human T cells and produce CD19 CAR-positive T cells with the same critical product
+attributes.
+
+Novartis significantly modified the manufacturing process for CD19 CAR-positive T cells
+developed by the University of Pennsylvania. The most significant changes were designed to
+improve the manufacturing process controls for product consistency and yield. These changes
+have been designed to reduce non-T cells that negatively affect manufacturing ability, maximize
+the yield, and improve the quality of the final cell product.
+
+A site-to-site comparability study was conducted at the Novartis and University of Pennsylvania
+facilities, and demonstrated that CD19 CAR-positive T cells manufactured by both facilities met
+all lot release specifications. However, the characterization of cell growth and transduction
+efficiency showed statistically significant differences. Thus, the products produced by the
+University of Pennsylvania and Novartis are not considered to be comparable.
+
+Significantly, the modified manufacturing process at the Novartis Manufacturing Facility at
+Morris Plains is able to produce a more pure intermediate T cell population before the
+transduction steps. This important change is expected to improve the vector transduction
+efficiency and cell growth. Furthermore, from safety standpoint, this change is expected to
+reduce the chance of transduction of non-T cells (e.g., B cell blast, residual levels of stem cells)
+that would pose a potential risk for the patients.
+
+
+   4. NONCLINICAL PHARMACOLOGY/TOXICOLOGY
+
+The nonclinical studies conducted for KYMRIAH included: 1) evaluation of the specificity of the
+CD19-binding domain using a human plasma membrane protein array, 2) assessment of in vivo
+anti-tumor activity of KYMRIAH in mouse xenograft tumor models, 3) evaluation of selected
+toxicology parameters, cell distribution, and persistence of KYMRIAH in tumor-bearing mice,
+and 4) genomic insertion site analysis of lentiviral integration into the human genome. The
+genomic insertion site analysis was performed on KYMRIAH from 14 individual donors (2
+
+
+                                                                                                       14
+healthy donors and 12 patients with pediatric ALL or diffuse large B-cell lymphoma). The
+transduced samples exhibited conventional lentivirus integration site patterns with no
+preferential insertion sites near genes of concern or clonality observed. Genotoxicity assays, in
+vivo carcinogenicity studies, and developmental and reproductive toxicity studies were not
+conducted. No safety concerns were identified in the resulting data from the nonclinical studies.
+
+      5. CLINICAL PHARMACOLOGY
+
+Based on Population pharmacokinetic (PK) analysis of KYMRIAH, the following conclusions can
+be drawn from the study:
+• KYMRIAH exhibited an initial rapid expansion phase achieving maximal concentration
+    (Cmax) around day 10 followed by a slower bi-exponential decline in complete
+    remission/complete remission with incomplete hematologic recovery (CR/CRi) patients on
+    day 28.
+• Cmax and AUC0-28d of KYMRIAH were higher in CR/CRi patients as compared with non-
+    responder (NR) patients.
+• No difference in the pharmacokinetics of KYMRIAH was noted for race and gender.
+• Children <10 years of age have higher Cmax and AUC (1.5 to 2-fold) than adults. Both Cmax
+    and AUC0-28d decreased with increasing age. However, due to small sample size and high
+    variability, it was difficult to assess a definitive impact of age on the PK of KYMRIAH.
+• Cmax and AUC0-28d of KYMRIAH were higher with greater tumor burden.
+• CR/CRi patients (n=18) treated with tocilizumab had 183% and 265% higher KYMRIAH Cmax
+    and AUC0-28d, respectively, as compared to patients (N=44) who did not receive tocilizumab
+    as measured by qPCR
+• CR/CRi patients who received corticosteroids had 89% higher AUC0-28d compared with
+    CR/CRi patients who did not receive corticosteroids
+
+6.        CLINICAL/STATISTICAL/PHARMACOVIGILANCE
+
+     a)      Clinical Program
+
+B2202 provided the basis for the BLA submission for a regular approval for KYMRIAH. B2202
+evaluated the safety and effectiveness of KYMRIAH for the treatment of pediatric and young
+adult patients with second or later relapse or primary refractory B cell precursor ALL. This study
+was conducted under a Special Protocol Assessment initially agreed upon on March 3, 2014.
+
+Study Description
+
+CCTL019B2202 (B2202) is a multicenter, open-label, single-arm, trial to determine the efficacy
+and safety of KYMRIAH in pediatric and young adult patients with relapsed or refractory B-cell
+precursor ALL. The primary objective was to evaluate the efficacy of KYMRIAH therapy as
+measured by overall remission rate (ORR) during the 3 months after KYMRIAH administration,
+which includes CR and CR with incomplete blood count recovery (CRi) as determined by an
+Independent Review Committee (IRC) assessment. CR is a bone marrow with < 5% blasts;
+peripheral blood counts with neutrophils > 1 x 109/L and platelets > 100 x 109/ L and < 1%
+circulating blasts; no extramedullary disease; and no platelet or neutrophil transfusion for ≤ 7
+days. CRi is a CR except for neutrophils ≤ 1 x 109/L and/or platelets ≤ 100 x 109/L.
+
+The key secondary objectives
+• Evaluate the percentage of patients who achieve a best overall response (BOR) of CR or CRi
+   with an MRD-negative bone marrow by central analysis using flow cytometry.
+
+                                                                                                15
+Other secondary objectives (selected)
+• Duration of response
+
+Primary efficacy endpoint
+• Overall remission rate (ORR) assessment during the 3 months after KYMRIAH
+   administration; ORR includes CR and CRi, as determined by independent review committee
+   (IRC) assessment from all manufacturing sites.
+
+Clinical Efficacy Findings
+
+
+
+
+Of the 107 subjects who signed an informed consent, 88 were enrolled. Sixty-eight subjects
+received KYMRIAH with products manufactured at the Morris Plains (MP), New Jersey (n=63)
+and Fraunhofer Institut (FH), Germany (n=5) and were included in the Safety Set. Since the
+comparability of the MP product with the FH product has not been completed, the Efficacy Set
+or primary efficacy analysis will be restricted to the 63 subjects who were treated with
+KYMRIAH manufactured at the MP site.
+
+     Table 5. Efficacy Analysis Results
+                  Efficacy Analysis Set: Primary Endpoint* (n=63)
+ORR (95% CI)            82.5% (95% CI 70.9, 91.0)
+   CR                   63.5% (95% CI 50.4, 75.3)
+   Cri                  19.0%
+NR/UNK                  17.5%
+Source: FDA clinical and statistical reviewers;. Dataset ADEFIRC1
+*All CR and CRi were MRD negative
+
+
+For the pre-specified primary efficacy endpoint of overall remission rate (ORR), a total of 52
+subjects (82.5%) had a best overall disease response of complete remission (CR) or CR with
+incomplete blood count recovery (CRi) during the 3 months after KYMRIAH administration, as
+determined by Independent Review Committee (IRC). As a result, the lower limit of the 95%
+exact Clopper-Pearson confidence interval for ORR is 70.9%, which is above the pre-set null
+hypothesis rate of 20%. Forty subjects (63.5%) had the best response of CR within the first 3
+months after infusion, and 12 subjects (19.0%) had the best response of CRi. Among the 52
+responders, the median duration of response (DOR) was not yet reached (range: 1.2 to 14.1+
+months) with the median follow-up of 4.8 months.
+
+
+                                                                                             16
+Efficacy Review Issues
+
+The ORR is better than that reported for the treatment of relapsed disease, where the average
+remission rate is 40%, when patients are treated with combination therapy, approved
+single-agent therapy, or HSCT if done in either relapse or remission for this population. The
+analysis for the primary endpoint focuses on a three month assessment for ORR. However, the
+duration of response is a crucial assessment and that the remissions are sustainable in this
+heavily pre-treated population is an important result. The median duration of response has not
+been reached with a median follow-up time of 4.8 months. Therefore, while the additional issue
+of a small sample size is noted, the ORR rate is a marked improvement over all available
+therapies and has produced sustained remissions without additional therapy. In addition,
+twenty-nine of the confirmed responders are alive in remission without further therapy.
+
+Bioresearch Monitoring
+
+Bioresearch Monitoring inspections were issued for two foreign and four domestic clinical study
+sites that participated in the conduct of Study CCTL019B2202. The inspections did not reveal
+substantive problems that impact the data submitted in this BLA.
+
+Efficacy Conclusion
+
+The B2202 trial was adequate and well controlled. Based on the results of B2202, the review
+team concludes that the BLA contains substantial evidence of the effectiveness for the proposed
+indication. For the 63 patients in the efficacy analysis population, the CR rate was 63% ((95%
+CI, (50%, 75%)), and all patients in CR were MRD negative. With a median follow-up of 4.8
+months, the median duration of CR was not reached.
+
+
+           b) Pediatrics
+
+This study B2202 was conducted in a pediatric population ages: 2 to < 12 (50%); 12 to < 17
+(25%); and ≥ 17 (25%) in the enrolled set. Similar percentages were noted in the safety and
+efficacy sets. No differences in efficacy or safety were observed between the different age
+subgroups or in comparison to the young adults in the trial. The FDA issued a written request
+(WR) for B2202 December 1, 2016. The applicant completed the WR and submitted the results
+for review prior to the submission of the BLA. These data were reviewed by the Pediatric Review
+Committee and the CBER Pediatric Exclusivity Board. The applicant met their endpoints for the
+WR.
+
+           c) Other Special Populations
+
+              None
+
+   7. SAFETY
+
+The primary safety population for B2202 was the 63 subjects who received KYMRIAH
+manufactured in the U.S. (the efficacy population) and 5 subjects who received KYMRIAH
+manufactured at the Fraunhofer Institut in Germany. These 68 subjects comprise the Safety
+population for KYMRIAH. Comparability studies for the two site products have not been
+completed. All subjects experienced at least one adverse event after KYMRIAH. Eight-four
+percent (n=57) experienced Grade 3 or higher events. Serious adverse events and adverse events
+
+
+                                                                                              17
+of special interest included CRS, infection, transient neurologic events, febrile neutropenia,
+cytopenias lasting greater than 28 days, and infections. CRS was defined by clinical symptoms
+and medical status: fever, ICU status, hypotension, dyspnea, tachypnea, hypoxia, organ failure
+(intubation, dialysis), and acute respiratory symptoms.
+
+Table 6. Adverse Events of Special Interest Post-Infusion
+
+    Study B2202                                      Grade 3       Grade 4       All Grades
+    N=68                                              N (%)         N (%)          N (%)
+
+    CRS                                              14 (21)        19 (28)         54 (79)
+    Transient neurologic events                      12 (18)           0            44 (65)
+    Febrile Neutropenia                              24 (35)         2 (3)          26 (38)
+    Hematopoietic cytopenia not resolved by Day 28   13 (19)        12 (18)         36 (53)
+    Infections                                       17 (24)         2 (3)          40 (59)
+Source: FDA analysis ADSL, ADAE, ADAERISK
+
+
+•     Severe Cytokine Release Syndrome (CRS) (Grade 3 and 4) events were noted in 49% (n= 33)
+      of patients in the safety analysis set. Severe CRS occurred within 6 days, with a median
+      duration of 9 days.
+          o These events are life-threatening and can be fatal and require supportive measures
+                   Thirty two (47%) patients required ICU admission.
+                   Thirty six (53%) patients required blood pressure support.
+                   Eleven (16%) required mechanical ventilation.
+                   Eight patients (12%) required dialysis.
+                   Twelve patients (18%) developed disseminated intravascular coagulation
+                      (DIC) resulting in 9 bleeding events
+•     Two fatal outcomes were related to severe CRS; one with a coagulopathy resulted in death of
+      a patient from cerebral hemorrhage; and the second was the recurrence of leukemia and the
+      onset of CRS that resulted in death 11 days after KYMRIAH infusion.
+
+•     Transient Grade 3 neurotoxicity such as encephalopathy, delirium, aphasia, and seizures
+      occurred in 18% (n=12) of all patients.
+
+•     Severe infectious complications were noted in 26% (18/68) of patients, with three deaths
+      occurring within 60 days and related to HHV6, bacterial pneumonia, and fungal infection.
+
+•     Prolonged neutropenia was noted in 40% of patients.
+
+•     Three patients experienced Grade 3 or 4 congestive heart failure requiring treatment for
+      management. One remains on therapy.
+
+•     Successful treatment with KYMRIAH resulted in acquired hypogammaglobulinemia due to
+      the loss of normal B cells. Patients need to be maintained on supplemental treatment with
+      intravenous gamma globulin (IV IgG).
+
+•     Twenty seven patients experienced 61 episodes of bleeding pre- and post-KYMRIAH. The
+      cerebral hemorrhage occurred post-KYMRIAH and was fatal as detailed above. Bleeding was
+      controlled with clinical care with and without transfusions of fibrinogen, fresh frozen plasma
+      and platelets.
+
+                                                                                                  18
+•   As described in the CMC review, KYMRIAH is a genetically modified product that has the
+    potential for integration of the lentiviral vector (insertional mutagenesis), clonal outgrowth,
+    or neoplastic transformation of transduced host cells.
+
+Deaths:
+
+Overall, 29 deaths have been reported from time of informed consent to the data cut-off of the
+study (November 23, 2016) as submitted for the BLA. To be screened, one had to sign an
+informed consent. Six patients died in the failed screened population, 12 pre-infusion, awaiting
+manufacture of KYMRIAH (6 from ALL, 5 from infection, and one respiratory failure) and 11
+patients died post-infusion. Of the 29 deaths, two were attributable to the product and were
+considered by the FDA as related to CRS and are described above with CRS.
+
+Selected Post-Infusion Adverse Events
+
+Table 7. Selected Adverse Events (≥10%): Safety Population: Post- KYMRIAH
+                                                                   Grade 3 or
+                                                  Post-infusion    Higher
+ Body System         Preferred Term               period n (%)     n (%)
+ Subjects                                         68 (100%)        57 (84%)
+ Blood And
+ Lymphatic System
+ Disorders           Anemia                       21 (31%)         9 (13%)
+                     Febrile Neutropenia          26 (38%)         26 (38%)
+ Cardiac Disorders   Tachycardia                  18 (26%)         3 (4%)
+ Gastrointestinal
+ Disorders           Abdominal Pain               11 (16%)         2 (3%)
+                     Vomiting                     18 (26%)         1 (1%)
+ General Disorders
+ And Administration
+ Site Conditions     Chills                       7 (10%)          0
+                     Fatigue                      15 (22%)         0
+                     Fever                        27 (40%)         10 (15%)
+ Immune System
+ Disorders           Cytokine Release Syndrome    54 (79%)         33 (49%)
+                     Hypogammaglobulinemia        29 (43%)         5 (7%)
+ Infections And
+ Infestations                                     40 (59%)         19 (27%)
+                     Fungal Infectious Disorders  9 (13%)          5 (7%)
+ Metabolism And
+ Nutrition Disorders Decreased Appetite           25 (37%)         10 (15%)
+                     Fluid Overload               7 (10%)          5
+ Musculoskeletal And
+ Connective Tissue
+ Disorders           Arthralgia                   8 (12%)          1 (1%)
+                     Back Pain                    7 (10%)          2 (3%)
+                     Myalgia                      10 (15%)         0
+                     Pain In Extremity            11 (16%)         1 (1%)
+ Nervous System
+ Disorders           Encephalopathy                23 (34%)        7(10%)
+
+                                                                                                  19
+                            Headache                         25 (37%)            2 (3%)
+ Psychiatric Disorders      Agitation                        6 ( 9%)             0
+                            Anxiety                          9 (13%)             2 (3%)
+                            Confusional State                7 (10%)             0
+                            Delirium                         14 (21 %)           3 (4%)
+ Renal And Urinary
+ Disorders                  Acute Kidney Injury              15 (16%)            9 (10%)
+ Respiratory, Thoracic
+ And Mediastinal
+ Disorders                  Cough                            13 (19%)            0
+                            Hypoxia                          16 (24%)            12 (18%)
+                            Nasal Congestion                 7 (10%)             0
+                            Pleural Effusion                 7 (10%)             3 (4%)
+                            Pulmonary Edema                  11 (16%)            7 (10%)
+                            Tachypnea                        8 (12%)             4 (6%)
+ Vascular Disorders         Hypertension                     13 (19%)            4 (6%)
+                            Hypotension                      21 (31%)            15 (22%)
+Source: ADSL ADAE JReview
+
+
+
+Postmarketing Requirements
+
+Risk Evaluation Mitigation Strategies (REMS)
+
+Fifty four of 68 (79%) subjects treated with KYMRIAH experienced CRS, and 33/68 (49%) of
+the subjects had Grade 3/4 CRS. CRS results in a constellation of inflammatory symptoms
+ranging from a flu-like syndrome to severe multi-organ system failure and death. Specifically,
+Grade 3/4 CRS required treatment in ICU settings. Treatment of CRS was based on a complex
+grading system and treatment algorithm requiring supportive care and tocilizumab. Of the 54
+subjects with CRS, 27 (50%) required 1-3 doses of tocilizumab. Two deaths were attributed to
+CRS. In addition, 65% (44 of 68) of subjects had neurotoxicity (defined as events such as
+aphasia, tremor, seizures, confusion, and encephalopathy) within the first 8 weeks, with 18 %
+being grade 3 (and none being grade 4). Monitoring for neurotoxicity required frequent
+neurological evaluations and treatment with systemic corticosteroids. The severity of the
+adverse events described above and the risk mitigation measures implemented in the study
+suggest that, post-approval, a Risk Evaluation and Mitigation Strategy (REMS) is indicated to
+ensure that the benefits of KYMRIAH outweigh the risks of Cytokine Release Syndrome (CRS)
+and neurotoxicity. The REMS includes Elements to Assure Safe Use (ETASU) to mitigate the
+known risks of CRS and neurotoxicity, as follows:
+
+•   Pharmacies, practitioners, or health care settings that dispense the drug are specially
+    certified.
+
+•   KYMRIAH is dispensed to patients only in certain health care settings.
+
+The REMS ETASU requires Novartis to ensure that:
+a) Pharmacies, practitioners and health care settings dispensing KYMRIAH are certified
+   through a live training program and knowledge assessment.
+b) Sites report all cases of CRS and neurotoxicity.
+
+
+                                                                                                 20
+c) Novartis maintains documentation that processes and procedures are followed for the
+   KYMRIAH REMS program.
+d) Novartis conducts audits to ensure that training processes and procedures are in place.
+e) Sites verify that a minimum of two doses of tocilizumab are available on site.
+
+Materials provided as part of the REMS included:
+• KYMRIAH REMS Live Training Program
+• KYMRIAH REMS Program Knowledge Assessment
+• KYMRIAH REMS Program Hospital Enrollment Form
+• KYMRIAH REMS Program Website
+• KYMRIAH REMS Program Patient/Caregiver Wallet Card
+
+Postmarketing Requirement (PMR) Study
+
+Study CCTL019B2401 (B2401) is a multicenter, prospective, observational safety study. The
+study will include 1000 subjects enrolled within 3 months of the KYMRIAH infusion over a
+period of 5 years. All enrolled subjects will be followed for 15 years from their KYMRIAH
+infusion. Patients will receive clinical evaluation and follow-up according to standard of care for
+pediatric and young adult ALL patients. The primary endpoint will be evaluation for second
+malignancy (including T cell leukemia) which will include tissue work-up by the applicant for
+these events. Secondary endpoints will be adverse events and laboratory abnormalities, adverse
+events of special interest (CRS, neurotoxicity, infections, prolonged cytopenias), growth and
+development, reproductive status and pregnancy outcomes, and disease outcomes (ORR, OS).
+
+The timetable for the PMR study:
+
+Final Protocol Submission: September 8, 2017
+Study Completion: December 31, 2037
+Final Report Submission: December 31, 2038
+
+
+Immunogenicity
+
+Because the CD19-specific chimeric antigen receptor is a foreign protein that contains murine
+sequences, infusion of KYMRIAH could induce antibodies against the CAR (collectively termed
+as anti-mCAR19 antibodies). Anti-mCAR19 antibodies may negatively impact the KYMRIAH
+efficacy and safety profile by impeding the KYMRIAH expansion after infusion.
+
+In Study B2202, pre-infusion anti-mCAR19 antibodies were observed in 86% of patients treated
+with KYMRIAH. The pre-existing anti-mCAR19 antibodies did not impact the expansion and
+cellular kinetics of KYMRIAH. Post-infusion induced or boosted anti-mCAR19 antibodies were
+observed in 37% of patients treated with KYMRIAH. Despite the pre-existing or post-infusion
+induced anti-mCAR19 antibodies there was no apparent relationship between pre-existing or
+treatment-induced anti-mCAR19 antibodies on the cellular kinetics or impact on response or
+relapse.
+
+   8. ADVISORY COMMITTEE MEETING
+
+A meeting of the Oncology Drugs Advisory Committee (ODAC) was held on July 12, 2017 in
+order to provide advice to FDA regarding product quality and safety, clinical safety, and overall
+risk-benefit assessment for KYMRIAH.
+
+                                                                                                 21
+Summary of Discussion:
+
+   •   The Committee agreed that the risk-mitigation measures in the B2202 study were
+       reasonable. The Committee did not express concern about testing for replication
+       competent retrovirus. However, the Committee considered insertional mutagenesis to be
+       a potential risk.
+
+   •   Discussion of the planned 15-year follow-up centered on the B2401 postmarketing
+       observational trial. The committee agreed that 15-year follow-up would be sufficient.
+
+   •   The Committee voted 10 (Yes) to 0 (No) to the question, “Considering the efficacy and
+       safety results of Study B2202, is the benefit-risk profile of KYMRIAH favorable for
+       treatment of pediatric and young adult patients (age 3-25 years) with relapsed (second or
+       later relapse) or refractory (failed to achieve remission to initial induction or reinduction
+       chemotherapy) B-cell precursor acute lymphoblastic leukemia (ALL)?”
+
+   9. OTHER RELEVANT REGULATORY ISSUES
+
+Not applicable
+
+   10. LABELING
+
+The proposed proprietary name, KYMRIAH, was reviewed by the Advertising and Promotional
+Labeling Branch (APLB) on April 13, 2017, and was found to be acceptable. CBER
+communicated the acceptability of the proprietary name to the applicant on May 2, 2017.
+
+The APLB found the prescribing information (PI) and container label to be acceptable from a
+promotional and comprehension perspective. The review committee negotiated revisions to the
+PI, including the INDICATIONS statement and a BOXED WARNING for Cytokine Release
+Syndrome and Neurotoxicity. All issues were acceptably resolved after exchange of information
+and discussions with the applicant. Issues identified with the proposed container labeling were
+resolved following discussion with the applicant.
+
+
+   11. RECOMMENDATIONS AND RISK/ BENEFIT ASSESSMENT
+
+           a) Recommended Regulatory Action
+
+The review team recommends regular approval (21 CFR 601.4) for KYMRIAH.
+
+           b) Risk/ Benefit Assessment
+
+The risks of KYMRIAH center around its mechanism of action, which is activation of T cells and
+the destruction of CD19+ B cells, both tumor cells and normal B cells. Cytokine release
+syndrome, which occurred in 79% of the patients, can be life-threatening or fatal. Transient
+neurotoxicity occurred in 65% of the patients. Hypogammaglobulinemia persists for months and
+requires monitoring and intervention. Cytokine release syndrome, which occurred 79% of the
+patients, can be life-threatening or fatal. Transient neurotoxicity occurred in 65% of the
+patients. Hypogammaglobulinemia persists for months and requires monitoring and
+intervention.
+
+
+                                                                                                 22
+Following review of the BLA clinical and safety data, and considering the available therapies for
+relapsed/refractory ALL, as well as the discussion at the ODAC meeting, the review team
+recommends issuing a regular approval (21 CFR 601.4 (a)) for KYMRIAH. While the safety risks,
+both known and theoretical are substantial, the achievement of an overall remission rate (ORR:
+complete remission plus complete remission with incomplete hematologic recovery) in 82.5% of
+the patients (52 of 63), which were MRD-negative, provides a favorable risk/benefit profile for
+this population of highly-resistant pediatric and young adult ALL. The durability of the response
+was also considered. With a median follow-up of 4.8 months, the duration of CR and CRi has
+not been reached (range: 1.2 to 14.1+ months). Despite limited follow-up, durability is
+documented. These findings support approval of KYMRIAH at the dose of 0.2-5 x 106/kg for
+patients less than or equal to 50 kg or 0.1-2.5 x 108 for patients over 50 kg as demonstrated in
+B2202.
+
+           c) Recommendation for Postmarketing Activities
+
+The applicant submitted a postmarketing study, which is considered a postmarketing
+requirement. This observational study, B2401, focuses on short-term toxicity, documenting
+adverse events, and long-term follow-up for documentation and evaluation of secondary
+malignancies. Due to the potential for secondary malignancies related to replication-competent
+retrovirus or insertional mutagenesis, the applicant plans to make every effort to obtain tissue
+from second malignancies to assure that KYMRIAH did not cause the second malignancy. The
+plan is to enroll 1,000 patients over 5 years and follow each patient for 15 years.
+
+Considering input from CBER Office of Biostatistics and Epidemiology and CDER Division of
+Risk Management, FDA determined that a Risk Evaluation and Mitigation Strategy (REMS) is
+indicated to ensure that the benefits of KYMRIAH outweigh the risks of Cytokine Release
+Syndrome (CRS) and neurotoxicity. Therefore, FDA sent the applicant a REMS notification
+letter on June 27, 2017. The recommended REMS includes Elements to Assure Safe Use
+(ETASU). The REMS ETASU focuses on mitigating the known risks of CRS and neurotoxicity,
+and includes site certification and restriction of use to certain health care settings.
+
+CMC Postmarketing Commitment
+
+The review team recommends a Postmarketing Commitment for KYMRIAH for the revalidation
+of the (b) (4)                   Mycoplasma Test Validation” for Vector (b) (4)
+         Material performed by (b) (4)   .
+
+In amendment 57 submitted on August 28, 2017, Novartis commits to revalidate the(b) (4)
+mycoplasma test method for vector (b) (4) as specified in the validation protocol entitled
+“Validation of Mycoplasma (b) (4)               assay in the presence of KYMRIAH
+(DOCUMENT No: VP300808.DRAFT00)” submitted on July 19, 2017 and submit a final
+validation report by June 30, 2018.
+
+
+
+
+                                                                                              23
+

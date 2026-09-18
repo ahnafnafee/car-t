@@ -1,0 +1,70 @@
+US9701758B2 SEQ ID first-mention contexts
+Source: D:\GitHub\car-t\.private\verify\US9701758B2.html (Google Patents, retrieved 2026-09-16)
+
+=== SEQ ID NO: 1 (@22113) ===
+ another aspect, the isolated antibody comprises a V H domain at least about 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, or 99% identical to the V H domain of 136.20.1 (SEQ ID NO: 1) and/or a V L domain at least about 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, or 99% identical to the V L domain of 136.20.1 (SEQ ID NO: 5). In other aspe
+
+=== SEQ ID NO: 2 (@120660) ===
+quence CDR1 CDR2 CDR3 CDR1 CDR2 CDR3 mAb Amino acid sequence Amino acid sequence 136.20.1 GFDFSRYW INLDSSTI ARRYDAMDY ESVDDYGISF AAP QQSKD (SEQ ID (SEQ ID (SEQ ID (SEQ ID (SEQ ID (SEQ ID NO: 2) NO: 3) NO: 4) NO: 6) NO: 7) NO: 8) LKPREVKLVESGGGLVQPGGSLKLSCA ASDIVLTQSPASLAVSLGQRATIS AS GFDFSRYW MSWVRQAPGKGLEWIGE CRAS ESVDDYGISF MNWFQQKPGQ INLDSSTI NYTPSLKDKFII
+
+=== SEQ ID NO: 3 (@160520) ===
+ity determining regions (CDRs) HCDR1, HCDR2, HCDR3, LCDR1, LCDR2 and LCDR3, wherein (a) HCDR1 has the amino acid sequence of SEQ ID NO: 2; (b) HCDR2 has the amino acid sequence of SEQ ID NO: 3; (c) HCDR3 has the amino acid sequence of SEQ ID NO: 4; (d) LCDR1 has the amino acid sequence of SEQ ID NO: 6; (e) LCDR2 has the amino acid sequence of SEQ ID NO: 7; a
+
+=== SEQ ID NO: 4 (@160575) ===
+R1, LCDR2 and LCDR3, wherein (a) HCDR1 has the amino acid sequence of SEQ ID NO: 2; (b) HCDR2 has the amino acid sequence of SEQ ID NO: 3; (c) HCDR3 has the amino acid sequence of SEQ ID NO: 4; (d) LCDR1 has the amino acid sequence of SEQ ID NO: 6; (e) LCDR2 has the amino acid sequence of SEQ ID NO: 7; and (f) LCDR3 has the amino acid sequence of SEQ ID NO: 
+
+=== SEQ ID NO: 5 (@22265) ===
+the V H domain of 136.20.1 (SEQ ID NO: 1) and/or a V L domain at least about 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, or 99% identical to the V L domain of 136.20.1 (SEQ ID NO: 5). In other aspects, the isolated antibody comprises a V H domain between 80% and 99% identical to the V H domain of 136.20.1 (SEQ ID NO: 1) or a V L domain between 80%
+
+=== SEQ ID NO: 6 (@160630) ===
+id sequence of SEQ ID NO: 2; (b) HCDR2 has the amino acid sequence of SEQ ID NO: 3; (c) HCDR3 has the amino acid sequence of SEQ ID NO: 4; (d) LCDR1 has the amino acid sequence of SEQ ID NO: 6; (e) LCDR2 has the amino acid sequence of SEQ ID NO: 7; and (f) LCDR3 has the amino acid sequence of SEQ ID NO: 8. 2. An isolated antibody or antibody fragment thereof
+
+=== SEQ ID NO: 7 (@160685) ===
+id sequence of SEQ ID NO: 3; (c) HCDR3 has the amino acid sequence of SEQ ID NO: 4; (d) LCDR1 has the amino acid sequence of SEQ ID NO: 6; (e) LCDR2 has the amino acid sequence of SEQ ID NO: 7; and (f) LCDR3 has the amino acid sequence of SEQ ID NO: 8. 2. An isolated antibody or antibody fragment thereof that specifically binds to a CD19-specific scFv (FMC63
+
+=== SEQ ID NO: 8 (@160744) ===
+equence of SEQ ID NO: 4; (d) LCDR1 has the amino acid sequence of SEQ ID NO: 6; (e) LCDR2 has the amino acid sequence of SEQ ID NO: 7; and (f) LCDR3 has the amino acid sequence of SEQ ID NO: 8. 2. An isolated antibody or antibody fragment thereof that specifically binds to a CD19-specific scFv (FMC63) chimeric antigen receptor (CAR) polypeptide, wherein the 
+
+=== SEQ ID NO: 9 (@28962) ===
+e. In another aspect, the isolated antibody comprises a V H domain at least about 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, or 99% identical to the V H domain of 2D3 (SEQ ID NO: 9) and a V L domain at least about 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, or 99% identical to the V L domain of 2D3 (SEQ ID NO: 13). In certain aspects, 
+
+=== SEQ ID NO: 12 (@133252) ===
+DR3 mAb Amino acid sequence Amino acid sequence 2D3 GYTFTSYW IYPGNSDT TRVNWDG QSLVHSN KVS CSQTTHV (SEQ ID (SEQ ID YSTMDY GNTY (SEQ ID PYTF NO: 10) NO: 11) (SEQ ID (SEQ ID NO: 15) (SEQ ID NO: 12) NO: 14) NO: 16) PREXKLEQSGTVLARPGASVKMSCKTS GYT STLSLPVSLGDQASISCRSS QSLVH FTSYW MHWVIQRPGQGLEWIGA IYPGNSDT SNGNTY FHWYLQKPGQSPKLLIY KV NYNQKFKVKAKLTAVTSTSTAYMELSSLT
+
+=== SEQ ID NO: 13 (@29106) ===
+identical to the V H domain of 2D3 (SEQ ID NO: 9) and a V L domain at least about 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, or 99% identical to the V L domain of 2D3 (SEQ ID NO: 13). In certain aspects, the isolated antibody comprises a V H domain between 80% and 99% identical to the V H domain of 2D3 (SEQ ID NO: 9) or a V L domain between 80% a
+
+=== SEQ ID NO: 15 (@133236) ===
+CDR3 CDR1 CDR2 CDR3 mAb Amino acid sequence Amino acid sequence 2D3 GYTFTSYW IYPGNSDT TRVNWDG QSLVHSN KVS CSQTTHV (SEQ ID (SEQ ID YSTMDY GNTY (SEQ ID PYTF NO: 10) NO: 11) (SEQ ID (SEQ ID NO: 15) (SEQ ID NO: 12) NO: 14) NO: 16) PREXKLEQSGTVLARPGASVKMSCKTS GYT STLSLPVSLGDQASISCRSS QSLVH FTSYW MHWVIQRPGQGLEWIGA IYPGNSDT SNGNTY FHWYLQKPGQSPKLLIY KV NYNQKFKVKAKLT
+
+=== SEQ ID NO: 17 (@20056) ===
+peptide (e.g., a CD-19-binding CAR polypeptide). In a first embodiment an antibody is provided that binds specifically to a CD19-targeted CAR polypeptide (e.g., the polypeptide of SEQ ID NO: 17). In some aspects, an isolated and/or recombinant antibody binds to a CD19-specific scFv CAR polypeptide and competes for binding of the polypeptide with the 136.20.1
+
+=== SEQ ID NO: 18 (@27499) ===
+ the antibody may be the 2D3 antibody. In still further aspects, an antibody of the embodiments (e.g., a 2D3 monoclonal antibody) binds to a polypeptide comprising the sequence of SEQ ID NO: 18. Thus, in certain aspects, the isolated antibody comprises CDR sequences at least 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98%, or 99% identical to the CDRs 
+
+=== SEQ ID NO: 19 (@136410) ===
+v. A DNA plasmid ( FIG. 19C ) coding for a control CAR that contains no scFv region, designated G4CAR, but does contain an Igκ-FLAG peptide sequence (METDTLLLWVLLLWVPGSTGDYKDEGTS; SEQ ID NO: 19), was derived from 19G4CAR using primer-directed PCR amplification from the beginning of the IgG4 domain hinge ( primer 5′GGTACCTCTGGGGGGCAGGGCCTGCATG3′; SEQ ID NO: 2
+
+=== SEQ ID NO: 20 (@136578) ===
+TGDYKDEGTS; SEQ ID NO: 19), was derived from 19G4CAR using primer-directed PCR amplification from the beginning of the IgG4 domain hinge ( primer 5′GGTACCTCTGGGGGGCAGGGCCTGCATG3′; SEQ ID NO: 20) to the terminus of the CD3ζ domain ( primer 5′GGGCCCAGCGCTGAGAGCAAGTACGGCCCTCCC3′; SEQ ID NO: 21) and sequence verified. The G4CAR was ligated into the 19G4CAR backb
+
+=== SEQ ID NO: 21 (@136676) ===
+the beginning of the IgG4 domain hinge ( primer 5′GGTACCTCTGGGGGGCAGGGCCTGCATG3′; SEQ ID NO: 20) to the terminus of the CD3ζ domain ( primer 5′GGGCCCAGCGCTGAGAGCAAGTACGGCCCTCCC3′; SEQ ID NO: 21) and sequence verified. The G4CAR was ligated into the 19G4CAR backbone ApaI and KpnI RE sites. DNA plasmid coding for a CD19-specific CAR with no IgG4 ( FIG. 19D ), 
+
+=== SEQ ID NO: 22 (@26198) ===
+me specific embodiments cell (e.g., an APC) comprises a membrane-bound antibody comprising one, two, three, four or more of: (i) a GM-CSF leader peptide (e.g., amino acids 1-22 of SEQ ID NO: 22); (ii) the scFv coding sequence for an antibody that specifically binds to the antigen recognition domain of a CAR (e.g., a CD-19-bding CAR); (iii) a CD8α linker sequ
+
+=== SEQ ID NO: 23 (@26413) ===
+g sequence for an antibody that specifically binds to the antigen recognition domain of a CAR (e.g., a CD-19-bding CAR); (iii) a CD8α linker sequence (e.g., amino acids 136-182 of SEQ ID NO: 23); (iv) a CD28 transmembrane domain (e.g., amino acids 56-123 of SEQ ID NO: 24); and/or (v) a CD3ξ intracellular domain (e.g., amino acids 48-163 of SEQ ID NO: 25). In
+
+=== SEQ ID NO: 24 (@26491) ===
+domain of a CAR (e.g., a CD-19-bding CAR); (iii) a CD8α linker sequence (e.g., amino acids 136-182 of SEQ ID NO: 23); (iv) a CD28 transmembrane domain (e.g., amino acids 56-123 of SEQ ID NO: 24); and/or (v) a CD3ξ intracellular domain (e.g., amino acids 48-163 of SEQ ID NO: 25). In yet a further embodiment, the present invention provides an isolated or recom
+
+=== SEQ ID NO: 25 (@26575) ===
+ acids 136-182 of SEQ ID NO: 23); (iv) a CD28 transmembrane domain (e.g., amino acids 56-123 of SEQ ID NO: 24); and/or (v) a CD3ξ intracellular domain (e.g., amino acids 48-163 of SEQ ID NO: 25). In yet a further embodiment, the present invention provides an isolated or recombinant monoclonal antibody that specifically binds to the constant domain of a CAR p
+
+=== SEQ ID NO: 26 (@101758) ===
+uman CD19-specific mAb clone FMC63 (Nicholson et al., 1997). The scFv was formed by joining the V L and V H with the 18 amino acid (AA) Whitlow peptide linker (GSTSGSGKPGSGEGSTKG; SEQ ID NO: 26) (Whitlow et al., 1993). This binding domain, denoted as CD19scFv, was then fused in frame with mouse CD8α extra-cellular domain (AA 28-196) and transmembrane domain 
+
+

@@ -39,7 +39,11 @@ def assess_lot(measurements, profile=COMMERCIAL_US, *, indication="DLBCL", weigh
     if profile == COMMERCIAL_US:
         low, high = dose_interval(indication, weight_kg)
         rules = {"viability": (0.8, 1), "dose_viable_car_cells": (low, high)}
-        microbial = ()
+        # Qualitative unredacted requirements from the 2017 SBRA lot-release
+        # table (BLA 125646/0, printed pp. 9-10): Sterility "Negative",
+        # Mycoplasma "Negative". All other values in that table are (b)(4)
+        # redactions and stay unreported. See docs/RELEASE_SOURCES.md.
+        microbial = ("sterility_negative", "mycoplasma_negative")
         unreported = ["complete_commercial_release_panel", "validated_assay_methods"]
     else:
         rules = {
