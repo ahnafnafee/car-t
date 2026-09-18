@@ -7,6 +7,12 @@ from statistics import median
 
 from .construct import CD19_TUMOR_ALL, CD19_TUMOR_DLBCL
 from .lot_criteria import dose_interval
+from .lot_distributions import (
+    LOT_PROFILES,
+    implied_net_yield,
+    published_lot,
+    published_medians,
+)
 from .manufacturing import manufacture
 from .publication_stats import sample as published_sample
 from .micro_engine import run_patient_micro
@@ -28,6 +34,7 @@ def run_cohort(
     weight_kg=30.0,
     lot_params=None,
     product_stats=None,
+    lot_stats=None,
 ):
     """Sample patients from parameter distributions; aggregate ORR / CR / relapse /
     persistence / B-aplasia / CRS / ICANS.
@@ -56,6 +63,16 @@ def run_cohort(
     distribution (publication_stats.py), requiring indication="B-ALL". The
     source assessment still applies to the resulting lot, so doses outside the
     disclosed label interval are reported as failing it, as observed clinically.
+    lot_stats: None (default) = illustrative manufacturing inputs (TE, viability,
+    leukapheresis input); otherwise a published product-attribute profile name
+    from lot_distributions.LOT_PROFILES ("commercial_ball_2023",
+    "commercial_dlbcl_2020", "oos_tail_2025", "academic_2005"), which replaces
+    every attribute that cohort has published values for and reports the rest as
+    retained scenario defaults. Each patient then carries lot_provenance, and the
+    cohort reports implied_net_yield_median: the overall product recovery the
+    published dose, viability and CAR-positive fraction imply from the published
+    leukapheresis input (a derived diagnostic, not a measured yield). lot_params
+    still override anything set here.
     """
     if isinstance(n, bool) or not isinstance(n, int) or n <= 0:
         raise ValueError("n must be a positive integer")
@@ -70,6 +87,12 @@ def run_cohort(
             raise ValueError(f"Unknown product_stats: {product_stats}")
         if indication != "B-ALL":
             raise ValueError("product_stats populations are B-ALL cohorts; pass indication='B-ALL'")
+    if lot_stats is not None:
+        if lot_stats not in LOT_PROFILES:
+            raise ValueError(f"Unknown lot_stats: {lot_stats}; choose from " + ", ".join(sorted(LOT_PROFILES)))
+        wanted = LOT_PROFILES[lot_stats]["indication"]
+        if wanted and indication != wanted:
+            raise ValueError(f"lot_stats={lot_stats} describes {wanted} product; pass indication='{wanted}'")
     dose_interval(indication, weight_kg)
     lot_params = dict(lot_params or {})
     allowed_lot_keys = {
@@ -98,6 +121,9 @@ def run_cohort(
     rng = random.Random(seed)
     p_dimseed = 0.35 if indication != "DLBCL" else 0.25  # antigen-dim subclone prev.
     out = []
+    lot_assumptions = []
+    implied_yields = []
+    dose_attainment = []
     for i in range(n):
         p = dict(b)
         if indication == "DLBCL":
@@ -112,9 +138,24 @@ def run_cohort(
             # these distributions are not fitted to the clinical source records.
             F_mu, F_sd, agloss_p = 0.15, 0.40, 0.25
         # ---- manufacturing chain -> infused dose ----
-        te = min(0.92, max(0.05, rng.gauss(0.55, 0.18)))
+        lot = (
+            published_lot(rng, lot_stats, indication=indication, weight_kg=weight_kg)
+            if lot_stats
+            else None
+        )
+        if lot is not None and i == 0:
+            lot_assumptions = list(lot["assumptions"])
+        published_weight = lot.pop("weight_kg", None) if lot else None
+        te = (
+            lot["te"]
+            if lot and "te" in lot
+            else min(0.92, max(0.05, rng.gauss(0.55, 0.18)))
+        )
         net_yield = math.exp(rng.gauss(math.log(0.05), 0.4))
         target = 2e8 if indication == "DLBCL" else (1e6 * weight_kg if weight_kg <= 50 else 1e8)
+        if lot is not None and "dose_cells" in lot:
+            # Published administered/final-product dose replaces the scenario target.
+            target = lot["dose_cells"]
         if product_stats is not None:
             # Published per-patient dose distribution (publication_stats.STATS)
             # replaces the scenario target; the scenario weight scales per-kg.
@@ -132,8 +173,39 @@ def run_cohort(
             "mycoplasma": True,
             "appearance_ok": True,
         }
+        implied_this = None
+        if lot is not None:
+            if "viability" in lot:
+                inputs["viability"] = lot["viability"]
+            if "starting_t_cells" in lot:
+                # The published leukapheresis CD3+ count is the starting material
+                # itself, so the illustrative WBC-to-T-cell fraction step is removed.
+                inputs["apheresis_wbc"] = lot["starting_t_cells"]
+                inputs["t_cell_frac"] = 1.0
         inputs.update(lot_params)
+        if lot is not None and "starting_t_cells" in lot and "viability" in inputs:
+            # Derived, never published: the minimum overall recovery the published
+            # dose, viability and CAR-positive fraction imply from the published
+            # leukapheresis input. Used instead of the illustrative net_yield
+            # default so the simulated lot is consistent with the published product
+            # attributes; the manufacturer's unit-operation recoveries are (b)(4)
+            # redactions, so this is a consistency inversion, not a measured yield.
+            implied_this, _total = implied_net_yield(
+                inputs["apheresis_wbc"] * inputs.get("t_cell_frac", 1.0),
+                inputs["dose_target"],
+                inputs["viability"],
+                inputs["te"],
+            )
+            implied_yields.append(implied_this)
+            if "net_yield" not in lot_params:
+                inputs["net_yield"] = implied_this
         man = manufacture(**inputs, indication=indication, weight_kg=weight_kg)
+        attainment_this = None
+        if implied_this is not None:
+            # 1.0 when the derived recovery reaches the published dose; below 1.0
+            # when lot_params forced a lower recovery than the published dose needs.
+            attainment_this = man["dose_CARplus_cells"] / man["dose_target_viable_car_cells"]
+            dose_attainment.append(attainment_this)
         # Latent fitness affects dynamics, not physical dose or manufacturing yield.
         F = math.exp(rng.gauss(F_mu, F_sd))
         p["E0"] = man["dose_viable_car_cells"] * b.get("dose_scale", 1.0)
@@ -170,6 +242,18 @@ def run_cohort(
             else run_patient(p, seed=patient_seed)
         )
         result["manufacturing"] = man
+        if lot is not None:
+            result["lot_profile"] = lot_stats
+            result["lot_provenance"] = lot["provenance"]
+            if published_weight is not None:
+                result["published_weight_kg"] = published_weight
+            if "oos_reason" in lot:
+                result["oos_reason"] = lot["oos_reason"]
+            if implied_this is not None:
+                result["implied_net_yield"] = implied_this
+            if "dose_cells" in lot and "dose_target" not in lot_params:
+                result["infused_dose_per_kg"] = man["dose_viable_car_cells"] / weight_kg
+                result["dose_source"] = "published " + lot["provenance"].get("dose_cells", lot_stats)
         if product_stats is not None and "dose_target" not in lot_params:
             result["infused_dose_per_kg"] = man["dose_viable_car_cells"] / weight_kg
             result["dose_source"] = "published " + PUBLISHED_DOSE_SOURCES[product_stats]
@@ -192,6 +276,11 @@ def run_cohort(
         "n": n,
         "weight_kg": weight_kg if indication == "B-ALL" else None,
         "product_stats": product_stats,
+        "lot_stats": lot_stats,
+        "lot_assumptions": lot_assumptions,
+        "lot_published_medians": published_medians(lot_stats) if lot_stats else None,
+        "implied_net_yield_median": median(implied_yields) if implied_yields else None,
+        "published_dose_attainment_median": median(dose_attainment) if dose_attainment else None,
         "lot_assessment_counts": {
             status: sum(r["manufacturing"]["source_assessment"]["status"] == status for r in out)
             for status in ("meets_disclosed_criteria", "fails_disclosed_criteria", "incomplete")
