@@ -136,6 +136,16 @@ Ordered by remaining effort, all verifiable against the retained files:
       it. `run_sim.py` prints all of them, plus the published-lot profile table
       and the kinetics denominator ledger.
 - [ ] Keep the four enforced qualitative checks in step with any future label
-      or amendment changes (approval-history letters are retained).
+      or amendment changes. Checked as far as the retained records allow
+      (2026-09-18): the four requirements (`Positive` by CAR qPCR, `Colorless to
+      slightly yellow`, `Negative` sterility, `Negative` mycoplasma) appear in the
+      2017 SBRA panel and **not** in the retained June-2025 label, whose text
+      contains no release table at all. The retained approval-history archive is
+      the 109-letter 2017 pre-approval review file — one mycoplasma validation
+      request, and no letter restating or revising the lot-release panel — so
+      post-approval chemistry/manufacturing controls that may have edited those
+      four boundaries are not in this repository. The checks stay enforced as
+      2017-era requirements, and keeping them current needs the post-approval CMC
+      amendments, not a code change.
 
 Everything else waits for manufacturer master records, not for code.
