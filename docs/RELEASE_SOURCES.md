@@ -718,3 +718,47 @@ blocks, which split the abbreviations list mid-entry). Content after the
 - ODAC PNG files (`.private/verify/fda_bla125646_full_package/figures/odac_slide22.png`, `.private/verify/fda_bla125646_full_package/figures/odac_slide23.png`,
   `.private/verify/fda_bla125646_full_package/figures/odac_slide24.png`) are vision-bridge renders of the deck,
   not primary sources; cited only via the deck PDF.
+
+## The 2018-06-28 EU record adds a numerical release rule
+
+Quoted passages below reflow the source's line breaks for readability; the
+byte-exact forms are the ones held in `version_anchor.py` and asserted by
+`tests/test_version_anchor.py`.
+
+Checked 2026-09-18 against `data/references/ema_kymriah_epar_2018.txt`, the retained
+EU assessment report (`EMA/485563/2018`, dated `28 June 2018`, `Procedure No.
+EMEA/H/C/004090/0000`; page headers carry the CHMP number `EMA/CHMP/443047/2018`).
+
+Three release-relevant disclosures, none of which the US-only release ledger had:
+
+1. **A numerical non-release rule.** `Products falling below the minimum values in
+   the above allowable cell dose ranges (i.e. 0.2×106 CAR-positive viable T-cells
+   per kg or 1.0×108 CAR-positive viable T-cells) were not released for infusion.`
+   For patients above 50 kg that floor (1.0×10⁸) is *above* the lower end of the
+   protocol interval the same record reports (`0.1 to 2.5 x 108`), so "inside the
+   protocol interval" and "released" were not the same test. `lot_criteria` reports
+   interval membership and never authorizes release, which is the correct posture.
+2. **Rounding sits with the manufacturer.** `Numerical rounding of the dose was
+   performed by the manufacturing site.` A released dose may therefore sit marginally
+   outside a stated interval by design; a simulator that treats the interval as exact
+   arithmetic will disagree with real records for that reason alone.
+3. **The SmPC intervals match the enforced US intervals.** `0.2 to 5.0 x 106 CAR
+   positive viable T cells/kg body weight` for patients 50 kg and below, `0.1 to 2.5
+   x 108 CAR positive viable T cells (non weight based)` above 50 kg, and `0.6 to 6.0
+   x 10 8 CAR positive viable T cells` for adult DLBCL. `lot_criteria.dose_interval()`
+   now has two independent regulatory sources for the same numbers
+   (`tests/test_version_anchor.py`).
+
+The same record discloses dosing distributions that were previously assumed to be
+`(b)(4)`: `In Study C2201, the median dose was 3.1×108 CAR-positive viable T cells`,
+reported alongside `doses greater (n=26) than and equal/less (n=18) than the median
+cell dose`. It also gives product-specific exposure of formulation excipients
+(benzyl alcohol 21 µg per dose per day) and a maximum residual Dynabeads count of
+4480 beads/kg. Region-specific viability floors stay separate: this record does not
+establish the US ≥80% floor, and Japan's criterion is 70%
+(`jp_release_criterion_70pct_viability`).
+
+Claims that the retained record contained a `B/2202` product number, a 25 July 2018
+or 23 August 2018 date, or per-indication dose medians of 3.0/1.0/1.9/3.5 × 10⁸ were
+checked byte-by-byte and are absent; see PROCESS_SOURCES.md "Audit of claims that did
+not survive".

@@ -76,17 +76,40 @@ def main():
         default=30.0,
         help="B-ALL scenario weight, not a sampled clinical distribution",
     )
+    ap.add_argument(
+        "--lot-stats",
+        default="none",
+        help="sample lots from a published attribute profile instead of scenario defaults "
+        f"({', '.join(cs.lot_distributions.profile_names())}, or none)",
+    )
     ap.add_argument("--outdir", type=Path, default=Path(__file__).parent / "out")
     args = ap.parse_args()
     if args.n <= 0:
         ap.error("--n must be positive")
     if not math.isfinite(args.all_weight_kg) or args.all_weight_kg <= 0:
         ap.error("--all-weight-kg must be positive and finite")
+    if args.lot_stats != "none" and args.lot_stats not in cs.lot_distributions.LOT_PROFILES:
+        ap.error(f"--lot-stats must be 'none' or one of {cs.lot_distributions.profile_names()}")
     args.outdir.mkdir(parents=True, exist_ok=True)
     evidence_link = Path(os.path.relpath(ROOT / "docs" / "EVIDENCE.md", args.outdir)).as_posix()
     release_link = Path(os.path.relpath(ROOT / "docs" / "RELEASE_SOURCES.md", args.outdir)).as_posix()
+    lot_stats = None if args.lot_stats == "none" else args.lot_stats
+
+    def lot_stats_for(indication):
+        """A profile tied to one indication cannot be applied to the other cohort."""
+        if lot_stats is None:
+            return None
+        wanted = cs.lot_distributions.LOT_PROFILES[lot_stats]["indication"]
+        return lot_stats if wanted in (None, indication) else None
+
     cohorts = {
-        ind: cs.run_cohort(n=args.n, seed=args.seed, indication=ind, weight_kg=args.all_weight_kg)
+        ind: cs.run_cohort(
+            n=args.n,
+            seed=args.seed,
+            indication=ind,
+            weight_kg=args.all_weight_kg,
+            lot_stats=lot_stats_for(ind),
+        )
         for ind in ("DLBCL", "B-ALL")
     }
     lines = [
@@ -165,6 +188,71 @@ def main():
         ),
         anchor_row("eliana2018_persistence_days", "reported as a persistence fraction, not a day count"),
         "",
+        *cs.version_anchor.anchor_lines(),
+        "",
+        "## Published lot profiles",
+        "",
+        "Scenario defaults for apheresis inputs, overall recovery and transduction are",
+        "illustrative. Each profile below replaces named attributes with published",
+        "per-patient values, so a run can be attributed to a named population instead",
+        "of an invented distribution. Unpublished fields stay scenario defaults and are",
+        "listed as assumptions per drawn lot.",
+        "",
+        "| Profile | Indication | Published attributes | Published medians |",
+        "| --- | --- | --- | --- |",
+    ]
+    ld = cs.lot_distributions
+    for name in ld.profile_names():
+        spec = ld.LOT_PROFILES[name]
+        keys = sorted({v for k, v in spec["fields"].items() if k != "empirical_pair"})
+        medians = "; ".join(
+            f"{k}: {v:.3g}" if isinstance(v, (int, float)) else f"{k}: {v}"
+            for k, v in ld.published_medians(name).items()
+        )
+        lines.append(
+            f"| {name} | {spec['indication'] or 'either'} | {', '.join(keys) or '(empirical table)'} "
+            f"| {medians} |"
+        )
+    lines += [
+        "",
+        "Every profile's `population_caveat` is reproduced per patient in the cohort",
+        "JSON as `lot_provenance`, together with `assumptions` naming each borrowed,",
+        "derived or unpublished field.",
+        "",
+    ]
+    if lot_stats is not None:
+        for ind in ("DLBCL", "B-ALL"):
+            cohort = cohorts[ind]
+            if cohort.get("lot_stats") is None:
+                lines.append(
+                    f"{ind}: profile `{lot_stats}` is attributable to "
+                    f"{ld.LOT_PROFILES[lot_stats]['indication']} only, so this cohort kept "
+                    "scenario defaults."
+                )
+                continue
+            lines += [
+                f"{ind} cohort drawn from `{cohort['lot_stats']}` "
+                f"(n={args.n}, weight {args.all_weight_kg:g} kg):",
+            ]
+            attainment = cohort["published_dose_attainment_median"]
+            implied = cohort["implied_net_yield_median"]
+            if attainment is None:
+                lines.append(
+                    "- published-dose attainment: not computed (this profile does not publish "
+                    "the leukapheresis input, so overall recovery stays a scenario default)"
+                )
+            else:
+                lines.append(f"- published-dose attainment median: {attainment:.3f}")
+            if implied is None:
+                lines.append("- implied overall recovery: not derivable from this profile")
+            else:
+                lines += [
+                    f"- implied overall recovery median: {implied:.4f}",
+                    "  (inverted from published dose, viability, CAR-positive fraction and",
+                    "  leukapheresis input; a consistency inversion, not a measured recovery)",
+                ]
+    lines += [
+        "",
         "## Trial observations",
         "",
         "These observations retain each trial's product, denominator and endpoint.",
@@ -190,6 +278,7 @@ def main():
         f"| [{study}]({url}) | {group} | {n} | {assay} | {day:g} |"
         for study, group, n, assay, day, url in KINETICS
     )
+    lines += ["", "```"] + cs.kinetics_units.bridge_status() + ["```"]
     for ind, cohort in cohorts.items():
         lines += [
             "",

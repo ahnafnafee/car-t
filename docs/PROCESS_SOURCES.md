@@ -343,3 +343,90 @@ commercial release boundaries and validated methods, the master production
 record, all critical process ranges, and evidence that separately disclosed
 patent constructs/processes match that commercial version. Published specifications
 above narrow these gaps substantially without erasing the remaining distinctions.
+
+## Record-version ledger (re-verified 2026-09-18)
+
+`simulator/cart_sim/version_anchor.py` now carries every version claim below as a
+byte-exact quote against a retained file, and `tests/test_version_anchor.py` fails
+if any quote stops matching or if a named version string changes. The point is not
+decoration: the same number can be true of the 2017 label, the 2018 EU assessment
+and the 2025 revision, and only the version makes a claim checkable. Prose quotes in
+this section reflow the source's line breaks; the byte-exact forms are the ones in
+code.
+
+| Anchor id | Named version | What it licenses |
+| --- | --- | --- |
+| `us_pi_kymriah_revised_2025_06` | 2025-06 | current US label: viability floor, qualitative release tests, dose intervals, JULIET/ELARA dose medians |
+| `us_bla_125646_0_sbra_2017_08_30` | 2017-08-30 | the lot-release panel `lot_criteria` enforces; its CMC sections are `(b)(4)` |
+| `us_bla_125646_76_sbra_2018_04_13` | 2018-04-13 | DLBCL sBLA; amendment 16130/967 of 2017-08-23 moved the efficacy cut-off to 2017-09-06 |
+| `eu_ema_chmp_assessment_2018_06_28` | 2018-06-28 | EU dossier content actually disclosed in the retained assessment report |
+| `eu_site_fraunhofer_operational_2016_08` | 2016-08 | when the EU manufacturing site began actively producing |
+| `eu_cycle_time_trial_30_34_days_commercial_24_days` | 2018-06-28 | trial-era 30-34 day median versus then-commercial 24 days, targeted 22 |
+| `eu_release_dose_rule_2018` | 2018-06-28 | numerical non-release rule and manufacturer-side rounding |
+| `us_commercial_era_post_2017_08_30_with_2019_2020_assay_change` | 2017-08-30 / 2019-2020 | which commercial era Fong 2023 describes, and its assay confounder |
+| `us_registry_era_post_2017_08_30` | 2017-08-30 | CIBMTR eligibility window behind Pasquini 2020 |
+| `jp_release_criterion_70pct_viability` | 2025 | Japan's 70% viability release criterion |
+| `jp_pmda_review_2019_02_20` | 2019-02-20 | the Japanese product-release panel as a list of items, with asterisk-redacted limits |
+| `us20050113564a1_academic_process` | 2005-05-26 | pre-commercial academic process and its transduction-efficiency distribution |
+
+### Two corrections this ledger forced
+
+1. **"Every numeric table in the BLA and EPAR is redacted" was too strong.** The
+   retained EU assessment report discloses dosing distributions: `In Study C2201,
+   the median dose was 3.1×108 CAR-positive viable T cells`, split `doses greater
+   (n=26) than and equal/less (n=18) than the median cell dose`. The 2025 US label
+   likewise prints JULIET and ELARA dose medians with ranges. What stays `(b)(4)`
+   are the release *limits* and unit-operation recoveries, not every number in the
+   dossiers.
+2. **Region-specific rules must not be averaged.** The EU record states a numerical
+   non-release rule — `Products falling below the minimum values in the above
+   allowable cell dose ranges (i.e. 0.2×106 CAR-positive viable T-cells per kg or
+   1.0×108 CAR-positive viable T-cells) were not released for infusion.` — and adds
+   `Numerical rounding of the dose was performed by the manufacturing site.`
+   Japan's viability criterion is 70% while the US commercial floor is ≥80%, and the
+   EU non-release floor of 1.0×10⁸ for patients above 50 kg is *stricter* than the
+   lower end of the protocol interval `0.1 to 2.5 x 108` reported by the same
+   record.
+
+### Independent corroboration of the simulator's dose intervals
+
+`lot_criteria.dose_interval()` was built from US sources. The EU SmPC section 4.2
+text in the retained record states the same intervals — `0.2 to 5.0 x 106 CAR
+positive viable T cells/kg body weight` for patients 50 kg and below, `0.1 to 2.5 x
+108 CAR positive viable T cells (non weight based)` above 50 kg, and `0.6 to 6.0 x
+10 8 CAR positive viable T cells` for adult DLBCL — and the retained PMDA review
+report gives a third copy of the same numbers (0.2-5.0 × 10⁶ per kg at or below
+50 kg, 0.1-2.5 × 10⁸ above 50 kg, 0.6-6.0 × 10⁸ for adult DLBCL). So the enforced
+intervals now have three independent regulatory sources — US label, EU dossier,
+Japanese review report — asserted for the first two in
+`tests/test_version_anchor.py`. This corroborates a constant; it is not a model
+output.
+
+### Audit of claims that did not survive
+
+Assertions that the retained EU record contained a `B/2202` product number, a 25
+July 2018 committee date, a 23 August 2018 approval date, or per-indication dose
+medians of 3.0/1.0/1.9/3.5 × 10⁸ were checked byte-by-byte and are **absent**. What
+the record does say is that it is `EMA/485563/2018` dated `28 June 2018` under
+`Procedure No. EMEA/H/C/004090/0000` (page headers `EMA/CHMP/443047/2018`), that
+`Kymriah was granted eligibility to PRIME on 23 June 2016`, and that the EU study
+identifiers are B2202 (ELIANA), C2201 (JULIET), B2101J and B2205J. The August-2018
+European authorisation is real but comes from other retained records: the SmPC prints
+`Date of first authorisation: 23 August 2018`, Fong 2023 says `the European Medicines
+Agency on August 23, 2018, for`, and the PMDA review report records `In August 2018,
+tisagenlecleucel was approved in the EU for the`. None of those is the assessment
+report this ledger anchors, which predates them by two months.
+
+### Manufacture-era quality evidence, Japan
+
+`data/references/iwamoto2025_japan_pmc11891598.txt` (Iwamoto et al., Regener Ther
+2025, Novartis Japan) reports four-year Japanese commercial rates: manufacturing
+success rate rising to 95.3% and shipment success rate to 98.4%, with termination
+falling 6.8% → 0.9% and out-of-specification 7.6% → 3.7%. After the 2022 process
+changes (5% plasma-derived human AB serum as an alternative serum source, and
+simplified final-product viability sample preparation) it reports MSR 87.9% → 94.6%,
+SSR 93.0% → 97.5%, termination 6.0% → 1.9%, overall OOS 6.1% → 3.5% and viability
+OOS 2.8% → 0.2%. It defines the manufacturing success rate against health-authority
+release criteria, which is the distinction this repository keeps enforcing: a
+simulated lot that passes the disclosed criteria is not a released lot
+(`commercial_release_established: False`).

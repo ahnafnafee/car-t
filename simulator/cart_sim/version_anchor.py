@@ -156,8 +156,31 @@ JAPAN_2025 = {
     "quote": "Low cell viability (less than the release criteria of 70%) and low dose (less than the approved cell range of 0.6–6.0 × 108 CAR+ viable T cells)",
     "version": "2025 (products 2018-2023 era)",
     "caveat": "Japan's viability criterion is 70%, not the US >=80%; an out-of-specification "
-    "classification is region-specific. The PMDA review reports are cited by this paper "
-    "but are not retained here.",
+    "classification is region-specific. The Japanese release panel itself is in the "
+    "retained PMDA review report (jp_pmda_review_2019_02_20), whose numeric limits are "
+    "redacted as asterisks.",
+}
+
+#: Japan: the approved release panel itself, from the regulator's own review.
+PMDA_2019 = {
+    "id": "jp_pmda_review_2019_02_20",
+    "role": "Region-specific product release panel structure, and the third regulatory "
+    "source for the same dose intervals",
+    "source": "PMDA review report, Kymriah Suspension for Intravenous Infusion "
+    "(Novartis Pharma K.K.), Medical Device Evaluation Division, 20 February 2019",
+    "url": "https://www.pmda.go.jp/files/000231278.pdf",
+    "file": "data/references/pmda_kymriah_review_2019.txt",
+    "quote": "The proposed specifications for the product include description, "
+    "identification (CAR transgene), purity\n(copy number of transgene, percentage of "
+    "T-cells, percentage of residual CD19-positive B-cells, cell\nviability rate, and "
+    "residual bead count)",
+    "version": "2019-02-20",
+    "caveat": "The disclosed content is the panel list of items; the numeric limits are "
+    "asterisk redactions, e.g. 'detection limit (qPCR, ** copies/**µg DNA)', so the "
+    "Japanese viability limit itself stays undisclosed here even though Kato 2025 reports "
+    "a 70% criterion in practice. The review's approved dosage (0.2-5.0 x 10^6/kg at "
+    "<=50 kg; 0.1-2.5 x 10^8 above 50 kg; 0.6-6.0 x 10^8 for adult DLBCL) matches "
+    "lot_criteria.dose_interval() independently of the US label and the EU SmPC.",
 }
 
 #: Academic-era process anchor (pre-commercial CTL019).
@@ -184,6 +207,7 @@ ANCHORS = (
     FONG_ERA_2023,
     PASQUINI_ERA_2020,
     JAPAN_2025,
+    PMDA_2019,
     PATENT_2005,
 )
 

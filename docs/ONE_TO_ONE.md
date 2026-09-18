@@ -23,6 +23,9 @@ requirement exactly, not an approximation of it:
 | Total cell count | No specification, per the printed footnote: the table result is used only to compute the dose; the simulator never gates on it | `lot_criteria.py` |
 | Academic panel | The Bai 2022 CTL019 boundaries verbatim (≥70%, ≥80% CD3+, ≤100 beads/3×10⁶, ≤3.5 EU/mL, ≤1 µg/mL BSA, ≤50 VSV-G copies/µg DNA, ≥2% TE, 0.02–4 copies/cell) | `lot_criteria.py` profile |
 | Published product statistics | All six public per-patient statistics for commercial tisagenlecleucel — ELIANA infused dose (per kg and total), enrollment-to-infusion, Tmax, persistence duration, and the Tyagarajan 2020 manufacturing cycle time — transcribed verbatim with byte-exact quotes tested against the retained files, and exposed as an optional cohort dose distribution | `publication_stats.py`, `run_cohort(product_stats="eliana_2018")`, `tests/test_publication_stats.py` |
+| Published per-patient lot attributes | 13 further published attributes (Fong 2023 commercial pediatric B-ALL dose/viability/CAR fraction/leukapheresis input/weight; Pasquini 2020 real-world viability by indication and accept-to-infuse interval; 2025 label JULIET/ELARA dose medians; US20050113564A1 academic transduction; the 23-patient Kato 2025 out-of-specification table drawn patient by patient), each quote-tested byte-exact, with borrowings and inversions reported as assumptions | `lot_distributions.py`, `run_cohort(lot_stats=...)`, `tests/test_lot_distributions.py` |
+| Record version anchors | 11 byte-verified anchors naming the exact record version behind each published constant, each with the caveat that travels with it (including that the retained EU record is EMA/485563/2018 and contains neither a `B/2202` number nor an August-2018 date) | `version_anchor.py`, `run_sim.py` report, `tests/test_version_anchor.py` |
+| Kinetic denominators | Published statistics are separated into time-denominated, cell-denominated and amplitude-denominated, and the amplitude bridge's three missing factors are named as unretained, so amplitude parameters carry a permanent not-fitted label | `kinetics_units.py`, `tests/test_kinetics_units.py` |
 
 ## Deliberate approximations (could be tightened, not yet)
 
@@ -30,19 +33,22 @@ These are simulator choices that a 1:1 claim would have to eliminate. The
 required evidence partly exists in the retained files but has not been mapped
 into model parameters:
 
-1. **Manufacturing distributions.** Transduction efficiency, yield and apheresis
-   inputs are illustrative lognormal/round defaults. The published distributions
-   in the BLA package are `(b)(4)`; the closest public anchors (median 23-day
-   throughput, range 21–37, Tyagarajan 2020) describe cycle time, not these
-   distributions. The infused dose itself is no longer in this class when
-   `product_stats="eliana_2018"` is used: it is drawn from the published ELIANA
-   dose statistics via a documented two-sided log-normal calibration
-   (`publication_stats.calibrate`), because raw per-patient values are not
-   published — only median/range summaries.
+1. **Manufacturing distributions.** With `lot_stats=None` (the default) apheresis
+   input, overall recovery and transduction efficiency remain illustrative
+   lognormal/round defaults, because the published BLA distributions are `(b)(4)`.
+   With `lot_stats="<profile>"` the named attributes are replaced by published
+   per-patient values, and the profile states which fields are still defaults.
+   The `net_yield` used there is not measured: it is inverted from published dose,
+   viability, CAR-positive fraction and leukapheresis input by
+   `lot_distributions.implied_net_yield()`, and the inversion is reported per
+   patient as `implied_net_yield`. For `commercial_ball_2023` that inversion gives
+   a median overall recovery near 0.67, which is why the scenario default of 0.05
+   is illustrative rather than conservative.
 2. **Kinetics.** Expansion, cytokine and tumor-kill parameters are model
-   assumptions with sensitivity ranges; the clinical sources report PK/PD
-   observations in different units and denominators, recorded in
-   [KINETICS_SOURCES.md](KINETICS_SOURCES.md) rather than fitted.
+   assumptions with sensitivity ranges. The published kinetics denominators are
+   now named explicitly, and the amplitude parameters carry a permanent
+   not-fitted label (`kinetics_units.AMPLITUDE_IS_FITTED = False`), see
+   [KINETICS_SOURCES.md](KINETICS_SOURCES.md) "Unit denominators".
 3. **Potency.** The commercial IFN-γ release assay threshold is `(b)(4)`; the
    simulator has no numeric potency gate, which is correct behavior, and its
    potency proxies are model constructs, not that assay.
@@ -94,18 +100,41 @@ Ordered by remaining effort, all verifiable against the retained files:
 
 - [x] Map published per-patient ELIANA/B2202 product attributes into empirical
       cohort distributions instead of defaults. Done as far as the public
-      evidence reaches: the infused-dose distribution is now sampleable
-      (`product_stats="eliana_2018"`), and every public per-patient statistic
-      is transcribed and quote-tested in `publication_stats.py`. TE and
-      viability are not published per patient (BLA values are `(b)(4)`), so
-      their cohort defaults remain labeled assumptions.
-- [ ] Bind kinetics to the PK observations in KINETICS_SOURCES.md with an
-      explicit unit-denominator bridge, or label non-fitted permanently.
-- [x] Record the version anchor inside simulation reports. Every `run_sim.py`
-      report now opens its evidence section with the 2017 SBRA panel anchor,
-      the retained publication anchors, and a published-vs-simulated
-      comparison table. Site-era granularity still awaits published site
-      histories (PROCESS_SOURCES.md "Version history").
+      evidence reaches. Two layers now exist: `publication_stats.py` (six
+      median/range summaries, calibrated into two-sided log-normals, sampled with
+      `product_stats="eliana_2018"`), and `lot_distributions.py` — 13 published
+      per-patient product attributes from Fong 2023 (commercial pediatric B-ALL),
+      Pasquini 2020 (US real-world), the 2025 FDA label's JULIET/ELARA dose
+      medians, US20050113564A1 (academic transduction) and Kato 2025 (a 23-row
+      empirical out-of-specification table drawn patient by patient) — exposed as
+      four attributable lot profiles through `lot_stats=...`. Every value is a
+      byte-exact quote from a retained file, every borrowed, derived or
+      unpublished field is reported as an assumption, and the cohort reports
+      published-dose attainment against the record. BLA/EPAR numeric tables are
+      still `(b)(4)` (see PROCESS_SOURCES.md "Numeric tables"), so per-patient
+      commercial VCN remains unavailable.
+- [x] Bind kinetics to the PK observations in KINETICS_SOURCES.md with an
+      explicit unit-denominator bridge, or label non-fitted permanently. Both
+      halves are now recorded in `kinetics_units.py`: the time-denominated and
+      cell-denominated published statistics are named as directly comparable,
+      the amplitude bridge is written out as an identity, its three required
+      factors are each marked "not supplied by any retained record", and
+      `AMPLITUDE_IS_FITTED = False` labels the eight amplitude parameters as
+      not-fitted. Closing the bridge needs a retained record stating leukocyte
+      concentration, DNA mass per cell and VCN — not a better fit.
+- [x] Record the version anchor inside simulation reports. `version_anchor.py`
+      pins 12 record versions with byte-exact quotes and named version strings
+      (June-2025 US label revision; BLA 125646/0 of 2017-08-30 and sBLA
+      125646/76 of 2018-04-13 with its 2017-09-06 data cut-off; EU assessment
+      report EMA/485563/2018 under procedure EMEA/H/C/004090/0000; the
+      Fraunhofer site era from August 2016; trial-era 30-34 day versus
+      then-commercial 24-day cycle time; the EU numerical non-release rule; the
+      post-2017-08-30 commercial and registry eras with the 2019-2020 viability
+      assay change; the Japanese 70% viability criterion and the 2019-02-20 PMDA
+      review report that lists the Japanese release panel with asterisk-redacted
+      limits; the 2005 academic process), each with the caveat that travels with
+      it. `run_sim.py` prints all of them, plus the published-lot profile table
+      and the kinetics denominator ledger.
 - [ ] Keep the four enforced qualitative checks in step with any future label
       or amendment changes (approval-history letters are retained).
 

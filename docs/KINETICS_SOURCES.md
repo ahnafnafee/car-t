@@ -97,6 +97,49 @@ remain model proxies. Neither becomes the above clinical endpoint without the
 corresponding sample denominator, assay model and observation schedule. This is
 a model-to-measurement inference, not an additional threshold from the paper.
 
+## Unit denominators: what the model can be compared with, 2026-09-18
+
+Published CAR-T kinetics live on two axes, and they are not equally usable.
+
+**Denominator-free (time).** These retained statistics are reported in days and
+constrain the simulated time axis without any conversion, because a day needs no
+sample denominator:
+
+| Statistic | Published median | Unit |
+| --- | --- | --- |
+| `eliana2018_tmax_responders_days` | 10 | days from infusion to maximum blood transgene (qPCR) |
+| `eliana2018_persistence_days` | 168 | days of detectable blood transgene (qPCR) |
+| `eliana2018_screen_to_infuse_days` | 45 | days from enrollment to infusion |
+| `tyagarajan2020_cycle_days` | 23 | days from leukapheresis receipt to product return |
+
+**Denominator-free (cells).** `eliana2018_dose_per_kg` (3.1e6) and
+`eliana2018_total_dose` (1.0e8) are reported as transduced viable T cells, the same
+kind of quantity the manufacturing chain produces, so they compare with the infused
+dose after the CAR-positive fraction is stated.
+
+**Amplitude (qPCR and flow) needs a sample denominator.** The published amplitude
+axis is copies per microgram of genomic DNA (or a percentage of CD3-positive cells);
+the model's state variable `E` is a cell count. The identity that connects them is
+
+```
+copies per microgram gDNA
+    = VCN x (CAR-positive cells per mL) / (leukocytes per mL x micrograms gDNA per leukocyte)
+```
+
+Each factor on the right must come from a record. `data/references/` currently
+supplies **none** of the three — no leukocyte concentration for the sampled blood,
+no genomic-DNA mass per leukocyte, and no commercial vector copy number (the release
+limit is a `(b)(4)` redaction, see `RELEASE_SOURCES.md`). Worked example, all three
+inputs assumed rather than sourced: 1e6 CAR-positive cells/mL, VCN 1, 7.2e6
+leukocytes/mL and 6.6e-6 µg gDNA per cell give 47.52 µg gDNA per mL and **21,044
+copies/µg** — a scenario arithmetic check, not a prediction of any published number.
+
+Consequence, recorded in code as `kinetics_units.AMPLITUDE_IS_FITTED = False`: the
+amplitude parameters (`pE`, `dE0`, `Ks_E`, `sE`, `Emax`, `kKill0`, `Kd_T`,
+`kKill_fixed`) carry a permanent **not-fitted** label. Closing the bridge requires
+retaining a record that states the leukocyte concentration, the DNA mass per cell and
+the VCN used by the assay that produced the target amplitude — not a better fit.
+
 ## Implementation decisions
 
 - Keep administered dose in CAR-positive viable T cells, independently of latent

@@ -30,7 +30,7 @@ from .micro_engine import (
 )
 from .ode_engine import _derivs, p_kill_memfrac, run_patient
 from .params import default_params
-from . import lot_distributions, publication_stats, version_anchor
+from . import kinetics_units, lot_distributions, publication_stats, version_anchor
 from .toxicity import CRS_IL6_CUTS, ICANS_P_BY_CRS, crs_grade, icans_grade
 
 __all__ = [

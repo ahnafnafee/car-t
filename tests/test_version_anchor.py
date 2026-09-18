@@ -34,7 +34,10 @@ class VersionAnchorTests(unittest.TestCase):
             with self.subTest(anchor=anchor["id"]):
                 path = ROOT / anchor["file"]
                 self.assertTrue(path.is_file(), f"missing retained file {anchor['file']}")
-                self.assertIn(anchor["quote"], path.read_text(encoding="utf-8"))
+                text = path.read_text(encoding="utf-8")
+                # assertTrue, not assertIn: the retained records are hundreds of KB
+                # and assertIn dumps the whole haystack on failure.
+                self.assertTrue(anchor["quote"] in text, f"quote not byte-exact in {anchor['file']}")
 
     def test_every_regulatory_record_version_is_named(self):
         versions = {anchor["id"]: anchor["version"] for anchor in ANCHORS}
@@ -98,7 +101,7 @@ class VersionAnchorTests(unittest.TestCase):
                 with self.subTest(anchor=anchor["id"], snippet=snippet[:40]):
                     path = ROOT / anchor["file"]
                     text = path.read_text(encoding="utf-8", errors="replace")
-                    self.assertIn(snippet, text)
+                    self.assertTrue(snippet in text, f"caveat quote not byte-exact in {anchor['file']}")
 
 
 if __name__ == "__main__":
