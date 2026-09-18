@@ -83,7 +83,8 @@ endpoint definitions, so engine comparisons are meaningful.
 ### 👥 Cohort experiments
 
 Seeded patient variation, parameter ablations and explicit endpoint summaries —
-every simulated patient stays in the denominator.
+every simulated patient stays in the denominator, and doses can optionally be
+drawn from published ELIANA statistics instead of scenario targets.
 
 ### 🎯 Cell interactions
 
@@ -163,8 +164,21 @@ print(assessment["status"])  # meets_disclosed_criteria, not a release decision
 ```
 
 Use `--all-weight-kg` to set the B-ALL report scenario (default 30 kg).
-[Kinetics references](docs/KINETICS_SOURCES.md) retain their blood-assay units and
-response groups; they are not automatic validation targets for the cell model.
+[B-ALL cohorts can also sample the published ELIANA dose distribution](docs/ONE_TO_ONE.md)
+instead of the scenario target — the statistics, quotes and calibration live in
+[`publication_stats.py`](simulator/cart_sim/publication_stats.py):
+
+```python
+from simulator.cart_sim import run_cohort
+
+cohort = run_cohort(n=100, indication="B-ALL", product_stats="eliana_2018")
+print(cohort["patients"][0]["infused_dose_per_kg"])  # a published-distribution draw
+```
+
+Every report states the evidence version it resembles (2017 SBRA panel, retained
+publication anchors). [Kinetics references](docs/KINETICS_SOURCES.md) retain their
+blood-assay units and response groups; they are not automatic validation targets
+for the cell model.
 
 ## 🧾 Evidence you can inspect
 

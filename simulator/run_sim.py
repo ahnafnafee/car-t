@@ -84,6 +84,7 @@ def main():
         ap.error("--all-weight-kg must be positive and finite")
     args.outdir.mkdir(parents=True, exist_ok=True)
     evidence_link = Path(os.path.relpath(ROOT / "docs" / "EVIDENCE.md", args.outdir)).as_posix()
+    release_link = Path(os.path.relpath(ROOT / "docs" / "RELEASE_SOURCES.md", args.outdir)).as_posix()
     cohorts = {
         ind: cs.run_cohort(n=args.n, seed=args.seed, indication=ind, weight_kg=args.all_weight_kg)
         for ind in ("DLBCL", "B-ALL")
@@ -120,6 +121,49 @@ def main():
         f"Nominal viable CAR+ dose: {man['dose_CARplus_cells']:.2e}; "
         f"source comparison: {man['source_assessment']['status']}.",
         "Hypothetical vector titer does not automatically alter cohort transduction or dose.",
+        "",
+        "## Source version anchors",
+        "",
+        "Evidence fixed for this run (version ledger: docs/ONE_TO_ONE.md):",
+        "- Lot-release panel: 2017 US Summarizing Bases (BLA 125646/0, printed pp. 9-10);",
+        f"  later label amendments supersede it. Scope: [the release sources](<{release_link}>).",
+        f"- {len(cs.publication_stats.STATS)} published product/timeline/kinetics statistics are",
+        "  transcribed verbatim in simulator/cart_sim/publication_stats.py from retained",
+        "  files under data/references/; quotes are checked in tests/test_publication_stats.py.",
+        "- Model time origin is infusion: manufacturing and enrollment timelines have no",
+        "  simulated counterpart and anchor context only.",
+        "",
+        "| Published statistic | Published median [range] | Simulated counterpart |",
+        "| --- | --- | --- |",
+    ]
+    ps = cs.publication_stats.STATS
+
+    def anchor_row(key, counterpart):
+        s = ps[key]
+        return (
+            f"| {s['unit']} ([source]({s['url']})) "
+            f"| {s['median']:.3g} [{s['low']:.3g}, {s['high']:.3g}] | {counterpart} |"
+        )
+
+    ball = cohorts["B-ALL"]
+    scenario_per_kg = (
+        ball["patients"][0]["manufacturing"]["dose_viable_car_cells"] / args.all_weight_kg
+    )
+    lines += [
+        anchor_row(
+            "eliana2018_dose_per_kg",
+            f"scenario target {scenario_per_kg:.2e}/kg at {args.all_weight_kg:g} kg; run "
+            "run_cohort(product_stats='eliana_2018') to sample this distribution instead",
+        ),
+        anchor_row("eliana2018_total_dose", "follows the scenario target; not independently set"),
+        anchor_row("eliana2018_screen_to_infuse_days", "none modeled: model time origin is infusion"),
+        anchor_row("tyagarajan2020_cycle_days", "none modeled: manufacturing has no simulated time axis"),
+        anchor_row(
+            "eliana2018_tmax_responders_days",
+            f"B-ALL effector peak day median {ball['E_peak_day_median']:.2f} "
+            "(unconditioned, not response-matched)",
+        ),
+        anchor_row("eliana2018_persistence_days", "reported as a persistence fraction, not a day count"),
         "",
         "## Trial observations",
         "",

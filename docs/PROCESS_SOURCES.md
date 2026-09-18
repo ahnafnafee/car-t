@@ -310,6 +310,18 @@ CLI's `--all-weight-kg`. Neither these choices nor the TE/yield distributions ar
 estimates of a commercial population. `lot_params` can override the manufacturing
 scenario; `dose_scale` is a subsequent model ablation, separate from lot assessment.
 
+`publication_stats.py` transcribes the six published per-patient product
+statistics for commercial tisagenlecleucel (ELIANA dose, enrollment-to-infusion,
+Tmax and persistence durations; Tyagarajan 2020 cycle time) with byte-exact
+quotes verified against the retained files in `tests/test_publication_stats.py`.
+`run_cohort(product_stats="eliana_2018")` replaces the B-ALL scenario dose
+target with draws from the published ELIANA dose distribution under a documented
+two-sided log-normal calibration; source assessment still applies to the
+resulting lot, so doses outside the disclosed label interval are reported as
+failing it, as clinically observed. `run_sim.py` reports the fixed evidence
+version (2017 SBRA panel, retained publication anchors) and compares simulated
+quantities against those published anchors.
+
 ## Verification and unresolved items
 
 The Pasquini full text and both patent descriptions were read directly. Bai's

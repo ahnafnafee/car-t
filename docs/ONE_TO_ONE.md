@@ -22,6 +22,7 @@ requirement exactly, not an approximation of it:
 | Unredacted release requirements | All four public qualitative requirements of the 2017 SBRA lot-release table — identity by CAR qPCR "Positive", appearance "Colorless to slightly yellow", sterility "Negative", mycoplasma "Negative" — enforced as checks; identity derived from manufactured CAR fraction | `lot_criteria.assess_lot` |
 | Total cell count | No specification, per the printed footnote: the table result is used only to compute the dose; the simulator never gates on it | `lot_criteria.py` |
 | Academic panel | The Bai 2022 CTL019 boundaries verbatim (≥70%, ≥80% CD3+, ≤100 beads/3×10⁶, ≤3.5 EU/mL, ≤1 µg/mL BSA, ≤50 VSV-G copies/µg DNA, ≥2% TE, 0.02–4 copies/cell) | `lot_criteria.py` profile |
+| Published product statistics | All six public per-patient statistics for commercial tisagenlecleucel — ELIANA infused dose (per kg and total), enrollment-to-infusion, Tmax, persistence duration, and the Tyagarajan 2020 manufacturing cycle time — transcribed verbatim with byte-exact quotes tested against the retained files, and exposed as an optional cohort dose distribution | `publication_stats.py`, `run_cohort(product_stats="eliana_2018")`, `tests/test_publication_stats.py` |
 
 ## Deliberate approximations (could be tightened, not yet)
 
@@ -33,7 +34,11 @@ into model parameters:
    inputs are illustrative lognormal/round defaults. The published distributions
    in the BLA package are `(b)(4)`; the closest public anchors (median 23-day
    throughput, range 21–37, Tyagarajan 2020) describe cycle time, not these
-   distributions.
+   distributions. The infused dose itself is no longer in this class when
+   `product_stats="eliana_2018"` is used: it is drawn from the published ELIANA
+   dose statistics via a documented two-sided log-normal calibration
+   (`publication_stats.calibrate`), because raw per-patient values are not
+   published — only median/range summaries.
 2. **Kinetics.** Expansion, cytokine and tumor-kill parameters are model
    assumptions with sensitivity ranges; the clinical sources report PK/PD
    observations in different units and denominators, recorded in
@@ -87,13 +92,20 @@ value migrates into the evidence set.
 
 Ordered by remaining effort, all verifiable against the retained files:
 
-- [ ] Map published per-patient ELIANA/B2202 product attributes (TE, viability,
-      dose recovered) into empirical cohort distributions instead of defaults.
+- [x] Map published per-patient ELIANA/B2202 product attributes into empirical
+      cohort distributions instead of defaults. Done as far as the public
+      evidence reaches: the infused-dose distribution is now sampleable
+      (`product_stats="eliana_2018"`), and every public per-patient statistic
+      is transcribed and quote-tested in `publication_stats.py`. TE and
+      viability are not published per patient (BLA values are `(b)(4)`), so
+      their cohort defaults remain labeled assumptions.
 - [ ] Bind kinetics to the PK observations in KINETICS_SOURCES.md with an
       explicit unit-denominator bridge, or label non-fitted permanently.
-- [ ] Record the version anchor (which BLA amendment, which manufacturing site
-      era) inside simulation reports, so a run states which version it
-      resembles.
+- [x] Record the version anchor inside simulation reports. Every `run_sim.py`
+      report now opens its evidence section with the 2017 SBRA panel anchor,
+      the retained publication anchors, and a published-vs-simulated
+      comparison table. Site-era granularity still awaits published site
+      histories (PROCESS_SOURCES.md "Version history").
 - [ ] Keep the four enforced qualitative checks in step with any future label
       or amendment changes (approval-history letters are retained).
 

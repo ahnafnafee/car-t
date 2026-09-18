@@ -8,9 +8,13 @@ from statistics import median
 from .construct import CD19_TUMOR_ALL, CD19_TUMOR_DLBCL
 from .lot_criteria import dose_interval
 from .manufacturing import manufacture
+from .publication_stats import sample as published_sample
 from .micro_engine import run_patient_micro
 from .ode_engine import run_patient
 from .params import default_params
+
+# product_stats mode names -> published per-patient dose statistic to draw from.
+PUBLISHED_DOSE_SOURCES = {"eliana_2018": "eliana2018_dose_per_kg"}
 
 
 def run_cohort(
@@ -23,6 +27,7 @@ def run_cohort(
     *,
     weight_kg=30.0,
     lot_params=None,
+    product_stats=None,
 ):
     """Sample patients from parameter distributions; aggregate ORR / CR / relapse /
     persistence / B-aplasia / CRS / ICANS.
@@ -46,6 +51,11 @@ def run_cohort(
     otherwise 1e8 cells) are explicit scenarios, not fitted patient distributions.
     lot_params overrides manufacturing inputs; dose_scale is a subsequent model
     ablation and does not alter the source assessment of the manufactured lot.
+    product_stats: None (default) = scenario dose target; "eliana_2018" = draw
+    each patient's infused dose per kg from the published ELIANA dose
+    distribution (publication_stats.py), requiring indication="B-ALL". The
+    source assessment still applies to the resulting lot, so doses outside the
+    disclosed label interval are reported as failing it, as observed clinically.
     """
     if isinstance(n, bool) or not isinstance(n, int) or n <= 0:
         raise ValueError("n must be a positive integer")
@@ -55,6 +65,11 @@ def run_cohort(
         raise ValueError("engine must be micro or ode")
     if agloss_mode not in ("natural", "heavy", "none"):
         raise ValueError("agloss_mode must be natural, heavy, or none")
+    if product_stats is not None:
+        if product_stats not in PUBLISHED_DOSE_SOURCES:
+            raise ValueError(f"Unknown product_stats: {product_stats}")
+        if indication != "B-ALL":
+            raise ValueError("product_stats populations are B-ALL cohorts; pass indication='B-ALL'")
     dose_interval(indication, weight_kg)
     lot_params = dict(lot_params or {})
     allowed_lot_keys = {
@@ -100,6 +115,10 @@ def run_cohort(
         te = min(0.92, max(0.05, rng.gauss(0.55, 0.18)))
         net_yield = math.exp(rng.gauss(math.log(0.05), 0.4))
         target = 2e8 if indication == "DLBCL" else (1e6 * weight_kg if weight_kg <= 50 else 1e8)
+        if product_stats is not None:
+            # Published per-patient dose distribution (publication_stats.STATS)
+            # replaces the scenario target; the scenario weight scales per-kg.
+            target = published_sample(rng, PUBLISHED_DOSE_SOURCES[product_stats]) * weight_kg
         # Illustrative scenario assumption: sterility and mycoplasma cultures
         # came back negative and the product passed visual appearance, as they
         # do for the overwhelming majority of released lots (Rossoff 2021
@@ -151,6 +170,9 @@ def run_cohort(
             else run_patient(p, seed=patient_seed)
         )
         result["manufacturing"] = man
+        if product_stats is not None and "dose_target" not in lot_params:
+            result["infused_dose_per_kg"] = man["dose_viable_car_cells"] / weight_kg
+            result["dose_source"] = "published " + PUBLISHED_DOSE_SOURCES[product_stats]
         out.append(result)
     n = len(out)
     nresp = sum(r["responds"] for r in out)
@@ -169,6 +191,7 @@ def run_cohort(
         "indication": indication,
         "n": n,
         "weight_kg": weight_kg if indication == "B-ALL" else None,
+        "product_stats": product_stats,
         "lot_assessment_counts": {
             status: sum(r["manufacturing"]["source_assessment"]["status"] == status for r in out)
             for status in ("meets_disclosed_criteria", "fails_disclosed_criteria", "incomplete")
