@@ -38,7 +38,7 @@ class ManufacturingTests(unittest.TestCase):
         for target in (6e7, 6e8):
             lot = manufacture(
                 net_yield=1, dose_target=target, te=0.57, viability=0.83,
-                sterility=True, mycoplasma=True,
+                sterility=True, mycoplasma=True, appearance_ok=True,
             )
             self.assertEqual(lot["dose_viable_car_cells"], target)
             self.assertEqual(lot["source_assessment"]["status"], "meets_disclosed_criteria")
@@ -64,7 +64,12 @@ class ManufacturingTests(unittest.TestCase):
             dose_interval("unknown")
 
     def test_commercial_boundaries_do_not_authorize_release(self):
-        clean = {"sterility_negative": True, "mycoplasma_negative": True}
+        clean = {
+            "identity_car_pcr_positive": True,
+            "appearance_ok": True,
+            "sterility_negative": True,
+            "mycoplasma_negative": True,
+        }
         for dose in (6e7, 6e8):
             result = assess_lot({"viability": 0.8, "dose_viable_car_cells": dose, **clean})
             self.assertEqual(result["status"], "meets_disclosed_criteria")
@@ -77,20 +82,28 @@ class ManufacturingTests(unittest.TestCase):
             )
         # Unredacted SBRA qualitative requirements are enforced when supplied.
         self.assertEqual(
-            assess_lot({"viability": 0.8, "dose_viable_car_cells": 6e7,
-                        "sterility_negative": False, "mycoplasma_negative": True})["status"],
+            assess_lot({"viability": 0.8, "dose_viable_car_cells": 6e7, **clean,
+                        "sterility_negative": False})["status"],
+            "fails_disclosed_criteria",
+        )
+        self.assertEqual(
+            assess_lot({"viability": 0.8, "dose_viable_car_cells": 6e7, **clean,
+                        "identity_car_pcr_positive": False})["status"],
             "fails_disclosed_criteria",
         )
         self.assertEqual(
             assess_lot({"viability": 0.8, "dose_viable_car_cells": 6e7})["missing"],
-            ["sterility_negative", "mycoplasma_negative"],
+            ["identity_car_pcr_positive", "appearance_ok", "sterility_negative",
+             "mycoplasma_negative"],
         )
 
     def test_unknown_and_invalid_measurements(self):
         result = assess_lot({"viability": 0.9})
         self.assertEqual(result["status"], "incomplete")
         self.assertEqual(
-            result["missing"], ["dose_viable_car_cells", "sterility_negative", "mycoplasma_negative"]
+            result["missing"],
+            ["dose_viable_car_cells", "identity_car_pcr_positive", "appearance_ok",
+             "sterility_negative", "mycoplasma_negative"],
         )
         for value in (math.nan, math.inf, -0.1, 1.1, True, "0.9"):
             with self.assertRaises(ValueError):

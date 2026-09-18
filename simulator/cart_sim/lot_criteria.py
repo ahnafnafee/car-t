@@ -31,19 +31,28 @@ def assess_lot(measurements, profile=COMMERCIAL_US, *, indication="DLBCL", weigh
 
     Fractions use 0..1. VCN is copies/cell; residual beads are per 3 million
     cells, endotoxin EU/mL, BSA micrograms/mL, and VSV-G copies/microgram DNA.
-    Negative microbial tests are represented by True for the corresponding
-    ``*_negative`` key. Measurements must use the source's assay denominator.
+    Negative microbial tests and the unredacted SBRA qualitative requirements
+    are represented by True for the corresponding ``*_negative``,
+    ``identity_car_pcr_positive`` and ``appearance_ok`` keys. Measurements must
+    use the source's assay denominator.
     """
     if profile not in SOURCES:
         raise ValueError(f"Unknown lot profile: {profile}")
     if profile == COMMERCIAL_US:
         low, high = dose_interval(indication, weight_kg)
         rules = {"viability": (0.8, 1), "dose_viable_car_cells": (low, high)}
-        # Qualitative unredacted requirements from the 2017 SBRA lot-release
-        # table (BLA 125646/0, printed pp. 9-10): Sterility "Negative",
-        # Mycoplasma "Negative". All other values in that table are (b)(4)
-        # redactions and stay unreported. See docs/RELEASE_SOURCES.md.
-        microbial = ("sterility_negative", "mycoplasma_negative")
+        # Every unredacted requirement of the 2017 SBRA lot-release table
+        # (BLA 125646/0, printed pp. 9-10), enforced as qualitative checks:
+        # Identity by CAR qPCR "Positive", Appearance "Colorless to slightly
+        # yellow" (boolean appearance_ok), Sterility "Negative", Mycoplasma
+        # "Negative". All other table values are (b)(4) redactions and stay
+        # unreported. See docs/RELEASE_SOURCES.md.
+        qualitative = (
+            "identity_car_pcr_positive",
+            "appearance_ok",
+            "sterility_negative",
+            "mycoplasma_negative",
+        )
         unreported = ["complete_commercial_release_panel", "validated_assay_methods"]
     else:
         rules = {
@@ -56,7 +65,7 @@ def assess_lot(measurements, profile=COMMERCIAL_US, *, indication="DLBCL", weigh
             "car_fraction": (0.02, 1),
             "vcn_copies_cell": (0.02, 4),
         }
-        microbial = ("mycoplasma_negative", "bacterial_negative", "fungal_negative")
+        qualitative = ("mycoplasma_negative", "bacterial_negative", "fungal_negative")
         unreported = []
     checks = {}
     for name, (low, high) in rules.items():
@@ -77,7 +86,7 @@ def assess_lot(measurements, profile=COMMERCIAL_US, *, indication="DLBCL", weigh
             "maximum": high,
             "met": None if value is None else low <= value <= high,
         }
-    for name in microbial:
+    for name in qualitative:
         value = measurements.get(name)
         if value is not None and not isinstance(value, bool):
             raise ValueError(f"{name} must be boolean or None")

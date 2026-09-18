@@ -143,9 +143,10 @@ print(result["T_d90"])
 
 Lot comparisons use separate published profiles. Cohort dose is viable CAR-positive
 cells, with viability applied once; yield and composition distributions remain
-scenario assumptions. The commercial profile enforces the unredacted 2017 FDA
-lot-release requirements that are public (viability, dose intervals, sterility and
-mycoplasma negative); every `(b)(4)`-redacted limit stays unknown.
+scenario assumptions. The commercial profile enforces every public requirement of
+the 2017 FDA lot-release table — viability, dose intervals, and the four unredacted
+qualitative rows (identity by CAR qPCR, appearance, sterility, mycoplasma); every
+`(b)(4)`-redacted limit stays unknown.
 
 ```python
 from simulator.cart_sim import assess_lot
@@ -153,6 +154,8 @@ from simulator.cart_sim import assess_lot
 assessment = assess_lot({
     "viability": 0.82,
     "dose_viable_car_cells": 2e8,
+    "identity_car_pcr_positive": True,
+    "appearance_ok": True,
     "sterility_negative": True,
     "mycoplasma_negative": True,
 })
@@ -178,6 +181,7 @@ motifs.
 | [Vector sources](docs/VECTOR_SOURCES.md) | Historical patent transfer vector, element map, WPRE provenance |
 | [Manufacturing sources](docs/PROCESS_SOURCES.md) | Process parameters, operating ranges, decision rules, version history |
 | [Release sources](docs/RELEASE_SOURCES.md) | Numerical acceptance criteria with verbatim `(b)(4)` redactions |
+| [Why not 1:1](docs/ONE_TO_ONE.md) | Layer-by-layer ledger: exact matches, deliberate approximations, and what no code can close |
 | [Reference manifest](data/references/README.md) | 110 hashed source files behind every citation |
 
 Clinical trial observations are recorded with their own product, denominator and

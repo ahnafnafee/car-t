@@ -67,6 +67,7 @@ def run_cohort(
         "dose_target",
         "sterility",
         "mycoplasma",
+        "appearance_ok",
     }
     if set(lot_params) - allowed_lot_keys:
         raise ValueError(
@@ -100,8 +101,9 @@ def run_cohort(
         net_yield = math.exp(rng.gauss(math.log(0.05), 0.4))
         target = 2e8 if indication == "DLBCL" else (1e6 * weight_kg if weight_kg <= 50 else 1e8)
         # Illustrative scenario assumption: sterility and mycoplasma cultures
-        # came back negative, as they do for the overwhelming majority of
-        # released lots (Rossoff 2021 reports no microbial OOS reasons).
+        # came back negative and the product passed visual appearance, as they
+        # do for the overwhelming majority of released lots (Rossoff 2021
+        # reports no microbial OOS reasons).
         # Override with lot_params {"sterility": False} etc. for a positive.
         inputs = {
             "te": te,
@@ -109,6 +111,7 @@ def run_cohort(
             "dose_target": target,
             "sterility": True,
             "mycoplasma": True,
+            "appearance_ok": True,
         }
         inputs.update(lot_params)
         man = manufacture(**inputs, indication=indication, weight_kg=weight_kg)

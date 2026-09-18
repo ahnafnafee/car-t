@@ -275,12 +275,13 @@ product or demonstrate manufacturing equivalence.
 ## Implemented correspondence
 
 `lot_criteria.py` now implements `us_commercial_2020` for the Pasquini viability
-and indication/weight-specific dose subset, plus the two unredacted qualitative
-requirements of the 2017 SBRA lot-release table (sterility "Negative",
-mycoplasma "Negative"; supplied to `manufacture()` as `sterility`/`mycoplasma`
-booleans, unknown by default; `run_cohort()` assumes both negative for its
-illustrative default lots, overridable through `lot_params`), and
-`academic_ctl019_2022` for the
+and indication/weight-specific dose subset, plus every unredacted qualitative
+requirement of the 2017 SBRA lot-release table (identity CAR qPCR "Positive" —
+derived by `manufacture()` from TE > 0; appearance "Colorless to slightly
+yellow", sterility "Negative", mycoplasma "Negative" — supplied as
+`appearance_ok`/`sterility`/`mycoplasma` booleans, unknown by default;
+`run_cohort()` assumes all three pass for its illustrative default lots,
+overridable through `lot_params`), and `academic_ctl019_2022` for the
 Bai panel. These are distinct source profiles. Rossoff's individual OOS reasons
 and the Japanese criteria remain documented evidence rather than being merged
 into a synthetic universal release panel. Missing measurements remain unknown;

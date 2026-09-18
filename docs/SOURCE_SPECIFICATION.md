@@ -103,7 +103,10 @@ vector and published subsets are progress toward these criteria, not absent data
    against the reference product.
 
 These are evidence requirements inferred from the gaps above, not claims that
-the repository possesses such records. Missing specifications must stay
+the repository possesses such records. The layer-by-layer ledger of what is
+1:1, what is deliberately approximate, and what no public evidence can close is
+in [Why the simulator is not a 1:1 reproduction](ONE_TO_ONE.md). Missing
+specifications must stay
 explicitly unknown. Illustrative yield, vector-copy, potency or release values
 must not become commercial specifications merely because a simulation returns
 them, and a simulated release result cannot authenticate an actual cell lot.
